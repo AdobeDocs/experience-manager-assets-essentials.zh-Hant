@@ -2,9 +2,9 @@
 title: 開始使用 [!DNL Assets Essentials]
 description: 如何存取、登入體驗、的支援使用案例，以及 [!DNL Assets Essentials]的已知問題。
 role: Business Practitioner, Leader
-source-git-commit: 825297959b19361260121949c99ede37dced9a9c
+source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '451'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 此外，更多有助於了解用戶介面](/help/navigate-view.md)、[使用案例清單](#use-cases)、<!-- TBD: [supported file types](/help/supported-file-formats.md), -->和[已知問題](/help/release-notes.md#known-issues)的參考資訊。[
 
-## 接收[!DNL Assets Essentials] {#get-access}的訪問
+## 接收[!DNL Assets Essentials]的訪問 {#get-access}
 
 Adobe會設定解決方案，並將貴組織的指定人員新增為管理員。 管理員可使用[[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html)提供對組織中各種使用者的存取。 如需與您的存取權限相關的請求，請聯絡貴組織的管理員。
 
@@ -49,7 +49,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 -->
 
-## [!DNL Assets Essentials] 使用案例  {#use-cases}
+## [!DNL Assets Essentials] 使用案例 {#use-cases}
 
 您可使用[!DNL Assets Essentials]完成的各種數位資產管理(DAM)工作如下。
 
@@ -69,13 +69,16 @@ When logging in, after providing the credentials, you can be prompted to select 
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 -->
 
-## ![意見](assets/do-not-localize/feedback-icon.png) 圖示提供產品意見  {#provide-feedback}
+## ![意見](assets/do-not-localize/feedback-icon.png) 圖示提供產品意見 {#provide-feedback}
 
 Adobe歡迎對解決方案的意見反應。 要在不切換工作應用程式的情況下提供反饋，請使用用戶介面中的[!UICONTROL Feedback]選項。 它也允許附加檔案，例如問題的螢幕擷取畫面或視訊記錄。
 
 ![介面中的意見回饋選項](assets/feedback-panel.png)
 
-若要提供檔案的意見，請按一下「編輯此頁面![編輯頁面](assets/do-not-localize/edit-page.png)」或「記錄問題![從右邊界建立GitHub問題](assets/do-not-localize/github-issue.png)」。 進行內容更新並提交GitHub提取請求，或在GitHub中建立問題或票證。
+若要提供檔案的意見，請按一下右側邊欄中的[!UICONTROL Edit this page] ![編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL Log an issue] ![建立GitHub問題](assets/do-not-localize/github-issue.png)。 您可以執行下列其中一項操作：
+
+* 進行內容更新並提交GitHub提取請求。
+* 在GitHub中建立問題或票證。 建立問題時，請保留自動填入的文章名稱。
 
 >[!MORELIKETHIS]
 >
