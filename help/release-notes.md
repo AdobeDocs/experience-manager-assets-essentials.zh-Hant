@@ -3,7 +3,7 @@ title: 發行說明
 description: ' [!DNL Assets Essentials]的發行說明和已知問題'
 role: Business Practitioner,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: a52db0574483d3c17643a2c35c95be67c6608602
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 2%
@@ -27,5 +27,9 @@ ht-degree: 2%
 ## 已知問題 {#known-issues}
 
 目前，[!DNL Assets Essentials]沒有已知問題。
+
+<!--
+* Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
+-->
 
 如果您遇到任何問題或甚至是增強功能要求，請[向團隊提供意見](#provide-feedback)。
