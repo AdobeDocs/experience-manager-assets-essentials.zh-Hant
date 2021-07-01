@@ -2,15 +2,15 @@
 title: 上傳資產至存放庫
 description: 將資產上傳至 [!DNL Assets Essentials]、檢視上傳狀態，並解決上傳問題。
 role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
 
-# 上傳資產{#add-assets}
+# 上傳資產 {#add-assets}
 
 若要新增可搭配使用的新資產，請從本機檔案系統上傳一些資產。<!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
 
@@ -32,7 +32,11 @@ ht-degree: 0%
 
 *圖：上傳選取的資產之前，您可以先從佇列新增或移除資產。*
 
-## 查看上載進度和狀態{#upload-progress}
+>[!CAUTION]
+>
+>使用檔案名稱中沒有空白字元的資產。 對評論的回覆對這類資產無效。
+
+## 檢視上傳進度和狀態 {#upload-progress}
 
 當您將許多資產或巢狀資料夾上傳至[!DNL Assets Essentials]時，有些資產可能會因多種原因而無法上傳，例如資產重複和網路問題。
 
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 *圖：根據資產的上傳狀態或上傳進度，篩選您嘗試上傳的資產。*
 
-上傳資產後，Assets Essentials會立即處理資產以產生縮圖並處理中繼資料。 對於許多資產，處理需要一些時間。 如果沒有看見縮圖，且在預留位置縮圖上看到處理訊息，請在幾分鐘後再次檢查資料夾。
+上傳資產後，[!DNL Assets Essentials]會立即處理資產以產生縮圖並處理中繼資料。 對於許多資產，處理需要一些時間。 如果沒有看見縮圖，且在預留位置縮圖上看到處理訊息，請在幾分鐘後再次檢查資料夾。
 
 ![上傳時處理](assets/upload-processing.png)
 
 ## 資產轉譯 {#renditions}
 
-Assets Essentials會以近乎即時的方式處理上傳的資產，且針對許多支援的檔案類型，會產生轉譯。 為影像建立，轉譯會是已上傳影像的調整大小版本。 您不僅可以下載資產，也可以下載轉譯，以使用適當的版本。 當您[預覽資產](/help/navigate-view.md#preview-assets)時，可以檢視資產的所有轉譯。
+[!DNL Assets Essentials] 會以近乎即時的方式處理上傳的資產，且針對許多支援的檔案類型，會產生轉譯。為影像建立，轉譯會是已上傳影像的調整大小版本。 您不僅可以下載資產，也可以下載轉譯，以使用適當的版本。 當您[預覽資產](/help/navigate-view.md#preview-assets)時，可以檢視資產的所有轉譯。
 
 ![轉譯](assets/renditions-view-download.png)
 
-## 管理失敗的上載{#resolve-upload-fails}
+## 管理失敗的上載 {#resolve-upload-fails}
 
 如果上傳支援的資產因故失敗，請按一下[!UICONTROL Upload Progress]窗格中的&#x200B;**[!UICONTROL Retry]** 。
 
@@ -76,7 +80,7 @@ Assets Essentials會以近乎即時的方式處理上傳的資產，且針對許
 >
 >您可以直接從[!DNL Creative Cloud]案頭應用程式將資產上傳至DAM存放庫。 請參閱[[!DNL Assets Essentials] 如何與 [!DNL Adobe Asset Link]](/help/integration.md)整合。
 
-## 刪除資產或資料夾{#delete-assets}
+## 刪除資產或資料夾 {#delete-assets}
 
 使用者可以刪除不再需要的個別資產或資料夾。 若要刪除資產或資料夾，請執行下列其中一項操作：
 
