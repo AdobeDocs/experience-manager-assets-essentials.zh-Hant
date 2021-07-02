@@ -2,9 +2,9 @@
 title: 上傳資產至存放庫
 description: 將資產上傳至 [!DNL Assets Essentials]、檢視上傳狀態，並解決上傳問題。
 role: Business Practitioner
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '729'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,19 @@ ht-degree: 0%
 
 *圖：根據資產的上傳狀態或上傳進度，篩選您嘗試上傳的資產。*
 
-上傳資產後，[!DNL Assets Essentials]會立即處理資產以產生縮圖並處理中繼資料。 對於許多資產，處理需要一些時間。 如果沒有看見縮圖，且在預留位置縮圖上看到處理訊息，請在幾分鐘後再次檢查資料夾。
+上傳資產後，[!DNL Assets Essentials]會立即處理資產以產生縮圖並處理中繼資料。 對於許多資產，處理需要一些時間。 如果沒有看見縮圖，且在預留位置縮圖上看到處理訊息，請在幾分鐘後再次檢查資料夾。 處理期間，[!DNL Assets Essentials]會產生轉譯、新增智慧標籤，以及為資產詳細資訊建立索引以供搜尋。
 
-![上傳時處理](assets/upload-processing.png)
+![資產是上傳時的處理，圖磚會顯示處理](assets/upload-processing.png)
+
+*圖：上傳的資產會顯示圖磚上的處理，這些資產會經過處理。*
 
 ## 資產轉譯 {#renditions}
 
 [!DNL Assets Essentials] 會以近乎即時的方式處理上傳的資產，且針對許多支援的檔案類型，會產生轉譯。為影像建立，轉譯會是已上傳影像的調整大小版本。 您不僅可以下載資產，也可以下載轉譯，以使用適當的版本。 當您[預覽資產](/help/navigate-view.md#preview-assets)時，可以檢視資產的所有轉譯。
 
 ![轉譯](assets/renditions-view-download.png)
+
+*圖：檢視並下載轉譯。*
 
 ## 管理失敗的上載 {#resolve-upload-fails}
 
@@ -87,5 +91,7 @@ ht-degree: 0%
 * 使用資產或資料夾縮圖上可用的選項。
 
    ![資產縮圖上的選項以管理資產](assets/options-on-thumbnail.png)
+
+   *圖：檔案和資料夾的動作可在資產或資料夾方塊上使用。*
 
 * 選取資產或資料夾，然後按一下工具列中的&#x200B;**[!UICONTROL Delete]** ![刪除圖示](assets/do-not-localize/delete-icon.png)。
