@@ -2,9 +2,9 @@
 title: 部署和管理用戶
 description: 管理使用案例，例如 [!DNL Assets Essentials]中的部署和用戶管理。
 role: Administrator
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '834'
 ht-degree: 1%
 
 ---
@@ -30,11 +30,15 @@ ht-degree: 1%
 
    ![[!DNL Assets Essentials] 卡片  [!DNL Admin Console]](assets/essentials-in-admin-console.png)
 
+   *圖： [!DNL Assets Essentials] 卡 [!DNL Admin Console]。*
+
 1. 將您自己新增為[!DNL Cloud Manager]中`AEM Assets Essentials - Cloud Manager`產品的管理員。 您可以新增組織的其他成員，也可以新增多個管理員，而不是您自己。
 
 1. 按一下![將表徵圖](assets/do-not-localize/add-icon.svg)添加到[!UICONTROL Select product profiles]，然後選擇[!UICONTROL Deployment Manager - Assets Essentials]作為&#x200B;**[!UICONTROL product profile]**。 此步驟中新增的使用者會收到來自具有[!DNL Cloud Manager]存取權的Adobe的電子郵件，並可執行部署。
 
    ![新增管理員並選取產品設定檔，位於  [!DNL Admin Console]](assets/adminconsole-user1.png)
+
+   *圖：新增管理員並在中選取產品設定 [!DNL Admin Console]檔。*
 
 1. 若要存取[!DNL Cloud Manager]，請按一下電子郵件中可存取[!DNL Cloud Manager]的連結。 或者，在瀏覽器中訪問`https://experience.adobe.com/#/cloud-manager/`。
 
@@ -48,9 +52,13 @@ ht-degree: 1%
 
    ![在中新增環境  [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
 
+   *圖：在中新增環 [!DNL Cloud Manager] 境以開始使 [!DNL Assets Essentials]用。*
+
 1. 成功建立環境後，您可以存取[!DNL Admin Console]，並將組織的使用者新增至[!DNL Assets Essentials]解決方案。 按一下![選項表徵圖](assets/do-not-localize/options-ellipses-icon.png)並選擇&#x200B;**[!UICONTROL Manage Access]**&#x200B;選項。
 
    ![中的就緒環境  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *圖：可供使 [!DNL Cloud Manager] 用的環境。*
 
 ## 使用者管理 {#add-users-to-essentials}
 
@@ -65,9 +73,13 @@ ht-degree: 1%
 
    ![兩種使用者的兩個設定檔](assets/adminconsole-user-types.png)
 
+   *圖：有兩種設定檔可供新增兩種使用者。*
+
 1. 若要將用戶添加到組，請按一下該組，選擇&#x200B;**[!UICONTROL Add User]**，提供用戶詳細資訊，然後按一下&#x200B;**[!UICONTROL Save]**。 新增使用者時，使用者會收到開始使用的電子郵件邀請。 您可以在[!DNL Admin Console]中的產品設定檔設定中關閉電子郵件邀請。
 
    ![新增使用者至  [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
+
+   *圖：從新增使用 [!DNL Assets Essentials] 者 [!DNL Admin Console]。*
 
 1. 要從組中刪除用戶，請按一下該組，選擇現有用戶，然後選擇&#x200B;**[!UICONTROL Remove User]**。
 
@@ -81,11 +93,15 @@ ht-degree: 1%
 
 1. 當使用者回報問題時，請檢查&#x200B;**[!UICONTROL Program Overview]**&#x200B;介面中[!DNL Assets Essentials]的服務狀態。 在正常工作時，狀態為`Running`。 如果[!DNL Cloud Manager]顯示任何其他狀態，請在[!DNL Admin Console]支援部分中建立支援票證。
 
-   ![中的運行狀 [!DNL Assets Essentials] 態  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+   ![中的狀 [!DNL Assets Essentials] 態  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+
+   *圖：中的正常 [!DNL Assets Essentials] 狀 [!DNL Cloud Manager] 態 `Running`為。*
 
 1. 若要下載最近的訪問日誌，請按一下![選項表徵圖](assets/do-not-localize/options-ellipses-icon.png)，選擇&#x200B;**[!UICONTROL Download Logs]**，然後按照螢幕上的說明進行操作。 您可以使用記錄檔稽核HTTPS存取請求。
 
-   ![下載日誌選項](assets/cloudmanager-download-logs.png)
+   ![ 下載存取記錄檔的選項](assets/cloudmanager-download-logs.png)
+
+   *圖：下載存取記錄檔的選項。*
 
 >[!MORELIKETHIS]
 >
