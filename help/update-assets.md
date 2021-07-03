@@ -1,9 +1,9 @@
 ---
 title: 更新或修改資產
 description: 更新存放庫中的資產
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: b3fea5209fb29409b3aae5970fa30505f8b5c22c
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 更新[!DNL Assets Essentials] {#update-assets}中的資產
+# 更新[!DNL Assets Essentials]中的資產 {#update-assets}
 
 您可以上傳新版本或編輯[!DNL Assets Essentials]中的影像以更新現有資產。
 
