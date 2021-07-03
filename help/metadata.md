@@ -1,9 +1,9 @@
 ---
 title: 管理中繼資料
 description: 在 [!DNL Assets Essentials]中管理資產的中繼資料
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 基於這些原因，Assets能提供您建立、管理和交換數位資產的中繼資料的適當方式。
 
-## 查看元資料{#view-metadata}
+## 檢視中繼資料 {#view-metadata}
 
 若要檢視資產的中繼資料，請瀏覽至資產或搜尋資產，選取資產，然後按一下工具列中的&#x200B;**[!UICONTROL Details]**。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 [!UICONTROL Basic]標籤中提供標題、說明和上傳日期等基本中繼資料。 [!UICONTROL Advanced]標籤包含更高級的元資料，如相機型號、鏡頭詳細資訊和地理標籤。 [!UICONTROL Tags]標籤包含根據影像內容自動套用的標籤。
 
-## 更新元資料{#update-metadata}
+## 更新中繼資料 {#update-metadata}
 
 您可以手動更新一些中繼資料欄位。 欄位包括[!UICONTROL Title]、[!UICONTROL Description]、[!UICONTROL Author]和[!UICONTROL Keywords]。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 智慧標籤也包含信賴分數（百分比）。 它指出與套用的標籤相關聯的信賴度。 您可以協調自動套用的智慧標籤。
 
-## 添加或更新標籤{#manually-tag}
+## 新增或更新標籤 {#manually-tag}
 
 除了使用[!DNL Adobe Sensei]智慧服務自動新增的智慧標籤以外，您還可以新增更多標籤至資產。 開啟資產以進行預覽，按一下[!UICONTROL Tags]，然後在[!UICONTROL Keywords]欄位中輸入所需的關鍵字。 要添加標籤，請按Return。 [!DNL Assets Essentials] 幾乎即時索引關鍵字，而您的團隊很快就可以使用新關鍵字搜尋更新的資產。
 
