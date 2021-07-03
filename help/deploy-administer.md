@@ -1,8 +1,8 @@
 ---
 title: 部署和管理用戶
 description: 管理使用案例，例如 [!DNL Assets Essentials]中的部署和用戶管理。
-role: Administrator
-source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
+role: Admin
+source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 1%
