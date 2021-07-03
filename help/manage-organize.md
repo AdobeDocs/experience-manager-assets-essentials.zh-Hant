@@ -1,9 +1,9 @@
 ---
 title: 管理您的數位資產
 description: 在 [!DNL Assets Essentials]中移動、刪除、複製、重新命名、更新和版本您的資產。
-role: Business Practitioner,Leader
+role: User,Leader
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 管理資產{#manage-assets}
+# 管理資產 {#manage-assets}
 
 您可以使用[!DNL Assets Essentials]的好記介面，輕鬆執行各種數位資產管理(DAM)工作。 新增資產後，您可以搜尋、下載、移動、複製、重新命名、刪除、更新及編輯資產。
 
@@ -75,7 +75,7 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
    ![從版本記錄上傳資產新版本的選項](assets/view-asset-versions2.png)
 
-### 檢視資產{#view-versions}的版本
+### 檢視資產版本 {#view-versions}
 
 上傳重複副本或修改的資產副本時，您可以建立其版本。 版本設定可讓您檢閱歷史資產，並視需要回復至舊版。
 
