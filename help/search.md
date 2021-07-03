@@ -1,8 +1,8 @@
 ---
 title: 在 [!DNL Assets Essentials]中搜尋和探索資產
 description: 在 [!DNL Assets Essentials]中搜尋和探索資產。
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# 在[!DNL Assets Essentials] {#search-assets}中搜尋資產
+# 在[!DNL Assets Essentials]中搜尋資產 {#search-assets}
 
 [!DNL Assets Essentials] 提供有效的搜尋，預設情況下即可運作。搜索是全面性的，因為它是全文搜索。 強大的搜尋功能可讓您快速找到適當的資產，並協助您提高內容速度。 [!DNL Assets Essentials] 提供全文搜索，甚至通過元資料（如智慧標籤、標題、建立日期和版權）進行搜索。
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    * 直接搜尋最近檢視的資產，即可開始使用。 按一下搜尋方塊中的，然後從建議中選取最近查看的資產。
 
-## 篩選搜尋結果{#refine-search-results}
+## 篩選搜尋結果 {#refine-search-results}
 
 您可以根據下列參數來篩選搜尋結果。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 您可以依`Name`、`Relevancy`、`Size`、`Modified`和`Created`的遞增或遞減順序來排序搜尋的資產。
 
-## 已保存的搜索{#saved-search}
+## 已儲存的搜尋 {#saved-search}
 
 搜索功能在[!DNL Assets Essentials]中相當容易使用。 在搜尋方塊內，您不僅可以輸入關鍵字並按回車查看結果，還可以按一下即可再次快速搜尋最近搜尋的關鍵字。
 
