@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Assets Essentials] 使用者介面'
 description: 了解 [!DNL Assets Essentials]中的和的用戶介面。
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -10,13 +10,13 @@ ht-degree: 0%
 ---
 
 
-# 導覽至檔案和資料夾並檢視資產{#view-assets-and-details}
+# 導覽至檔案和資料夾並檢視資產 {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## 了解[!DNL Assets Essentials]使用者介面{#understand-interface-navigation}
+## 了解[!DNL Assets Essentials]使用者介面 {#understand-interface-navigation}
 
 [!DNL Assets Essentials] 提供直覺式且方便使用的使用者介面。簡潔的介面使資產和相關資訊易於查找和記憶。
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
-## 瀏覽並檢視資產和資料夾{#browse-repository}
+## 瀏覽及檢視資產和資料夾 {#browse-repository}
 
 您可以從主用戶介面或左側邊欄瀏覽到所需的檔案或資料夾。 瀏覽時，您可以使用介面檢視資產縮圖，以視覺化方式瀏覽存放庫或檢視資產詳細資訊，以快速找到您想要的資產。 左側邊欄中可用的選項有：
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 *圖：若要瀏覽階層，請使用頂端或左側邊欄的階層連結。*
 
-## 預覽資產{#preview-assets}
+## 預覽資產 {#preview-assets}
 
 使用、共用或下載資產之前，您可以更仔細地檢視資產。 預覽功能不僅可讓您檢視影像，還可供檢視一些其他支援的資產類型。
 
