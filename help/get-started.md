@@ -2,9 +2,9 @@
 title: 開始使用 [!DNL Assets Essentials]
 description: 如何存取、登入體驗、的支援使用案例，以及 [!DNL Assets Essentials]的已知問題。
 role: User, Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '456'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 * **步驟1**: [](/help/add-delete.md) 上傳和檢 [](/help/navigate-view.md) 視資產。
 * **步驟2**: [](/help/search.md) Search和下 [](/help/manage-organize.md#download) 載資產。
-* **步驟3**: [管理和](/help/manage-organize.md) 組織資產
+* **步驟3**: [管理及](/help/manage-organize.md) 組織資產。
 
-若要使用[!DNL Assets Essentials]，請登入[https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets)。 若要接收存取權，請聯絡貴組織的管理員。
+若要使用[!DNL Assets Essentials]，請登入[https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets)。 登入時，請選取`Company or School Account`。 若要接收存取權，請聯絡貴組織的管理員。
 
 此外，更多有助於了解用戶介面](/help/navigate-view.md)、[使用案例清單](#use-cases)、<!-- TBD: [supported file types](/help/supported-file-formats.md), -->和[已知問題](/help/release-notes.md#known-issues)的參考資訊。[
 
@@ -56,11 +56,11 @@ When logging in, after providing the credentials, you can be prompted to select 
 | 使用者工作 | 功能和操作說明資訊 |
 |-----|------|
 | 如何新增資產？ | <ul> <li> [上傳資產](/help/add-delete.md) </li> <li> [轉譯](/help/add-delete.md#renditions) </li> </ul> |
-| 如何更新資產或相關資訊？ | <ul> <li>變更現有資產</li> <li>[建立](/help/manage-organize.md#create-versions) 版本 [和檢視版本](/help/navigate-view.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
-| 如何探索資產？ | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽](/help/navigate-view.md#preview-assets) 資產 [並下載資產](/help/manage-organize.md) </li> <li>[檢視詳細中繼資料](/help/metadata.md) </li> <li>[搜尋資產](/help/search.md)</li></ul> |
-| 如何在存放庫中編輯資產？ | <ul> <li>[使用Adobe Photoshop Express在瀏覽器內編輯](/help/edit-images.md)</li> <li>[裁切社交媒體設定檔](/help/edit-images.md#crop-straighten-images)</li> <li>[檢視及管理版本](/help/manage-organize.md#create-versions)</li> <li>使用[Adobe資產連結](/help/integration.md#integrations)</ul></ul> |
-| 如何在存放庫中搜尋資產？ | <ul> <li>[在特定資料夾中搜尋](/help/search.md)</li> <li>[已儲存的搜尋](/help/search.md)</li> <li>[搜尋最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
-| 如何新增資產？ | <ul> <li>[上傳新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md)</li> <li>[解決重複項目](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| 如何更新資產或相關資訊？ | <ul> <li>變更現有資產</li> <li>[建立](/help/manage-organize.md#create-versions) 版本 [和檢視版本](/help/manage-organize.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
+| 如何探索資產？ | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽](/help/navigate-view.md#preview-assets) 資產 [並下載資產](/help/manage-organize.md#download) </li> <li>[檢視詳細中繼資料](/help/metadata.md) </li> <li>[搜尋資產](/help/search.md)</li></ul> |
+| 如何在存放庫中編輯資產？ | <ul> <li>[使用Adobe Photoshop Express在瀏覽器內編輯](/help/edit-images.md)</li> <li>[裁切社交媒體設定檔](/help/edit-images.md#crop-straighten-images)</li> <li>[檢視及管理版本](/help/manage-organize.md#view-versions)</li> <li>使用[Adobe資產連結](/help/integration.md#integrations)</ul></ul> |
+| 如何在存放庫中搜尋資產？ | <ul> <li>[在特定資料夾中搜尋](/help/search.md#refine-search-results)</li> <li>[已儲存的搜尋](/help/search.md#saved-search)</li> <li>[搜尋最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
+| 如何新增資產？ | <ul> <li>[上傳新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md#upload-progress)</li> <li>[解決重複項目](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | [!DNL Assets Essentials]可以與其他解決方案整合嗎？ | <ul> <li>[在中使用資產選取器 [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] 的 [!DNL Creative Cloud]](/help/integration.md)</li> <li>與[!DNL Creative Cloud Team]程式庫整合</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
