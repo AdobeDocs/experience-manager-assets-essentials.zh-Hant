@@ -3,10 +3,10 @@ title: 發行說明
 description: ' [!DNL Assets Essentials]的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: fd95cf87ae8e5449471cd580405b228c32ede264
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,19 @@ ht-degree: 2%
 
 若要深入了解解決方案，請參閱[ [!DNL Assets Essentials]](introduction.md)簡介。 若要開始使用功能，請參閱[get started](/help/get-started.md)。
 
+## 最新版本 {#release-notes-current}
+
+Assets Essentials的最新版本為2021年7月29日發行的2021.7.0，包含下列更新：
+
+* 您可以在[!DNL Settings]下的[!UICONTROL Metadata Forms]選項中，建立和管理用於向用戶顯示元資料屬性的自定義元資料表單。
+* 各種錯誤修正和產品改良，包括上傳含有許多子檔案夾的巢狀資料夾時，提供更佳的效能。
+
 ## 已知問題 {#known-issues}
 
-目前，[!DNL Assets Essentials]沒有已知問題。
+[!DNL Assets Essentials]產品的已知問題清單不斷修訂和更新：
+
+* 若要上傳資料夾或資產，將項目拖曳至存放庫中具有子資料夾的資料夾時，上傳會自動進入其中一個子資料夾。 因應措施是按一下[!DNL Upload assets]選項，然後拖曳至對話方塊中。<!-- CQ-4327753 -->
+* 上傳資料夾後，新資料夾有時會在左側邊欄中顯示錯誤，而非顯示在樹狀檢視中。 因應措施是重新整理瀏覽器。<!-- CQ-4323534 -->
 
 <!--
 * Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
