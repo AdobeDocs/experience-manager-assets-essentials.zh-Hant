@@ -3,9 +3,9 @@ title: 發行說明
 description: ' [!DNL Assets Essentials]的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: fd95cf87ae8e5449471cd580405b228c32ede264
+source-git-commit: cbeb6f6f59da164115af52dfdbb97023b84bc1d1
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 Assets Essentials的最新版本為2021年7月29日發行的2021.7.0，包含下列更新：
 
-* 您可以在[!DNL Settings]下的[!UICONTROL Metadata Forms]選項中，建立和管理用於向用戶顯示元資料屬性的自定義元資料表單。
+* 您可以在[!DNL Settings]下的[!UICONTROL Metadata Forms]選項中，建立和管理用於向用戶顯示元資料屬性的自定義元資料表單。 請參閱[中繼資料表單](metadata.md#metadata-forms)。
 * 各種錯誤修正和產品改良，包括上傳含有許多子檔案夾的巢狀資料夾時，提供更佳的效能。
 
 ## 已知問題 {#known-issues}
