@@ -3,9 +3,9 @@ title: 管理中繼資料
 description: 在 [!DNL Assets Essentials]中管理資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,49 @@ ht-degree: 0%
 除了使用[!DNL Adobe Sensei]智慧服務自動新增的智慧標籤以外，您還可以新增更多標籤至資產。 開啟資產以進行預覽，按一下[!UICONTROL Tags]，然後在[!UICONTROL Keywords]欄位中輸入所需的關鍵字。 要添加標籤，請按Return。 [!DNL Assets Essentials] 幾乎即時索引關鍵字，而您的團隊很快就可以使用新關鍵字搜尋更新的資產。
 
 您也可以從[!UICONTROL Smart Tags]區段中移除標籤，這些標籤會由[!DNL Assets Essentials]自動新增至所有已上傳的資產。
+
+## 中繼資料表單 {#metadata-forms}
+
+Assets Essentials預設提供許多標準中繼資料欄位。 組織有其他中繼資料需求，且需要更多中繼資料欄位，才能新增業務專屬的中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增至資產的[!UICONTROL Details]頁面。 特定於業務的元資料改進了其資產的治理和發現。
+
+您可以為不同資產類型（不同MIME類型）設定中繼資料表單。 使用與檔案的MIME類型相同的表單名稱。 Essentials會自動將上傳的資產與表單名稱相符。 例如，如果名稱為`PDF`或`pdf`的元資料表單存在，則上傳的PDF文檔包含表單中定義的元資料欄位。 您可以從頭建立表單，或重新調整現有表單的用途。
+
+>[!IMPORTANT]
+>
+>特定檔案類型的新中繼資料表單會完全取代[!DNL Assets Essentials]提供的預設中繼資料表單。 如果您刪除或重新命名中繼資料表單，新資產將可再次使用預設中繼資料欄位。
+
+要建立元資料表單，請執行以下步驟：
+
+1. 在左側邊欄中，按一下「**[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**」。
+
+   ![左側邊欄中的元資料表單選項](assets/metadata-forms-sidebar.png)
+
+1. 按一下用戶介面右上方區域的&#x200B;**[!UICONTROL Create]**。
+1. 提供表單的名稱，然後按一下&#x200B;**[!UICONTROL Create]**。
+1. 在右側邊欄的&#x200B;**[!UICONTROL Settings]**&#x200B;中提供索引標籤的名稱。
+1. 從左側邊欄中可用的&#x200B;**[!UICONTROL Components]**，在表單的索引標籤上拖曳必要元件。 以所需順序拖曳元件。
+
+   ![左側邊欄中的元資料表單選項](assets/metadata-form-new.png)
+
+   *圖：元資料表單建立介麵包含可新增元件的選項和可預覽表單的選項。*
+
+1. 對於每個元件，在右側邊欄的&#x200B;**[!UICONTROL Settings]**&#x200B;中提供名稱，提供與支援屬性的對應。
+1. （可選）對於元件，選擇&#x200B;**[!UICONTROL Required]**&#x200B;使元資料欄位成為必填欄位，選擇&#x200B;**[!UICONTROL Read-Only]**&#x200B;使資產[!UICONTROL Details]頁面中的欄位不可編輯。
+1. 或者，按一下&#x200B;**[!UICONTROL Preview]**&#x200B;預覽您正在建立的表單。
+1. （可選）在每個標籤中新增更多標籤和必要的元件。
+1. 表單完成時，按一下&#x200B;**[!UICONTROL Save]**。
+
+建立表單後，當使用者上傳相符MIME類型的資產時，就會自動套用表單。
+
+要重複使用現有表單以建立新表單，請選擇元資料表單，從工具欄按一下&#x200B;**[!UICONTROL Copy]**，提供名稱，然後按一下&#x200B;**[!UICONTROL Confirm]**。 您可以編輯中繼資料表單以進行變更。 當您變更表單時，該表單會用於變更後上傳的資產。 不會變更現有資產。
+
+<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+To reuse an existing form to create a new form, do one of these:
+
+* Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
+
+* Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
+-->
 
 <!-- TBD: Queries for PM and engg.
 
