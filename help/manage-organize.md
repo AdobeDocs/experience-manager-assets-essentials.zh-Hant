@@ -3,9 +3,9 @@ title: 管理您的數位資產
 description: 在 [!DNL Assets Essentials]中移動、刪除、複製、重新命名、更新和版本您的資產。
 role: User,Leader
 contentOwner: AG
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -25,14 +25,11 @@ ht-degree: 0%
 * ![詳細資](assets/do-not-localize/edit-in-icon.png) 訊圖示按一下以預覽資產並檢視詳細中繼資料。預覽時，您可以檢視版本並編輯影像。
 * ![下載](assets/do-not-localize/download-icon.png) 圖示將選取的資產下載至本機檔案系統。
 * ![刪除](assets/do-not-localize/delete-icon.png) 圖示刪除選取的資產或資料夾。
-* 
-
-   <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* 結帳資產。<!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![複製](assets/do-not-localize/copy-icon.png) 表徵圖複製選定的檔案或資料夾。
 * ![移動](assets/do-not-localize/move-icon.png) 圖示將選取的資產或資料夾移至存放庫階層中的不同位置。
 * ![重新命](assets/do-not-localize/rename-icon.png) 名圖示重新命名選取的資產或資料夾。使用唯一名稱，否則重新命名會失敗並顯示警告。 您可以使用新名稱重試。
-* 
-   <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* 將任務指派給其他使用者，以便對資產進行共同作業。<!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 您可以在「資產」縮圖上檢視相同的選項。
 
