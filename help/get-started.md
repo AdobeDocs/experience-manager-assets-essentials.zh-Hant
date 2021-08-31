@@ -2,9 +2,9 @@
 title: 開始使用 [!DNL Assets Essentials]
 description: 如何存取、登入體驗、的支援使用案例，以及 [!DNL Assets Essentials]的已知問題。
 role: User, Leader
-source-git-commit: 135832e18bdf7ae66f29638cf548088a83daee8d
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '447'
 ht-degree: 1%
 
 ---
@@ -55,19 +55,21 @@ When logging in, after providing the credentials, you can be prompted to select 
 
 | 使用者工作 | 功能和操作說明資訊 |
 |-----|------|
-| 如何新增資產？ | <ul> <li> [上傳資產](/help/add-delete.md) </li> <li> [轉譯](/help/add-delete.md#renditions) </li> </ul> |
-| 如何更新資產或相關資訊？ | <ul> <li>變更現有資產</li> <li>[建立](/help/manage-organize.md#create-versions) 版本 [和檢視版本](/help/manage-organize.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
-| 如何探索資產？ | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽](/help/navigate-view.md#preview-assets) 資產 [並下載資產](/help/manage-organize.md#download) </li> <li>[搜尋資產](/help/search.md)</li></ul> |
-| 如何在存放庫中編輯資產？ | <ul> <li>[使用Adobe Photoshop Express在瀏覽器內編輯](/help/edit-images.md)</li> <li>[裁切社交媒體設定檔](/help/edit-images.md#crop-straighten-images)</li> <li>[檢視及管理版本](/help/manage-organize.md#view-versions)</li> <li>使用[Adobe資產連結](/help/integration.md#integrations)</ul></ul> |
-| 如何在存放庫中搜尋資產？ | <ul> <li>[在特定資料夾中搜尋](/help/search.md#refine-search-results)</li> <li>[已儲存的搜尋](/help/search.md#saved-search)</li> <li>[搜尋最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
-| 如何新增資產？ | <ul> <li>[上傳新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md#upload-progress)</li> <li>[解決重複項目](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| 中繼資料操作 | <ul> <li>[檢視詳細中繼資料](/help/metadata.md) </li> <li> [建立新的中繼資料表單](/help/metadata.md#metadata-forms) </li> </ul> |
-| [!DNL Assets Essentials]可以與其他解決方案整合嗎？ | <ul> <li>[在中使用資產選取器 [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] 的 [!DNL Creative Cloud]](/help/integration.md)</li> <li>與[!DNL Creative Cloud Team]程式庫整合</li> </ul> |
+| 瀏覽及檢視資產 | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽資產](/help/navigate-view.md#preview-assets) <li> [檢視資產的轉譯](/help/add-delete.md#renditions) </li> <li>[檢視資產版本](/help/manage-organize.md#view-versions)</li></ul> |
+| 新增資產 | <ul> <li>[上傳新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md#upload-progress)</li> <li>[解決重複項目](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| 更新資產或相關資訊 | <ul> <li>[編輯影像](/help/edit-images.md)</li> <li>[建立](/help/manage-organize.md#create-versions) 版本 [和檢視版本](/help/manage-organize.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
+| 編輯資產 | <ul> <li>[使用Adobe Photoshop Express在瀏覽器內編輯](/help/edit-images.md)</li> <li>[裁切社交媒體設定檔](/help/edit-images.md#crop-straighten-images)</li> <li>[檢視及管理版本](/help/manage-organize.md#view-versions)</li> <li>[使用 [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| 在存放庫中搜尋資產 | <ul> <li>[在特定資料夾中搜尋](/help/search.md#refine-search-results)</li> <li>[已儲存的搜尋](/help/search.md#saved-search)</li> <li>[搜尋最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
+| 下載資產 | <ul> <li> [預覽資產](/help/navigate-view.md#preview-assets) </li> <li> [下載資產](/help/manage-organize.md#download) <li> [下載轉譯](/help/add-delete.md#renditions) </li></ul> |
+| 中繼資料操作 | <ul> <li>[檢視詳細中繼資料](/help/metadata.md) </li> <li> [更新中繼資料](/help/metadata.md#update-metadata)</li> <li> [建立新的中繼資料表單](/help/metadata.md#metadata-forms) </li> </ul> |
+| 與其他解決方案的整合 | <ul> <li>[在中使用資產選取器 [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] 的 [!DNL Creative Cloud]](/help/integration.md)</li> <li>[與整合 [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
-<!--TBD: Merge in above table when these use cases are documented/available.
+<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
+
 -->
 
 ## ![意見](assets/do-not-localize/feedback-icon.png) 圖示提供產品意見 {#provide-feedback}

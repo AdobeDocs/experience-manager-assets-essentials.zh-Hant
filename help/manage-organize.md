@@ -3,7 +3,7 @@ title: 管理您的數位資產
 description: 在 [!DNL Assets Essentials]中移動、刪除、複製、重新命名、更新和版本您的資產。
 role: User,Leader
 contentOwner: AG
-source-git-commit: 3f8ba14c702fb3ee0df61aa503c9064c33f94794
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
 source-wordcount: '604'
 ht-degree: 0%
