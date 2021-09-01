@@ -2,9 +2,9 @@
 title: 開始使用 [!DNL Assets Essentials]
 description: 如何存取、登入體驗、的支援使用案例，以及 [!DNL Assets Essentials]的已知問題。
 role: User, Leader
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '448'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 
 ## ![意見](assets/do-not-localize/feedback-icon.png) 圖示提供產品意見 {#provide-feedback}
 
-Adobe歡迎對解決方案的意見反應。 要在不切換工作應用程式的情況下提供反饋，請使用用戶介面中的[!UICONTROL Feedback]選項。 它也允許附加檔案，例如問題的螢幕擷取畫面或視訊記錄。
+Adobe歡迎對解決方案的意見反應。 要在不切換工作應用程式的情況下提供反饋，請使用用戶介面中的[!UICONTROL Feedback]選項。 它也可讓您附加檔案，例如問題的螢幕擷取畫面或影片記錄。
 
 ![介面中的意見回饋選項](assets/feedback-panel.png)
 

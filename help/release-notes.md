@@ -3,9 +3,9 @@ title: 發行說明
 description: ' [!DNL Assets Essentials]的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # [!DNL Assets Essentials]的發行說明 {#release-notes}
 
-目前的[!DNL Assets Essentials]版本將於2021年8月30日發行。 它提供與[!DNL Adobe Workfront]的整合，讓[!DNL Workfront]使用者在管理其工作的情境下管理其數位資產。 請參閱[與其他Adobe解決方案的整合](/help/integration.md)。
+目前的[!DNL Assets Essentials]版本將於2021年8月30日發行。 它提供與[!DNL Adobe Workfront]的整合，讓[!DNL Workfront]使用者在管理其工作的情境下管理其數位資產。 如需詳細資訊，請參閱[與其他Adobe解決方案的整合](/help/integration.md)。
 
 若要深入了解解決方案，請參閱[ [!DNL Assets Essentials]](introduction.md)簡介。 若要開始使用功能，請參閱[get started](/help/get-started.md)。
 
@@ -46,4 +46,4 @@ ht-degree: 1%
 * 上傳和新增資產，包括巢狀資料夾。 預覽資產和版本。
 * 全文搜尋、細緻的搜尋篩選，以及儲存的搜尋，以快速探索資產。
 * 基本資產管理操作，例如更新、刪除、下載和管理元資料。
-* [!DNL Assets Essentials] 可供使 [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)用。
+* [!DNL Assets Essentials] 可供使用 [!DNL Adobe Journey Optimizer] 者在建立訊息時管理資產。如需詳細資訊，請參閱[與其他Adobe解決方案的整合](/help/integration.md)。
