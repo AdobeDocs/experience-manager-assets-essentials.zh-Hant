@@ -2,10 +2,11 @@
 title: 開始使用 [!DNL Assets Essentials]
 description: 如何存取、登入體驗、的支援使用案例，以及 [!DNL Assets Essentials]的已知問題。
 role: User, Leader
-source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
+exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
+source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 1%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +26,7 @@ ht-degree: 1%
 
 ## 接收[!DNL Assets Essentials]的訪問 {#get-access}
 
-Adobe會設定解決方案，並將貴組織的指定人員新增為管理員。 管理員可使用[[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html)提供對組織中各種使用者的存取。 如需與您的存取權限相關的請求，請聯絡貴組織的管理員。
+Adobe會設定解決方案，並將貴組織的指定人員新增為管理員。 管理員可使用[[!DNL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)提供對組織中各種使用者的存取。 如需與您的存取權限相關的請求，請聯絡貴組織的管理員。
 
 ## 設定 [!DNL Assets Essentials] {#configuration}
 

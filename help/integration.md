@@ -2,13 +2,13 @@
 title: 與其他Adobe解決方案整合
 description: '[!DNL Assets Essentials] 與其他Adobe解決方案整合，並從原生應用程式內提供內嵌體驗。'
 role: User
-source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
+exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
+source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '284'
+ht-degree: 3%
 
 ---
-
 
 # 與其他Adobe解決方案整合 {#integrations}
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 內嵌的[!DNL Assets Essentials]體驗可與下列解決方案整合：
 
-* **[!DNL Creative Cloud for Enterprise]**: [Adobe資產連結應用程式內](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html) 面板可讓創意專業人員從支 [!DNL Assets Essentials] 援的案頭應用程式連 [!DNL Adobe Creative Cloud] 線至存放庫。此面板適用於[!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign]和[!DNL Adobe XD]。 它可簡化對資產的存取，進而提高內容速度。 請參閱[使用 [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-assets-using-adobe-asset-link.ug.html)管理資產。
+* **[!DNL Creative Cloud for Enterprise]**: [Adobe資產連結應用程式內](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html) 面板可讓創意專業人員從支 [!DNL Assets Essentials] 援的案頭應用程式連 [!DNL Adobe Creative Cloud] 線至存放庫。此面板適用於[!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign]和[!DNL Adobe XD]。 它可簡化對資產的存取，進而提高內容速度。 請參閱[使用 [!DNL Adobe Asset Link]](https://helpx.adobe.com/tw/enterprise/using/manage-assets-using-adobe-asset-link.html)管理資產。
 
 * **[!DNL Adobe Journey Optimizer]**: [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/products/journey-optimizer/adobe-journey-optimizer.html) 簡化客戶的歷程管理，為全通路行銷活動提供智慧決策和深入分析。使用[!DNL Journey Optimizer]設計訊息時，您可以直接從[!DNL Journey Optimizer]介面存取[!DNL Assets Essentials]存放庫。 使用者可使用[!DNL Assets Essentials]的內嵌使用者介面存取資產。 請參閱[使用 [!DNL Assets Essentials] 說明文章](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)或[影片教學課程，以建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html)。
 
