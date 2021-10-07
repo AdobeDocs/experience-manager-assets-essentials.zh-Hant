@@ -1,8 +1,8 @@
 ---
-source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
+source-git-commit: 15070ea99308741242b43206ed69cf1dbddca890
 workflow-type: tm+mt
 source-wordcount: '719'
-ht-degree: 50%
+ht-degree: 47%
 
 ---
 # [!DNL Adobe Experience Manager]檔案協助撰寫指南
@@ -37,9 +37,9 @@ ht-degree: 50%
 
 歡迎您協助提出任何必要改善[!DNL Experience Manager]說明檔案的想法。 但是，評論、問題和提取要求僅為&#x200B;*協助撰寫*。它們不是用來回答您有關如何使用[!DNL Experience Manager]、實作[!DNL Experience Manager]專案或解決技術問題的問題。
 
-有關使用[!DNL Experience Manager]或技術錯誤的任何問題，應通過[[!DNL Experience Cloud] 支援門戶](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support)的正常支援流程報告，或在[Experience Manager社區](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論。
+有關使用[!DNL Experience Manager]或技術錯誤的任何問題，應通過[[!DNL Experience Manager] 支援門戶](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support)的正常支援流程報告，或在[Experience Manager社區](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論。
 
-***[!DNL Experience Manager]協助撰寫的 說明文件不會取代 Adobe 客戶服務***，且這類協助撰寫的說明文件只要試圖解答支援相關問題，一律會遭到拒絕。
+***[!DNL Experience Manager]說明檔案稿件不會取代Adobe客*** 戶支援，且這類稿件只要試圖解答支援相關問題，將會遭到拒絕。
 
 ### 協助撰寫內容必須清楚參考受影響的說明文件頁面。
 
