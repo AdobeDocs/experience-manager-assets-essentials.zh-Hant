@@ -3,7 +3,7 @@ title: '[!DNL Assets Essentials] 使用者介面'
 description: 了解中的使用者介面和導覽 [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 94467e029615514942f429069c0eb7248f44bab5
+source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ![[!DNL Assets Essentials] 使用者介面](assets/essentials-interface1.png)
 
-*圖：首次登錄螢幕和查找顯著特徵的位置。*
+*圖：登入後的第一螢幕和顯著特徵的位置。*
     *答：左側邊欄以瀏覽儲存庫，並提供對其他幾個選項的訪問。*
     *B:顯示或折疊左側邊欄以增加資產檢視區域。*
     *C:篩選搜尋結果。*
