@@ -4,9 +4,9 @@ description: 發行說明和 [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 0c849c92562f9102819aaea627f5945030b27a1e
+source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 已知問題清單 [!DNL Assets Essentials] 對產品進行持續修訂和更新：
 
-* 無法將個別資產上傳至頂端資料夾（資產），只能上傳至系統中的任何子資料夾。 <!-- CQ-4337638 -->
+* 無
 
 如果您遇到任何問題，甚至是增強功能要求， [提供意見回饋](#provide-feedback) 敬隊裡。
 
