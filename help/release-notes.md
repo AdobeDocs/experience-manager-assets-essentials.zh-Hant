@@ -4,16 +4,16 @@ description: 發行說明和已知問題 [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 73d5e66cfb2315f730329b5db9e6e648c1fe017d
+source-git-commit: a72c3399fabd37c561f3c51e51029810d038ae40
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 發行說明 [!DNL Assets Essentials] {#release-notes}
 
-當前版本 [!DNL Assets Essentials] 於2022年1月27日公佈。 在此版本中：
+當前版本 [!DNL Assets Essentials] 於2022年2月3日公佈。 在此版本中：
 
 * [!DNL Assets Essentials] 現在，您可以生成連結，並與無權訪問的其他人共用資產 [!DNL Assets Essentials] 的子菜單。 您可以定義： <!-- CQ-4329575 -->
 
