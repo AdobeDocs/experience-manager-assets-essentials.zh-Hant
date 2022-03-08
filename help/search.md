@@ -1,54 +1,54 @@
 ---
-title: 在 [!DNL Assets Essentials]中搜尋和探索資產
-description: 在 [!DNL Assets Essentials]中搜尋和探索資產。
+title: 在中搜索和發現資產 [!DNL Assets Essentials]
+description: 在中搜索和發現資產 [!DNL Assets Essentials]。
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+exl-id: be9597a3-056c-436c-a09e-15a03567c85a
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
+# 在中搜索資產 [!DNL Assets Essentials] {#search-assets}
 
-# 在[!DNL Assets Essentials]中搜尋資產 {#search-assets}
+[!DNL Assets Essentials] 提供有效的搜索，這在預設情況下是有效的。 搜索是全文搜索，因此是全面搜索。 強大的搜索功能使您能夠快速發現適當的資產並幫助您提高內容速度。 [!DNL Assets Essentials] 提供全文搜索，甚至搜索智慧標籤、標題、建立日期和版權等元資料。
 
-[!DNL Assets Essentials] 提供有效的搜尋，預設情況下即可運作。搜索是全面性的，因為它是全文搜索。 強大的搜尋功能可讓您快速找到適當的資產，並協助您提高內容速度。 [!DNL Assets Essentials] 提供全文搜索，甚至通過元資料（如智慧標籤、標題、建立日期和版權）進行搜索。
+要搜索資產，
 
-若要搜尋資產，
+* 在頁面頂部的搜索框中按一下。 預設情況下，它會在您當前正在瀏覽的資料夾內搜索。 執行下列操作之一：
 
-* 按一下頁面頂端的搜尋方塊。 依預設，會在您目前瀏覽的資料夾中搜尋。 執行下列任一操作：
+   ![搜索框](assets/search-box.png)
 
-   ![搜尋方塊](assets/search-box.png)
+   * 使用關鍵字搜索，並可選地更改資料夾。 按回車。
 
-   * 使用關鍵字進行搜索，並選擇更改資料夾。 按回車鍵。
+   * 開始使用最近查看的資產，直接搜索它。 在搜索框中按一下，然後從建議中選擇最近查看的資產。
 
-   * 直接搜尋最近檢視的資產，即可開始使用。 按一下搜尋方塊中的，然後從建議中選取最近查看的資產。
+## 篩選搜索結果 {#refine-search-results}
 
-## 篩選搜尋結果 {#refine-search-results}
+可以根據以下參數篩選搜索結果。
 
-您可以根據下列參數來篩選搜尋結果。
+![搜索篩選器](assets/filters1.png)
 
-![搜尋篩選器](assets/filters1.png)
+*圖：根據各種參數篩選搜索的資產。*
 
-*圖：根據各種參數篩選搜尋的資產。*
+* 檔案類型：按支援的檔案類型篩選搜索結果， `Images`。 `Documents`, `Videos`。
+* MIME類型：篩選一個或多個支援的檔案格式。 <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
+* 影像大小：提供篩選影像的最小和最大尺寸中的一個。 大小以像素為單位提供，而不是影像的檔案大小。
+* 建立日期：元資料中提供的資產的建立日期。 使用的標準日期格式為 `yyyy-mm-dd`。
+* 修改日期：資產的上次修改日期。 使用的標準日期格式為 `yyyy-mm-dd`。
 
-* 檔案類型：根據支援的檔案類型（即`Images`、`Documents`和`Videos`）篩選搜索結果。
-* MIME類型：篩選一或多個支援的檔案格式。<!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
-* 影像大小：提供篩選影像的最小和最大尺寸之一。 大小以像素為單位提供，而不是影像的檔案大小。
-* 建立日期：中繼資料中提供的資產建立日期。 使用的標準日期格式為`yyyy-mm-dd`。
-* 修改日期：資產的最後修改日期。 使用的標準日期格式為`yyyy-mm-dd`。
+您可以按以下順序對搜索的資產進行排序： `Name`。 `Relevancy`。 `Size`。 `Modified`, `Created`。
 
-您可以依`Name`、`Relevancy`、`Size`、`Modified`和`Created`的遞增或遞減順序來排序搜尋的資產。
+## 已保存的搜索 {#saved-search}
 
-## 已儲存的搜尋 {#saved-search}
+搜索功能在 [!DNL Assets Essentials]。 在搜索框中，您不僅可以鍵入關鍵字並按回車鍵查看結果，而且還可以通過按一下快速再次搜索最近搜索的關鍵字。
 
-搜索功能在[!DNL Assets Essentials]中相當容易使用。 在搜尋方塊內，您不僅可以輸入關鍵字並按回車查看結果，還可以按一下即可再次快速搜尋最近搜尋的關鍵字。
+您還可以根據元資料和資產類型的特定條件篩選搜索結果。 對於常用的篩選器，要改進搜索體驗， [!DNL Assets Essentials] 用於保存搜索參數。 然後，也可以選擇保存的搜索以搜索並僅按一下一次即可應用篩選器。
 
-您也可以根據中繼資料和資產類型的特定條件來篩選搜尋結果。 對於常用的篩選器，若要改善搜尋體驗， [!DNL Assets Essentials]可讓您儲存搜尋參數。 然後，您也可以選取儲存的搜尋，只要按一下即可搜尋並套用篩選。
+要建立已保存的搜索，請搜索某些資產，應用一個或多個篩選器，然後按一下 [!UICONTROL 保存搜索] 的 [!UICONTROL 篩選器] 的子菜單。
 
-若要建立儲存的搜尋，請搜尋某些資產、套用一或多個篩選器，然後按一下[!UICONTROL Filters]面板中的[!UICONTROL Save Search]。
-
-![從「篩選器」面板儲存搜尋](assets/saved-search.png)
+![從「篩選器」面板保存的搜索](assets/saved-search.png)
 
 <!-- TBD: Search behavior. Full-text search. Ranking and rank boosts. Hidden assets.
 Report poor UX that users can only save a filtered search and not a simple search.

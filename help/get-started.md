@@ -1,11 +1,11 @@
 ---
 title: 開始使用 [!DNL Assets Essentials]
-description: 如何存取、的登入體驗、支援的使用案例，以及 [!DNL Assets Essentials].
+description: 如何訪問、登錄體驗、支援的使用案例以及 [!DNL Assets Essentials]。
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -14,46 +14,46 @@ ht-degree: 2%
 
 <!-- TBD: Make links for these steps. -->
 
-使用 [!DNL Assets Essentials] 只需三個簡單步驟：
+使用 [!DNL Assets Essentials] 只需要三個簡單步驟：
 
-* **步驟1**: [上傳](/help/add-delete.md) 和 [檢視](/help/navigate-view.md) 資產。
-* **步驟2**: [搜尋](/help/search.md) 和 [下載](/help/manage-organize.md#download) 資產。
+* **步驟1**: [上載](/help/add-delete.md) 和 [視圖](/help/navigate-view.md) 資產。
+* **步驟2**: [搜索](/help/search.md) 和 [下載](/help/manage-organize.md#download) 資產。
 * **步驟3**: [管理和組織](/help/manage-organize.md) 資產。
 
-使用 [!DNL Assets Essentials]，登入 [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). 登入時，請選取 `Company or School Account`. 若要接收存取權，請聯絡貴組織的管理員。
+要使用 [!DNL Assets Essentials]，登錄 [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets)。 登錄時，選擇 `Company or School Account`。 要接收訪問權限，請與組織的管理員聯繫。
 
-此外，更多可能有用的參考資訊是 [了解使用者介面](/help/navigate-view.md), [使用案例清單](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> 和 [已知問題](/help/release-notes.md#known-issues).
+此外，更多有幫助的參考資訊是 [瞭解用戶介面](/help/navigate-view.md)。 [用例清單](#use-cases)。 <!-- TBD: [supported file types](/help/supported-file-formats.md), --> 和 [已知問題](/help/release-notes.md#known-issues)。
 
-## 接收 [!DNL Assets Essentials] {#get-access}
+## 接收對 [!DNL Assets Essentials] {#get-access}
 
-Adobe會設定解決方案，並將貴組織的指定人員新增為管理員。 管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html). 如需與您的存取權限相關的請求，請聯絡貴組織的管理員。
+Adobe設定解決方案，並將您組織中指定的人員添加為管理員。 管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)。 有關與您的訪問權限相關的請求，請與組織的管理員聯繫。
 
-登入時，提供憑證後， [!DNL Assets Essentials] 提示您選擇帳戶。 在此情況下，請選取 `Company or School Account` 繼續。
+登錄時，在提供憑據後， [!DNL Assets Essentials] 提示您選擇帳戶。 在這種情況下，選擇 `Company or School Account` 繼續。
 
 ## 設定 [!DNL Assets Essentials] {#configuration}
 
-若要開啟偏好設定，請按一下使用者介面右上角的頭像。 您可以在解決方案偏好設定中的明暗主題之間切換。
+要開啟首選項，請按一下用戶介面右上角的虛擬形象。 您可以在解決方案首選項中的亮主題和暗主題之間切換。
 
-如果您是不同組織的一員，您也可以變更組織並存取不同組織的帳戶。
+如果您是不同組織的一部分，您還可以更改組織並訪問各個組織的帳戶。
 
-若要變更 [!UICONTROL Experience Cloud preferences]，按一下 [!UICONTROL Preferences].
+更改 [!UICONTROL Experience Cloud首選項]，按一下 [!UICONTROL 首選項]。
 
-![切換深色和淺色主題的偏好設定](assets/theme-change.png)
+![首選切換暗和淡主題](assets/theme-change.png)
 
 ## [!DNL Assets Essentials] 使用案例 {#use-cases}
 
-您可以透過 [!DNL Assets Essentials] 在下方。
+您可以使用 [!DNL Assets Essentials] 下。
 
-| 使用者工作 | 功能和操作說明資訊 |
+| 用戶任務 | 功能和操作方法資訊 |
 |-----|------|
-| 瀏覽及檢視資產 | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽資產](/help/navigate-view.md#preview-assets) <li> [檢視資產的轉譯](/help/add-delete.md#renditions) </li> <li>[檢視資產版本](/help/manage-organize.md#view-versions)</li></ul> |
-| 新增資產 | <ul> <li>[上傳新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md#upload-progress)</li> <li>[解決重複項目](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
-| 更新資產或相關資訊 | <ul> <li>[編輯影像](/help/edit-images.md)</li> <li>[建立版本](/help/manage-organize.md#create-versions) 和 [檢視版本](/help/manage-organize.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
-| 編輯資產 | <ul> <li>[使用Adobe Photoshop Express在瀏覽器內編輯](/help/edit-images.md)</li> <li>[裁切社交媒體設定檔](/help/edit-images.md#crop-straighten-images)</li> <li>[檢視及管理版本](/help/manage-organize.md#view-versions)</li> <li>[使用 [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
-| 在存放庫中搜尋資產 | <ul> <li>[在特定資料夾中搜尋](/help/search.md#refine-search-results)</li> <li>[已儲存的搜尋](/help/search.md#saved-search)</li> <li>[搜尋最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
-| 下載資產 | <ul> <li> [預覽資產](/help/navigate-view.md#preview-assets) </li> <li> [下載資產](/help/manage-organize.md#download) <li> [下載轉譯](/help/add-delete.md#renditions) </li></ul> |
-| 中繼資料操作 | <ul> <li>[檢視詳細中繼資料](/help/metadata.md) </li> <li> [更新中繼資料](/help/metadata.md#update-metadata)</li> <li> [建立新的中繼資料表單](/help/metadata.md#metadata-forms) </li> </ul> |
-| 與其他解決方案的整合 | <ul> <li>[在中使用資產選取器 [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] 的 [!DNL Creative Cloud]](/help/integration.md)</li> <li>[與整合 [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
+| 瀏覽和查看資產 | <ul> <li>[瀏覽儲存庫](/help/navigate-view.md#view-assets-and-details) </li> <li> [預覽資產](/help/navigate-view.md#preview-assets) <li> [查看資產的格式副本](/help/add-delete.md#renditions) </li> <li>[查看資產的版本](/help/manage-organize.md#view-versions)</li></ul> |
+| 添加新資產 | <ul> <li>[上載新資產和資料夾](/help/add-delete.md#add-assets)</li> <li>[監視上載進度並管理上載](/help/add-delete.md#upload-progress)</li> <li>[解決重複項](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| 更新資產或相關資訊 | <ul> <li>[編輯影像](/help/edit-images.md)</li> <li>[建立版本](/help/manage-organize.md#create-versions) 和 [查看版本](/help/manage-organize.md#view-versions)</li> <li>[編輯影像](/help/edit-images.md)</li> </ul> |
+| 編輯資產 | <ul> <li>[瀏覽器內編輯使用Adobe Photoshop Express](/help/edit-images.md)</li> <li>[用於社交媒體配置檔案的裁剪](/help/edit-images.md#crop-straighten-images)</li> <li>[查看和管理版本](/help/manage-organize.md#view-versions)</li> <li>[使用 [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| 在儲存庫中搜索資產 | <ul> <li>[在特定資料夾內搜索](/help/search.md#refine-search-results)</li> <li>[已保存的搜索](/help/search.md#saved-search)</li> <li>[搜索最近查看的資產](/help/search.md)</li> <li>[全文檢索搜尋](/help/search.md) |
+| 下載資產 | <ul> <li> [預覽資產](/help/navigate-view.md#preview-assets) </li> <li> [下載資產](/help/manage-organize.md#download) <li> [下載格式副本](/help/add-delete.md#renditions) </li></ul> |
+| 元資料操作 | <ul> <li>[查看詳細元資料](/help/metadata.md) </li> <li> [更新元資料](/help/metadata.md#update-metadata)</li> <li> [建立新元資料表單](/help/metadata.md#metadata-forms) </li> </ul> |
+| 與其他解決方案整合 | <ul> <li>[在中使用資產選擇器 [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] 的 [!DNL Creative Cloud]](/help/integration.md)</li> <li>[與 [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
@@ -63,21 +63,21 @@ Adobe會設定解決方案，並將貴組織的指定人員新增為管理員。
 
 -->
 
-## ![意見圖示](assets/do-not-localize/feedback-icon.png) 提供產品意見反應 {#provide-feedback}
+## ![反饋表徵圖](assets/do-not-localize/feedback-icon.png) 提供產品反饋 {#provide-feedback}
 
-Adobe歡迎對解決方案的意見反應。 要在不切換工作應用程式的情況下提供反饋，請使用 [!UICONTROL Feedback] 選項。 它也可讓您附加檔案，例如問題的螢幕擷取畫面或影片記錄。
+Adobe歡迎有關該解決方案的反饋。 要提供反饋而不切換工作應用程式，請使用 [!UICONTROL 反饋] 的子菜單。 它還允許您附加問題的螢幕截圖或視頻錄制等檔案。
 
-![介面中的意見回饋選項](assets/feedback-panel.png)
+![介面中的反饋選項](assets/feedback-panel.png)
 
-若要提供檔案的意見，請按一下 [!UICONTROL Edit this page] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL Log an issue] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 從右邊欄。 您可以執行下列其中一項操作：
+要提供文檔反饋，請按一下 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右邊欄。 可以執行下列操作之一：
 
-* 進行內容更新並提交GitHub提取請求。
-* 在GitHub中建立問題或票證。 建立問題時，請保留自動填入的文章名稱。
+* 更新內容並提交GitHub拉入請求。
+* 在GitHub中建立問題或票證。 建立問題時保留自動填充的項目名稱。
 
 >[!MORELIKETHIS]
 >
->* [了解使用者介面](/help/navigate-view.md).
->* [發行說明和已知問題](/help/release-notes.md).
+>* [瞭解用戶介面](/help/navigate-view.md)。
+>* [發行說明和已知問題](/help/release-notes.md)。
 
 
 <!-- TBD: 

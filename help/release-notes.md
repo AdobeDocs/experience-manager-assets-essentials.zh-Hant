@@ -6,7 +6,7 @@ contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 當前版本 [!DNL Assets Essentials] 於2022年2月3日公佈。 此版本提供：
 
-* 對 [!UICONTROL Create Folder] 的下界。 <!-- CQ-4338818 -->
+* 對 [!UICONTROL 建立資料夾] 的下界。 <!-- CQ-4338818 -->
 
 ## 已知問題 {#known-issues}
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 [!DNL Assets Essentials] 2021.7.0於2021年7月29日發佈，更新如下：
 
-* 您可以建立和管理自定義元資料表單，以便在中的資產詳細資訊螢幕中向用戶顯示元資料屬性 [!UICONTROL Metadata Forms] 選項 [!DNL Settings]。 請參閱 [元資料表單](metadata.md#metadata-forms)。
+* 您可以建立和管理自定義元資料表單，以便在中的資產詳細資訊螢幕中向用戶顯示元資料屬性 [!UICONTROL 元資料Forms] 選項 [!DNL Settings]。 請參閱 [元資料表單](metadata.md#metadata-forms)。
 * 各種錯誤修復和產品改進，包括上載包含多個子資料夾的嵌套資料夾時的效能更好。
 
 ### 2021.6.0版 {#june2021}
