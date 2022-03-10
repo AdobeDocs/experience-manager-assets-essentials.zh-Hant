@@ -1,18 +1,18 @@
 ---
-title: 部署和管理用戶
+title: 管理和管理用戶
 description: 管理使用案例，如部署和用戶管理 [!DNL Assets Essentials]。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: cbf75aaf05a0f3d798edf4d508325b28d9ca0dcb
+source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1129'
 ht-degree: 1%
 
 ---
 
-# 部署 [!DNL Assets Essentials] 添加用戶 {#administer}
+# 管理 [!DNL Assets Essentials] 添加用戶 {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] 由Adobe為其客戶提供。 作為配置的一部分， [!DNL Assets Essentials] 添加到中的客戶組織 [!DNL Adobe Admin Console]。 客戶還可以 [!DNL Experience Manager Cloud Manager] 作為部署工具，並 [!DNL Admin Console] 要管理用戶權利 [!DNL Assets Essentials] 解決方案。
+[!DNL Adobe Experience Manager Assets Essentials] 由Adobe為其客戶提供。 作為配置的一部分， [!DNL Assets Essentials] 添加到中的客戶組織 [!DNL Adobe Admin Console]。 管理員將使用 [!DNL Admin Console] 要管理用戶權利 [!DNL Assets Essentials] 解決方案，並分配應用程式管理員以在 [!DNL Assets Essentials]。
 
 ## 自動部署Assets Essentials {#automatic-deployment-assets-essentials}
 
@@ -24,6 +24,7 @@ ht-degree: 1%
 
 成功部署Assets Essentials解決方案後，管理員需要執行以下任務：
 
+* [設定用戶組、資料夾結構並分配權限](manage-permissions.md) 為瞭解決問題。 關注 [最佳做法](permission-management-best-practices.md) 確保設定簡單有效的權限。
 * [管理用戶訪問](#add-users-to-essentials) 組織成員到 [!DNL Assets Essentials]。
 * （可選） [查看服務狀態和日誌](#view-logs)。
 
@@ -36,16 +37,18 @@ ht-degree: 1%
 
 管理員管理哪些用戶有權訪問 [!DNL Assets Essentials]。 管理員使用 [!DNL Adobe Admin Console] 添加或刪除用戶訪問權限。 [!DNL Assets Essentials] 具有以下兩種用戶訪問類型。
 
+* **[!DNL Assets Essentials]管理員** 具有對應用程式的管理訪問權限。 除了所有最終用戶權能外，此組中的應用程式管理員可以管理整個應用程式儲存庫中任何資料夾和組/用戶的權限。
 * **[!DNL Assets Essentials]用戶** 有權訪問完整的用戶介面。 這些用戶可以上傳、組織、標籤和查找數字資產。
 * **[!DNL Assets Essentials]消費者用戶**:有權在Oracle Group獲得 [!DNL Adobe Journey Optimizer] 電子郵件模板編輯器。 有關詳細資訊，請參見 [使用 [!DNL Assets Essentials] 在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)。
 
-在 [!DNL Admin Console]，這兩種訪問類型由兩種表示 [!UICONTROL 產品配置檔案]。 要將組織成員添加到這兩個配置檔案中的任意一個並將其移除，請執行以下步驟：
+在 [!DNL Admin Console]，這三種訪問類型由三種表示 [!UICONTROL 產品配置檔案]。 要將組織成員添加到這兩個配置檔案中的任意一個並將其移除，請執行以下步驟：
 
-1. 訪問 [!DNL Admin Console] 對於您的組織，按一下 **[!UICONTROL 產品]** 按一下 **[!UICONTROL AEM Assets精華]**，然後按一下 [!DNL Assets Essentials] 環境。 [!DNL Assets Essentials] 有兩個產品配置檔案，它們代表普通用戶和消費者用戶的訪問權。
+1. 訪問 [!DNL Admin Console] 對於您的組織，按一下 **[!UICONTROL 產品]** 按一下 **[!UICONTROL AEM Assets精華]**，然後按一下 [!DNL Assets Essentials] 環境。 [!DNL Assets Essentials] 有三個產品配置檔案，它們代表管理員、普通用戶和消費者用戶的訪問權限。
 
-   ![兩種用戶的兩個配置檔案](assets/adminconsole-user-types.png)
+   ![三種用戶的三種配置檔案](assets/admin-console-admin-profile.png)
+   <!-- Need to update screenshot to include 3 profiles -->
 
-   *圖：有兩個配置檔案可用於添加兩種類型的用戶。*
+   *圖：有三種配置式可用於添加三種類型的用戶。*
 
 1. 要將用戶添加到組，請按一下組，選擇 **[!UICONTROL 添加用戶]**，提供用戶詳細資訊，然後按一下 **[!UICONTROL 保存]**。 添加用戶時，用戶將收到開始使用的電子郵件邀請。 您可以在中的產品配置檔案設定中關閉電子郵件邀請 [!DNL Admin Console]。
 

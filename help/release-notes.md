@@ -4,18 +4,27 @@ description: 發行說明和已知問題 [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
+source-git-commit: 211233202b667f9d25713491c8ae59e002139777
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 1%
+source-wordcount: '549'
+ht-degree: 0%
 
 ---
 
 # 發行說明 [!DNL Assets Essentials] {#release-notes}
 
-當前版本 [!DNL Assets Essentials] 於2022年2月3日公佈。 此版本提供：
+當前版本 [!DNL Assets Essentials] 於2022年3月3日公佈。 此版本提供：
 
-* 對 [!UICONTROL 建立資料夾] 的下界。 <!-- CQ-4338818 -->
+* [!DNL Assets Essentials] 現在可以 [與外部利益相關方建立聯繫並共用資產](share-links-for-assets.md)，他們無權訪問 [!DNL Assets Essentials] 的子菜單。 您可以定義連結的過期日期，然後使用您首選的通信方法（如電子郵件或消息服務）與他人共用該連結。 連結的收件人可以預覽資產並下載它們。
+
+* 的 [!DNL Assets Essentials] 現在 [管理員產品配置檔案](deploy-administer.md#add-users-to-essentials) Admin Console，以及現有常規和消費者產品配置檔案。 管理員現在可以將其他用戶分配給管理員產品配置檔案。
+
+* Assets Essentials現在允許管理員 [管理儲存庫中可用資料夾的訪問級別](manage-permissions.md)。 作為管理員，您可以建立用戶組並將權限分配給這些組以管理訪問級別。 您還可以將權限管理權限委託給資料夾級別的用戶組。
+
+* 基於客戶反饋的增強和錯誤修復。
+
+另外， [!DNL Adobe Asset Link] Creative Cloud(Photoshop、Illustrator和InDesign) [新版本3.2.0](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)，在面板啟動時間和下載速度方面都提高了效能。
+
 
 ## 已知問題 {#known-issues}
 
@@ -26,6 +35,12 @@ ht-degree: 1%
 如果遇到任何問題，甚至是增強請求， [提供反饋](#provide-feedback) 給隊裡。
 
 ## 過去版本 {#past-release}
+
+### 2022.1.0版 {#january-2022}
+
+[!DNL Assets Essentials] 2022年2月03日發佈，並更新如下：
+
+* 對 [!UICONTROL 建立資料夾] 的下界。 <!-- CQ-4338818 -->
 
 ### 2021.11.0版 {#november-2021}
 
