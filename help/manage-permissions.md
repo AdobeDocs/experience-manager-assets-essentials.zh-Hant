@@ -2,7 +2,7 @@
 title: 如何管理AEM Assets軟體包中資料夾的權限？
 description: Assets Essentials允許管理員管理儲存庫中可用資料夾的訪問級別。 建立用戶組並將權限分配給這些組以管理訪問級別。 作為管理員，您還可以將權限管理權限委託給資料夾級別的用戶組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
+source-git-commit: 94435a9fc17ab02c6872bb165a4cb697b56d5602
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Assets Essentials允許管理員管理儲存庫中可用資料夾的訪問級別
 
 以下資料流圖說明了您為配置和管理Assets Essentials儲存庫中可用資料夾的權限而執行的任務順序：
 
-![選擇資產時的工具欄選項](assets/permissions-management-updated.png)
+![選擇資產時的工具欄選項](assets/permissions-management-new.png)
 
 ## 在管理資料夾權限之前 {#before-managing-permissions}
 
@@ -93,13 +93,13 @@ Assets Essentials允許管理員管理儲存庫中可用資料夾的訪問級別
 
 如果需要為 `Marketing` 資料夾僅用於您組織的市場營銷部門，並查看其他部門的權限，分配 `Can View` 對超級組的權限 `All Authenticated Users` 和 `Can Edit` 對其子組的權限 `Marketing`。
 
-![分配權限](assets/permissions-management-groups-updated.png)
+![分配權限](assets/permissions-management-groups-new.png)
 
 **權限繼承**
 
 Assets Essentials使用權限繼承，這使您能夠繼承子資料夾中父資料夾的權限集。 例如，如果父資料夾 `Can View` 權限 `All Authenticated Users` 組和子資料夾具有 `Can Edit` 權限 `Marketing` 用戶組，它使所有經過身份驗證的用戶都具有查看子資料夾和 `Marketing` 組以具有子資料夾的編輯權限。 的 `Marketing` 用戶組對子資料夾（市場營銷）下的資料夾的其他級別具有編輯權限。
 
-![分配權限](assets/permissions-inheritance-updated.png)
+![分配權限](assets/permissions-inheritance-new.png)
 
 >[!NOTE]
 >
