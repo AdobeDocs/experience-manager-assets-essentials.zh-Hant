@@ -2,7 +2,7 @@
 title: 如何管理AEM Assets軟體包中資料夾的權限？
 description: Assets Essentials允許管理員管理儲存庫中可用資料夾的訪問級別。 建立用戶組並將權限分配給這些組以管理訪問級別。 作為管理員，您還可以將權限管理權限委託給資料夾級別的用戶組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
+source-git-commit: 57aa6f4641deb8cc687a462a380404e8fc3b6844
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Assets Essentials允許管理員管理儲存庫中可用資料夾的訪問級別
 
 建立與組織的業務目標相配合的資料夾結構。 如果要將現有資料夾結構上載到Assets Essentials儲存庫，則應查看該結構。 有關詳細資訊，請參見 [有效權限管理的最佳做法](permission-management-best-practices.md)。
 
-## 管理資料夾的權限 {#manage-permissions-folders}
+## 管理資料夾的權限 {#manage-permissions-on-folders}
 
 您可以將以下權限分配給用戶組或用戶。 Adobe不建議將權限分配給用戶。
 
