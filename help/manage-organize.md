@@ -1,85 +1,85 @@
 ---
-title: 管理您的數字資產
-description: 在中移動、刪除、複製、更名、更新和版本 [!DNL Assets Essentials]。
+title: 管理您的數位資產
+description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新命名、更新您的資產，並進行版本設定。
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
 source-wordcount: '614'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 管理資產 {#manage-assets}
 
-您可以使用用戶友好的介面輕鬆執行各種數字資產管理(DAM)任務 [!DNL Assets Essentials]。 添加資產後，您可以搜索、下載、移動、複製、更名、刪除、更新和編輯資產。
+您可以使用 [!DNL Assets Essentials] 的人性化界面，輕鬆進行各種數位資產管理 (DAM) 任務。新增資產後，即可搜尋、下載、移動、複製、重新命名、刪除、更新和編輯您的資產。
 
-使用 [!DNL Assets Essentials] 完成以下資產管理任務。 選擇資產時，頂部的工具欄中將顯示以下選項。
+使用 [!DNL Assets Essentials] 完成下列資產管理任務。選取資產時，下列選項會在頂部的工具列中顯示。
 
-![選擇資產時的工具欄選項](assets/toolbar-image-selected.png)
+![選取資產時可用的工具列選項](assets/toolbar-image-selected.png)
 
-*圖：所選影像的工具欄中可用的選項。*
+*圖：在選取影像的工具列中可用的選項。*
 
-* ![取消選擇表徵圖](assets/do-not-localize/close-icon.png) 取消選擇所選內容。
-* ![詳細資訊表徵圖](assets/do-not-localize/edit-in-icon.png) 按一下以預覽資產並查看詳細元資料。 預覽時，可以查看版本並編輯影像。
-* ![下載表徵圖](assets/do-not-localize/download-icon.png) 將所選資產下載到本地檔案系統。
-* ![刪除表徵圖](assets/do-not-localize/delete-icon.png) 刪除所選資產或資料夾。
-* ![簽出表徵圖](assets/do-not-localize/checkout-icon.png) 簽出所選資產。
-* ![複製表徵圖](assets/do-not-localize/copy-icon.png) 複製所選檔案或資料夾。
-* ![移動表徵圖](assets/do-not-localize/move-icon.png) 將所選資產或資料夾移動到儲存庫層次結構中的其他位置。
-* ![更名表徵圖](assets/do-not-localize/rename-icon.png) 更名所選資產或資料夾。 使用唯一名稱，否則更名失敗並出現警告。 可以使用新名稱重試。
-* ![分配任務表徵圖](assets/do-not-localize/review-delegate-icon.png) 將任務分配給其他用戶以對資產進行協作。
+* ![取消選取圖示](assets/do-not-localize/close-icon.png) 取消選取。
+* ![詳細資料圖示](assets/do-not-localize/edit-in-icon.png) 按一下以預覽資產和檢視詳細的中繼資料。預覽時，您可以檢視版本和編輯影像。
+* ![下載圖示](assets/do-not-localize/download-icon.png) 將選取的資產下載到您的本機檔案系統。
+* ![刪除圖示](assets/do-not-localize/delete-icon.png) 刪除選取的資產或檔案夾。
+* ![簽出圖示](assets/do-not-localize/checkout-icon.png) 簽出選取的資產。
+* ![複製圖示](assets/do-not-localize/copy-icon.png) 複製選取的檔案或資料夾。
+* ![移動圖示](assets/do-not-localize/move-icon.png) 將選取的資產或資料夾移至存放庫階層中不同的位置。
+* ![重新命名圖示](assets/do-not-localize/rename-icon.png) 重新命名選取的資產或資料夾。請使用唯一名稱，否則重新命名動作會失敗並出現警告。您可以使用新的名稱再試。
+* ![指派任務圖示](assets/do-not-localize/review-delegate-icon.png) 指派任務給其他使用者，以在資產上共同作業。
 
-您可以在資產縮略圖上查看相同的選項。
+您可以在資產縮圖上檢視相同選項。
 
-![資產縮略圖選項以管理資產](assets/options-on-thumbnail.png)
+![資產縮圖上用於管理資產的選項](assets/options-on-thumbnail.png)
 
-[!DNL Assets Essentials] 僅在工具欄中顯示取決於選定資產類型的相關選項。
+[!DNL Assets Essentials] 只會在工具列中根據選取的資產類型，顯示相關的選項。
 
-![選擇資產時的工具欄選項](assets/toolbar-folder-selected.png)
+![選取資產時可用的工具列選項](assets/toolbar-folder-selected.png)
 
-*圖：所選資料夾的工具欄中可用的選項。*
+*圖：在選取資料夾的工具列中可用的選項。*
 
-![選擇資產時的工具欄選項](assets/toolbar-pdf-selected.png)
+![選取資產時可用的工具列選項](assets/toolbar-pdf-selected.png)
 
-*圖：工具欄中可用於選定PDF檔案的選項。*
+*圖：在選取 PDF 檔案的工具列中可用的選項。*
 
-## 下載和分發資產 {#download}
+## 下載和散發資產 {#download}
 
-您可以選擇一個或多個資產或資料夾或兩者的組合，然後將所選內容下載到本地檔案系統。 您可以編輯資產並再次上載或將資產分發到外部 [!DNL Assets Essentials]。 另外，你可以 [下載格式副本](/help/add-delete.md#renditions) 資產。
+您可以選取一個或更多資產或資料夾或兩者的組合，然後將選取項目下載到您的本機檔案系統。您可以再次編輯資產和上傳或在 [!DNL Assets Essentials] 外部散發資產。 您也可以[下載資產的轉譯](/help/add-delete.md#renditions)。
 
 ## 資產版本設定 {#versions-of-assets}
 
 <!-- 
 TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
 
-[!DNL Assets Essentials] 版本在再次上載更新或編輯資產時的資產。 您可以查看版本歷史記錄、過去的版本，並且可以將資產的過去版本還原為最新版本，如果需要，該版本將還原為以前的版本。 資產版本在以下方案中建立：
+再次上傳已上傳或編輯的資產時，[!DNL Assets Essentials] 便會對資產進行版本設定。您可以檢視版本記錄、先前的版本，並可以將資產先前的版本還原成最新版本 (必要時回復至先前的版本)。資產版本會在以下情況中建立：
 
-* 上載與現有資產具有相同檔案名且與現有資產位於同一資料夾中的新資產。 [!DNL Assets Essentials] 提示您改寫以前的資產或將新資產另存為版本。 請參閱 [上載重複資產](/help/add-delete.md#resolve-upload-fails)。
+* 上傳新資產時，新資產的檔案名稱跟現有的資產相同，以及所在的資料夾跟現有的資產相同。[!DNL Assets Essentials] 會提示覆寫先前的資產，或將新資產另存新版本。請參閱[上傳重複資產](/help/add-delete.md#resolve-upload-fails)。
 
-   ![上載時建立版本](assets/uploads-manage-duplicates.png)
+   ![上傳時建立版本](assets/uploads-manage-duplicates.png)
 
-   *圖：上載與現有資產名稱相同的資產時，您可以建立資產版本。*
+   *圖：上傳名稱與現有資產名稱相同的資產時，您可以建立該資產的版本。*
 
-* 編輯影像，然後按一下 **[!UICONTROL 另存為版本]**。 請參閱 [編輯影像](/help/edit-images.md)。
+* 編輯影像然後按一下「**[!UICONTROL 另存新版本]**」。請參閱[編輯影像](/help/edit-images.md)。
 
-   ![將編輯的影像另存為版本](assets/edit-image2.png)
+   ![將編輯的影像另存新版本](assets/edit-image2.png)
 
-   *圖：將編輯的影像另存為版本。*
+   *圖：將編輯的影像另存新版本。*
 
-* 開啟現有資產的版本。 按一下 **[!UICONTROL 新版本]** 並在儲存庫中上載資產的較新版本。
+* 開啟現有資產的版本。按一下「**[!UICONTROL 新版本]**」，然後上傳存放庫中較新版本的資產。
 
-   ![從版本歷史記錄中上載資產的新版本的選項](assets/view-asset-versions2.png)
+   ![從版本記錄上傳新版本資產的選項](assets/view-asset-versions2.png)
 
-### 查看資產的版本 {#view-versions}
+### 檢視資產的版本 {#view-versions}
 
-上載資產的重複副本或修改副本時，可以建立其版本。 版本控制允許您複查歷史資產，並在需要時恢復到以前的版本。
+上傳資產的重複複本或修改的複本時，您可以建立其版本。版本設定功能可讓您檢閱歷史資產並在必要時恢復成先前的版本。
 
-要查看版本，請開啟資產的預覽並按一下 **[!UICONTROL 版本]** ![版本表徵圖](assets/do-not-localize/versions-clock-icon.png) 右邊欄。 要預覽特定版本，請選擇它。 要還原到它，請按一下 **[!UICONTROL 最新]**。
+若要檢視版本，請開啟資產的預覽，然後從右側邊欄按一下「**[!UICONTROL 版本]**」 ![版本圖示](assets/do-not-localize/versions-clock-icon.png)。若要預覽特定版本，請選取該版本。若要恢復至該版本，請按一下「**[!UICONTROL 製作最新]**」。
 
-也可以從版本時間軸建立版本。 選擇最新版本，按一下 **[!UICONTROL 新版本]**，並從本地檔案系統上載資產的新副本。
+您也可以從版本時間表建立版本。選取最新的版本、按一下「**[!UICONTROL 新版本]**」，然後從您的本機檔案系統上傳該資產的新複本。
 
-![查看資產的版本](assets/view-asset-versions1.png)
+![檢視資產的版本](assets/view-asset-versions1.png)
 
-*圖：查看資產的版本、還原到以前的版本或上載其他新版本。*
+*圖：檢視資產的版本、恢復成先前的版本，或上傳另一個新版本。*

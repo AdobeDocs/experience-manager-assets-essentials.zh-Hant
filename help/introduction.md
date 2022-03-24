@@ -1,36 +1,36 @@
 ---
 title: ' [!DNL Assets Essentials] 簡介'
-description: Assets Essentials概述和解決方案簡介
+description: Assets Essentials 概覽和解決方案簡介
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: ecc36da0de9e4e7075085251aacdaf92640311a6
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Experience Manager Assets Essentials] 概述 {#assets-essentials}
+# [!DNL Adobe Experience Manager Assets Essentials] 概覽 {#assets-essentials}
 
 <!-- TBD: Update this banner to remove Beta label. 
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
 -->
 
-Adobe提供了強大的數字資產管理(DAM)解決方案，讓您能夠充分利用數字資產。 作為Adobe Experience Manager產品線的一部分，Adobe正在提供新的SaaS解決方案來儲存、管理和發現數字資產，並與其他Adobe解決方案本機整合。
+Adobe 為您提供健全的數位資產管理 (DAM) 解決方案，以便於發揮數位資產的全部潛能。身為 Adobe Experience Manager 產品線的一份子， Adobe 提供全新的 SaaS 解決方案，不僅能儲存、管理和探索數位資產，也能與其他 Adobe 解決方案原生整合。
 
-[!DNL Experience Manager Assets Essentials] 是新的輕量版 [!DNL Adobe Experience Manager Assets]。 [!DNL Assets Essentials] 通過簡化且一致的用戶介面提供統一的資產管理和協作。 易用性使更富創意和營銷團隊能夠儲存、發現和分發數字資產。 目前， [!DNL Assets Essentials] 可用 [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) 作為後一種解決方案的一部分。
+[!DNL Experience Manager Assets Essentials] 是全新的輕量版 [!DNL Adobe Experience Manager Assets]。[!DNL Assets Essentials] 透過簡化過的一致使用者介面，提供統一的資產管理和共同作業。使用方便，因此可讓更多創意和行銷團隊儲存、探索和散發數位資產。目前 [!DNL Assets Essentials] 可供 [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant) 客戶作為後者解決方案的一部分使用。
 
-[!DNL Assets Essentials] 注重簡單的介面和數字資產的高效搜索和發現，以確保跨團隊的資產利用率、治理和品牌一致性。 最終用戶體驗可以通過獨立的web用戶介面和嵌入到其他Adobe解決方案中的體驗。
+[!DNL Assets Essentials] 專注於簡易的介面和有效率地搜尋及探索數位資產，以確保跨團隊之間的資產利用、控管和品牌一致性。最終使用者體驗可以是透過獨立的網頁使用者介面和其他 Adobe 解決方案中的內嵌式體驗。
 
-對於管理員，它提供了更簡單的配置和管理，從而加快了價值實現的時間。 管理員可以立即訪問解決方案，並可以使用中熟悉的功能和用戶權利 [!DNL Adobe Admin Console]。 請參閱 [部署和管理](/help/deploy-administer.md)。
+對於管理員而言，它提供更簡易的設定和管理，因此可加快實現價值的時間。管理員取得解決方案的立即存取權，並可以在 [!DNL Adobe Admin Console] 中使用熟悉的功能和使用者權益。請參閱[部署和管理](/help/deploy-administer.md)。
 
-對於用戶，使用 [!DNL Assets Essentials] 與以下3步一樣簡單。 請參閱 [開始使用 [!DNL Assets Essentials]](/help/get-started.md)。
+對於使用者而言，僅需以下簡易的 3 個步驟，即可使用 [!DNL Assets Essentials] 管理您的數位資產。請參閱[使用 [!DNL Assets Essentials]](/help/get-started.md) 快速入門。
 
-* **步驟1**:上載和查看資產。
-* **步驟2**:搜索和下載資產。
-* **步驟3**:管理和組織資產。
+* **步驟 1**：上傳和檢視資產。
+* **步驟 2**：搜尋和下載資產。
+* **步驟 3**：管理和組織資產。
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Assets Essentials] 發佈部落格](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html)
+>* [[!DNL Assets Essentials] 啟動公告部落格貼文](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html)
 
