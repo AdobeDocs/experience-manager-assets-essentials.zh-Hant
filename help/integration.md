@@ -4,7 +4,7 @@ description: 「[!DNL Assets Essentials] 整合其他 Adobe 解決方案，並�
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 0a0f520b0c023120995b3af327661212604fac0d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
 ht-degree: 100%
 
