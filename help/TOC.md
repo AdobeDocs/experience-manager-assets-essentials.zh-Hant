@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
 source-git-commit: be84c4c7a5e2f3220cde54f1d01007e9dacf183a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 85%
 + [解決方案概覽](introduction.md)
 + [發行說明](release-notes.md)
 + [部署和新增使用者](deploy-administer.md)
-+ 管理資料夾訪問{#folder-access}
-   + [管理資料夾權限](manage-permissions.md)
-   + [權限管理的最佳做法](permission-management-best-practices.md)
++ 管理檔案夾存取權{#folder-access}
+   + [管理檔案夾的權限](manage-permissions.md)
+   + [權限管理的最佳實務](permission-management-best-practices.md)
 + [開始使用  [!DNL Assets Essentials]](get-started.md)
 + [支援的檔案類型和使用案例](supported-file-formats.md)
 + [檢視資產](navigate-view.md)
