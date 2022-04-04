@@ -5,25 +5,25 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-當前版本 [!DNL Assets Essentials] 於2022年3月9日公佈。 此版本提供：
+目前版本的 [!DNL Assets Essentials] 於 2022 年 3 月 9 日發行。此版本提供：
 
-* [!DNL Assets Essentials] 現在可以 [與外部利益相關方建立聯繫並共用資產](share-links-for-assets.md)，他們無權訪問 [!DNL Assets Essentials] 的子菜單。 您可以定義連結的過期日期，然後使用您首選的通信方法（如電子郵件或消息服務）與他人共用該連結。 連結的收件人可以預覽資產並下載它們。
+* [!DNL Assets Essentials] 現在可讓您[產生連結，並和沒有 [!DNL Assets Essentials] 應用程式的外部利益關係人共用資產](share-links-for-assets.md)。您可以定義連結的到期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
 
-* 的 [!DNL Assets Essentials] 現在 [管理員產品配置檔案](deploy-administer.md#add-users-to-essentials) Admin Console，以及現有常規和消費者產品配置檔案。 管理員現在可以將其他用戶分配給管理員產品配置檔案。
+* 除了現有的一般和消費者使用者產品設定檔外，該 [!DNL Assets Essentials] 現在還包含[ Admin Console 中的管理員產品設定檔](deploy-administer.md#add-users-to-essentials)。管理員現在可以將其他使用者指派至該管理員產品設定檔。
 
-* Assets Essentials現在允許管理員 [管理儲存庫中可用資料夾的訪問級別](manage-permissions.md)。 作為管理員，您可以建立用戶組並將權限分配給這些組以管理訪問級別。 您還可以將權限管理權限委託給資料夾級別的用戶組。
+* Assets Essentials 現在可讓管理員[管理存放庫中檔案夾的存取層級](manage-permissions.md)。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。
 
-* 基於客戶反饋的增強和錯誤修復。
+* 根據客戶意見回應進行的增強功能和錯誤修正。
 
-另外， [!DNL Adobe Asset Link] Creative Cloud(Photoshop、Illustrator和InDesign) [新版本3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)，在面板啟動時間和下載速度方面都提高了效能。
+此外，適用於 Creative Cloud (Photoshop、Illustrator 和 InDesign) 的 [!DNL Adobe Asset Link] 擴充功能已發行[新版本 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)，包含面板啟動時間和下載速度中的效能改善。
 
 
 ## 已知問題 {#known-issues}
@@ -38,9 +38,9 @@ ht-degree: 59%
 
 ### 2022.1.0 版本 {#january-2022}
 
-[!DNL Assets Essentials] 2022年2月03日發佈，並更新如下：
+[!DNL Assets Essentials] 於 2022 年 2 月 3 日發行，包含下列更新：
 
-* 對 [!UICONTROL 建立資料夾] 的下界。 <!-- CQ-4338818 -->
+* [!UICONTROL 建立檔案夾]操作的效能提高。<!-- CQ-4338818 -->
 
 ### 2021.11.0 版本 {#november-2021}
 
@@ -60,7 +60,7 @@ ht-degree: 59%
 
 [!DNL Assets Essentials] 2021.7.0 於 2021 年 7 月 29 日發行，包含下列更新：
 
-* 您可以建立和管理自定義元資料表單，以便在中的資產詳細資訊螢幕中向用戶顯示元資料屬性 [!UICONTROL 元資料Forms] 選項 [!DNL Settings]。 請參閱[中繼資料表單](metadata.md#metadata-forms)。
+* 您可以建立和管理自訂的中繼資料表單，以便用於在資產詳細資訊畫面 (在 [!DNL Settings] 下方的 [!UICONTROL 中繼資料表單] 選項中) 中向使用者顯示中繼資料屬性。請參閱[中繼資料表單](metadata.md#metadata-forms)。
 * 各種錯誤修正和產品改良功能，包括上傳包含許多子資料夾的巢狀資料夾時效能提高。
 
 ### 2021.6.0 版本 {#june2021}
