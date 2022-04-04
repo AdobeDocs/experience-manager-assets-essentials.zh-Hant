@@ -3,10 +3,10 @@ title: ' [!DNL Assets Essentials] 簡介'
 description: Assets Essentials 概覽和解決方案簡介
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: ecc36da0de9e4e7075085251aacdaf92640311a6
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+source-git-commit: c95717e9898ade023d785b9d0191f4bc20f10a39
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,7 +18,15 @@ ht-degree: 100%
 
 Adobe 為您提供健全的數位資產管理 (DAM) 解決方案，以便於發揮數位資產的全部潛能。身為 Adobe Experience Manager 產品線的一份子， Adobe 提供全新的 SaaS 解決方案，不僅能儲存、管理和探索數位資產，也能與其他 Adobe 解決方案原生整合。
 
-[!DNL Experience Manager Assets Essentials] 是全新的輕量版 [!DNL Adobe Experience Manager Assets]。[!DNL Assets Essentials] 透過簡化過的一致使用者介面，提供統一的資產管理和共同作業。使用方便，因此可讓更多創意和行銷團隊儲存、探索和散發數位資產。目前 [!DNL Assets Essentials] 可供 [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant) 客戶作為後者解決方案的一部分使用。
+[!DNL Experience Manager Assets Essentials] 是全新的輕量版 [!DNL Adobe Experience Manager Assets]。[!DNL Assets Essentials] 透過簡化過的一致使用者介面，提供統一的資產管理和共同作業。使用方便，因此可讓更多創意和行銷團隊儲存、探索和散發數位資產。當前， [!DNL Assets Essentials] 經驗可以與以下解決方案整合：
+
+* 適用於企業的 Creative Cloud
+
+* Adobe Journey Optimizer
+
+* Adobe Workfront
+
+有關詳細資訊，請參見 [與其他Adobe解決方案整合](integration.md)。
 
 [!DNL Assets Essentials] 專注於簡易的介面和有效率地搜尋及探索數位資產，以確保跨團隊之間的資產利用、控管和品牌一致性。最終使用者體驗可以是透過獨立的網頁使用者介面和其他 Adobe 解決方案中的內嵌式體驗。
 
