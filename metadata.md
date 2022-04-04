@@ -3,13 +3,13 @@ cloud: Experience Cloud
 solution: Experience Manager, Experience Manager Assets
 product: adobe experience manager
 type: Documentation
-git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-assets-essentials.zh-Hant
+git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.zh-Hant
 mini-toc-levels: 1
 index: true
 source-git-commit: bd544f8afe112d5a95d5a3266f8d74bff4ef04c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ metadata.md 檔案包含存放庫層級中繼資料，這些中繼資料會傳�
 | 中繼資料 | 功能 |
 |--- |--- |
 | 使用手冊名稱 | 在文章標題中作為連結使用。 |
-| 使用手冊-url | 開啟學習與支援中心頁面。 |
+| user-guide-url | 開啟學習與支援中心頁面。 |
