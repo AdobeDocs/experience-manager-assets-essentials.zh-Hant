@@ -1,65 +1,65 @@
 ---
-title: 如何有效管理資料夾權限？
-description: 有效權限管理的最佳做法
-source-git-commit: fe716385939d18aa23d01dac5fe5f041541d2b31
-workflow-type: tm+mt
+title: 如何有效管理檔案夾權限？
+description: 有效權限管理的最佳實務
+exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
+source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
+workflow-type: ht
 source-wordcount: '398'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 有效權限管理的最佳做法 {#best-practices-permissions-management}
+# 有效權限管理的最佳實務 {#best-practices-permissions-management}
 
-作為管理員，在開始管理Assets Essentials儲存庫的資料夾權限之前，您可以實施各種最佳做法，以便在以後管理操作時使基礎架構對管理員和最終用戶具有直觀性。
+作為管理員，在您開始管理 Assets Essentials 存放庫的檔案夾權限之前，您可以實作各種最佳實務，以便管理員和一般使用者日後在管理操作時能以直覺的方式使用基礎結構。
 
-在以下情況下，您可以合併這些最佳做法：
+您可以整合這些最佳實務，同時：
 
-* [在Admin Console中建立用戶組](#admin-console-best-practices)
+* [在 Admin Console 中建立使用者群組](#admin-console-best-practices)
 
-* [在Assets Essentials儲存庫中建立資料夾結構](#folder-structure-assets-essentials)
+* [在 Assets Essentials 存放庫中建立檔案夾結構](#folder-structure-assets-essentials)
 
-* [管理Assets Essentials儲存庫中的權限](#folder-permissions)
+* [管理 Assets Essentials 存放庫中的權限](#folder-permissions)
 
 ## Admin Console {#admin-console-best-practices}
 
-根據組織中的用戶組確定訪問需求。 為您的組織規劃和建立用戶組，並將用戶添加到這些用戶組。 基於用戶組而不是單個用戶管理資料夾權限更容易。
+根據組織中的使用者群組識別存取需求。為組織規劃和建立使用者群組，並將使用者新增至這些組織。根據使用者群組而非個別使用者來管理檔案夾權限較為容易。
 
-## Assets Essentials儲存庫的資料夾結構 {#folder-structure-assets-essentials}
+## Assets Essentials 存放庫中的檔案夾結構 {#folder-structure-assets-essentials}
 
-開始計畫在Assets Essentials儲存庫中建立資料夾結構時，請考慮以下幾點：
+當您開始計畫在 Assets Essentials 存放庫中建立檔案夾結構時，請考慮以下幾點：
 
-* 未來治理：由管理員管理的資料夾和 [將權限委託給其他用戶作為所有者](manage-permissions.md##manage-permissions-folders)。
+* 未來的控管：由管理員控管的檔案夾以及[將擁有者權限委派給其他使用者的檔案夾](manage-permissions.md##manage-permissions-folders)。
 
-* 可擴展：資料夾結構應符合您組織的未來需要，並且應易於擴展。
+* 可擴充性：檔案夾結構應符合您組織的未來需求，並且應易於擴充。
 
-* 大小：資料夾不能包含太多資產。 它可能會導致可用性問題，並且會變得難以管理。
+* 大小：一個檔案夾不能包含太多資產。這可能會導致可用性問題並可能變得難以管理。
 
-* 直觀：資料夾結構應易於瀏覽和直觀地反映最終用戶的需求。 用戶應能夠輕鬆地確定在資料夾結構中上載新資產的位置。
+* 直覺性：檔案夾結構應易於瀏覽，並且一般使用者能以直覺的方式操作。使用者應該能夠輕鬆識別在檔案夾結構中上傳新資產的位置。
 
-您可以為組織使用各種可能的資料夾結構類型。 以下是典型資料夾結構的幾個示例：
+您可以為您的組織使用多種可能的檔案夾結構類型。以下是一些典型的檔案夾結構範例：
 
-* 基於函式和分類
+* 以功能和分類為基礎
 
-   ![函式和分類](assets/function-categorization.png)
+   ![功能和分類](assets/function-categorization.png)
 
-* 基於市場活動
+* 以活動為基礎
 
-   ![基於Campaing](assets/campaign-based.png)
+   ![以活動為基礎](assets/campaign-based.png)
 
-* 基於提供地點（或渠道）
+* 以提供位置 (或通路) 為基礎
 
-   ![基於服務地點](assets/offer-location.png)
+   ![以提供位置為基礎](assets/offer-location.png)
 
 
-## 資料夾權限 {#folder-permissions}
+## 檔案夾權限 {#folder-permissions}
 
-在為您的組織建立用戶組、向這些用戶組添加用戶以及在Assets Essentials儲存庫中選擇並建立符合您組織需要的資料夾結構後，您可以開始管理組織的資料夾權限。 開始管理資料夾權限時請考慮以下幾點：
+在為您的組織建立使用者群組、將使用者新增到這些使用者群組並在 Assets Essentials 存放庫中選取並建立適合您組織需求的檔案夾結構後，您就能開始為您的組織管理檔案夾權限。當您開始管理檔案夾權限時，請考慮以下幾點:
 
-* 應用用戶組的權限，而不是單個用戶。 這將導致更簡單、更高效的權限結構。
+* 請為使用者群組而非個別使用者套用權限。這可產生較簡單、有效率的權限結構。
 
-* 使權限結構盡可能簡單，以提高操作效率。
+* 保持權限結構盡可能簡單以提高營運效率。
 
-* 小心使用「拒絕」訪問權限，並希望將正權限（「可編輯」、「可查看」、「所有者」）應用到資料夾結構。
+* 謹慎使用「拒絕」存取權限，並對檔案夾結構優先實施正面權限 (可以編輯、可以檢視、擁有者)。
 
-有關如何實現高效且簡單的資料夾結構的示例，請參見 [管理資料夾的權限](manage-permissions.md##manage-permissions-folders)。
-
+如需有關如何實現有效率且簡單的檔案夾結構的範例，請參閱[管理檔案夾權限](manage-permissions.md##manage-permissions-folders)。
