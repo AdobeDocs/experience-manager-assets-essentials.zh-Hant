@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '962'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -27,39 +27,39 @@ ht-degree: 66%
 
 ## 檢視中繼資料 {#view-metadata}
 
-要查看資產的元資料，請瀏覽到資產或搜索資產，選擇資產，然後按一下 **[!UICONTROL 詳細資訊]** 的子菜單。
+若要檢視資產的中繼資料，請瀏覽至資產或搜尋資產、選取資產，然後按一下工具列中的&#x200B;**[!UICONTROL 詳細資訊]**。
 
 ![檢視資產的中繼資料](assets/metadata-view1.png)
 
-*圖：要查看資產及其元資料，請按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下該資源。*
+*圖：若要檢視資產及其中繼資料，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下資產。*
 
-基本元資料（如標題、說明和上載日期）可在 [!UICONTROL 基本] 頁籤。 的 [!UICONTROL 高級] 頁籤包含更高級的元資料，如相機模型、鏡頭詳細資訊和幾何標籤。 的 [!UICONTROL 標籤] 頁籤包含基於影像內容的自動應用標籤。
+標題、說明和上傳日期之類的基本中繼資料可在[!UICONTROL 基本]標籤中取得。[!UICONTROL 進階]標籤包含更進階的中繼資料，例如相機型號、鏡頭詳細資訊和地理標籤。[!UICONTROL 標記]標籤會根據影像內容包含自動套用的標記。
 
 ## 更新中繼資料 {#update-metadata}
 
-您可以手動更新一些中繼資料欄位。欄位包括 [!UICONTROL 標題]。 [!UICONTROL 說明]。 [!UICONTROL 作者], [!UICONTROL 關鍵字]。
+您可以手動更新一些中繼資料欄位。這些欄位包含[!UICONTROL 標題]、[!UICONTROL 說明]、[!UICONTROL 作者]以及[!UICONTROL 關鍵字]
 
 ## 標記 {#tags}
 
 [!DNL Assets Essentials] 使用 [Adobe Sensei](https://www.adobe.com/tw/sensei.html) 所提供的人工智慧，自動將相關標記套用至您所有上傳的資產。這些標記名為智慧型標記，有助於您快速尋找相關資產，提高專案的內容速度。智慧型標記即是不含在影像內的中繼資料範例。
 
-智慧型標記近乎即時套用，並根據影像內容產生。上載資產時，用戶介面將顯示 [!UICONTROL 處理] 在資產縮略圖上顯示一段時間。 待處理完成後，即可[檢視中繼資料](#view-metadata)和智慧型標記。
+智慧型標記近乎即時套用，並根據影像內容產生。上傳資產時，使用者介面會在資產縮圖上顯示[!UICONTROL 處理]一段時間。待處理完成後，即可[檢視中繼資料](#view-metadata)和智慧型標記。
 
 ![檢視資產的智慧型標記](assets/metadata-view-tags.png)
 
-*圖：要查看資產的智慧標籤，請按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下該資源。*
+*圖：若要檢視智慧型標記，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下資產。*
 
 智慧型標記也包含信賴分數 (以百分比呈現)。這表示與套用標記相關的信賴度。您可以審核自動套用的智慧型標記。
 
 ## 新增或更新標記 {#manually-tag}
 
-除了使用 [!DNL Adobe Sensei] 智慧型服務自動新增的智慧型標記之外，您還可新增更多標記到您的資產。開啟資產進行預覽，按一下 [!UICONTROL 標籤]，並在 [!UICONTROL 關鍵字] 的子菜單。 若要新增標記，請按一下「Return」。[!DNL Assets Essentials] 會近乎即時地編製關鍵字的索引，因此您的團隊很快就能使用新的關鍵字搜尋更新的資產。
+除了使用 [!DNL Adobe Sensei] 智慧型服務自動新增的智慧型標記之外，您還可新增更多標記到您的資產。開啟要預覽的資產，按一下[!UICONTROL 標記]，然後在[!UICONTROL 關鍵字]欄位中輸入所需的關鍵字。若要新增標記，請按一下「Return」。[!DNL Assets Essentials] 會近乎即時地編製關鍵字的索引，因此您的團隊很快就能使用新的關鍵字搜尋更新的資產。
 
-也可以從 [!UICONTROL 智慧標籤] 自動添加的節 [!DNL Assets Essentials] 所有上載的資產。
+您也可以從[!UICONTROL 智慧標記]區段移除由 [!DNL Assets Essentials] 自動新增到所有上傳資產的標記。
 
 ## 中繼資料表單 {#metadata-forms}
 
-Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。元資料表單允許企業將自定義元資料欄位添加到資產 [!UICONTROL 詳細資訊] 的子菜單。 特定企業中繼資料能夠改善其資產的控管和探索。
+Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。
 
 您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。使用與檔案的 MIME 類型相同的表單名稱。Essentials 會自動將上傳的資產與表單的名稱配對。例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，上傳的 PDF 文件則包含如表單中定義的中繼資料欄位。您可以從頭開始建立表單，或改變現有表單的用途。
 
@@ -69,28 +69,28 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 若要建立中繼資料表單，請依照下列步驟：
 
-1. 在左滑軌中，按一下 **[!UICONTROL 設定]** > **[!UICONTROL 元資料Forms]**。
+1. 在左側欄中按一下&#x200B;**[!UICONTROL 設定]** > **[!UICONTROL 中繼資料表單]**。
 
    ![左側邊欄中的中繼資料表單選項](assets/metadata-forms-sidebar.png)
 
-1. 按一下 **[!UICONTROL 建立]**，在用戶介面的右上角。
-1. 提供表單的名稱，然後按一下 **[!UICONTROL 建立]**。
-1. 為中的頁籤提供名稱 **[!UICONTROL 設定]** 右欄。
-1. 從 **[!UICONTROL 元件]** 在左滑軌中可用，拖動窗體中的頁籤上所需的元件。 依照所需的序列拖曳元件。
+1. 按一下使用者介面右上角區域中的&#x200B;**[!UICONTROL 建立]**。
+1. 為表單命名，然後按一下&#x200B;**[!UICONTROL 建立]**。
+1. 為右側欄中&#x200B;**[!UICONTROL 設定]**&#x200B;中的標籤命名。
+1. 從左側欄中可用的&#x200B;**[!UICONTROL 元件]**&#x200B;拖曳表單中標籤上所需的元件。依照所需的序列拖曳元件。
 
    ![左側邊欄中的中繼資料表單選項](assets/metadata-form-new.png)
 
    *圖：中繼資料表單建立介面，其中包含新增元件的選項和預覽表單的選項。*
 
-1. 對於每個元件，在中 **[!UICONTROL 設定]** 在右滑軌中，提供具有支援屬性的映射。
-1. （可選）對於元件，選擇 **[!UICONTROL 必需]** 將元資料欄位設定為必填欄位並選擇 **[!UICONTROL 只讀]** 使該欄位在資產中不可編輯 [!UICONTROL 詳細資訊] 的子菜單。
-1. （可選）按一下 **[!UICONTROL 預覽]** 預覽要建立的窗體。
+1. 對每個元件，在右側欄中的&#x200B;**[!UICONTROL 設定]**&#x200B;中命名，提供支援屬性的對應。
+1. 或是對元件選取&#x200B;**[!UICONTROL 必要]**，讓中繼資料欄位成為必要欄位，並選取&#x200B;**[!UICONTROL 唯讀]**&#x200B;讓此欄位在資產[!UICONTROL 詳細資訊]頁面中無法編輯。
+1. 或者按一下&#x200B;**[!UICONTROL 預覽]**&#x200B;以預覽您正在建立的表單。
 1. 或者在每個標籤中新增更多標籤和所需元件。
-1. 按一下 **[!UICONTROL 保存]** 的子菜單。
+1. 表單完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
 建立表單後，便會在使用者上傳相符 MIME 類型的資產時自動套用表單。
 
-要重用現有表單以建立新表單，請選擇元資料表單，按一下 **[!UICONTROL 複製]** 中，提供名稱，然後按一下 **[!UICONTROL 確認]**。 您可以編輯中繼資料表單，進行變更。變更表單時，會在變更後用於上傳的資料。不會變更現有資產。
+若要重複使用現有表單來建立新表單，請選取中繼資料表單，從工具列按一下&#x200B;**[!UICONTROL 複製]**、命名，然後按一下&#x200B;**[!UICONTROL 確認]**。您可以編輯中繼資料表單，進行變更。變更表單時，會在變更後用於上傳的資料。不會變更現有資產。
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
