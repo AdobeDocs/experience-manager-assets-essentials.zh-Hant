@@ -4,9 +4,9 @@ description: 如何存取， [!DNL Assets Essentials] 的登入體驗、支援�
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '476'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 89%
 
 僅需三個簡易步驟，即可使用 [!DNL Assets Essentials] 管理數位資產：
 
-* **步驟 1**：[上傳](/help/add-delete.md) 和 [檢視](/help/navigate-view.md) 資產。
-* **步驟 2**：[搜尋](/help/search.md) 和 [下載](/help/manage-organize.md#download) 資產。
+* **步驟 1**：[上傳](/help/add-delete.md)和[檢視](/help/navigate-view.md)資產。
+* **步驟 2**：[搜尋](/help/search.md)和[下載](/help/manage-organize.md#download)資產。
 * **步驟 3**：[管理和組織](/help/manage-organize.md)資產。
 
 若要使用 [!DNL Assets Essentials]，請在 [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets) 登入。登入時，選取「`Company or School Account`」。若要獲得存取權，請聯絡您組織的管理員。
@@ -36,7 +36,7 @@ Adobe 提供解決方案並將您組織的指定人員新增為管理員。管�
 
 如果您是不同組織的一部分，您也可以變更組織並橫跨各種組織存取您的帳戶。
 
-更改 [!UICONTROL Experience Cloud首選項]，按一下 [!UICONTROL 首選項]。
+若要變更您的 [!UICONTROL Experience Cloud 偏好設定]，請按一下[!UICONTROL 偏好設定]。
 
 ![切換深色和淺色主題的偏好設定](assets/theme-change.png)
 
@@ -65,11 +65,11 @@ Adobe 提供解決方案並將您組織的指定人員新增為管理員。管�
 
 ## ![意見回饋圖示](assets/do-not-localize/feedback-icon.png) 提供產品意見回饋 {#provide-feedback}
 
-Adobe 歡迎各位提供解決方案的意見回饋。要提供反饋而不切換工作應用程式，請使用 [!UICONTROL 反饋] 的子菜單。 它還可讓您附加檔案，例如問題的螢幕擷圖或影片錄影。
+Adobe 歡迎各位提供解決方案的意見回饋。若要在不切換工作應用程式的情況下提供意見回饋，請使用使用者介面中的[!UICONTROL 意見回饋]選項。它還可讓您附加檔案，例如問題的螢幕擷圖或影片錄影。
 
 ![介面中的意見回饋選項](assets/feedback-panel.png)
 
-要提供文檔反饋，請按一下 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右邊欄。 您可以進行下列任一項作業：
+若要提供對說明文件的意見回饋，請從右側邊欄按一下[!UICONTROL 編輯此頁面]![以編輯頁面](assets/do-not-localize/edit-page.png)，或[!UICONTROL 記錄問題]![以建立 GitHub 問題](assets/do-not-localize/github-issue.png)。您可以進行下列任一項作業：
 
 * 進行內容更新並提交 GitHub 提取請求。
 * 在 GitHub 中建立問題或服務單。建立問題時保留自動填入的文章名稱。
