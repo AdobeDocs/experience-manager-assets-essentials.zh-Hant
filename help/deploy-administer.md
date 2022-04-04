@@ -1,18 +1,18 @@
 ---
-title: 管理和管理用戶
-description: 在  [!DNL Assets Essentials] 中的部署和使用者管理的管理使用案例。
+title: 管理員和管理使用者
+description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1129'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 管理 [!DNL Assets Essentials] 添加用戶 {#administer}
+# 管理員[!DNL Assets Essentials]和新增使用者 {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] 由 Adobe 為其客戶佈建。佈建作業的一部分為在 [!DNL Adobe Admin Console] 中將 [!DNL Assets Essentials] 新增到客戶的組織。管理員將使用 [!DNL Admin Console] 要管理用戶權利 [!DNL Assets Essentials] 解決方案，並分配應用程式管理員以在 [!DNL Assets Essentials]。
+[!DNL Adobe Experience Manager Assets Essentials] 由 Adobe 為其客戶佈建。佈建作業的一部分為在 [!DNL Adobe Admin Console] 中將 [!DNL Assets Essentials] 新增到客戶的組織。管理員將使用 [!DNL Admin Console] 來管理 [!DNL Assets Essentials] 解決方案的使用者權益，並指派應用程式管理員，以便在 [!DNL Assets Essentials] 中設定權限和中繼資料表單。
 
 ## 自動部署 Assets Essentials {#automatic-deployment-assets-essentials}
 
@@ -24,7 +24,7 @@ ht-degree: 88%
 
 成功部署 Assets Essentials 解決方案後，管理員需要執行下列任務：
 
-* [設定用戶組、資料夾結構並分配權限](manage-permissions.md) 為瞭解決問題。 關注 [最佳做法](permission-management-best-practices.md) 確保設定簡單有效的權限。
+* [為該解決方案設定使用者群組、檔案夾結構並指派權限](manage-permissions.md)。遵循[最佳實務](permission-management-best-practices.md)以確保簡單有效的權限設定。
 * [管理](#add-users-to-essentials) [!DNL Assets Essentials] 的組織成員的使用者存取權。
 * 或者[檢視服務狀態和記錄檔](#view-logs)。
 
@@ -33,22 +33,22 @@ ht-degree: 88%
 >如果在 2022 年 1 月 6 日前佈建 Assets Essentials，在管理組織成員的使用者存取權前，請[在 Cloud Manager 中執行部署步驟](#deploy-essentials)。
 
 
-## 使用者管理 {#add-users-to-essentials}
+## User management {#add-users-to-essentials}
 
 管理員負責管理哪些使用者擁有 [!DNL Assets Essentials] 的存取權。管理員會使用 [!DNL Adobe Admin Console] 新增或移除使用者存取權。[!DNL Assets Essentials] 擁有以下兩種可用的使用者存取權類型。
 
-* **[!DNL Assets Essentials]管理員** 具有對應用程式的管理訪問權限。 除了所有最終用戶權能外，此組中的應用程式管理員可以管理整個應用程式儲存庫中任何資料夾和組/用戶的權限。
+* **[!DNL Assets Essentials]管理員**&#x200B;具備該應用程式的管理存取權。除了所有一般使用者功能外，該群組中的應用程式管理員還可以管理整個應用程式存放庫中任何檔案夾和群組/使用者的權限。
 * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。這些使用者可以上傳、組織、標記和尋找數位資產。
 * **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)中)
 
-在 [!DNL Admin Console]，這三種訪問類型由三種表示 [!UICONTROL 產品配置檔案]。 若要新增和移除組織成員到兩種設定檔中任一個，請依照這些步驟進行：
+在 [!DNL Admin Console] 中，這三種存取權類型會以三種[!UICONTROL 產品設定檔]表示。若要新增和移除組織成員到兩種設定檔中任一個，請依照這些步驟進行：
 
-1. 存取您組織的 [!DNL Admin Console]、按一下頂列中的「**[!UICONTROL 產品]**」、按一下 **[!UICONTROL AEM Assets Essentials]**，然後按一下 [!DNL Assets Essentials] 環境。[!DNL Assets Essentials] 有三個產品配置檔案，它們代表管理員、普通用戶和消費者用戶的訪問權限。
+1. 存取您組織的 [!DNL Admin Console]、按一下頂列中的「**[!UICONTROL 產品]**」、按一下 **[!UICONTROL AEM Assets Essentials]**，然後按一下 [!DNL Assets Essentials] 環境。 [!DNL Assets Essentials] 擁有三種產品設定檔，代表管理員、一般和消費者使用者的存取權。
 
-   ![三種用戶的三種配置檔案](assets/admin-console-admin-profile.png)
+   ![三種使用者類型的三種設定檔](assets/admin-console-admin-profile.png)
    <!-- Need to update screenshot to include 3 profiles -->
 
-   *圖：有三種配置式可用於添加三種類型的用戶。*
+   *圖：兩種設定檔可用於新增三種使用者類型。*
 
 1. 若要新增使用者到群組，請按一下群組、選取「**[!UICONTROL 新增使用者]**」、提供使用者詳細資訊，然後按一下「**[!UICONTROL 儲存]**」。新增使用者時，使用者會收到開始使用的電子郵件邀請。您可以在 [!DNL Admin Console] 中的產品設定檔設定中關閉電子郵件邀請。
 
