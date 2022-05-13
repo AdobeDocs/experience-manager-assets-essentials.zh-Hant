@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '614'
-ht-degree: 100%
+source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 79%
 
 ---
 
@@ -83,3 +83,65 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 ![檢視資產的版本](assets/view-asset-versions1.png)
 
 *圖：檢視資產的版本、恢復成先前的版本，或上傳另一個新版本。*
+
+## 管理資產狀態 {#manage-asset-status}
+
+**所需權限：**  `Can Edit`。 `Owner`或資產的管理員權限。
+
+Assets Essentials允許您設定儲存庫中可用資產的狀態。 設定資產狀態以更好地管理和管理數字資產的下游消耗。
+
+您可以設定以下資產狀態：
+
+* 已批准
+
+* 已拒絕
+
+* 無狀態
+
+### 設定資產狀態 {#set-asset-status}
+
+要設定資產狀態：
+
+1. 選擇資產，然後按一下 **[!UICONTROL 詳細資訊]** 的子菜單。
+
+1. 在 **[!UICONTROL 基本]** 頁籤 **[!UICONTROL 狀態]** 下拉清單。 可能的值包括「已批准」、「已拒絕」和「無狀態」（預設值）。
+
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
+<!--
+
+### Set asset expiration date {#set-asset-expiration-date}
+
+To set asset expiration date:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
+
+-->
+
+您還可以根據資產狀態篩選資產，有關詳細資訊，請參閱 [搜索Assets Essentials資產](search.md)。
+
+## 自定義元資料表單以包括資產狀態欄位 {#customize-asset-status-metadata-form}
+
+**所需權限：** 管理員
+
+Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。
+
+有關如何將其他元資料欄位添加到元資料表單的詳細資訊，請參見 [元資料Forms](metadata.md##metadata-forms)。
+
+**將「資產狀態」元資料欄位添加到窗體**
+
+要將「資產狀態」元資料欄位添加到窗體，請拖動 **[!UICONTROL 資產狀態]** 從左滑軌到窗體的元件。 自動預填充映射屬性。 保存表單以確認更改。
+
+<!--
+
+**Add Expiration Date metadata field to the form**
+
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
+
+-->
+
+

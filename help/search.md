@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '389'
-ht-degree: 100%
+source-git-commit: 0420b0836affe453cced6789ea4a7c56660e9f0a
+workflow-type: tm+mt
+source-wordcount: '686'
+ht-degree: 57%
 
 ---
 
@@ -32,6 +32,8 @@ ht-degree: 100%
 
 *圖：請根據各種參數篩選已搜尋的資產。*
 
+* 資產狀態：使用 `Approved` 或 `Rejected` 資產狀態。
+
 * 檔案類型：依照支援的檔案類型篩選搜尋結果，也就是 `Images`、`Documents` 和 `Videos`。
 * MIME 類型：篩選一個或更多支援的檔案格式。<!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * 影像大小：提供一個或更多最小和最大尺寸，以篩選影像。以尺寸 (像素) 提供大小，而非影像的檔案大小。
@@ -39,6 +41,66 @@ ht-degree: 100%
 * 修改日期：上次修改資產的日期。使用的標準日期格式為 `yyyy-mm-dd`。
 
 您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
+
+## 管理自定義篩選器 {#custom-filters}
+
+**所需權限：**  `Can Edit`。 `Owner`或管理員。
+
+Assets Essentials還允許您向用戶介面添加自定義篩選器。 然後，除了 [標準篩選器](#refine-search-results) 來優化搜索結果。
+
+Assets Essentials提供以下自定義篩選器：
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>自定義篩選器名稱</strong></th>
+      <th><strong>說明</strong></th>
+     </tr>
+     <tr>
+      <td>標題</td>
+      <td>使用資產標題篩選資產。 在區分大小寫的搜索標準中指定的標題必須與要在結果中顯示的資產的確切標題匹配。</td>
+     </tr>
+     <tr>
+      <td>名稱</td>
+      <td>使用資產檔案名篩選資產。 在區分大小寫的搜索條件中指定的名稱必須與要在結果中顯示的資產的確切檔案名相匹配。</td>
+     </tr>
+     <tr>
+      <td>資產大小</td>
+      <td>通過在搜索標準中定義要在結果中顯示的資產的大小範圍（以位元組為單位）來篩選資產。</td>
+     </tr>
+     <tr>
+      <td>預測標籤</td>
+      <td>使用資產智慧標籤篩選資產。 在區分大小寫的搜索條件中指定的智慧標籤名稱必須與要在結果中顯示的資產的確切智慧標籤名稱相匹配。 在搜索條件中不能指定多個智慧標籤。</td>
+     </tr>    
+    </tbody>
+   </table>
+
+### 添加自定義篩選器 {#add-custom-filters}
+
+要添加自定義篩選器：
+
+1. 按一下 **[!UICONTROL 篩選器]**。
+
+1. 在 **[!UICONTROL 自定義篩選器]** ，按一下 **[!UICONTROL 編輯]** 或 **[!UICONTROL 添加篩選器]**。
+
+   ![添加自定義篩選器](assets/add-custom-filters.png)
+
+1. 在 **[!UICONTROL 自定義篩選器管理]** 對話框，選擇需要添加到現有篩選器清單的篩選器。 選擇 **[!UICONTROL 自定義篩選器]** 的子菜單。
+
+1. 按一下 **[!UICONTROL 確認]** 的子菜單。
+
+### 刪除自定義篩選器 {#remove-custom-filters}
+
+要刪除自定義篩選器：
+
+1. 按一下 **[!UICONTROL 篩選器]**。
+
+1. 在 **[!UICONTROL 自定義篩選器]** ，按一下 **[!UICONTROL 編輯]**。
+
+1. 在 **[!UICONTROL 自定義篩選器管理]** 對話框，取消選擇從現有篩選器清單中刪除的篩選器。
+
+1. 按一下 **[!UICONTROL 確認]** 從用戶介面中刪除篩選器。
+
 
 ## 已儲存搜尋 {#saved-search}
 
