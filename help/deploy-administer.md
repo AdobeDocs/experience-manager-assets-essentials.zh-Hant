@@ -3,16 +3,18 @@ title: 管理員和管理使用者
 description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
-workflow-type: ht
-source-wordcount: '1129'
-ht-degree: 100%
+source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 管理員[!DNL Assets Essentials]和新增使用者 {#administer}
 
 [!DNL Adobe Experience Manager Assets Essentials] 由 Adobe 為其客戶佈建。佈建作業的一部分為在 [!DNL Adobe Admin Console] 中將 [!DNL Assets Essentials] 新增到客戶的組織。管理員將使用 [!DNL Admin Console] 來管理 [!DNL Assets Essentials] 解決方案的使用者權益，並指派應用程式管理員，以便在 [!DNL Assets Essentials] 中設定權限和中繼資料表單。
+
+要獲得基於旅程的管理Assets Essentials的體驗，請按一下此 [連結](adminster-aem-assets-essentials.md)。
 
 ## 自動部署 Assets Essentials {#automatic-deployment-assets-essentials}
 

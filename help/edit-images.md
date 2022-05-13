@@ -3,8 +3,8 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
+source-git-commit: 4d684d59faf0d01d42320b495fcffd06391010ef
+workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
 
@@ -28,8 +28,10 @@ ht-degree: 100%
 
 ![污點修復編輯選項](assets/edit-spot-healing.png)
 
-<!-- TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). -->
+<!-- 
+TBD: See if we should give backlinks to PS docs for these concepts.
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
+-->
 
 ## 裁切和拉直影像 {#crop-straighten-images}
 
