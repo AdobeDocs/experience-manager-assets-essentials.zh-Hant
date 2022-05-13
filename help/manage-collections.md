@@ -1,9 +1,9 @@
 ---
 title: 管理集合
 description: 集合是Experience Manager Assets軟體包內的一組資產。 使用集合在用戶之間共用資產。
-source-git-commit: 3496f7dea36c47b1fb41d39282ad6028def74499
+source-git-commit: 6e86dc11e953423c156c3c06cb20c1700afdd59b
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '473'
 ht-degree: 8%
 
 ---
@@ -28,13 +28,9 @@ You can share collections with various users that are assigned different levels 
 
 * [將資產移至集合](#remove-assets-from-collection)
 
-* [管理對集合的訪問](#manage-collection-access)
-
-* [搜索集合](#search-collections)
-
 * [查看和編輯集合元資料](#view-edit-collection-metadata)
 
-* [下載集合](#download-collection)
+* [下載集合元素](#download-collection-elements)
 
 * [刪除集合](#delete-collection)
 
