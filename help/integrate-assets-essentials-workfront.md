@@ -1,13 +1,13 @@
 ---
 title: 整合Assets Essentials與Adobe Workfront
 description: 將Assets Essentials與Adobe Workfront應用程式整合，以便您能夠訪問Workfront應用程式中的Assets Essentials儲存庫。
-source-git-commit: 7d49060ba2e02bd9c5caf9753ef56b5feed5b3df
+exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
+source-git-commit: 507d5de0fad337f5c84dab28bc396dbfa7c5afe1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '619'
+ht-degree: 16%
 
 ---
-
 
 # 整合Assets Essentials與Adobe Workfront {#integrate-assets-essentials-workfront}
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ## 配置Experience Manager Assets軟體包整合 {#configure-assets-essentials-integration}
 
-使用Admin Console將用戶添加到Workfront和Assets Essentials產品配置檔案後，您可以 [配置Experience Manager Assets軟體包整合](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm)。
+使用Admin Console將用戶添加到Workfront和Assets Essentials產品配置檔案後，您可以 [配置與Adobe Workfront的Experience Manager Assets軟體包整合](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm)。
 
 設定整合後，您可以：
 
