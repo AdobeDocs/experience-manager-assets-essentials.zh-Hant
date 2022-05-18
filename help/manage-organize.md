@@ -5,15 +5,15 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '838'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # 管理資產 {#manage-assets}
 
-您可以使用 [!DNL Assets Essentials] 的人性化界面，輕鬆進行各種數位資產管理 (DAM) 任務。新增資產後，即可搜尋、下載、移動、複製、重新命名、刪除、更新和編輯您的資產。
+您可以使用 [!DNL Assets Essentials] 的人性化介面，輕鬆進行各種數位資產管理 (DAM) 任務。新增資產後，即可搜尋、下載、移動、複製、重新命名、刪除、更新和編輯您的資產。
 
 使用 [!DNL Assets Essentials] 完成下列資產管理任務。選取資產時，下列選項會在頂部的工具列中顯示。
 
@@ -86,13 +86,13 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
 ## 管理資產狀態 {#manage-asset-status}
 
-**所需權限：**  `Can Edit`。 `Owner`或資產的管理員權限。
+**需要的權限：**`Can Edit`、`Owner` 或資產的管理員權限。
 
-Assets Essentials允許您設定儲存庫中可用資產的狀態。 設定資產狀態以更好地管理和管理數字資產的下游消耗。
+Assets Essentials 可讓您在存放庫中設定可用資產的狀態。設定資產狀態以將數位資產的下游消費控管和管理得更好。
 
-您可以設定以下資產狀態：
+您可以在資產上設定下列狀態：
 
-* 已批准
+* 已核准
 
 * 已拒絕
 
@@ -100,11 +100,11 @@ Assets Essentials允許您設定儲存庫中可用資產的狀態。 設定資�
 
 ### 設定資產狀態 {#set-asset-status}
 
-要設定資產狀態：
+若要設定資產狀態：
 
-1. 選擇資產，然後按一下 **[!UICONTROL 詳細資訊]** 的子菜單。
+1. 請選取資產，並按一下工具列中的「**[!UICONTROL 詳細資訊]**」。
 
-1. 在 **[!UICONTROL 基本]** 頁籤 **[!UICONTROL 狀態]** 下拉清單。 可能的值包括「已批准」、「已拒絕」和「無狀態」（預設值）。
+1. 在&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤中，從&#x200B;**[!UICONTROL 狀態]**&#x200B;下拉式清單中選取資產狀態。可能的值包括「已核准」、「已拒絕」以及「無狀態」(預設)。
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
@@ -122,19 +122,19 @@ The `Expired` asset card indicator overrides the `Approved` or `Rejected` indica
 
 -->
 
-您還可以根據資產狀態篩選資產，有關詳細資訊，請參閱 [搜索Assets Essentials資產](search.md)。
+您還可以根據資產狀態篩選資產，如需更多資訊，請參閱「[在 Assets Essentials 中搜尋資產](search.md)」。
 
-## 自定義元資料表單以包括資產狀態欄位 {#customize-asset-status-metadata-form}
+## 自訂中繼資料表單以包含資產狀態欄位 {#customize-asset-status-metadata-form}
 
-**所需權限：** 管理員
+**需要的權限：**&#x200B;管理員
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。
 
-有關如何將其他元資料欄位添加到元資料表單的詳細資訊，請參見 [元資料Forms](metadata.md##metadata-forms)。
+如需更多有關如何將更多中繼資料欄位新增到中繼資料表單的資訊，請參閱「[中繼資料表單](metadata.md##metadata-forms)」。
 
-**將「資產狀態」元資料欄位添加到窗體**
+**將資產狀態中繼資料欄位新增至表單**
 
-要將「資產狀態」元資料欄位添加到窗體，請拖動 **[!UICONTROL 資產狀態]** 從左滑軌到窗體的元件。 自動預填充映射屬性。 保存表單以確認更改。
+若要將資產狀態中繼資料欄位新增至表單，請將「**[!UICONTROL 資產狀態]**」元件從左側邊欄拖曳至表單。對應屬性會自動預先填入。儲存表單以確認變更。
 
 <!--
 
