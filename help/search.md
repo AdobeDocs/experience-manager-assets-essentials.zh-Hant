@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 0420b0836affe453cced6789ea4a7c56660e9f0a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '686'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 57%
 
 *圖：請根據各種參數篩選已搜尋的資產。*
 
-* 資產狀態：使用 `Approved` 或 `Rejected` 資產狀態。
+* 資產狀態：使用 `Approved` 或 `Rejected` 資產狀態來篩選搜尋結果。
 
 * 檔案類型：依照支援的檔案類型篩選搜尋結果，也就是 `Images`、`Documents` 和 `Videos`。
 * MIME 類型：篩選一個或更多支援的檔案格式。<!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
@@ -42,64 +42,64 @@ ht-degree: 57%
 
 您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
 
-## 管理自定義篩選器 {#custom-filters}
+## 管理自訂篩選器 {#custom-filters}
 
-**所需權限：**  `Can Edit`。 `Owner`或管理員。
+**需要的權限：**`Can Edit`、`Owner` 或管理員。
 
-Assets Essentials還允許您向用戶介面添加自定義篩選器。 然後，除了 [標準篩選器](#refine-search-results) 來優化搜索結果。
+Assets Essentials 還能讓您新增自訂篩選器到使用者介面。然後，除了[標準篩選器](#refine-search-results)之&#x200B;&#x200B;外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
-Assets Essentials提供以下自定義篩選器：
+Assets Essentials 可提供下列自訂篩選器：
 
 <table>
     <tbody>
      <tr>
-      <th><strong>自定義篩選器名稱</strong></th>
+      <th><strong>自訂篩選器名稱</strong></th>
       <th><strong>說明</strong></th>
      </tr>
      <tr>
       <td>標題</td>
-      <td>使用資產標題篩選資產。 在區分大小寫的搜索標準中指定的標題必須與要在結果中顯示的資產的確切標題匹配。</td>
+      <td>使用該資產標題來篩選資產。您在區分大小寫的搜尋條件中指定的標題必須和要在結果中顯示的資產的精確標題完全相符。</td>
      </tr>
      <tr>
       <td>名稱</td>
-      <td>使用資產檔案名篩選資產。 在區分大小寫的搜索條件中指定的名稱必須與要在結果中顯示的資產的確切檔案名相匹配。</td>
+      <td>使用該資產檔名來篩選資產。您在區分大小寫的搜尋條件中指定的名稱必須和要在結果中顯示的資產的精確檔名完全相符。</td>
      </tr>
      <tr>
       <td>資產大小</td>
-      <td>通過在搜索標準中定義要在結果中顯示的資產的大小範圍（以位元組為單位）來篩選資產。</td>
+      <td>透過在要顯示在結果中的資產的搜尋條件中定義大小範圍 (以位元組為單位) 來篩選資產。</td>
      </tr>
      <tr>
-      <td>預測標籤</td>
-      <td>使用資產智慧標籤篩選資產。 在區分大小寫的搜索條件中指定的智慧標籤名稱必須與要在結果中顯示的資產的確切智慧標籤名稱相匹配。 在搜索條件中不能指定多個智慧標籤。</td>
+      <td>預測標記</td>
+      <td>使用該資產智慧標記來篩選資產。您在區分大小寫的搜尋條件中指定的智慧標記必須和要在結果中顯示的資產的精確智慧標記名稱完全相符。您無法在搜尋條件中指定多個智慧標記。</td>
      </tr>    
     </tbody>
    </table>
 
-### 添加自定義篩選器 {#add-custom-filters}
+### 新增自訂篩選器 {#add-custom-filters}
 
-要添加自定義篩選器：
+若要新增自訂篩選器：
 
-1. 按一下 **[!UICONTROL 篩選器]**。
+1. 請按一下&#x200B;**[!UICONTROL 篩選器]**。
 
-1. 在 **[!UICONTROL 自定義篩選器]** ，按一下 **[!UICONTROL 編輯]** 或 **[!UICONTROL 添加篩選器]**。
+1. 在&#x200B;**[!UICONTROL 自訂篩選器]**&#x200B;區段中，按一下&#x200B;**[!UICONTROL 編輯]**&#x200B;或&#x200B;**[!UICONTROL 新增篩選器]**。
 
-   ![添加自定義篩選器](assets/add-custom-filters.png)
+   ![新增自訂篩選器](assets/add-custom-filters.png)
 
-1. 在 **[!UICONTROL 自定義篩選器管理]** 對話框，選擇需要添加到現有篩選器清單的篩選器。 選擇 **[!UICONTROL 自定義篩選器]** 的子菜單。
+1. 在&#x200B;**[!UICONTROL 自訂篩選器管理]**&#x200B;對話框中，選取您需要新增至現有篩選器清單上的篩選器。選取&#x200B;**[!UICONTROL 自訂篩選器]**，以選取所有篩選器。
 
-1. 按一下 **[!UICONTROL 確認]** 的子菜單。
+1. 按一下&#x200B;**[!UICONTROL 確認]**，即可將篩選器新增到使用者介面。
 
-### 刪除自定義篩選器 {#remove-custom-filters}
+### 移除自訂篩選器 {#remove-custom-filters}
 
-要刪除自定義篩選器：
+若要移除自訂篩選器：
 
-1. 按一下 **[!UICONTROL 篩選器]**。
+1. 請按一下&#x200B;**[!UICONTROL 篩選器]**。
 
-1. 在 **[!UICONTROL 自定義篩選器]** ，按一下 **[!UICONTROL 編輯]**。
+1. 在&#x200B;**[!UICONTROL 自訂篩選器]**&#x200B;區段中，按一下&#x200B;**[!UICONTROL 編輯]**。
 
-1. 在 **[!UICONTROL 自定義篩選器管理]** 對話框，取消選擇從現有篩選器清單中刪除的篩選器。
+1. 在&#x200B;**[!UICONTROL 自訂篩選器管理]**&#x200B;對話框中，將您需要從現有篩選器清單中移除的篩選器取消選取。
 
-1. 按一下 **[!UICONTROL 確認]** 從用戶介面中刪除篩選器。
+1. 按一下&#x200B;**[!UICONTROL 確認]**，即可將篩選器從使用者介面移除。
 
 
 ## 已儲存搜尋 {#saved-search}
