@@ -2,9 +2,9 @@
 title: 整合Assets Essentials與Adobe Workfront
 description: 將Assets Essentials與Adobe Workfront應用程式整合，以便您能夠訪問Workfront應用程式中的Assets Essentials儲存庫。
 exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
-source-git-commit: 507d5de0fad337f5c84dab28bc396dbfa7c5afe1
+source-git-commit: 1bb5f1aa1bb03b38964f13f40dc2d2d675a0480f
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '634'
 ht-degree: 16%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 16%
 
 * **目標**:將Assets Essentials與Adobe Workfront應用程式整合，以便您能夠訪問Workfront應用程式中的Assets Essentials儲存庫。
 
-## 概覽
+## 總覽
 
 [[!DNL Adobe Workfront]](https://www.workfront.com/) 是一種工作管理應用程式，可幫助您在一個位置管理整個工作生命週期。 本機整合 [!DNL Adobe Workfront] 和 [!DNL Assets Essentials] 使公司能夠通過將工作和資產管理內在地聯繫起來，提高內容的速度和上市時間。 就管理其工作而言，使用者可以存取在同一解決方案中的所需文件和影像。
 
@@ -61,6 +61,8 @@ ht-degree: 16%
 
 * **[!DNL Assets Essentials]用戶** 可以訪問完整的Assets Essentials用戶介面。 這些用戶可以在Assets Essentials應用程式中上傳、組織、標籤和查找數字資產。 此外，用戶可於Windows Server上獲得嵌入式資產選擇 [!DNL Adobe Workfront] 的子菜單。
 * **[!DNL Assets Essentials]消費者用戶**:有權在Oracle Group獲得 [!DNL Adobe Workfront] 的子菜單。
+
+另外呢，還有 **[!DNL Assets Essentials]管理員** 提供對應用程式的管理訪問權限的產品配置檔案。
 
 有關如何將用戶分配給Assets Essentials產品配置檔案的詳細資訊，請參閱 [將用戶分配到Assets Essentials產品配置檔案](adminster-aem-assets-essentials.md#add-users-to-product-profiles)。
 
