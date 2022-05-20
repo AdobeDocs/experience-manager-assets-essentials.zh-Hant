@@ -39,5 +39,5 @@ ht-degree: 65%
 + [編輯影像](edit-images.md)
 + [管理資產中繼資料](metadata.md)
 + [共用資產](share-links-for-assets.md)
-+ [管理集合](manage-collections.md)
-+ [與其他解決方案的整合](integration.md)
++ [管理收藏集](manage-collections.md)
++ [和其他解決方案整合](integration.md)

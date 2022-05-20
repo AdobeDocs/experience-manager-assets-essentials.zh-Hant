@@ -7,37 +7,37 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
 workflow-type: tm+mt
 source-wordcount: '761'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-當前版本 [!DNL Assets Essentials] 於2022年5月12日公佈。 此版本提供：
+目前版本的 [!DNL Assets Essentials] 於 2022 年 5 月 12 日發行。此版本提供：
 
-* [!DNL Assets Essentials] 現在支援 [建立集合](manage-collections.md)。 集合是Experience Manager Assets軟體包內的一組資產。 使用集合在用戶之間共用資產。 與資料夾不同，集合可以包含來自不同位置的資產。
+* [!DNL Assets Essentials] 現在支援[建立收藏集](manage-collections.md)。收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。
 
-* Assets Essentials現在也使你 [添加自定義篩選器](search.md#custom-filters) 到用戶介面。 然後，除了標準篩選器外，還可以應用這些自定義篩選器來細化搜索結果。
+* Assets Essentials 現在還能讓您[新增自訂篩選器](search.md#custom-filters)到使用者介面。然後，除了標準篩選器之&#x200B;&#x200B;外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
-* Assets Essentials現在允許你 [設定狀態](manage-organize.md#set-asset-status) 儲存庫中可用的資源。 設定資產狀態以更好地管理和管理數字資產的下游消耗。
+* Assets Essentials 現在可讓您對存放庫中的可用資產[設定狀態](manage-organize.md#set-asset-status)。設定資產狀態以將數位資產的下游消費控管和管理得更好。
 
 * 根據客戶意見回應進行的增強功能和錯誤修正。
 
-## Chrome中的隱藏模式 {#incognito-mode}
+## Chrome 中的無痕模式 {#incognito-mode}
 
-通過此版本，我們正在優化UI交付的效能以及Assets Essentials的特定功能 — 對資產和影像編輯的注釋 — 取決於瀏覽器本地儲存和啟用了第三方Cookie。 預設情況下，Chrome Web瀏覽器中的隱藏模式會阻止第三方Cookie — 用戶有多種選項可繼續訪問所有功能：
+在此版本中，我們將 UI 傳遞的效能和 Assets Essentials 中的特定功能 (對資產和影像編輯進行評論) 最佳化，會依據瀏覽器本機儲存空間和啟用的協力廠商 cookie 而定。預設情況下，Chrome 網頁瀏覽器中的無痕模式會封鎖協力廠商 cookie，使用者若要繼續存取所有功能，有多種選項。
 
-* 當用戶需要分離瀏覽器會話時，使用Chrome配置檔案而不是Incognito模式
+* 當使用者需要將瀏覽器工作階段分開時，可使用 Chrome 設定檔代替無痕模式。
 
-* 關閉 `Block third-party cookies` 在Chrome的Incognito模式螢幕上
+* 請關閉 Chrome 中無痕模式畫面上的 `Block third-party cookies`
 
 ## 已知問題 {#known-issues}
 
 [!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
 
-* 無法使用 `No Status` 資產狀態。
+* 您無法使用 `No Status` 資產狀態來篩選資產。
 
-* Assets Essentials不支援建立私人收藏。
+* Assets Essentials 並不支援建立「私人收藏集」。
 
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
@@ -45,7 +45,7 @@ ht-degree: 72%
 
 ### 2022.2.0 {#march-2022}
 
-[!DNL Assets Essentials] 2022年3月09日發佈，並更新如下：
+[!DNL Assets Essentials] 於 2022 年 3 月 9 日發行，包含下列更新：
 
 * [!DNL Assets Essentials] 現在可讓您[產生連結，並和沒有 [!DNL Assets Essentials] 應用程式的外部利益關係人共用資產](share-links-for-assets.md)。您可以定義連結的到期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
 

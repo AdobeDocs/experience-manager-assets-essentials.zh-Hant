@@ -1,72 +1,73 @@
 ---
-title: 管理集合
-description: 集合是Experience Manager Assets軟體包內的一組資產。 使用集合在用戶之間共用資產。
-source-git-commit: 6e86dc11e953423c156c3c06cb20c1700afdd59b
+title: 管理收藏集
+description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
+exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
+source-git-commit: c9ec24336c69271bb5db21032ce46f672749f5ae
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# 管理集合 {#manage-collections}
+# 管理收藏集 {#manage-collections}
 
-集合是Experience Manager Assets軟體包內的一組資產。 使用集合在用戶之間共用資產。
+收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 
-與資料夾不同，集合可以包含來自不同位置的資產。
+和檔案夾不同，收藏集可包含來自不同位置的資產。
 
 <!--
 You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
 -->
 
-您可以與用戶共用多個集合。 每個集合都包含對資產的引用。 跨集合維護資產的參照完整性。
+您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
-您可以執行以下任務來管理和使用集合：
+您可以執行下列任務以管理和使用收藏集：
 
-* [建立集合](#create-collection)
+* [建立收藏集](#create-collection)
 
-* [將資產添加到集合](#add-assets-to-collection)
+* [將資產新增至收藏集](#add-assets-to-collection)
 
-* [將資產移至集合](#remove-assets-from-collection)
+* [將資產移除至收藏集](#remove-assets-from-collection)
 
-* [查看和編輯集合元資料](#view-edit-collection-metadata)
+* [檢視和編輯收藏集中繼資料](#view-edit-collection-metadata)
 
-* [下載集合元素](#download-collection-elements)
+* [下載收藏集元素](#download-collection-elements)
 
-* [刪除集合](#delete-collection)
+* [刪除收藏集](#delete-collection)
 
-## 建立集合 {#create-collection}
+## 建立收藏集 {#create-collection}
 
-要建立集合：
+若要建立收藏集：
 
-1. 按一下 **[!UICONTROL 集合]** 按一下 **[!UICONTROL 建立集合]**。
+1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，然後按一下&#x200B;**[!UICONTROL 建立收藏集]**。
 
-1. 指定集合的標題和可選說明。
+1. 指定收藏集的標題和說明 (選用)。
 
-1. 按一下 **[!UICONTROL 保存]** 的子菜單。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**&#x200B;以建立收藏集。
 
-## 將資產添加到集合 {#add-assets-to-collection}
+## 將資產新增至收藏集 {#add-assets-to-collection}
 
-要將資產添加到集合，請執行以下操作：
+若要將資產新增至收藏集：
 
-1. 按一下 **[!UICONTROL 資產]** 在左滑軌中並選擇資產。
+1. 按一下左側邊欄中的&#x200B;**[!UICONTROL 資產]**，然後選取資產。
 
-1. 按一下 **[!UICONTROL 添加到集合]**。
+1. 按一下&#x200B;**[!UICONTROL 新增至收藏集]**。
 
-1. 在 [!UICONTROL 集合] 對話框，選擇要添加選定資產的集合。
+1. 在[!UICONTROL 收藏集]對話框中，選取收藏集以新增所選取的資產。
 
-1. 按一下 **[!UICONTROL 添加]** 將資產添加到選定的收集。
+1. 按一下&#x200B;**[!UICONTROL 新增]**，以將資產新增到所選取的收藏集。
 
-要將資產添加到收集，還可以按一下 **[!UICONTROL 集合]** 在左欄中，按一下要向其添加資產的集合，按一下 **[!UICONTROL 添加到集合]**，選擇資產，然後按一下 **[!UICONTROL 選擇]**。
+若要將資產新增到收藏集，您還可以按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，按一下要新增資產的收藏集，按一下&#x200B;**[!UICONTROL 新增至收藏集]**，選取資產並按一下&#x200B;**[!UICONTROL 選取]**。
 
-## 從集合中刪除資產 {#remove-assets-from-collection}
+## 從收藏集移除資產 {#remove-assets-from-collection}
 
-要從集合中刪除資產：
+若要從收藏集移除資產：
 
-1. 按一下 **[!UICONTROL 集合]** 清單。
+1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，以檢視收藏集清單。
 
-1. 按一下集合，然後選擇要從集合中刪除的資產。
+1. 按一下收藏集，然後選取您需要從收藏集移除的資產。
 
-1. 按一下 **[!UICONTROL 刪除]**。
+1. 按一下&#x200B;**[!UICONTROL 移除]**。
 
 <!--
 
@@ -86,42 +87,42 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 -->
 
-## 查看和編輯集合元資料 {#view-edit-collection-metadata}
+## 檢視和編輯收藏集中繼資料 {#view-edit-collection-metadata}
 
-集合元資料包括關於集合的資料，如標題和描述。
+收藏集中繼資料包含有關收藏集的資料，例如標題和說明。
 
-要查看和編輯集合元資料，請執行以下操作：
+若要檢視和編輯收藏集中繼資料：
 
-1. 按一下 **[!UICONTROL 集合]** 在左滑軌中，選擇一個集合，然後按一下 **[!UICONTROL 詳細資訊]**。
-1. 使用 **[!UICONTROL 基本]** 頁籤。
-1. 根據需要修改元資料欄位。 可以修改 [!UICONTROL 標題]。 [!UICONTROL 說明], [!UICONTROL 作者] 的子菜單。
+1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，選一個收藏集，然後按一下&#x200B;**[!UICONTROL 詳細資訊]**。
+1. 使用&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤來檢視收藏集中繼資料。
+1. 修改中繼資料欄位 (如有必要)。您可以修改[!UICONTROL 標題]、[!UICONTROL 說明]以及[!UICONTROL 作者]欄位。
 
-## 共用集合的連結 {#share-collection-links}
+## 共用收藏集的連結 {#share-collection-links}
 
-[!DNL Assets Essentials] 使您能夠與外部利益相關方生成連結並共用集合內的集合和資產，這些利益相關方無權訪問 [!DNL Assets Essentials] 的子菜單。 您可以定義連結的到期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
+[!DNL Assets Essentials] 可讓您產生連結，並和無法存取 [!DNL Assets Essentials] 應用程式的外部利益關係人共用收藏集和收藏集中的資產。您可以定義連結的到期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
 
-有關如何與外部利益相關方共用收集連結的詳細資訊，請參閱 [共用資產連結](share-links-for-assets.md)。
+如需更多有關如何與外部利益關係人共用收藏集連結的資訊，請參閱[共用資產連結](share-links-for-assets.md)。
 
-## 下載集合元素 {#download-collection-elements}
+## 下載收藏集元素 {#download-collection-elements}
 
-要下載集合元素：
+若要下載收藏集元素：
 
-1. 按一下 **[!UICONTROL 集合]** 左欄。
+1. 按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**。
 
-1. 按一下集合併選擇要下載的元素。
+1. 按一下收藏集，然後選取您需要下載的元素。
 
-1. 按一下 **[!UICONTROL 下載]**。
+1. 按一下&#x200B;**[!UICONTROL 下載]**。
 
-1. 在 [!UICONTROL 下載資產] 對話框，按一下 **[!UICONTROL 確定]**。
+1. 在[!UICONTROL 下載資產]對話框中，按一下&#x200B;**[!UICONTROL 確定]**。
 
-所選集合元素將作為.ZIP檔案下載到本地電腦上。
+所選取的收藏集元素會下載成您本機電腦的 .ZIP 檔。
 
-## 刪除集合 {#delete-collection}
+## 刪除收藏集 {#delete-collection}
 
-要刪除集合：
+若要刪除收藏集：
 
-1. 按一下 **[!UICONTROL 集合]** 左欄。
+1. 按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**。
 
-1. 選擇要刪除的集合。
+1. 選取您需要刪除的收藏集。
 
-1. 按一下 **[!UICONTROL 刪除]**。
+1. 按一下&#x200B;**[!UICONTROL 刪除]**。
