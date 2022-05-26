@@ -2,10 +2,10 @@
 title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: c9ec24336c69271bb5db21032ce46f672749f5ae
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 100%
+source-wordcount: '520'
+ht-degree: 91%
 
 ---
 
@@ -126,3 +126,11 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 1. 選取您需要刪除的收藏集。
 
 1. 按一下&#x200B;**[!UICONTROL 刪除]**。
+
+## 後續步驟 {#next-steps}
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

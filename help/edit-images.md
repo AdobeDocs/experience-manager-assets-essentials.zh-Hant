@@ -3,10 +3,10 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 4d684d59faf0d01d42320b495fcffd06391010ef
-workflow-type: ht
-source-wordcount: '497'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '544'
+ht-degree: 91%
 
 ---
 
@@ -66,6 +66,14 @@ For more information about how Spot Healing works in Photoshop, see [retouching 
 <!--
 TBD: Insert a video of the available social media options.
 -->
+
+## 後續步驟 {#next-steps}
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >

@@ -2,10 +2,10 @@
 title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: c5cb27f3f660935487bb214088b4300475ef5fce
-workflow-type: ht
-source-wordcount: '1580'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '1643'
+ht-degree: 96%
 
 ---
 
@@ -201,3 +201,13 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 * /專案/project-x：所有使用者都可以檢視檔案夾及其子檔案夾。專案經理人團隊使用者群組擁有編輯權限，並可管理檔案夾及其子檔案夾的權限 (擁有者權限)。專案 X 團隊使用者群組擁有編輯權限。
 
 * /法務：沒有任何一位使用者可根據適用於「`All Authenticated Users`」群組的「`Deny Access`」權限來存取該檔案夾。法務團隊使用者群組擁有編輯權限。
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻以管理Assets Essentials的權限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

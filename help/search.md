@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 0420b0836affe453cced6789ea4a7c56660e9f0a
-workflow-type: ht
-source-wordcount: '686'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '749'
+ht-degree: 91%
 
 ---
 
@@ -122,3 +122,13 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻搜索Assets Essentials資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

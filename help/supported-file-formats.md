@@ -4,10 +4,10 @@ description: ' [!DNL Assets Essentials] 各種使用案例支援的檔案格式'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: b9d333a862cca6227ef386ae8dadf431c2fb6d71
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 87%
 
 ---
 
@@ -40,13 +40,13 @@ ht-degree: 100%
 
 | 資產類型 | [瀏覽](/help/navigate-view.md) | 複製 | [上傳](/help/add-delete.md) | 建立 | [刪除](/help/add-delete.md#delete-assets) | 詳細資料 | 影像縮放 | [最近檢視的項目](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| 點陣圖 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| RAW 檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
-| MP4 影片 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
-| PSD、AI 和 INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| 其他二進位檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| 點陣圖 | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| RAW 檔案 | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| MP4 影片 | ✓ | ✓ | ✓ | - | ✓ | ✓? | - | ✓ |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD、AI 和 INDD | ✓ | ✓ | ✓ | - | ✓ | ✓? | - | ✓ |
+| 其他二進位檔案 | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,13 @@ ht-degree: 100%
 | 資產類型 | [下載](/help/manage-organize.md#download) | 拖放 | [影像編輯器](/help/edit-images.md) | [搜尋](/help/search.md) | [智慧標記](/help/metadata.md#tags) | [重新命名](/help/manage-organize.md) | [版本](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | 點陣圖 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW 檔案 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
-| 影片 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| CC Libraries | − | − | − | − | − | ✓ | ✓ |
-| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| PSD、AI 和 INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| 其他二進位檔案 | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| RAW 檔案 | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| 影片 | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| CC Libraries | - | - | - | - | - | ✓ | ✓ |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| PSD、AI 和 INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| 其他二進位檔案 | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
 
 
 ## 檢閱資產和共同作業 {#support-to-review-collaborate}
@@ -72,12 +72,12 @@ ht-degree: 100%
 |---------------|----------|----------|-------------------------|
 | 點陣圖 | ✓ | ✓ | ✓ |
 | RAW 檔案 | ✓ | ✓ | ✓ |
-| 資料夾 | − | − | − |
-| 影片 | − | ✓ | ✓ |
-| CC Libraries | − | − | − |
-| PDF | − | ✓ | ✓ |
-| PSD、AI 和 INDD | − | ✓ | ✓ |
-| 其他二進位檔案 | − | ✓ | ✓ |
+| 資料夾 | - | - | - |
+| 影片 | - | ✓ | ✓ |
+| CC庫 | - | - | - |
+| PDF | - | ✓ | ✓ |
+| PSD、AI 和 INDD | - | ✓ | ✓ |
+| 其他二進位檔案 | - | ✓ | ✓ |
 
 ## 其他資產管理任務 {#support-to-manage-assets}
 
@@ -85,12 +85,12 @@ ht-degree: 100%
 |---------------|-------------------|------------|----------|----------|----------|
 | 點陣圖 | ✓ | ✓ | ✓ | ✓ | ✓ |
 | RAW 檔案 | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | − | ✓ | ✓ | ✓ |
-| 影片 | ✓ | − | ✓ | ✓ | ✓ |
-| CC Libraries | ✓ | − | − | − | − |
-| PDF | ✓ | − | ✓ | ✓ | ✓ |
-| PSD、AI 和 INDD | ✓ | − | ✓ | ✓ | ✓ |
-| 其他二進位檔案 | ✓ | − | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | - | ✓ | ✓ | ✓ |
+| 影片 | ✓ | - | ✓ | ✓ | ✓ |
+| CC庫 | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD、AI 和 INDD | ✓ | - | ✓ | ✓ | ✓ |
+| 其他二進位檔案 | ✓ | - | ✓ | ✓ | ✓ |
 
 [!DNL Adobe Asset Link] 的使用者可以從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式上傳和簽入 (上傳新版本) 檔案到 [!DNL Assets Essentials] 存放庫。
 
@@ -110,3 +110,11 @@ ht-degree: 100%
 >
 >* []()
 -->
+
+## 後續步驟 {#next-steps}
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

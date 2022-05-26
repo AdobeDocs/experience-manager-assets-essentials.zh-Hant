@@ -2,10 +2,10 @@
 title: 如何有效管理檔案夾權限？
 description: 有效權限管理的最佳實務
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
-source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '445'
+ht-degree: 89%
 
 ---
 
@@ -63,3 +63,11 @@ ht-degree: 100%
 * 謹慎使用「拒絕」存取權限，並對檔案夾結構優先實施正面權限 (可以編輯、可以檢視、擁有者)。
 
 如需有關如何實現有效率且簡單的檔案夾結構的範例，請參閱[管理檔案夾權限](manage-permissions.md##manage-permissions-folders)。
+
+## 後續步驟 {#next-steps}
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

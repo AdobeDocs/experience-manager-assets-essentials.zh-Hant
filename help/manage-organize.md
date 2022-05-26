@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
-workflow-type: ht
-source-wordcount: '838'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '901'
+ht-degree: 93%
 
 ---
 
@@ -143,5 +143,17 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
 
 -->
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻管理Assets Essentials資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 
 

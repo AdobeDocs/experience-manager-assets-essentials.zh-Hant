@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '962'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '1026'
+ht-degree: 93%
 
 ---
 
@@ -91,6 +91,16 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 建立表單後，便會在使用者上傳相符 MIME 類型的資產時自動套用表單。
 
 若要重複使用現有表單來建立新表單，請選取中繼資料表單，從工具列按一下&#x200B;**[!UICONTROL 複製]**、命名，然後按一下&#x200B;**[!UICONTROL 確認]**。您可以編輯中繼資料表單，進行變更。變更表單時，會在變更後用於上傳的資料。不會變更現有資產。
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻以管理Assets Essentials的元資料表單](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:

@@ -3,10 +3,10 @@ title: 將資產上傳到存放庫
 description: 上傳資產到  [!DNL Assets Essentials]、檢視上傳狀態和解決上傳問題。
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '747'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '810'
+ht-degree: 92%
 
 ---
 
@@ -95,3 +95,13 @@ ht-degree: 100%
    *圖：在資產或資料夾圖磚上可用的檔案和資料夾動作。*
 
 * 選取資產或資料夾，然後按一下工具列中的「**[!UICONTROL 刪除]**」![刪除圖示](assets/do-not-localize/delete-icon.png)。
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻以上傳Assets Essentials的資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

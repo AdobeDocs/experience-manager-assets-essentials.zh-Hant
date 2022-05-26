@@ -2,10 +2,10 @@
 title: 如何共用資產的連結？
 description: 產生連結，然後和無法存取  [!DNL Assets Essentials]  應用程式的其他人共用資產。
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
-workflow-type: ht
-source-wordcount: '355'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -42,3 +42,13 @@ ht-degree: 100%
 若要同時下載所有資產，請切換至&#x200B;**[!UICONTROL 清單檢視]**，按一下&#x200B;**[!UICONTROL 全部選取]**，然後按一下&#x200B;**[!UICONTROL 下載]**。
 
 ![預覽已共用的資產](assets/preview-shared-assets.png)
+
+## 後續步驟 {#next-steps}
+
+* [觀看視頻共用Assets Essentials資產連結](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+
+* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+
+* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+
+* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
