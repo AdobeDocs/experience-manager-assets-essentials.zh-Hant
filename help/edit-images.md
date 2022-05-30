@@ -4,9 +4,9 @@ description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '544'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -69,11 +69,11 @@ TBD: Insert a video of the available social media options.
 
 ## 後續步驟 {#next-steps}
 
-* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
-* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+* 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
