@@ -4,9 +4,9 @@ description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類�
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1201'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 95%
 
 * **[!DNL Assets Essentials]管理員**&#x200B;具備該應用程式的管理存取權。除了所有一般使用者功能外，該群組中的應用程式管理員還可以管理整個應用程式存放庫中任何檔案夾和群組/使用者的權限。
 * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。這些使用者可以上傳、組織、標記和尋找數位資產。
-* **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)中)
+* **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)中)
 
 在 [!DNL Admin Console] 中，這三種存取權類型會以三種[!UICONTROL 產品設定檔]表示。若要新增和移除組織成員到兩種設定檔中任一個，請依照這些步驟進行：
 
@@ -62,7 +62,7 @@ ht-degree: 95%
 
 >[!TIP]
 >
->在 [!DNL Admin Console] 中，您可以使用 CSV 檔案大量管理使用者。若要了解更多，請參閱[[!DNL Admin Console] 文件](https://helpx.adobe.com/tw/enterprise/using/accounts.html)。
+>在 [!DNL Admin Console] 中，您可以使用 CSV 檔案大量管理使用者。若要了解更多，請參閱[[!DNL Admin Console] 文件](https://helpx.adobe.com/enterprise/using/accounts.html)。
 
 ## 檢視服務狀態和存取記錄檔 {#view-logs}
 
@@ -128,21 +128,21 @@ ht-degree: 95%
 
 ## 後續步驟 {#next-steps}
 
-* [觀看視頻部署Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+* [觀看在 Assets Essentials 中部署資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
 
-* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
-* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+* 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Admin Console] 說明](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
->* [[!DNL Cloud Manager] 說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hant)
->* [Adobe Journey Optimizer 文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant)
+>* [[!DNL Admin Console] 說明](https://helpx.adobe.com/enterprise/using/admin-console.html)
+>* [[!DNL Cloud Manager] 說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
+>* [Adobe Journey Optimizer 文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)
 >* [發行說明](release-notes.md)
 >* [開始使用 [!DNL Assets Essentials]](get-started.md)
 
