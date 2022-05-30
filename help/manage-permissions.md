@@ -3,9 +3,9 @@ title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1643'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -47,18 +47,18 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 您可以將使用者新增到使用者群組 (1) 以及[將使用者新增到 Assets Essentials 產品設定檔 (2)](#add-admin-users)。但您無法將使用者群組直接新增到 Assets Essentials 產品設定檔 (3)。
 
-如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)中取得)。
+如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/enterprise/using/user-groups.html)中取得)。
 
 >[!NOTE]
 >
->如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)。
+>如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/enterprise/using/users.html)。
 
 
 ### 新增使用者至群組 {#add-users-to-uesr-groups}
 
 建立使用者群組後，您可以開始將使用者新增至使用者群組。
 
-如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
+如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
 
 ### 建立檔案夾結構 {#create-folder-structure}
 
@@ -204,10 +204,10 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 
 ## 後續步驟 {#next-steps}
 
-* [觀看視頻以管理Assets Essentials的權限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+* [觀看在 Assets Essentials 中管理權限的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
 
-* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
-* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+* 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
