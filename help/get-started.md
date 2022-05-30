@@ -4,9 +4,9 @@ description: 如何存取， [!DNL Assets Essentials] 的登入體驗、支援�
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 86%
 
 ## 獲得 [!DNL Assets Essentials] 的存取權 {#get-access}
 
-Adobe 提供解決方案並將您組織的指定人員新增為管理員。管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html) 提供存取權給組織的各種使用者。若是存取權的相關請求，請聯絡您組織的管理員。
+Adobe 提供解決方案並將您組織的指定人員新增為管理員。管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html) 提供存取權給組織的各種使用者。若是存取權的相關請求，請聯絡您組織的管理員。
 
 登入時，在提供認證後，[!DNL Assets Essentials] 會提示您選取一個帳戶。在此情況下，請選取「`Company or School Account`」以繼續進行。
 
@@ -57,13 +57,13 @@ Adobe 提供解決方案並將您組織的指定人員新增為管理員。管�
 
 ## 後續步驟 {#next-steps}
 
-* [看一段視頻開始Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [觀看開始使用 Assets Essentials 的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
 
-* 使用 [!UICONTROL 反饋] 選項在Assets Essentials用戶介面上提供
+* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
-* 使用 [!UICONTROL 編輯此頁] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 記錄問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 右側欄上提供
+* 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯繫人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
