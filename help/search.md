@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '749'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 *圖：請根據各種參數篩選已搜尋的資產。*
 
-* 資產狀態：使用 `Approved`。 `Rejected`或 `No Status` 資產狀態。
+* 資產狀態：使用 `Approved`、`Rejected` 或 `No Status` 資產狀態來篩選搜尋結果。
 
 * 檔案類型：依照支援的檔案類型篩選搜尋結果，也就是 `Images`、`Documents` 和 `Videos`。
 * MIME 類型：篩選一個或更多支援的檔案格式。<!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
