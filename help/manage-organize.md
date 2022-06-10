@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '901'
-ht-degree: 100%
+source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
+workflow-type: tm+mt
+source-wordcount: '992'
+ht-degree: 92%
 
 ---
 
@@ -108,19 +108,16 @@ Assets Essentials 可讓您在存放庫中設定可用資產的狀態。設定�
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
-### Set asset expiration date {#set-asset-expiration-date}
+### 設定資產到期日期 {#set-asset-expiration-date}
 
-To set asset expiration date:
+要設定資產到期日期，請執行以下操作：
 
-1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+1. 請選取資產，並按一下工具列中的「**[!UICONTROL 詳細資訊]**」。
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+1. 在 **[!UICONTROL 基本]** 頁籤  **[!UICONTROL 到期日期]** 的子菜單。
 
-The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
+的 `Expired` 資產卡指示符覆蓋 `Approved` 或 `Rejected` 指標集。
 
 您還可以根據資產狀態篩選資產，如需更多資訊，請參閱「[在 Assets Essentials 中搜尋資產](search.md)」。
 
@@ -136,13 +133,9 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 若要將資產狀態中繼資料欄位新增至表單，請將「**[!UICONTROL 資產狀態]**」元件從左側邊欄拖曳至表單。對應屬性會自動預先填入。儲存表單以確認變更。
 
-<!--
+**將到期日期元資料欄位添加到表單**
 
-**Add Expiration Date metadata field to the form**
-
-To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
+要將「到期日期」元資料欄位添加到窗體，請拖動 **[!UICONTROL 日期]** 從左滑軌到窗體的元件。 指定 **到期日期** 的 `pur:expirationDate` 映射屬性。 儲存表單以確認變更。
 
 ## 後續步驟 {#next-steps}
 
