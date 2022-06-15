@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -58,11 +58,11 @@ Assets Essentials 可提供下列自訂篩選器：
      </tr>
      <tr>
       <td>標題</td>
-      <td>使用該資產標題來篩選資產。可以使用通配符運算子(*)使Assets Essentials能夠在部分匹配搜索條件的結果中顯示資產。 例如，如果 <b>媽的</b> 作為搜索標準，Assets Essentials在結果中顯示帶有標題的資產，如市場、市場營銷、人、曼徹斯特等。</td>
+      <td>使用該資產標題來篩選資產。您可以使用萬用字元運算子 (*)，使 Assets Essentials 能夠在部分符合搜尋條件的結果中顯示資產。例如，如果您將 <b>ma*</b> 定義為搜尋條件，Assets Essentials 便會在結果中顯示具有 market、marketing、man、manchester 等標題的資產。</td>
      </tr>
      <tr>
       <td>名稱</td>
-      <td>使用該資產檔名來篩選資產。可以使用通配符運算子(*)使Assets Essentials能夠在部分匹配搜索條件的結果中顯示資產。</td>
+      <td>使用該資產檔名來篩選資產。您可以使用萬用字元運算子 (*)，使 Assets Essentials 能夠在部分符合搜尋條件的結果中顯示資產。</td>
      </tr>
      <tr>
       <td>資產大小</td>
@@ -70,7 +70,7 @@ Assets Essentials 可提供下列自訂篩選器：
      </tr>
      <tr>
       <td>預測標記</td>
-      <td>使用該資產智慧標記來篩選資產。可以使用通配符運算子(*)使Assets Essentials能夠在部分匹配搜索條件的結果中顯示資產。 可以在搜索條件中指定多個以逗號分隔的智慧標籤。</td>
+      <td>使用該資產智慧標記來篩選資產。您可以使用萬用字元運算子 (*)，使 Assets Essentials 能夠在部分符合搜尋條件的結果中顯示資產。您可以在搜尋條件中指定多個智慧標記 (以逗號分隔)。</td>
      </tr>    
     </tbody>
    </table>
