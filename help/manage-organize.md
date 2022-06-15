@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '992'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -102,22 +102,22 @@ Assets Essentials 可讓您在存放庫中設定可用資產的狀態。設定�
 
 若要設定資產狀態：
 
-1. 請選取資產，並按一下工具列中的「**[!UICONTROL 詳細資訊]**」。
+1. 選取該資產，然後按一下工具列中的「**[!UICONTROL 詳細資料]**」。
 
 1. 在&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤中，從&#x200B;**[!UICONTROL 狀態]**&#x200B;下拉式清單中選取資產狀態。可能的值包括「已核准」、「已拒絕」以及「無狀態」(預設)。
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
 
-### 設定資產到期日期 {#set-asset-expiration-date}
+### 設定資產到期日 {#set-asset-expiration-date}
 
-要設定資產到期日期，請執行以下操作：
+若要設定資產到期日：
 
-1. 請選取資產，並按一下工具列中的「**[!UICONTROL 詳細資訊]**」。
+1. 選取該資產，然後按一下工具列中的「**[!UICONTROL 詳細資料]**」。
 
-1. 在 **[!UICONTROL 基本]** 頁籤  **[!UICONTROL 到期日期]** 的子菜單。
+1. 在「**[!UICONTROL 基本]**」標籤中，使用「**[!UICONTROL 到期日]**」欄位設定資產的到期日。
 
-的 `Expired` 資產卡指示符覆蓋 `Approved` 或 `Rejected` 指標集。
+`Expired` 資產卡指標便會覆寫為資產所設定的 `Approved` 或 `Rejected` 指標。
 
 您還可以根據資產狀態篩選資產，如需更多資訊，請參閱「[在 Assets Essentials 中搜尋資產](search.md)」。
 
@@ -133,9 +133,9 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 若要將資產狀態中繼資料欄位新增至表單，請將「**[!UICONTROL 資產狀態]**」元件從左側邊欄拖曳至表單。對應屬性會自動預先填入。儲存表單以確認變更。
 
-**將到期日期元資料欄位添加到表單**
+**將到期日中繼資料欄位新增至表單**
 
-要將「到期日期」元資料欄位添加到窗體，請拖動 **[!UICONTROL 日期]** 從左滑軌到窗體的元件。 指定 **到期日期** 的 `pur:expirationDate` 映射屬性。 儲存表單以確認變更。
+若要將到期日中繼資料欄位新增至表單，請將「**[!UICONTROL 日期]**」元件從左側邊欄拖曳至表單。將「**到期日**」指定為標籤，並將 `pur:expirationDate` 指定為對應屬性。儲存表單以確認變更。
 
 ## 後續步驟 {#next-steps}
 
