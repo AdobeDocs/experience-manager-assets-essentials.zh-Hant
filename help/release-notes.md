@@ -4,14 +4,67 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
-workflow-type: ht
-source-wordcount: '761'
-ht-degree: 100%
+source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
+workflow-type: tm+mt
+source-wordcount: '889'
+ht-degree: 86%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
+
+當前版本 [!DNL Assets Essentials] 於2022年6月16日公佈。
+
+此版本提供：
+
+**資產狀態增強**
+
+* Assets Essentials現在讓你 [設定資產的到期日期](manage-organize.md#set-asset-status)。 此外，您 [篩選資產](search.md#refine-search-results) 基於 `Expired` 資產狀態和到期日期範圍。
+
+* 您現在可以查看垃圾中所有可用資產的資產狀態指示符。 因此，您可以根據資產的狀態做出恢復資產的決定。
+
+**搜索篩選器增強**
+
+* Assets Essentials現在讓你 [篩選資產](search.md#refine-search-results) 使用 `No Status` 資產狀態。
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**集合增強**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* Assets Essentials現在支援 [下載集合](manage-collections.md)。
+
+* 現在，您可以編輯集合的「說明」元資料欄位。
+
+**文檔增強**
+
+* 新版本的 [Assets Essentials概述文檔](introduction.md) 的子菜單。
+
+**基於客戶反饋的改進**
+
+* 根據客戶意見回應進行的增強功能和錯誤修正。
+
+
+## 已知問題 {#known-issues}
+
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+
+* Assets Essentials 並不支援建立「私人收藏集」。
+
+如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
+
+## 舊版本 {#past-release}
+
+### 2022.4.0 {#april-2022}
 
 目前版本的 [!DNL Assets Essentials] 於 2022 年 5 月 12 日發行。此版本提供：
 
@@ -23,25 +76,13 @@ ht-degree: 100%
 
 * 根據客戶意見回應進行的增強功能和錯誤修正。
 
-## Chrome 中的無痕模式 {#incognito-mode}
+#### Chrome 中的無痕模式 {#incognito-mode}
 
 在此版本中，我們將 UI 傳遞的效能和 Assets Essentials 中的特定功能 (對資產和影像編輯進行評論) 最佳化，會依據瀏覽器本機儲存空間和啟用的協力廠商 cookie 而定。預設情況下，Chrome 網頁瀏覽器中的無痕模式會封鎖協力廠商 cookie，使用者若要繼續存取所有功能，有多種選項。
 
 * 當使用者需要將瀏覽器工作階段分開時，可使用 Chrome 設定檔代替無痕模式。
 
 * 請關閉 Chrome 中無痕模式畫面上的 `Block third-party cookies`
-
-## 已知問題 {#known-issues}
-
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
-
-* 您無法使用 `No Status` 資產狀態來篩選資產。
-
-* Assets Essentials 並不支援建立「私人收藏集」。
-
-如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
-
-## 舊版本 {#past-release}
 
 ### 2022.2.0 {#march-2022}
 
