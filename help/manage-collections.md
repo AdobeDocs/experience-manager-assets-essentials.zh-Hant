@@ -2,7 +2,7 @@
 title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 91%
@@ -33,7 +33,7 @@ You can share collections with various users that are assigned different levels 
 
 * [檢視和編輯收藏集中繼資料](#view-edit-collection-metadata)
 
-* [下載收藏集元素](#download-collection-elements)
+* [下載收藏集](#download-collection)
 
 * [刪除收藏集](#delete-collection)
 
