@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -111,7 +111,7 @@ Assets Essentials 可讓您在存放庫中設定可用資產的狀態。設定�
 
 ### 設定資產到期日 {#set-asset-expiration-date}
 
-Assets Essentials還允許您設定儲存庫中可用資產的到期日期。 你可以 [過濾搜索結果](search.md#refine-search-results) 基於 `Expired` 資產狀態。 此外，您還可以為資產指定到期日期範圍，以進一步篩選搜索結果。
+Assets Essentials 也可讓您在存放庫中設定可用資產的有效日期。 您可以[](search.md#refine-search-results) 根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的有效日期範圍以進一步篩選搜尋結果。
 
 若要設定資產到期日：
 
