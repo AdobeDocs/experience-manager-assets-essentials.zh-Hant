@@ -3,9 +3,9 @@ title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ You can share collections with various users that are assigned different levels 
 
 您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
-![集合](assets/collections.png)
+![收藏集](assets/collections.png)
 
 您可以執行下列任務以管理和使用收藏集：
 
@@ -47,7 +47,7 @@ You can share collections with various users that are assigned different levels 
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**&#x200B;以建立收藏集。
 
-![建立集合](assets/create-collection.png)
+![建立收藏集](assets/create-collection.png)
 
 <!--
 
@@ -113,7 +113,7 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 1. 使用&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤來檢視收藏集中繼資料。
 1. 修改中繼資料欄位 (如有必要)。您可以修改[!UICONTROL 標題]、[!UICONTROL 說明]以及[!UICONTROL 作者]欄位。
 
-![集合元資料](assets/collection-metadata.png)
+![收藏集中繼資料](assets/collection-metadata.png)
 
 ## 共用收藏集的連結 {#share-collection-links}
 
@@ -125,15 +125,15 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 ## 下載收藏集 {#download-collection}
 
-要下載集合，請執行以下操作：
+若要下載收藏集：
 
 1. 按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**。
 
-1. 選擇要下載的集合，然後按一下 **[!UICONTROL 下載]**。
+1. 選取您需要下載的收藏集，然後按一下&#x200B;**[!UICONTROL 下載]**。
 
-1. 在 [!UICONTROL 正在下載資產] 對話框，按一下 **[!UICONTROL 確定]**。
+1. 在[!UICONTROL 下載資產]對話框中，按一下&#x200B;**[!UICONTROL 確定]**。
 
-該集合以.ZIP檔案形式下載到本地電腦上。
+收藏集會下載成您本機電腦的 .ZIP 檔案。
 
 ## 刪除收藏集 {#delete-collection}
 
