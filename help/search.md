@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,12 +37,12 @@ ht-degree: 91%
 * 檔案類型：依照支援的檔案類型篩選搜尋結果，也就是 `Images`、`Documents` 和 `Videos`。
 * MIME 類型：篩選一個或更多支援的檔案格式。<!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * 影像大小：提供一個或更多最小和最大尺寸，以篩選影像。以尺寸 (像素) 提供大小，而非影像的檔案大小。
-* 建立日期：元資料中提供的資產的建立日期。 使用的標準日期格式為 `yyyy-mm-dd`。
+* 建立日期：資產的建立日期如中繼資料中所提供。使用的標準日期格式為 `yyyy-mm-dd`。
 * 修改日期：上次修改資產的日期。使用的標準日期格式為 `yyyy-mm-dd`。
 
-* 到期日期：根據 `Expired` 資產狀態。 此外，您還可以為資產指定到期日期範圍，以進一步篩選搜索結果。
+* 有效日期：根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的有效日期範圍以進一步篩選搜尋結果。
 
-* 自定義篩選器： [添加自定義篩選器](#custom-filters) 到Assets Essentials用戶介面。 除了標準篩選器外，還應用自定義篩選器以細化搜索結果。
+* 自訂篩選器：[在](#custom-filters) Assets Essentials 使用者介面新增自訂篩選器。除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
 您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
 
