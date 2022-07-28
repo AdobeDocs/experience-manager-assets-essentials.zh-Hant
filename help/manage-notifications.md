@@ -1,10 +1,11 @@
 ---
 title: 管理通知
-description: '使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。 '
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
-workflow-type: tm+mt
+description: 使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。
+exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
+source-git-commit: 5d1e2ddd292f02cd9e2693e644886d2fcd053650
+workflow-type: ht
 source-wordcount: '576'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -59,17 +60,17 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
 
 要訂閱通知類別，請執行以下操作：
 
-1. 按一下 ![鈴表徵圖](assets/bell-icon.svg) 菜單欄的右端。
+1. 按一下 ![鈴表徵圖](assets/bell-icon.svg) 選單欄的右端。
 
-1. 按一下 ![設定表徵圖](assets/settings-icon.svg) 的 [!UICONTROL Experience Cloud首選項] 的子菜單。
+1. 按一下 ![設定表徵圖](assets/settings-icon.svg) 的 [!UICONTROL Experience Cloud首選項] 的子選單。
 
-1. 按一下 **[!UICONTROL 通知]** 的子菜單。
+1. 按一下 **[!UICONTROL 通知]** 的子選單。
 
-1. 在 **[!UICONTROL 通知]** 部分，導航至 [!UICONTROL Assets Essentials] 並確保切換選項已切換到「開啟」狀態。
+1. 在 **[!UICONTROL 通知]** 部分，瀏覽至 [!UICONTROL Assets Essentials] 並確保切換選項已切換到「開啟」狀態。
 
    ![Assets Essentials通知](assets/enable-notifications.png)
 
-1. 按一下 **[!UICONTROL 自定義]** 的子菜單。
+1. 按一下 **[!UICONTROL 自定義]** 的子選單。
    ![Assets Essentials通知](assets/enable-notification-categories.png)
 
 1. 選擇需要通知的通知類別。
@@ -84,9 +85,9 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
 
 要訂閱內容，請選擇需要訂閱的資料夾或資產，然後按一下 **[!UICONTROL 監視]**。
 
-Assets Essentials顯示成功資訊。 您可以按一下 **[!UICONTROL 轉到通知首選項]** 在成功消息上可用以編輯 [通知類別訂閱](#subscribe-to-notification-categories)。
+Assets Essentials顯示成功資訊。 您可以按一下 **[!UICONTROL 轉到通知首選項]** 在成功消息上可用以編輯[通知類別訂閱](#subscribe-to-notification-categories)。
 
-![Assets Essentials通知](assets/watch-assets.png)
+![Assets Essentials 通知](assets/watch-assets.png)
 
 Assets Essentials現在發送訂閱類別的通知。 您還可以選擇多個資產或資料夾，然後按一下 **[!UICONTROL 監視]** 來節省時間。 但是，如果您選擇了多個實體，其中某些實體已訂閱，則 **[!UICONTROL 監視]** 選項。
 
@@ -94,13 +95,8 @@ Assets Essentials現在發送訂閱類別的通知。 您還可以選擇多個�
 
 ## 查看通知 {#view-notifications}
 
-通知顯示在Assets Essentials用戶介面的菜單欄的右端。
+通知顯示在Assets Essentials用戶介面的選單欄的右端。
 
 ![Assets Essentials通知](assets/notifications-assets-essentials.png)
 
-按一下通知後，Assets Essentials會將您導航到通知中引用的相應資產或資料夾。
-
-
-
-
-
+按一下通知後，Assets Essentials 會將您瀏覽到通知中引用的相應資產或資料夾。
