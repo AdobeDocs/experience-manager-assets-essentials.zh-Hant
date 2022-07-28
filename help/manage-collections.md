@@ -3,9 +3,9 @@ title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 096906eded35dc0a8c231534204bfc672c2430b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '686'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ You can share collections with various users that are assigned different levels 
 
 1. 如果需要建立私有集合或公共集合，請選擇。 公共集合可用於查看和編輯所有用戶。 但是，具有管理員權限的建立者和用戶可以使用專用集合。
 
-1. 按一下 **[!UICONTROL 建立]** 的子菜單。
+1. 按一下以&#x200B;**[!UICONTROL 建立]**&#x200B;下一個色標。
 
 ![建立收藏集](assets/create-collection.png)
 
@@ -71,23 +71,23 @@ You can share collections with various users that are assigned different levels 
 
 若要將資產新增到收藏集，您還可以按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，按一下要新增資產的收藏集，按一下&#x200B;**[!UICONTROL 新增至收藏集]**，選取資產並按一下&#x200B;**[!UICONTROL 選取]**。
 
-## 建立智慧集合 {#create-smart-collection}
+## 建立 Smart Collection {#create-smart-collection}
 
-將搜索結果另存為智慧集合以動態更新集合內容。 如果向Assets Essentials儲存庫添加的資產符合建立智慧集合時定義的搜索條件，則智慧集合的內容將自動更新。
+將搜索結果另存為 Smart Collection 以動態更新集合內容。 如果向 Assets Essentials 儲存庫添加的資產符合建立 Smart Collection 時定義的搜索條件，則 Smart Collection 的內容將自動更新。
 
-要建立智慧集合：
+若要建立 Smart Collection：
 
-1. 按一下 **[!UICONTROL 篩選]** 和 [定義搜索標準](search.md##refine-search-results)。
+1. 按一下 **[!UICONTROL 篩選]** 和[定義搜索標準](search.md##refine-search-results)。
 
-1. 按一下 **[!UICONTROL 另存為]** ，然後選擇 **[!UICONTROL 智慧集合]**。
+1. 按一下 **[!UICONTROL 另存為]** ，然後選擇 **[!UICONTROL Smart Collection]**。
 
-1. 在 [!UICONTROL 建立智慧集合] 的子菜單。
+1. 在 [!UICONTROL 建立 Smart Collection] 的子選單。
 
-1. 選擇 **[!UICONTROL 公共集合]** 的子菜單。 選擇 **[!UICONTROL 私有集合]** 如果需要一組有限的用戶才能訪問集合。
+1. 選擇 **[!UICONTROL 公共集合]** 的子選單。 選擇 **[!UICONTROL 私有集合]** 如果需要一組有限的用戶才能訪問集合。
 
-1. 按一下 **[!UICONTROL 建立]** 的子菜單。
+1. 按一下 **[!UICONTROL 建立]**&#x200B;建立 Smart Collection。
 
-![建立智慧集合](assets/create-smart-collection.png)
+![建立 Smart Collection](assets/create-smart-collection.png)
 
 
 ## 從收藏集移除資產 {#remove-assets-from-collection}
@@ -170,4 +170,4 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
