@@ -3,10 +3,10 @@ title: 將資產上傳到存放庫
 description: 上傳資產到  [!DNL Assets Essentials]、檢視上傳狀態和解決上傳問題。
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '810'
-ht-degree: 100%
+source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 100%
 
 *圖：上傳選取的資產前，您可以從佇列新增或移除資產。*
 
->[!CAUTION]
+>[!TIP]
 >
->使用在檔案名稱中沒有空白字元的資產。評論的回覆不適用於此類資產。
+>如果您將資料夾結構上載到Assets Essentials，則無需使用資料夾結構建立.ZIP檔案，您可以直接上載資料夾結構。 上載到Assets Essentials的.ZIP檔案儲存為一個ZIP資產，在上載後不會自動提取。
 
 ## 檢視上傳進度和狀態 {#upload-progress}
 
@@ -104,4 +104,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
