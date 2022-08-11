@@ -4,9 +4,9 @@ description: 上傳資產到  [!DNL Assets Essentials]、檢視上傳狀態和�
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '839'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您將資料夾結構上載到Assets Essentials，則無需使用資料夾結構建立.ZIP檔案，您可以直接上載資料夾結構。 上載到Assets Essentials的.ZIP檔案儲存為一個ZIP資產，在上載後不會自動提取。
+>如果您將資料夾結構上傳到 Assets Essentials，則無需建立具有該資料夾結構的 .ZIP 檔案，您可以直接上傳資料夾結構。上傳到 Assets Essentials 的 .ZIP 檔案會儲存為一個 ZIP 資產，上傳後也不會自動解壓縮。
 
 ## 檢視上傳進度和狀態 {#upload-progress}
 
