@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
-workflow-type: ht
-source-wordcount: '491'
-ht-degree: 100%
+source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
+workflow-type: tm+mt
+source-wordcount: '712'
+ht-degree: 83%
 
 ---
 
@@ -21,17 +21,29 @@ ht-degree: 100%
 
 Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Essentials 環境的即時資料。 您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
-![選取資產時可用的工具列選項](assets/asset-reports-live-statistics.png)
+![選取資產時可用的工具列選項](assets/assets-essentials-live-statistics.png)
 
-瀏覽到 **[!UICONTROL 設定]** > **[!UICONTROL 即時統計]** 查看自動生成的下載資料。
+導航到 **[!UICONTROL 設定]** > **[!UICONTROL 即時統計]** 要查看以下自動生成的圖表：
 
-## 建立報告 {#create-report}
+* **下載**:過去30天或12個月從Assets Essentials環境下載的資產數量，用折線圖表示。
 
-若要建立報告：
+* **上載**:過去30天或12個月內上傳到Assets Essentials環境的資產數量，用折線圖表示。
+
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
+
+## 建立下載報告 {#create-download-report}
+
+要建立下載報告：
 
 1. 瀏覽到 **[!UICONTROL 設定]** > **[!UICONTROL 報告]** 按一下 **[!UICONTROL 建立報告]**。
 
-1. 在 [!UICONTROL 配置] 頁籤，為報告指定標題和可選說明。
+1. 在 [!UICONTROL 配置] 頁籤，將報告類型指定為 **[!UICONTROL 下載]**。
+
+1. 指定報表的標題和可選說明。
 
 1. 使用 **[!UICONTROL 選擇資料夾路徑]** 的子選單。
 
@@ -60,7 +72,7 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
       <td>資產在 Assets Essentials 可用的資料夾路徑。</td>
      </tr>
      <tr>
-      <td>類型</td>
+      <td>MIME類型</td>
       <td>資產的 MIME 類型。</td>
      </tr>
      <tr>
@@ -95,6 +107,69 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
       <td>按用戶名下載</td>
       <td>下載資產的用戶的名稱。</td>
      </tr>           
+    </tbody>
+   </table>
+
+## 建立上載報告 {#create-upload-report}
+
+要建立「上載」報告，請執行以下操作：
+
+1. 瀏覽到 **[!UICONTROL 設定]** > **[!UICONTROL 報告]** 按一下 **[!UICONTROL 建立報告]**。
+
+1. 在 [!UICONTROL 配置] 頁籤，將報告類型指定為 **[!UICONTROL 上載]**。
+
+1. 指定報表的標題和可選說明。
+
+1. 使用 **[!UICONTROL 選擇資料夾路徑]** 的子選單。
+
+1. 選擇報告的日期間隔。
+
+1. 在 [!UICONTROL 列] 頁籤，選擇需要在報告中顯示的列名。
+
+1. 按一下&#x200B;**[!UICONTROL 建立]**。
+
+   ![上載報告](assets/upload-reports-config.png)
+
+下表說明了可添加到報告的所有列的使用：
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>資料行名稱</strong></th>
+      <th><strong>說明</strong></th>
+     </tr>
+     <tr>
+      <td>標題</td>
+      <td>輸入資產的標題。</td>
+     </tr>
+     <tr>
+      <td>路徑</td>
+      <td>資產在 Assets Essentials 可用的資料夾路徑。</td>
+     </tr>
+     <tr>
+      <td>MIME類型</td>
+      <td>資產的 MIME 類型。</td>
+     </tr>
+     <tr>
+      <td>大小</td>
+      <td>資產的大小。</td>
+     </tr>
+     <tr>
+      <td>作者</td>
+      <td>資產的作者。</td>
+     </tr>
+     <tr>
+      <td>建立日期</td>
+      <td>資產上載到 Assets Essentials 的日期。</td>
+     </tr>
+     <tr>
+      <td>修改日期</td>
+      <td>上次修改資產的日期。</td>
+     </tr>
+     <tr>
+      <td>過期</td>
+      <td>資產的到期狀態。</td>
+     </tr>              
     </tbody>
    </table>
 

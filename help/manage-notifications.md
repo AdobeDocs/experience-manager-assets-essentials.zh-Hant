@@ -2,16 +2,16 @@
 title: 管理通知
 description: 使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 5d1e2ddd292f02cd9e2693e644886d2fcd053650
-workflow-type: ht
-source-wordcount: '576'
-ht-degree: 100%
+source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
+workflow-type: tm+mt
+source-wordcount: '585'
+ht-degree: 77%
 
 ---
 
 # 管理通知 {#manage-notifications}
 
-Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料夾執行的操作。 您需要選擇並訂閱將通知發送給您的內容。 您還可以配置通知發送給您的類別。
+Assets Essentials通知使您能夠監視對儲存庫中可用的資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。 您還可以配置通知發送給您的類別。
 
 ## 訂閱通知類別 {#subscribe-to-notification-categories}
 
@@ -37,11 +37,11 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
      </tr>
      <tr>
       <td>刪除訂閱的內容</td>
-      <td>當用戶刪除您訂閱的資產或資料夾時，您會收到通知。</td>
+      <td>當用戶刪除您訂閱的資產、資料夾或集合時，您會收到通知。</td>
      </tr>
      <tr>
       <td>訂閱內容的外部共用</td>
-      <td>當用戶為您訂閱的資產或資料夾生成公共連結時，您會收到通知。</td>
+      <td>當用戶為訂閱的資產、資料夾或集合生成公共連結時，您會收到通知。</td>
      </tr>
      <tr>
       <td>修改訂閱內容</td>
@@ -53,7 +53,7 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
      </tr>
      <tr>
       <td>訂閱資料夾和集合的更新</td>
-      <td>當用戶添加或從訂閱資料夾中刪除資產時，您會收到通知。</td>
+      <td>當用戶添加或刪除訂閱資料夾或集合中的資產時，您會收到通知。</td>
      </tr>    
     </tbody>
    </table>
@@ -75,7 +75,7 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
 
 1. 選擇需要通知的通知類別。
 
-## 監視和取消監視資料夾或資產 {#watch-unwatch-assets}
+## 監視和取消監視資料夾、資產或集合 {#watch-unwatch-assets}
 
 之後 [訂閱通知類別](#subscribe-to-notification-categories)，您必須訂閱內容才能開始接收通知。
 
@@ -83,15 +83,15 @@ Assets Essentials通知使您能夠監視對儲存庫中可用的資產或資料
 >
 >對於 **[!UICONTROL 請求]** 和 **[!UICONTROL 分配給我]** 通知類別，您在訂閱通知類別後不需要訂閱內容。 系統會在您建立的請求以及將任務分配給您時，自動將通知發送給您。
 
-要訂閱內容，請選擇需要訂閱的資料夾或資產，然後按一下 **[!UICONTROL 監視]**。
+要訂閱內容，請選擇需要訂閱的資料夾、資產或集合，然後按一下 **[!UICONTROL 監視]**。
 
 Assets Essentials顯示成功資訊。 您可以按一下 **[!UICONTROL 轉到通知首選項]** 在成功消息上可用以編輯[通知類別訂閱](#subscribe-to-notification-categories)。
 
 ![Assets Essentials 通知](assets/watch-assets.png)
 
-Assets Essentials現在發送訂閱類別的通知。 您還可以選擇多個資產或資料夾，然後按一下 **[!UICONTROL 監視]** 來節省時間。 但是，如果您選擇了多個實體，其中某些實體已訂閱，則 **[!UICONTROL 監視]** 選項。
+Assets Essentials現在發送訂閱類別的通知。 您還可以選擇多個資產、資料夾或集合，然後按一下 **[!UICONTROL 監視]** 來節省時間。 但是，如果您選擇了多個實體，其中某些實體已訂閱，則 **[!UICONTROL 監視]** 選項。
 
-同樣，要取消訂閱，請選擇您已訂閱的資產或資料夾，然後按一下 **[!UICONTROL 取消監視]**。
+同樣，要取消訂閱，請選擇您已訂閱的資產、資料夾或集合，然後按一下 **[!UICONTROL 取消監視]**。
 
 ## 查看通知 {#view-notifications}
 
