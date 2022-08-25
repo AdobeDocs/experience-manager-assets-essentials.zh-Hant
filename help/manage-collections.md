@@ -3,9 +3,9 @@ title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '752'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ You can share collections with various users that are assigned different levels 
 
 * [將資產新增至收藏集](#add-assets-to-collection)
 
-* [建立 Smart Collection](#create-smart-collection)
+* [建立智慧型集合](#create-smart-collection)
 
-* [編輯智慧集合](#edit-smart-collection)
+* [編輯智慧型集合](#edit-smart-collection)
 
 * [從收藏集移除資產](#remove-assets-from-collection)
 
@@ -77,11 +77,11 @@ You can share collections with various users that are assigned different levels 
 
 若要將資產新增到收藏集，您還可以按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，按一下要新增資產的收藏集，按一下&#x200B;**[!UICONTROL 新增至收藏集]**，選取資產並按一下&#x200B;**[!UICONTROL 選取]**。
 
-## 管理智慧集合 {#manage-smart-collection}
+## 管理智慧型集合 {#manage-smart-collection}
 
 將搜索結果另存為 Smart Collection 以動態更新集合內容。 如果向 Assets Essentials 儲存庫添加的資產符合建立 Smart Collection 時定義的搜索條件，則 Smart Collection 的內容將自動更新。
 
-### 建立 Smart Collection {#create-smart-collection}
+### 建立智慧型集合 {#create-smart-collection}
 
 若要建立 Smart Collection：
 
@@ -89,7 +89,7 @@ You can share collections with various users that are assigned different levels 
 
 1. 按一下 **[!UICONTROL 另存為]** ，然後選擇 **[!UICONTROL Smart Collection]**。
 
-   ![建立 Smart Collection](assets/create-smart-collection.png)
+   ![建立智慧型集合](assets/create-smart-collection.png)
 
 1. 在 [!UICONTROL 建立 Smart Collection] 的子選單。
 
@@ -97,15 +97,15 @@ You can share collections with various users that are assigned different levels 
 
 1. 按一下 **[!UICONTROL 建立]**&#x200B;建立 Smart Collection。
 
-### 編輯智慧集合 {#edit-smart-collection}
+### 編輯智慧型集合 {#edit-smart-collection}
 
-要編輯Smart Collection:
+若要編輯智慧型集合：
 
-1. 按一下 **[!UICONTROL 集合]** ，然後按兩下需要編輯的集合的名稱。
+1. 按一下左邊欄中的&#x200B;**[!UICONTROL 集合]**，然後按兩下您要編輯集合的名稱。
 
-1. 按一下 **[!UICONTROL 編輯智慧集合]**。
+1. 按一下&#x200B;**[!UICONTROL 編輯智慧型集合]**。
 
-1. 在 [!UICONTROL 編輯智慧集合篩選器] 對話框， [更新搜索條件](search.md##refine-search-results) 的子菜單。
+1. 在「[!UICONTROL 編輯智慧型集合篩選器]」對話方塊中，更新智慧型集合的 [搜尋條件](search.md##refine-search-results)。
 
 1. 按一下「**[!UICONTROL 儲存]**」。
 
