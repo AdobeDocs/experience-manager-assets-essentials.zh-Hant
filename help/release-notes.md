@@ -7,23 +7,23 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
 workflow-type: tm+mt
 source-wordcount: '1269'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-本版Assets Essentials於2022年8月22日發佈。
+目前版本的 Assets Essentials 於 2022 年 8 月 22 日發行。
 
 此版本提供：
 
-**集合的通知**
+**集合通知**
 
-Assets Essentials通知現在使您能夠監視對儲存庫中可用的集合執行的操作。 您需要選擇並訂閱將通知發送給您的集合。 您還可以配置發送通知的操作，如刪除、共用連結、移動、更名和更新對集合執行的操作。
+Assets Essentials 通知可讓您監視對存放庫中可用集合執行的操作。 您需要選擇並訂閱向您傳送通知的集合。 您還可以配置傳送通知的操作，例如在集合上執行的刪除、共用連結、移動、重新命名和更新操作。
 
-**編輯智慧集合**
+**編輯智慧型集合**
 
-Assets Essentials現在還提供編輯建立智慧集合時使用的搜索條件的功能。  保存新搜索條件以動態更新收集內容。
+Assets Essentials 現在還提供在建立智慧型集合時編輯搜尋條件的功能。儲存新的搜尋條件以動態更新集合內容。
 
 <!--
 
@@ -33,9 +33,9 @@ Assets Essentials now also enables you to view real-time storage account data fo
 
 -->
 
-**查看上載報告**
+**查看上傳報告**
 
-資產報告現在使管理員能夠查看上載到Adobe Experience Manager Assets Essentials部署的資產。 管理員已經能夠為從Assets Essentials部署下載的資產生成報告。 此資料提供有關用戶如何與內容和產品互動的有用資訊。
+現在資產報告可讓管理員查看上傳到 Adobe Experience Manager Assets Essentials 部署的資產。 管理員已經能為從 Assets Essentials 部署下載的資產生成報告。此資料提供有關用戶如何與內容和產品互動的有用資訊。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -61,7 +61,7 @@ Assets Essentials now also enables you to view real-time storage account data fo
 
 ### 2022.6.0 {#june-2022}
 
-6月份 [!DNL Assets Essentials] 於2022年7月14日公佈。
+[!DNL Assets Essentials] 的六月版本於 2022 年 7 月 14 日發行。
 
 此版本提供：
 
@@ -81,7 +81,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 ### 2022.5.0 {#may-2022}
 
-5月份 [!DNL Assets Essentials] 於2022年6月16日公佈。
+[!DNL Assets Essentials] 的五月版本於 2022 年 6 月 16 日發行。
 
 此版本提供：
 
