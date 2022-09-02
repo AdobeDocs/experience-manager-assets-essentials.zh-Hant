@@ -4,10 +4,10 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
-workflow-type: ht
-source-wordcount: '1269'
-ht-degree: 100%
+source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
+workflow-type: tm+mt
+source-wordcount: '1312'
+ht-degree: 96%
 
 ---
 
@@ -25,13 +25,9 @@ Assets Essentials 通知可讓您監視對存放庫中可用集合執行的操�
 
 Assets Essentials 現在還提供在建立智慧型集合時編輯搜尋條件的功能。儲存新的搜尋條件以動態更新集合內容。
 
-<!--
+**查看儲存帳戶的即時統計資訊**
 
-**View live statistics for storage account**
-
-Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
-
--->
+Assets Essentials現在也可讓您使用「即時統計」控制面板，檢視Assets Essentials環境的即時儲存帳戶資料。 您可以檢視過去30天或過去12個月的即時事件量度。
 
 **查看上傳報告**
 
