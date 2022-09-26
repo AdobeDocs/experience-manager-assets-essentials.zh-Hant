@@ -10,7 +10,7 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -44,4 +44,4 @@ ht-degree: 100%
 + [管理通知](manage-notifications.md)
 + [管理報告](manage-reports.md)
 + [和其他解決方案整合](integration.md)
-+ [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
