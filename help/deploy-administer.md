@@ -4,9 +4,9 @@ description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類�
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1331'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 82%
 
 以下資料流程圖說明管理員為了設定和管理 Assets Essentials 所必須執行的一系列工作：
 
-![部署Assets Essentials](assets/deploy-assets-essentials.svg)
+![部署 Assets Essentials](assets/deploy-assets-essentials.svg)
 
 ## 存取 Admin Console {#access-admin-console}
 
@@ -25,35 +25,35 @@ ht-degree: 82%
 
 從電子郵件中的連結，存取和登入 [Admin Console](https://adminconsole.adobe.com)。如果您擁有一個以上的組織帳戶的管理員存取權，請選取合適的組織，或使用[組織選擇器](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)切換至該組織。自動部署程序完成後，[!DNL AEM Assets Essentials] 的產品卡會在 [!DNL Admin Console] 中顯示。
 
-使用Admin Console執行以下用戶權限任務：
+使用 Admin Console 執行以下使用者授權工作：
 
-* [建立Assets Essentials應用程式管理員](#create-assets-essentials-administrator)
+* [建立 Assets Essentials 應用程式管理員](#create-assets-essentials-administrator)
 
 * [新增使用者群組](#add-user-groups)
 
-* [新增使用者群組至產品設定檔](#add-users-to-product-profiles)
+* [將使用者群組新增至產品設定檔](#add-users-to-product-profiles)
 
 ![Assets Essentials 部署](assets/admin-console-cards.png)
 
-### 建立Assets Essentials應用程式管理員 {#create-assets-essentials-administrator}
+### 建立 Assets Essentials 應用程式管理員 {#create-assets-essentials-administrator}
 
-Admin Console管理員必須新增Assets Essentials應用程式管理員，以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單以及建立公開集合。 如需如何將使用者或使用者群組指派給Assets Essentials應用程式管理員設定檔的詳細資訊，請參閱 [將使用者新增至產品設定檔](#add-users-to-product-profiles).
+Admin Console 管理員必須新增 Assets Essentials 應用程式管理員來管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單和建立公開收藏集。有關如何將使用者或使用者群組指派到 Assets Essentials 應用程式管理員設定檔的資訊，請參閱[將使用者新增到產品設定檔](#add-users-to-product-profiles)。
 
 ### 新增使用者群組 {#add-user-groups}
 
 建立使用者群組，然後將使用者指派至使用者群組。這些使用者群組可用於在 Assets Essentials 應用程式中設定檔案夾的權限。
 
-如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/enterprise/using/user-groups.html)中取得)。
+如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)中取得)。
 
 >[!NOTE]
 >
->如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/enterprise/using/users.html)。
+>如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)。
 
-如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
+如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
 
-### 新增使用者群組至產品設定檔 {#add-users-to-product-profiles}
+### 將使用者群組新增至產品設定檔 {#add-users-to-product-profiles}
 
-將使用者群組新增至產品設定檔，以便他們能存取Assets Essentials應用程式。
+將使用者群組新增至產品設定檔，讓使用者能存取 Assets Essentials 應用程式。
 
 若要將使用者群組新增至產品設定檔：
 
@@ -70,11 +70,11 @@ Admin Console管理員必須新增Assets Essentials應用程式管理員，以�
 
    * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。這些使用者可以上傳、組織、標記和尋找數位資產。
 
-   * **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)中)
+   * **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)中)
 
    ![Admin Console 管理員設定檔](assets/admin-console-admin-profile.png)
 
-1. 若要新增使用者群組至產品，請按一下三個Assets Essentials產品設定檔中的其中一個，選取 **[!UICONTROL 添加用戶]**，提供使用者群組詳細資訊，然後按一下 **[!UICONTROL 儲存]**.
+1. 若要將使用者群組新增到產品，請按一下三個 Assets Essentials 產品設定檔之一、選取「**[!UICONTROL 新增使用者]**」、提供使用者群組詳細資料，然後按一下「**[!UICONTROL 儲存]**」。
 
    ![新增使用者管理員設定檔](assets/add-users-admin-profile.png)
 
@@ -84,9 +84,9 @@ Admin Console管理員必須新增Assets Essentials應用程式管理員，以�
    >
    >您必須將使用者新增到 Admin Console 中的管理員 Assets Essentials 產品設定檔，他們才能在 Assets Essentials 應用程式中執行管理工作。這些工作包括[建立檔案夾結構](#create-folder-structure)、[管理檔案夾權限](#manage-permissions-for-folders)和[設定中繼資料表單](#metadata-forms)。
 
-## 存取Assets Essentials應用程式 {#access-assets-essentials-application}
+## 存取 Assets Essentials 應用程式 {#access-assets-essentials-application}
 
-在Admin Console中執行使用者權益後，您可以存取Assets Essentials應用程式以執行下列工作：
+在 Admin Console 中執行使用者授權後，您可以存取 Assets Essentials 應用程式以執行以下工作：
 
 * [建立檔案夾結構](#create-folder-structure)
 
@@ -96,7 +96,7 @@ Admin Console管理員必須新增Assets Essentials應用程式管理員，以�
 
 * [設定中繼資料表單](#metadata-forms)
 
-* [建立公開集合](#create-public-collections)
+* [建立公開收藏集](#create-public-collections)
 
 ### 建立檔案夾結構 {#create-folder-structure}
 
@@ -106,7 +106,7 @@ Admin Console管理員必須新增Assets Essentials應用程式管理員，以�
 
 * 按一下工具列中的&#x200B;**[!UICONTROL 新增資產]**&#x200B;選項，即可[上傳本機中現有的檔案夾結構](add-delete.md)。
 
-建立一個適合組織業務目標的檔案夾結構。如果您要將現有的檔案夾結構上傳到 Assets Essentials 存放庫，則應查看該結構。如需詳細資訊，請參閱 [有效管理權限的最佳資料夾結構實務](permission-management-best-practices.md##folder-structure-assets-essentials).
+建立一個適合組織業務目標的檔案夾結構。如果您要將現有的檔案夾結構上傳到 Assets Essentials 存放庫，則應查看該結構。如需詳細資訊，請參閱[有效權限管理的最佳檔案夾結構實務](permission-management-best-practices.md##folder-structure-assets-essentials)。
 
 您可以為您的組織使用多種可能的檔案夾結構類型。以下是一些典型的檔案夾結構範例：
 
@@ -118,9 +118,9 @@ Admin Console管理員必須新增Assets Essentials應用程式管理員，以�
 
 ### 上傳資產 {#upload-assets}
 
-若要新增要使用的新資產，請從您的本機檔案系統上傳一些資產。您可以在使用者介面上拖曳資產或資料夾，並依照畫面上的指示操作，或按一下 **[!UICONTROL 新增資產]** 選項，然後將某些檔案新增至「上傳」對話方塊。 雖然 [!DNL Assets Essentials] 提供強大的全文檢索搜尋功能，但您也可以使用資料夾更妥善組織您的資產。如需詳細資訊，請參閱 [上傳資產](add-delete.md).
+若要新增要使用的新資產，請從您的本機檔案系統上傳一些資產。您可以在使用者介面上拖放資產或檔案夾並按照畫面上的指示進行操作，或者點擊工具列中的「**[!UICONTROL 新增資產]**」選項並將一些檔案新增到上傳對話框。雖然 [!DNL Assets Essentials] 提供強大的全文搜尋功能，但您也可以使用檔案夾更妥善組織您的資產。如需詳細資訊，請參閱 [上傳資產](add-delete.md)。
 
-![上傳檔案和資料夾](assets/upload-assets.png)
+![上傳檔案和檔案夾](assets/upload-assets.png)
 
 ### 管理檔案夾的權限 {#manage-permissions-for-folders}
 
@@ -130,7 +130,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 如需詳細資訊，請參閱[管理檔案夾的權限](manage-permissions.md)。
 
-### 設定中繼資料表單 (可選) {#metadata-forms}
+### 設定中繼資料表單 (選用) {#metadata-forms}
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。您可以從頭開始建立表單，或改變現有表單的用途。
 
@@ -138,23 +138,23 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。
 
-如需詳細資訊，請參閱 [中繼資料表單](metadata.md#metadata-forms).
+如需詳細資訊，請參閱 [中繼資料表單](metadata.md#metadata-forms)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-如需中繼資料表單的詳細資訊，請參閱[Assets Essentials 中的中繼資料表單](metadata.md#metadata-forms)。
+如需中繼資料表單的詳細資訊，請參閱 [Assets Essentials 中的中繼資料表單](metadata.md#metadata-forms)。
 
-### 建立公用集合（可選） {#create-public-collections}
+### 建立公開收藏集 (選用) {#create-public-collections}
 
 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 
-和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。如需詳細資訊，請參閱 [管理集合](manage-collections.md).
+和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。如需詳細資訊，請參閱 [管理收藏集](manage-collections.md)。
 
 ![收藏集](assets/collections.png)
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在 Assets Essentials 中部署資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+* [觀看在 Assets Essentials 中部署資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=zh-Hant)
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
@@ -166,9 +166,9 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Admin Console] 說明](https://helpx.adobe.com/enterprise/using/admin-console.html)
->* [[!DNL Cloud Manager] 說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
->* [Adobe Journey Optimizer 文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)
+>* [[!DNL Admin Console] 說明](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)
+>* [[!DNL Cloud Manager] 說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hant)
+>* [Adobe Journey Optimizer 文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hant)
 >* [發行說明](release-notes.md)
 >* [開始使用 [!DNL Assets Essentials]](get-started.md)
 
