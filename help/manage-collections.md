@@ -3,15 +3,15 @@ title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '769'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # 管理收藏集 {#manage-collections}
 
-集合是Adobe Experience Manager Assets Essentials內的一組資產、資料夾或其他集合。 使用收藏集在使用者之間共用資產。
+收藏集指 Adob&#x200B;&#x200B;e Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。使用收藏集在使用者之間共用資產。
 
 和檔案夾不同，收藏集可包含來自不同位置的資產。
 
@@ -67,7 +67,7 @@ You can share collections with various users that are assigned different levels 
 
 若要將資產新增至收藏集：
 
-1. 按一下 **[!UICONTROL 資產]** 在左側邊欄中，並選取您需要新增至集合的資產。
+1. 按一下左側邊欄中的&#x200B;**[!UICONTROL 資產]**，然後選取您需要新增到收藏集的資產。
 
 1. 按一下&#x200B;**[!UICONTROL 新增至收藏集]**。
 
@@ -83,13 +83,13 @@ You can share collections with various users that are assigned different levels 
 
 1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，以檢視收藏集清單。
 
-1. 按一下集合，然後選取您需要從集合中移除的項目。
+1. 按一下收藏集，然後選取您需要從收藏集移除的項目。
 
 1. 按一下&#x200B;**[!UICONTROL 移除]**。
 
 ## 管理智慧型集合 {#manage-smart-collection}
 
-將搜索結果另存為 Smart Collection 以動態更新集合內容。 如果有資產新增至Assets Essentials存放庫，且符合建立智慧型集合時定義的搜尋條件，當您開啟智慧型集合時，智慧型集合的內容會自動更新。
+將搜尋結果另存為 Smart Collection 以動態更新收藏集內容。 如果新增到 Assets Essentials 存放庫的資產符合建立智慧型集合時定義的搜尋標準，則開啟智慧型集合時，其內容會自動更新。
 
 ### 建立智慧型集合 {#create-smart-collection}
 
@@ -115,7 +115,7 @@ You can share collections with various users that are assigned different levels 
 
 1. 按一下&#x200B;**[!UICONTROL 編輯智慧型集合]**。
 
-1. 在「[!UICONTROL 編輯智慧型集合篩選器]」對話方塊中，更新智慧型集合的 [搜尋條件](search.md##refine-search-results)。
+1. 在「[!UICONTROL 編輯智慧型集合篩選器]」對話方塊中，更新智慧型集合的[搜尋條件](search.md##refine-search-results)。
 
 1. 按一下「**[!UICONTROL 儲存]**」。
 
@@ -149,7 +149,7 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，選一個收藏集，然後按一下&#x200B;**[!UICONTROL 詳細資訊]**。
 1. 使用&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤來檢視收藏集中繼資料。
-1. 修改中繼資料欄位 (如有必要)。您可以修改 [!UICONTROL 標題] 和 [!UICONTROL 說明] 欄位。
+1. 修改中繼資料欄位 (如有必要)。您可以修改[!UICONTROL 標題]和[!UICONTROL 說明]欄位。
 
 ![收藏集中繼資料](assets/collection-metadata.png)
 
