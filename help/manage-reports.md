@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 ## 訪問報告 {#access-reports}
 
-指派給 [Assets Essentials管理員產品設定檔](deploy-administer.md) 可以存取「即時統計資料」控制面板，或在Assets Essentials中建立使用者定義的報表。
+分配給 [Assets Essentials 管理員產品設定檔](deploy-administer.md)的所有使用者可以存取「即時統計」儀表板或在 Assets Essentials 中建立使用者定義的報告。
 
 ## 查看即時統計資訊 {#view-live-statistics}
 
@@ -46,7 +46,7 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
 1. 選擇報告的日期間隔。
    >[!NOTE]
    >
-   > Assets Essentials會將所有當地時區轉換為協調通用時間(UTC)。
+   > Assets Essentials 會將所有本地時區轉換為世界協調時間 (UTC)。
 
 1. 在 [!UICONTROL 列] 頁籤，選擇需要在報告中顯示的列名。
 
@@ -76,7 +76,7 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
      </tr>
      <tr>
       <td>大小</td>
-      <td>資產的大小（以位元組為單位）。</td>
+      <td>資產位元組的大小。</td>
      </tr>
      <tr>
       <td>下載者</td>
@@ -174,7 +174,7 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
 
 ## 查看現有報告 {#view-report-list}
 
-之後[建立報告](#create-download-report)，您可以查看現有報告的清單並選擇以 CSV 格式下載或刪除它們。
+[建立報告](#create-download-report)之後，您可以查看現有報告的清單並選擇以 CSV 格式下載或刪除它們。
 
 要查看報告清單，請瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL 報告]**。
 
@@ -203,4 +203,4 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
 
 1. 選擇報告並按一下 **[!UICONTROL 刪除]**。
 
-1. 按一下 **[!UICONTROL 刪除]** 再次確認。
+1. 再按一次「**[!UICONTROL 刪除]**」以進行確認。
