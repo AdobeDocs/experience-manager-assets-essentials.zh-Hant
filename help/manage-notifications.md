@@ -3,9 +3,9 @@ title: 管理通知
 description: 使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '614'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -77,12 +77,12 @@ Assets Essentials 通知可讓您監視對存放庫中可用資產、資料夾�
 
 ## 監視和取消監視資料夾、資產或集合 {#watch-unwatch-assets}
 
-之後 [訂閱通知類別](#subscribe-to-notification-categories)，您必須訂閱內容才能開始接收通知。
+[訂閱通知類別](#subscribe-to-notification-categories)之後，您必須訂閱內容才能開始接收通知。
 
 >[!NOTE]
 >
 >* 對於 **[!UICONTROL 請求]** 和 **[!UICONTROL 分配給我]** 通知類別，您在訂閱通知類別後不需要訂閱內容。 系統會在您建立的請求以及將任務分配給您時，自動將通知發送給您。
->* Assets Essentials只會在其他使用者對訂閱內容執行動作時傳送通知。 您不會收到您對訂閱內容執行之動作的通知。
+>* Assets Essentials 只會在其他使用者對訂閱的內容執行操作時發送通知。對於您對訂閱內容執行的操作，您不會收到通知。
 
 
 要訂閱內容，請選擇需要訂閱的資料夾、資產或集合，然後按一下 **[!UICONTROL 監視]**。
