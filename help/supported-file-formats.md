@@ -4,10 +4,10 @@ description: ' [!DNL Assets Essentials] 各種使用案例支援的檔案格式'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '355'
-ht-degree: 100%
+source-git-commit: e8791aab7c99e020921bdd65ed3d579bb11ffd6b
+workflow-type: tm+mt
+source-wordcount: '363'
+ht-degree: 99%
 
 ---
 
@@ -40,13 +40,13 @@ ht-degree: 100%
 
 | 資產類型 | [瀏覽](/help/navigate-view.md) | 複製 | [上傳](/help/add-delete.md) | 建立 | [刪除](/help/add-delete.md#delete-assets) | 詳細資料 | 影像縮放 | [最近檢視的項目](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| 點陣圖 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| RAW 檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
-| MP4 影片 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
-| PSD、AI 和 INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| 其他二進位檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| 點陣圖 | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| RAW 檔案 | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| MP4 影片 | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD、AI 和 INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| 其他二進位檔案 | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,13 @@ ht-degree: 100%
 | 資產類型 | [下載](/help/manage-organize.md#download) | 拖放 | [影像編輯器](/help/edit-images.md) | [搜尋](/help/search.md) | [智慧標記](/help/metadata.md#tags) | [重新命名](/help/manage-organize.md) | [版本](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | 點陣圖 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW 檔案 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
-| 影片 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| CC Libraries | − | − | − | − | − | ✓ | ✓ |
-| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| PSD、AI 和 INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| 其他二進位檔案 | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| RAW 檔案 | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| 影片 | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| CC Libraries | - | - | - | - | - | ✓ | ✓ |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| PSD、AI 和 INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| 其他二進位檔案 | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
 
 
 ## 檢閱資產和共同作業 {#support-to-review-collaborate}
@@ -72,12 +72,20 @@ ht-degree: 100%
 |---------------|----------|----------|-------------------------|
 | 點陣圖 | ✓ | ✓ | ✓ |
 | RAW 檔案 | ✓ | ✓ | ✓ |
-| 資料夾 | − | − | − |
-| 影片 | − | ✓ | ✓ |
-| CC Libraries | − | − | − |
-| PDF | − | ✓ | ✓ |
-| PSD、AI 和 INDD | − | ✓ | ✓ |
-| 其他二進位檔案 | − | ✓ | ✓ |
+| 資料夾 | - | - | - |
+| 影片 | - | ✓ | ✓ |
+| CC Libraries | - | - | - |
+| PDF | - | ✓ | ✓ |
+| PSD、AI 和 INDD | - | ✓ | ✓ |
+| 其他二進位檔案 | - | ✓ | ✓ |
+| DOC | - | ✓ | ✓ |
+| DOCX | - | ✓ | ✓ |
+| PPT | - | ✓ | ✓ |
+| PPTX | - | ✓ | ✓ |
+| XLS | - | ✓ | ✓ |
+| XLSX | - | ✓ | ✓ |
+| TXT | - | ✓ | ✓ |
+| RTF | - | ✓ | ✓ |
 
 ## 其他資產管理任務 {#support-to-manage-assets}
 
@@ -85,12 +93,12 @@ ht-degree: 100%
 |---------------|-------------------|------------|----------|----------|----------|
 | 點陣圖 | ✓ | ✓ | ✓ | ✓ | ✓ |
 | RAW 檔案 | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 資料夾 | ✓ | − | ✓ | ✓ | ✓ |
-| 影片 | ✓ | − | ✓ | ✓ | ✓ |
-| CC Libraries | ✓ | − | − | − | − |
-| PDF | ✓ | − | ✓ | ✓ | ✓ |
-| PSD、AI 和 INDD | ✓ | − | ✓ | ✓ | ✓ |
-| 其他二進位檔案 | ✓ | − | ✓ | ✓ | ✓ |
+| 資料夾 | ✓ | - | ✓ | ✓ | ✓ |
+| 影片 | ✓ | - | ✓ | ✓ | ✓ |
+| CC Libraries | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD、AI 和 INDD | ✓ | - | ✓ | ✓ | ✓ |
+| 其他二進位檔案 | ✓ | - | ✓ | ✓ | ✓ |
 
 [!DNL Adobe Asset Link] 的使用者可以從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式上傳和簽入 (上傳新版本) 檔案到 [!DNL Assets Essentials] 存放庫。
 
@@ -117,4 +125,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
