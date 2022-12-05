@@ -5,21 +5,21 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1401'
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-最新版Assets Essentials將於2022年11月17日發行。
+目前版本的 Assets Essentials 於 2022 年 11 月 17 日發行。
 
 此版本提供：
 
-**使用Document Cloud查看器預覽文檔**
+**使用 Document Cloud 檢視器預覽文件**
 
-Assets Essentials現在可讓您上傳其他支援格式類型的檔案，並使用隨附的Document Cloud檢視器預覽。 支援的格式類型包括TXT、RTF、DOC、DOCX、PPT、PPTX、XLS和XLSX。
+Assets Essentials 現在可讓您上傳其他支援格式類型的文件，並使用隨附的 Document Cloud 檢視器進行預覽。支援的格式類型包括 TXT、RTF、DOC、DOCX、PPT、PPTX、XLS 和 XLSX。
 
 <!--
 
@@ -40,7 +40,7 @@ You can easily synchronize the user groups available on the external identity ma
 
 **新的儲存中繼資料選項**
 
-Assets Essentials使用者介面現在提供新的「儲存中繼資料」選項，以改善中繼資料控管。
+Assets Essentials 使用者介面現在提供了新的儲存中繼資料選項，以更好地管理中繼資料。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -65,7 +65,7 @@ Assets Essentials使用者介面現在提供新的「儲存中繼資料」選項
 
 ### 2022.8.0 {#august-2022}
 
-8月發行 [!DNL Assets Essentials] 將於2022年8月22日發行。
+八月版本的 [!DNL Assets Essentials] 於 2022 年 8 月 22 日發行。
 
 此版本提供：
 
