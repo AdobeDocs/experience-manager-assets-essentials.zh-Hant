@@ -2,10 +2,10 @@
 title: 設定適用於 Creative Cloud Pro 的 Assets Essentials 搭配工作管理解決方案
 description: 本教學課程介紹啟用 Assets Essentials 應用程式以將 Creative Cloud 桌面應用程式與 Adobe Workfront 應用程式整合的管理員歷程。Creative Cloud 桌面應用程式包括 Adobe Photoshop、Adobe Illustrator、Adobe InDesign 和 Adobe XD。
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: a40b608ec72691c10dfbf7dff518a2cfc87d6552
-workflow-type: ht
-source-wordcount: '900'
-ht-degree: 100%
+source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
+workflow-type: tm+mt
+source-wordcount: '941'
+ht-degree: 92%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 ![Creative Cloud 使用者](assets/creative-cloud-users.svg)
 
-如圖所示，根據兩個控制台之間的信任關係，Creative Cloud 使用者在 Experience Cloud Admin Console 中自動可用。然後，您可以將使用者新增到 Assets Essentials 產品設定檔。因此，Creative Cloud 使用者可以存取能與 Assets Essentials 存放庫互動的 Adobe Asset Link 應用程式。如需詳細資訊，請參閱[將 Assets Essentials 與 Creative Cloud 應用程式整合](integrate-assets-essentials-creative-cloud.md)。
+如圖所示，根據兩個控制台之間的信任關係，Creative Cloud 使用者在 Experience Cloud Admin Console 中自動可用。然後，您可以將使用者新增到 Assets Essentials 產品設定檔。因此，Creative Cloud 使用者可以存取能與 Assets Essentials 存放庫互動的 Adobe Asset Link 應用程式。如需詳細資訊，請參閱[將 Assets Essentials 與 Creative Cloud 應用程式整合](integrate-with-creative-cloud.md)。
 
 ## Experience Manager 文件歷程 {#documentation-journeys}
 
@@ -59,7 +59,7 @@ ht-degree: 100%
 
 Adobe Experience Manager Assets Essentials 是 Adobe Experience Manager Assets 的輕量級新版本。Assets Essentials 透過簡化過的一致使用者介面，提供統一的資產管理和共同作業。使用方便，因此可讓更多創意和行銷團隊儲存、探索和散發數位資產。
 
-Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈建作業中會將 Assets Essentials 新增到 Adobe Admin Console 的客戶組織。
+Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。隨著布建的一部分，Assets Essentials會新增至Adobe Admin Console中的客戶組織。
 
 管理員使用 Admin Console 來管理使用者對 Assets Essentials 產品的權益：
 
@@ -77,13 +77,15 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 設定中繼資料表單
 
-[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](adminster-aem-assets-essentials.md)
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
+
+現在您已設定好和管理 Assets Essentials 應用程式，接著請[將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 應用程式整合](integrate-with-creative-cloud.md)。
 
 ## 將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 整合 {#administer-creative-cloud-applications}
 
 ![切換深色和淺色主題的偏好設定](assets/cce-creative-cloud.png)
 
-[Adobe Asset Link 應用程式內面板](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。
+[Adobe Asset Link 應用程式內面板](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。
 
 本教學課程引導您將 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 應用程式與 Experience Manager Assets Essentials 整合。
 
@@ -97,7 +99,9 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 使用 Adobe Asset Link
 
-[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+
+現在您已將 Creative Cloud 應用程式與 Assets Essentials 整合，接著請[將 Adobe Workfront 與 Experience Manager Assets Essentials 整合](integrate-with-workfront.md)。
 
 ## 將 Adobe Workfront 與 Experience Manager Assets Essentials 整合 {#administer-adobe-workfront}
 
@@ -115,4 +119,4 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 設定 Experience Manager Assets Essentials 整合
 
-[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-workfront.md)

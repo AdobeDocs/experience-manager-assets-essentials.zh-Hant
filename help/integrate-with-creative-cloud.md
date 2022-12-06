@@ -1,29 +1,14 @@
 ---
 title: 將 Assets Essentials 與 Creative Cloud 應用程式整合
 description: 將 Assets Essentials 與 Creative Cloud 應用程式整合，以便您可以使用 Adobe Asset Link 應用程式內面板，從受支援的  [!DNL Adobe Creative Cloud]  桌面應用程式中連接到  [!DNL Assets Essentials]  存放庫。
-exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
-source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
+source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '761'
+ht-degree: 95%
 
 ---
 
 # 將 Assets Essentials 與 Creative Cloud 應用程式整合 {#integrate-assets-essentials-creative-cloud-applications}
-
-![切換深色和淺色主題的偏好設定](assets/cce-creative-cloud.png)
-
-## 到此為止的故事
-
-在本教學課程的[設定 Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) 後，您可以在體驗的基礎上將 Creative Cloud 應用程式與 Assets Essentials 整合。
-
-## 目標
-
-* **對象**：Creative Cloud 管理員
-
-* **目標**：將 Assets Essentials 與 Creative Cloud 應用程式整合，以便您的創意使用者可以使用 Adobe Asset Link 應用程式內面板，從受支援的 [!DNL Adobe Creative Cloud]桌面應用程式中連接到 [!DNL Assets Essentials] 存放庫。
-
-## 概觀
 
 [Adobe Asset Link 應用程式內面板](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而協助提高內容速度。
 
@@ -53,7 +38,7 @@ ht-degree: 0%
 
 其他 Assets Essentials 產品設定檔 - **[!DNL Assets Essentials]管理員**&#x200B;和 **[!DNL Assets Essentials]取用者使用者** - 用於不同的使用者權益 (應用程式管理員和透過 Experience Cloud 整合存取 Assets Essentials 的使用者)。
 
-如需如何將使用者指派到 Assets Essentials 產品設定檔的更多資訊，請參閱[將使用者指派到 Assets Essentials 產品設定檔](adminster-aem-assets-essentials.md#add-users-to-product-profiles)。
+如需如何將使用者指派到 Assets Essentials 產品設定檔的更多資訊，請參閱[將使用者指派到 Assets Essentials 產品設定檔](deploy-administer.md#add-users-to-product-profiles)。
 
 ## 安裝 Adobe Asset Link {#install-asset-link}
 
@@ -97,7 +82,3 @@ ht-degree: 0%
 * 檢視版本記錄和檔案詳細資料
 
 如需如何執行這些工作的說明，請參閱[使用 Adobe Asset Link 管理資產](https://helpx.adobe.com/in/enterprise/using/manage-assets-using-adobe-asset-link.html)。
-
-## 下一步
-
-現在您已將 Creative Cloud 應用程式與 Assets Essentials 整合，接著請[將 Adobe Workfront 與 Experience Manager Assets Essentials 整合](integrate-assets-essentials-workfront.md)。
