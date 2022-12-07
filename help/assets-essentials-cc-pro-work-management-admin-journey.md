@@ -3,9 +3,9 @@ title: 設定適用於 Creative Cloud Pro 的 Assets Essentials 搭配工作管�
 description: 本教學課程介紹啟用 Assets Essentials 應用程式以將 Creative Cloud 桌面應用程式與 Adobe Workfront 應用程式整合的管理員歷程。Creative Cloud 桌面應用程式包括 Adobe Photoshop、Adobe Illustrator、Adobe InDesign 和 Adobe XD。
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
 source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '941'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 92%
 
 * Adobe Workfront 和 Adobe Experience Manager Assets Essentials 在[適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html) 中進行管理。
 
-若要整合 Creative Cloud 與 Assets Essentials 應用程式，適用於 Creative Cloud 的 Admin Console 中可用的使用者也必須在適用於 Experience Cloud 的 Admin Console 中設為可用。若要讓使用者可用於 Experience Cloud Admin Console，請建立一個目錄以在兩個 Admin Console 之間建立[目錄託管](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting)。
+若要整合 Creative Cloud 與 Assets Essentials 應用程式，適用於 Creative Cloud 的 Admin Console 中可用的使用者也必須在適用於 Experience Cloud 的 Admin Console 中設為可用。若要讓使用者可用於 Experience Cloud Admin Console，請建立一個目錄以在兩個 Admin Console 之間建立[目錄託管](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html#directory-trusting)。
 
 ![Creative Cloud 使用者](assets/creative-cloud-users.svg)
 
@@ -45,7 +45,7 @@ ht-degree: 92%
 
 文件歷程提供敘述來協助剛開始使用 Assets Essentials 的讀者，讓他們能從頭到尾理解和解決業務問題，同時將採用的先前主題或 Assets Essentials 知識降至最低，藉以連結許多不同且複雜的主題和功能。
 
-文件歷程根據最佳實務原則而設計，其中包含 Adobe 的最新研究、Adobe 顧問的成熟實施經驗以及客戶專案的意見回饋。
+文件歷程是根據最佳實務原則所設計，其中包含 Adobe 的最新研究、Adobe 顧問的成熟實作經驗，以及來自客戶專案的意見回饋。
 
 ## 必備條件
 
@@ -59,7 +59,7 @@ ht-degree: 92%
 
 Adobe Experience Manager Assets Essentials 是 Adobe Experience Manager Assets 的輕量級新版本。Assets Essentials 透過簡化過的一致使用者介面，提供統一的資產管理和共同作業。使用方便，因此可讓更多創意和行銷團隊儲存、探索和散發數位資產。
 
-Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。隨著布建的一部分，Assets Essentials會新增至Adobe Admin Console中的客戶組織。
+Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈建作業中會將 Assets Essentials 新增到 Adobe Admin Console 的客戶組織中。
 
 管理員使用 Admin Console 來管理使用者對 Assets Essentials 產品的權益：
 
@@ -79,13 +79,13 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。隨著
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
 
-現在您已設定好和管理 Assets Essentials 應用程式，接著請[將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 應用程式整合](integrate-with-creative-cloud.md)。
+現在您已完成 Assets Essentials 應用程式的設定和管理，接著請[將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 應用程式整合](integrate-with-creative-cloud.md)。
 
 ## 將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 整合 {#administer-creative-cloud-applications}
 
 ![切換深色和淺色主題的偏好設定](assets/cce-creative-cloud.png)
 
-[Adobe Asset Link 應用程式內面板](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。
+[Adobe Asset Link 應用程式內面板](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。
 
 本教學課程引導您將 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 應用程式與 Experience Manager Assets Essentials 整合。
 
