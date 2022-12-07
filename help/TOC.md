@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 73a425d494b00650e917a98a35fd53e23cb2a4f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 91%
    + 管理檔案夾存取權{#folder-access}
       + [管理檔案夾權限](manage-permissions.md)
       + [權限管理的最佳實務](permission-management-best-practices.md)
-   + [適用於 Creative Cloud Pro 的 Assets Essentials 搭配工作管理解決方案的管理員歷程](assets-essentials-cc-pro-work-management-admin-journey.md)
+   + [具備工作管理解決方案的 Creative Cloud Pro 的 Assets Essentials 管理員歷程](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [開始使用  [!DNL Assets Essentials]](get-started.md)
 + [支援的檔案類型和使用案例](supported-file-formats.md)
 + [檢視資產](navigate-view.md)
@@ -41,6 +41,6 @@ ht-degree: 91%
 + [管理報告](manage-reports.md)
 + 和其他解決方案整合 {#integration-with-other-solutions}
    + [概觀](integration.md)
-   + [與企業Creative Cloud整合](integrate-with-creative-cloud.md)
-   + [整合Adobe Workfront](integrate-with-workfront.md)
+   + [與適用於企業的 Creative Cloud 整合](integrate-with-creative-cloud.md)
+   + [與 Adobe Workfront 整合](integrate-with-workfront.md)
 + [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
