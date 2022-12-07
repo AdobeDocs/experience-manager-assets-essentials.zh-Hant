@@ -2,9 +2,9 @@
 title: 將 Assets Essentials 與 Creative Cloud 應用程式整合
 description: 將 Assets Essentials 與 Creative Cloud 應用程式整合，以便您可以使用 Adobe Asset Link 應用程式內面板，從受支援的  [!DNL Adobe Creative Cloud]  桌面應用程式中連接到  [!DNL Assets Essentials]  存放庫。
 source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '761'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 95%
 
 ## 在 Creative Cloud 和 Experience Cloud Admin Console 之間建立目錄託管 {#directory-trusting-cc-assets-essentials-consoles}
 
-如果您的Creative Cloud部署在與Assets Essentials(Experience Cloud解決方案)不同的Adobe Admin Console中，則需要在兩個主控台之間新增信任關係。
+如果您的 Creative Cloud 與 Assets Essentials (Experience Cloud 解決方案) 是在不同的 Adobe Admin Console 中進行部署，則必須在兩個主控台之間增加信任關係。
 
 若要整合 Creative Cloud 與 Assets Essentials 應用程式，適用於 Creative Cloud 的 Admin Console 中可用的使用者也必須在適用於 Experience Cloud 的 Admin Console 中設為可用。如果將 Creative Cloud 和 Assets Essentials 部署到單獨的 Admin Console 中，則需要它們之間的信任關係才能啟用此功能。
 
-在 Experience Cloud Admin Console 上，按一下「**[!UICONTROL 設定]**」並使用「**[!UICONTROL 目錄]**」索引標籤建立目錄，以在兩個 Admin Console 之間建立[目錄託管](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting)。
+在 Experience Cloud Admin Console 上，按一下「**[!UICONTROL 設定]**」並使用「**[!UICONTROL 目錄]**」索引標籤建立目錄，以在兩個 Admin Console 之間建立[目錄託管](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html#directory-trusting)。
 
 ## 將 Creative Cloud 使用者新增到 Assets Essentials 產品設定檔 {#add-cc-users-assets-essentials-product-profiles}
 
@@ -49,12 +49,12 @@ ht-degree: 95%
 
 選擇取決於組織的 IT 政策。
 
-**使用 [!DNL Creative Cloud Desktop] 應用程式進行安裝**&#x200B;的說明請參閱[這裡](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html)。根據 Creative Cloud 應用程式，[Adobe Exchange](https://exchange.adobe.com/) Marketplace 上有兩個可用和託管的外掛程式：
+**使用 [!DNL Creative Cloud Desktop] 應用程式進行安裝**&#x200B;的說明請參閱[這裡](https://helpx.adobe.com/tw/creative-cloud/kb/installingextensionsandaddons.html)。根據 Creative Cloud 應用程式，[Adobe Exchange](https://exchange.adobe.com/) Marketplace 上有兩個可用和託管的外掛程式：
 
 * 對於 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator] 和 [!DNL Adobe InDesign]：[Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
 * 對於 [!DNL Adobe XD]：[Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
 
-**使用 Creative Cloud 套件進行安裝**&#x200B;由 Creative Cloud 管理員在 Admin Console 中完成，方法是在建置部署套件時加入 Asset Link 外掛程式，以便稍後將其部署到使用者電腦。在託管的選擇外掛程式畫面中，在「**功能業務外掛程式**」區段搜尋 **Adobe Asset Link**。如需詳細資訊，請參閱[透過 Admin Console 封裝應用程式](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html)。
+**使用 Creative Cloud 套件進行安裝**&#x200B;由 Creative Cloud 管理員在 Admin Console 中完成，方法是在建置部署套件時加入 Asset Link 外掛程式，以便稍後將其部署到使用者電腦。在託管的選擇外掛程式畫面中，在「**功能業務外掛程式**」區段搜尋 **Adobe Asset Link**。如需詳細資訊，請參閱[透過 Admin Console 封裝應用程式](https://helpx.adobe.com/tw/enterprise/using/package-apps-admin-console.html)。
 
 ## 使用 Adobe Asset Link {#use-asset-link}
 
@@ -64,7 +64,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->使用 Apple Silicon / M1 硬體時，Adobe Photoshop 需要使用 Rosetta 相容性模式啟動，以確保創意使用者可以存取 Adobe Asset Link 面板，因為它是使用 CEP 擴展技術建置的。如需詳細資訊，請參閱[適用於 Apple Silicon 的 Photoshop](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html)。
+>使用 Apple Silicon/M1 硬體時，Adobe Photoshop 需要使用 Rosetta 相容性模式啟動，以確保創意使用者可以存取 Adobe Asset Link 面板，因為它是使用 CEP 擴充功能技術建置的。如需詳細資訊，請參閱[適用於 Apple Silicon 的 Photoshop](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html)。
 
 
 使用 Adobe Asset Link 來處理和修改儲存在Assets Essentials 存放庫內的資產。您可以執行各種工作，例如：
