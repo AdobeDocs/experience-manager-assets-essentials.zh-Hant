@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: ht
-source-wordcount: '755'
-ht-degree: 100%
+source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
+workflow-type: tm+mt
+source-wordcount: '759'
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
 
 ![選取資產時可用的工具列選項](assets/assets-essentials-live-statistics.png)
 
-導航到 **[!UICONTROL 設定]** > **[!UICONTROL 即時統計]** 查看以下自動生成的圖表：
+按一下 **[!UICONTROL 即時統計]** 可在左側導覽窗格中使用，以檢視下列自動產生的圖表：
 
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
 
