@@ -2,9 +2,9 @@
 title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
 workflow-type: ht
-source-wordcount: '769'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -74,8 +74,6 @@ You can share collections with various users that are assigned different levels 
 1. 在[!UICONTROL 收藏集]對話框中，選取收藏集以新增所選取的資產。
 
 1. 按一下&#x200B;**[!UICONTROL 新增]**，以將資產新增到所選取的收藏集。
-
-若要將資產新增到收藏集，您還可以按一下左側邊欄中的&#x200B;**[!UICONTROL 收藏集]**，按一下要新增資產的收藏集，按一下&#x200B;**[!UICONTROL 新增至收藏集]**，選取資產並按一下&#x200B;**[!UICONTROL 選取]**。
 
 ## 從收藏集移除資產 {#remove-assets-from-collection}
 
