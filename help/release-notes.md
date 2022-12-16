@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1471'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -46,15 +46,15 @@ Assets Essentials 使用者介面現在提供了新的儲存中繼資料選項�
 
 根據客戶意見回應進行的增強功能和錯誤修正。
 
-**Adobe資產連結3.3版**
+**Adobe Asset Link 3.3 版**
 
-[Adobe資產連結](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link.html) 版本3.3已於2022年12月13日發行，並具備下列功能：
+[Adobe Asset Link](https://helpx.adobe.com/tw/enterprise/using/adobe-asset-link.html) 3.3 版於 2022 年 12 月 13 日發佈，包含以下功能：
 
-* 支援 [Creative Cloud](https://www.adobe.com/creativecloud/business/teams.html) 除了支援 [企業Creative Cloud](https://www.adobe.com/creativecloud/business/enterprise.html) 之前。
+* 除了先前支援的[適用於企業的 Creative Cloud](https://www.adobe.com/creativecloud/business/enterprise.html) 之外，還支援[適用於團隊的 Creative Cloud](https://www.adobe.com/creativecloud/business/teams.html)。
 
-* 支援最新的Adobe InDesign、Photoshop和Illustrator 2023應用程式。
+* 支援最新的 Adobe InDesign、Photoshop 和 Illustrator 2023 應用程式。
 
-* 支援在具有Proxy伺服器的環境中使用Adobe資產連結CEP外掛程式。
+* 支援在具有代理伺服器的環境中使用 Adobe Asset Link CEP 外掛程式。
 
 ## 已知問題 {#known-issues}
 
