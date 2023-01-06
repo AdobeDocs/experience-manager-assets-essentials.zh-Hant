@@ -2,9 +2,9 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
+source-git-commit: b37e633518513023dd947157d4a7a9297590ccd3
 workflow-type: ht
-source-wordcount: '759'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,11 @@ Assets Essentials 使您能夠使用「即時統計」控制板查看 Assets Ess
 
 * **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
 
-* **儲存空間使用量**：Assets Essentials 環境過去 30 天或 12 個月的儲存空間使用量 (GB)，使用長條圖表示。
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
 
 ## 建立下載報告 {#create-download-report}
 
