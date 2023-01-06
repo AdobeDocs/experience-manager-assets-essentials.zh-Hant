@@ -3,10 +3,10 @@ title: 管理員和管理使用者
 description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: ht
-source-wordcount: '1331'
-ht-degree: 100%
+source-git-commit: 6d36813bff1dd99f9185935605a10012c7865a50
+workflow-type: tm+mt
+source-wordcount: '1342'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ### 建立 Assets Essentials 應用程式管理員 {#create-assets-essentials-administrator}
 
-Admin Console 管理員必須新增 Assets Essentials 應用程式管理員來管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單和建立公開收藏集。有關如何將使用者或使用者群組指派到 Assets Essentials 應用程式管理員設定檔的資訊，請參閱[將使用者新增到產品設定檔](#add-users-to-product-profiles)。
+Admin Console管理員必須將使用者（而非使用者群組）新增至Assets Essentials管理員產品設定檔。 然後，Assets Essentials應用程式管理員就可以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單，以及建立公開集合。 如需如何將使用者指派給Assets Essentials應用程式管理員設定檔的詳細資訊，請參閱 [將使用者新增至產品設定檔](#add-users-to-product-profiles).
 
 ### 新增使用者群組 {#add-user-groups}
 
