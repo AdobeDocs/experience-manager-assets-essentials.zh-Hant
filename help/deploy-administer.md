@@ -3,10 +3,10 @@ title: 管理員和管理使用者
 description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 6d36813bff1dd99f9185935605a10012c7865a50
+source-git-commit: 940f3155a8310ace2768cdfee152c62e99ea2526
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 94%
+source-wordcount: '1343'
+ht-degree: 92%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 94%
 
 ### 建立 Assets Essentials 應用程式管理員 {#create-assets-essentials-administrator}
 
-Admin Console管理員必須將使用者（而非使用者群組）新增至Assets Essentials管理員產品設定檔。 然後，Assets Essentials應用程式管理員就可以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單，以及建立公開集合。 如需如何將使用者指派給Assets Essentials應用程式管理員設定檔的詳細資訊，請參閱 [將使用者新增至產品設定檔](#add-users-to-product-profiles).
+Admin Console管理員必須將Assets Essentials管理員產品設定檔新增至使用者，而不是新增至使用者群組。 然後，Assets Essentials應用程式管理員就可以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單，以及建立公開集合。 如需如何將使用者指派給Assets Essentials應用程式管理員設定檔的詳細資訊，請參閱 [將使用者新增至產品設定檔](#add-users-to-product-profiles).
 
 ### 新增使用者群組 {#add-user-groups}
 
@@ -51,11 +51,11 @@ Admin Console管理員必須將使用者（而非使用者群組）新增至Asse
 
 如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
 
-### 將使用者群組新增至產品設定檔 {#add-users-to-product-profiles}
+### 新增產品設定檔至使用者群組 {#add-product-profiles-to-user-groups}
 
-將使用者群組新增至產品設定檔，讓使用者能存取 Assets Essentials 應用程式。
+新增產品設定檔至使用者群組，讓他們能存取Assets Essentials應用程式。
 
-若要將使用者群組新增至產品設定檔：
+若要將產品設定檔新增至使用者群組：
 
 1. 存取您組織的 [Admin Console](https://adminconsole.adobe.com)，按一下頂端列中的「**[!UICONTROL 產品]**」、按一下「**[!UICONTROL AEM Assets Essentials]**」，然後按一下 [!DNL Assets Essentials] 的執行個體。執行個體的名稱可能與下面的螢幕擷圖不同。
    >[!NOTE]
