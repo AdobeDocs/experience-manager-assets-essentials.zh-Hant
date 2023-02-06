@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '1026'
-ht-degree: 100%
+source-git-commit: 9a29e1a9403a9790a3e6aa50b222fa7a6bfd66ec
+workflow-type: tm+mt
+source-wordcount: '1203'
+ht-degree: 99%
 
 ---
 
@@ -59,9 +59,17 @@ ht-degree: 100%
 
 ## 中繼資料表單 {#metadata-forms}
 
-Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。
+Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。您可以從頭開始建立表單，或改變現有表單的用途。
 
-您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。使用與檔案的 MIME 類型相同的表單名稱。Essentials 會自動將上傳的資產與表單的名稱配對。例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，上傳的 PDF 文件則包含如表單中定義的中繼資料欄位。您可以從頭開始建立表單，或改變現有表單的用途。
+您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。使用與檔案的 MIME 類型相同的表單名稱。Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的中繼資料。
+
+例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。
+
+Assets Essentials 使用以下順序搜尋現有中繼資料表單名稱，以將中繼資料欄位套用至特定類型的已上傳資產：
+
+MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
+
+例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，上傳的 PDF 文件則包含如表單中定義的中繼資料欄位。如果不存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則 Assets Essentials 會比對是否存在名稱為 `application` 的中繼資料表單。如果存在名稱為 `application` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。如果 Assets Essentials 仍找不到符合的中繼資料表單，則會搜尋 `default` 中繼資料表單以將表單中定義的中繼資料欄位套用至上傳的 PDF 文件。如果上述任何步驟都無法運作，則 Assets Essentials 會將現成可用表單中定義的中繼資料欄位套用至所有上傳的 PDF 文件。
 
 >[!IMPORTANT]
 >
@@ -88,6 +96,10 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 1. 或者在每個標籤中新增更多標籤和所需元件。
 1. 表單完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
+觀看此影片以檢視步驟順序：
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
+
 建立表單後，便會在使用者上傳相符 MIME 類型的資產時自動套用表單。
 
 若要重複使用現有表單來建立新表單，請選取中繼資料表單，從工具列按一下&#x200B;**[!UICONTROL 複製]**、命名，然後按一下&#x200B;**[!UICONTROL 確認]**。您可以編輯中繼資料表單，進行變更。變更表單時，會在變更後用於上傳的資料。不會變更現有資產。
@@ -100,7 +112,7 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
