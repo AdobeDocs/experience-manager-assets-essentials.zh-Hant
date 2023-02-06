@@ -4,16 +4,62 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
-workflow-type: ht
-source-wordcount: '1471'
-ht-degree: 100%
+source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+workflow-type: tm+mt
+source-wordcount: '1690'
+ht-degree: 87%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 於 2022 年 11 月 17 日發行。
+最新版Assets Essentials將於2023年1月27日發行。
+
+此版本提供：
+
+**My Workspace（具有可設定的Widget）**
+
+Assets現在提供您自訂的工作區，可作為一站式解決方案，方便您存取Assets使用者介面的關鍵區域，以及與您最相關的資訊。 更快速地存取這些選項可提高專案的內容速度和效率。
+
+我的工作區包含即將推出的新功能、前瞻分析、工作和內容的介面工具集。 您可以根據您的偏好設定，設定這些小工具在工作區中的顯示方式。
+
+**專用任務管理UI**
+
+Assets Essentials現在可讓您使用新的 **[!UICONTROL 工作]** 選項。 您也可以通過選擇要批准或拒絕的任務或開啟要批准、拒絕、編輯或刪除的任務詳細資訊來採取適當的操作。
+
+![工作區中的任務](assets/tasks-workspace.png)
+
+**自動產生的連結以共用資產**
+
+現在，當您選擇使用Assets Essentials使用者介面來共用資產時，Assets Essentials會自動產生連結。 即使您變更到期日，產生的連結仍會維持有效。
+
+![工作區中的任務](assets/share-asset.png)
+
+
+**根據客戶回饋意見進行的改進功能**
+
+根據客戶意見回應進行的增強功能和錯誤修正。
+
+## 已知問題 {#known-issues}
+
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* 專用集合可供建立者和具有管理員權限的用戶使用。 作為管理員，您無法將訪問集合的權限委派給其他用戶。
+
+如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
+
+## 舊版本 {#past-releases}
+
+### 2022.11.0 {#november-2022}
+
+11月發行的 [!DNL Assets Essentials] 將於2022年11月17日發行。
 
 此版本提供：
 
@@ -55,23 +101,6 @@ Assets Essentials 使用者介面現在提供了新的儲存中繼資料選項�
 * 支援最新的 Adobe InDesign、Photoshop 和 Illustrator 2023 應用程式。
 
 * 支援在具有代理伺服器的環境中使用 Adobe Asset Link CEP 外掛程式。
-
-## 已知問題 {#known-issues}
-
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* 專用集合可供建立者和具有管理員權限的用戶使用。 作為管理員，您無法將訪問集合的權限委派給其他用戶。
-
-如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
-
-## 舊版本 {#past-releases}
 
 ### 2022.8.0 {#august-2022}
 

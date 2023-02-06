@@ -2,10 +2,10 @@
 title: 如何共用資產的連結？
 description: 產生連結，然後和無法存取  [!DNL Assets Essentials]  應用程式的其他人共用資產。
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '420'
-ht-degree: 100%
+source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 98%
 
 ---
 
@@ -21,9 +21,7 @@ ht-degree: 100%
 
 1. 如果您要進行調整，可按一下「行事曆」圖示，以使用&#x200B;**[!UICONTROL 到期日]**&#x200B;欄位定義連結的到期日。您還可以直接以「`yyyy-mm-dd`」格式指定日期。預設的連結到期日設為共用日期起的 2 週。
 
-1. 按一下&#x200B;**[!UICONTROL 產生連結]**。
-
-1. 按一下&#x200B;**[!UICONTROL 複製連結]**，即可複製連結。您還可以從&#x200B;**[!UICONTROL 共用連結]**&#x200B;欄位複製連結。
+1. 從 **[!UICONTROL 共用連結]** 欄位。
 
    ![裁切和拉直影像的選項](assets/share-asset-link.png)
 
@@ -51,4 +49,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
