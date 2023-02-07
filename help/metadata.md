@@ -7,7 +7,7 @@ exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: b264c9cdff39f75dce31976add8621a33bc72e4b
 workflow-type: tm+mt
 source-wordcount: '1262'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 ## 標記 {#tags}
 
-[!DNL Assets Essentials] 使用 [Adobe Sensei](https://www.adobe.com/sensei.html) 所提供的人工智慧，自動將相關標記套用至您所有上傳的資產。這些標記名為智慧型標記，有助於您快速尋找相關資產，提高專案的內容速度。智慧型標記即是不含在影像內的中繼資料範例。
+[!DNL Assets Essentials] 使用 [Adobe Sensei](https://www.adobe.com/tw/sensei.html) 所提供的人工智慧，自動將相關標記套用至您所有上傳的資產。這些標記名為智慧型標記，有助於您快速尋找相關資產，提高專案的內容速度。智慧型標記即是不含在影像內的中繼資料範例。
 
 智慧型標記近乎即時套用，並根據影像內容產生。上傳資產時，使用者介面會在資產縮圖上顯示[!UICONTROL 處理]一段時間。待處理完成後，即可[檢視中繼資料](#view-metadata)和智慧型標記。
 
@@ -102,7 +102,7 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 1. 或者在每個標籤中新增更多標籤和所需元件。
 1. 表單完成時，按一下&#x200B;**[!UICONTROL 儲存]**。
 
-觀看此影片以檢視步驟順序：
+請觀看此影片以查看步驟的順序：
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
