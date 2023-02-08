@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 274028a1fb224b045c047e63539a9b96b1cc4357
+source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
 workflow-type: tm+mt
-source-wordcount: '1251'
-ht-degree: 95%
+source-wordcount: '1252'
+ht-degree: 96%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 95%
 
 您也可以從[!UICONTROL 智慧標記]區段移除由 [!DNL Assets Essentials] 自動新增到所有上傳資產的標記。
 
-## 中繼資料Forms {#metadata-forms}
+## 設定中繼資料表單 {#metadata-forms}
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
