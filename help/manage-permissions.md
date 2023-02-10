@@ -2,14 +2,19 @@
 title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '1643'
-ht-degree: 100%
+source-git-commit: 999d5106469d002deed3eccd689a802396dd42d4
+workflow-type: tm+mt
+source-wordcount: '1691'
+ht-degree: 99%
 
 ---
 
-# 管理檔案夾的權限
+# 管理檔案夾的權限 {#manage-permissions}
+
+>[!CONTEXTUALHELP]
+>id="assets_permissions_folders"
+>title="管理權限"
+>abstract="[!DNL Assets Essentials] 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。"
 
 Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。
 
@@ -51,7 +56,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 >[!NOTE]
 >
->如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/enterprise/using/users.html)。
+>如果您的 Admin Console 設定為利用外部系統來管理使用者/群組分配，例如 Azure 或 Google 連接器、使用者同步工具或 User Management Rest API，則您的群組和使用者指派會自動設定。如需詳細資訊，請參閱 [Adobe Admin Console 使用者](https://helpx.adobe.com/tw/enterprise/using/users.html)。
 
 
 ### 新增使用者至群組 {#add-users-to-uesr-groups}
@@ -210,4 +215,4 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
