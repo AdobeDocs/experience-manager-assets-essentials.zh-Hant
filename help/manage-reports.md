@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 92%
 
 ## 訪問報告 {#access-reports}
 
-指派給 [Assets Essentials管理員產品設定檔](deploy-administer.md) 可以存取「前瞻分析」控制面板，或在Assets Essentials中建立使用者定義報表。
+指派至 [Assets Essentials 管理員產品設定檔](deploy-administer.md)的所有使用者可以在 Assets Essentials 中存取 Insights 儀表板或建立使用者定義的報告。
 
-## 檢視分析 {#view-live-statistics}
+## 檢視 Insights {#view-live-statistics}
 
-Assets Essentials可讓您使用前瞻分析控制面板，檢視Assets Essentials環境的即時資料。 您可以查看過去 30 天或過去 12 個月的即時事件度量。
+Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。 您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
 ![選取資產時可用的工具列選項](assets/assets-essentials-live-statistics.png)
 
-按一下 **[!UICONTROL 前瞻分析]** 可在左側導覽窗格中使用，以檢視下列自動產生的圖表：
+按一下左側導覽窗格中可用的「**[!UICONTROL Insights]**」以檢視以下自動產生的圖表：
 
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
 
