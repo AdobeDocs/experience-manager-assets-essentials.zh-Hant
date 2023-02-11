@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
+source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
 workflow-type: tm+mt
 source-wordcount: '1252'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -62,11 +62,11 @@ ht-degree: 96%
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="中繼資料表單"
->abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。 組織有其他元資料需求，並且需要更多元資料欄位，以新增業務專屬的中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
+>abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。組織有其他中繼資料需求，且需要更多中繼資料欄位，才能新增業務專屬中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。您可以從頭開始建立表單，或改變現有表單的用途。
 
-您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。使用與檔案的 MIME 類型相同的表單名稱。Assets Essentials會自動將上傳的資產MIME類型與表單名稱相符，並根據表單欄位更新上傳資產的中繼資料。
+您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。使用與檔案的 MIME 類型相同的表單名稱。Assets Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的中繼資料。
 
 例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。
 
