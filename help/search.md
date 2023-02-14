@@ -3,14 +3,20 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: ht
-source-wordcount: '802'
-ht-degree: 100%
+source-git-commit: 18929733eb7ef1c862637cc5d03d44ac3c62875b
+workflow-type: tm+mt
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
 # 搜尋 [!DNL Assets Essentials] 中的資產 {#search-assets}
+
+>[!CONTEXTUALHELP]
+>id="assets_search"
+>title="搜尋資產"
+>abstract="指定搜尋條件，或根據資產的狀態、檔案類型、MIME類型、大小、建立、修改和到期日來篩選資產，以搜尋您的資產。 除了標準篩選器，您也可以套用自訂篩選器。 您可以將篩選的結果儲存為「已儲存的搜尋」或「智慧型集合」。"
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="建立智慧型集合"
 
 [!DNL Assets Essentials] 的預設功能即提供有效的搜尋。由於是全文檢索搜尋，因此十分全面。強大的搜尋功能可讓您快速探索合適的資產，協助您改善內容速度。[!DNL Assets Essentials] 提供全文檢索搜尋，甚至還透過如智慧型標記、標題、建立的日期和版本等中繼資料進行搜尋。
 
@@ -144,4 +150,4 @@ When userA is searching and userB add an asset that matches search results, will
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
