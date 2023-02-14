@@ -3,9 +3,9 @@ title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 999d5106469d002deed3eccd689a802396dd42d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1691'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 您可以將使用者新增到使用者群組 (1) 以及[將使用者新增到 Assets Essentials 產品設定檔 (2)](#add-admin-users)。但您無法將使用者群組直接新增到 Assets Essentials 產品設定檔 (3)。
 
-如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/enterprise/using/user-groups.html)中取得)。
+如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)中取得)。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 建立使用者群組後，您可以開始將使用者新增至使用者群組。
 
-如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
+如需有關如何管理新增使用者至使用者群組的資訊，請參閱 `Add users to groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html#add-users-to-groups)中取得)。
 
 ### 建立檔案夾結構 {#create-folder-structure}
 
