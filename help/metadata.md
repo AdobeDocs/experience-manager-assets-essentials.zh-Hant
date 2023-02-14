@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1252'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 98%
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="中繼資料表單"
->abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。組織有其他中繼資料需求，且需要更多中繼資料欄位，才能新增業務專屬中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
+>abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。您可以從頭開始建立表單，或改變現有表單的用途。
 
