@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 18929733eb7ef1c862637cc5d03d44ac3c62875b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '869'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 92%
 >[!CONTEXTUALHELP]
 >id="assets_search"
 >title="搜尋資產"
->abstract="指定搜尋條件，或根據資產的狀態、檔案類型、MIME類型、大小、建立、修改和到期日來篩選資產，以搜尋您的資產。 除了標準篩選器，您也可以套用自訂篩選器。 您可以將篩選的結果儲存為「已儲存的搜尋」或「智慧型集合」。"
->additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="建立智慧型集合"
+>abstract="透過指定搜尋條件或根據資產的狀態、檔案類型、MIME 類型、大小、建立、修改和到期日期篩選資產，來搜尋您的資產。您除了標準篩選器之外，還可以套用自訂篩選器。 您可以將篩選的結果另存為「已儲存搜尋」或「智慧型集合」。"
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant#manage-smart-collection" text="建立智慧型集合"
 
 [!DNL Assets Essentials] 的預設功能即提供有效的搜尋。由於是全文檢索搜尋，因此十分全面。強大的搜尋功能可讓您快速探索合適的資產，協助您改善內容速度。[!DNL Assets Essentials] 提供全文檢索搜尋，甚至還透過如智慧型標記、標題、建立的日期和版本等中繼資料進行搜尋。
 
