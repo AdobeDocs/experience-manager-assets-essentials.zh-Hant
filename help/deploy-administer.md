@@ -3,9 +3,9 @@ title: 管理員和管理使用者
 description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
-workflow-type: ht
-source-wordcount: '1344'
+source-git-commit: 07537aea39140f649d17353430a505c36e971aea
+workflow-type: tm+mt
+source-wordcount: '1329'
 ht-degree: 100%
 
 ---
@@ -154,7 +154,7 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在 Assets Essentials 中部署資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=zh-Hant)
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
