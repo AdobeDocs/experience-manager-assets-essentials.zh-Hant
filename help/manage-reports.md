@@ -2,14 +2,19 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: ht
-source-wordcount: '731'
-ht-degree: 100%
+source-git-commit: b222e03a8eca0837ca647740baed7d77afe96ed3
+workflow-type: tm+mt
+source-wordcount: '781'
+ht-degree: 97%
 
 ---
 
 # 管理報告 {#manage-reports}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="報表"
+>abstract="資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。 此資料提供有關用戶如何與內容和產品互動的有用資訊。所有指派給管理員產品設定檔的使用者都可以存取前瞻分析控制面板，或建立使用者定義的報表。"
 
 資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。 此資料提供有關用戶如何與內容和產品互動的有用資訊。
 
