@@ -4,22 +4,18 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 71760e20e7c3984f7099474e3b17db5e7d83496a
+source-git-commit: 9192ca1e72c79ef0f2c6d2b4d1e5a71e991abafb
 workflow-type: tm+mt
-source-wordcount: '1737'
-ht-degree: 96%
+source-wordcount: '1695'
+ht-degree: 98%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-最新版Assets Essentials將於2023年3月9日發行。
+最新版Assets Essentials將於2023年1月27日發行。
 
-最近兩個產品發行版本中的新功能包括：
-
-**大量資產中繼資料編輯**
-
-大量中繼資料更新可讓使用者同時在多個資產間執行通用中繼資料更新。 使用者不再需要個別更新記錄，而且可以快速將屬性套用至透過搜尋、資料夾和集合存取的資產。
+此版本的功能清單包括：
 
 **我的工作區與可設定的 Widget**
 
