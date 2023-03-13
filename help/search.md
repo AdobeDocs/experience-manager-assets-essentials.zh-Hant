@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 126d0c9921d109a4ac487203aa6bbcdcaf16b003
-workflow-type: ht
-source-wordcount: '871'
-ht-degree: 100%
+source-git-commit: f63cbffbbc6acc37a1a08f28cbdc4cee7f66d883
+workflow-type: tm+mt
+source-wordcount: '897'
+ht-degree: 94%
 
 ---
 
@@ -127,9 +127,9 @@ Assets Essentials 可提供下列自訂篩選器：
 
 您也可以根據資產的中繼資料和類型的特定條件，來篩選搜尋結果。對於常用的篩選條件，若要改善搜尋體驗，[!DNL Assets Essentials] 可讓您儲存搜尋參數。您稍後可以選取已儲存搜尋，按一下即可搜尋並套用篩選器。
 
-若要建立已儲存搜尋，請搜尋某個資產、套用一個或更多篩選條件，然後按一下「[!UICONTROL 篩選器]」面板中的「[!UICONTROL 儲存搜尋]」。
+若要建立儲存的搜尋，請搜尋某些資產、套用一或多個篩選器，然後按一下 **[!UICONTROL 另存新檔]** > **[!UICONTROL 已保存的搜索]** 在 [!UICONTROL 篩選器] 中。 您也可以按一下 **[!UICONTROL 另存新檔]** 選取 **[!UICONTROL 智慧型集合]** 將結果儲存為智慧型集合。 請參閱 [建立智慧型集合](manage-collections.md#create-a-smart-collection) 以取得更多詳細資訊。
 
-![「篩選器」面板的已儲存搜尋](assets/saved-search.png)
+![建立智慧型集合](assets/create-smart-collection.png)
 
 <!-- TBD: Search behavior. Full-text search. Ranking and rank boosts. Hidden assets.
 Report poor UX that users can only save a filtered search and not a simple search.
