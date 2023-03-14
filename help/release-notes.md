@@ -21,7 +21,7 @@ ht-degree: 99%
 
 Assets 現在為您提供一個可自訂的工作區，這可用作一站式解決方案，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。更快存取這些選項可以提高您專案的內容速度和效率。
 
-我的工作區包括用於即將推出的新功能、Insights、任務和內容的 Widget。 您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
+我的工作區包括用於即將推出的新功能、Insights、任務和內容的 Widget。您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
 
 **專用任務管理 UI**
 
@@ -51,7 +51,7 @@ Assets Essentials 現在會在您選擇使用 Assets Essentials 使用者介面�
 -->
 
 
-* 專用集合可供建立者和具有管理員權限的用戶使用。 作為管理員，您無法將訪問集合的權限委派給其他用戶。
+* 專用集合可供建立者和具有管理員權限的用戶使用。作為管理員，您無法將訪問集合的權限委派給其他用戶。
 
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
@@ -110,7 +110,7 @@ Assets Essentials 使用者介面現在提供了新的儲存中繼資料選項�
 
 **集合通知**
 
-Assets Essentials 通知可讓您監視對存放庫中可用集合執行的操作。 您需要選擇並訂閱向您傳送通知的集合。 您還可以配置傳送通知的操作，例如在集合上執行的刪除、共用連結、移動、重新命名和更新操作。
+Assets Essentials 通知可讓您監視對存放庫中可用集合執行的操作。您需要選擇並訂閱向您傳送通知的集合。您還可以配置傳送通知的操作，例如在集合上執行的刪除、共用連結、移動、重新命名和更新操作。
 
 **編輯智慧型集合**
 
@@ -118,11 +118,11 @@ Assets Essentials 現在還提供在建立智慧型集合時編輯搜尋條件�
 
 **檢視儲存體帳戶的即時統計資料**
 
-Assets Essentials 現在也可讓您使用「即時統計」儀表板檢視 Assets Essentials 環境的即時儲存體帳戶資料。 您可以檢視過去 30 天或過去 12 個月的即時事件量度。
+Assets Essentials 現在也可讓您使用「即時統計」儀表板檢視 Assets Essentials 環境的即時儲存體帳戶資料。您可以檢視過去 30 天或過去 12 個月的即時事件量度。
 
 **查看上傳報告**
 
-現在資產報告可讓管理員查看上傳到 Adobe Experience Manager Assets Essentials 部署的資產。 管理員已經能為從 Assets Essentials 部署下載的資產生成報告。此資料提供有關用戶如何與內容和產品互動的有用資訊。
+現在資產報告可讓管理員查看上傳到 Adobe Experience Manager Assets Essentials 部署的資產。管理員已經能為從 Assets Essentials 部署下載的資產生成報告。此資料提供有關用戶如何與內容和產品互動的有用資訊。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -136,15 +136,15 @@ Assets Essentials 現在也可讓您使用「即時統計」儀表板檢視 Asse
 
 **Smart Collection**
 
-將搜索結果另存為 Smart Collection 以動態更新集合內容。 如果向 Assets Essentials 儲存庫添加的資產符合在[建立 Smart Collection](manage-collections.md#create-smart-collection)，Smart Collection 的內容會自動更新。
+將搜索結果另存為 Smart Collection 以動態更新集合內容。如果向 Assets Essentials 儲存庫添加的資產符合在[建立 Smart Collection](manage-collections.md#create-smart-collection)，Smart Collection 的內容會自動更新。
 
 **通知**
 
-Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾執行的操作](manage-notifications.md)。 您需要選擇並訂閱將通知傳送給您的內容。 您還可以配置通知傳送給您的類別。
+Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾執行的操作](manage-notifications.md)。您需要選擇並訂閱將通知傳送給您的內容。您還可以配置通知傳送給您的類別。
 
 **報告**
 
-資產報告使管理員能夠評估 Adobe Experience Manager Assets Essentials 內的用戶活動。 報告和即時統計儀表板提供有關用戶如何與部署中可用資產互動的有用資訊。 [使用報告中的資訊](manage-reports.md)取得關鍵成功度量，以衡量企業內和客戶對資產的採用程度。
+資產報告使管理員能夠評估 Adobe Experience Manager Assets Essentials 內的用戶活動。報告和即時統計儀表板提供有關用戶如何與部署中可用資產互動的有用資訊。[使用報告中的資訊](manage-reports.md)取得關鍵成功度量，以衡量企業內和客戶對資產的採用程度。
 
 查看資產下載報告和即時統計儀表板模組，以查看正在下載哪些資產和下載頻率。
 
@@ -156,7 +156,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 **資產狀態增強功能**
 
-* Assets Essentials 目前讓您可以[設定資產的有效日期](manage-organize.md#set-asset-status)。 此外，您可以[](search.md#refine-search-results)根據`Expired`資產狀態和有效日期範圍篩選資產。
+* Assets Essentials 目前讓您可以[設定資產的有效日期](manage-organize.md#set-asset-status)。此外，您可以[](search.md#refine-search-results)根據`Expired`資產狀態和有效日期範圍篩選資產。
 
 * 您現在可以在 Trash 檢視所有可用資產的資產狀態指示器。因此，您可以根據資產狀態來決定恢復資產。
 
@@ -218,7 +218,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 * 除了現有的一般和消費者使用者產品設定檔外，該 [!DNL Assets Essentials] 現在還包含[ Admin Console 中的管理員產品設定檔](deploy-administer.md#add-users-to-essentials)。管理員現在可以將其他使用者指派至該管理員產品設定檔。
 
-* Assets Essentials 現在可讓管理員[管理存放庫中檔案夾的存取層級](manage-permissions.md)。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。
+* Assets Essentials 現在可讓管理員[管理存放庫中檔案夾的存取層級](manage-permissions.md)。身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。
 
 * 根據客戶意見回應進行的增強功能和錯誤修正。
 
