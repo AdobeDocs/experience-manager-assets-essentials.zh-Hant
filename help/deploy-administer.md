@@ -3,10 +3,10 @@ title: 管理員和管理使用者
 description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 07537aea39140f649d17353430a505c36e971aea
-workflow-type: ht
-source-wordcount: '1329'
-ht-degree: 100%
+source-git-commit: 989d4b2105636b03bef8b8aa5e653c3800845f69
+workflow-type: tm+mt
+source-wordcount: '1342'
+ht-degree: 97%
 
 ---
 
@@ -70,7 +70,8 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
    * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。這些使用者可以上傳、組織、標記和尋找數位資產。
 
-   * **[!DNL Assets Essentials]消費者使用者**：擁有在 [!DNL Adobe Journey Optimizer] 電子郵件範本編輯器中內嵌式資產選擇體驗的存取權。如需詳細資訊，請參閱[使用 [!DNL Assets Essentials] (在 [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)中)
+   * **[!DNL Assets Essentials]消費者使用者** 可在Assets Essentials中執行尋找、預覽和下載作業。 他們也可以在Adobe Journey Optimizer中尋找和選取資產，以及尋找和選取要在Workfront中使用的資產。
+如需詳細資訊，請參閱「[與其他 解決方案的整合](integration.md)」。
 
    ![Admin Console 管理員設定檔](assets/admin-console-admin-profile.png)
 
