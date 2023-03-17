@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: f06e3a5db2c91e6778ea196fdc69293d1b2732e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1695'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 目前版本的 Assets Essentials 於 2023 年 1 月 27 日發行。
 
-此版本的功能清單包括：
+該版本中的功能清單包括：
 
 **我的工作區與可設定的 Widget**
 
@@ -51,7 +51,7 @@ Assets Essentials 現在會在您選擇使用 Assets Essentials 使用者介面�
 -->
 
 
-* 專用集合可供建立者和具有管理員權限的用戶使用。作為管理員，您無法將訪問集合的權限委派給其他用戶。
+* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
 
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
@@ -122,7 +122,7 @@ Assets Essentials 現在也可讓您使用「即時統計」儀表板檢視 Asse
 
 **查看上傳報告**
 
-現在資產報告可讓管理員查看上傳到 Adobe Experience Manager Assets Essentials 部署的資產。管理員已經能為從 Assets Essentials 部署下載的資產生成報告。此資料提供有關用戶如何與內容和產品互動的有用資訊。
+現在資產報告可讓管理員查看上傳到 Adobe Experience Manager Assets Essentials 部署的資產。管理員已經能為從 Assets Essentials 部署下載的資產生成報告。此資料提供有關使用者如何與內容和產品互動的有用資訊。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -144,7 +144,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 **報告**
 
-資產報告使管理員能夠評估 Adobe Experience Manager Assets Essentials 內的用戶活動。報告和即時統計儀表板提供有關用戶如何與部署中可用資產互動的有用資訊。[使用報告中的資訊](manage-reports.md)取得關鍵成功度量，以衡量企業內和客戶對資產的採用程度。
+資產報告使管理員能夠評估 Adobe Experience Manager Assets Essentials 內的使用者活動。報告和即時統計儀表板提供有關使用者如何與部署中可用資產互動的有用資訊。[使用報告中的資訊](manage-reports.md)取得關鍵成功度量，以衡量企業內和客戶對資產的採用程度。
 
 查看資產下載報告和即時統計儀表板模組，以查看正在下載哪些資產和下載頻率。
 
