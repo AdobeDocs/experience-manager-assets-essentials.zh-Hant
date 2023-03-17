@@ -13,10 +13,10 @@ ht-degree: 100%
 
 >[!CONTEXTUALHELP]
 >id="assets_reports"
->title="報表"
->abstract="資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。 此資料提供有關用戶如何與內容和產品互動的有用資訊。指派至管理員產品設定檔的所有使用者可以存取 Insights 儀表板或建立使用者定義的報告。"
+>title="報告"
+>abstract="資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。此資料提供有關使用者如何與內容和產品互動的有用資訊。指派至管理員產品設定檔的所有使用者可以存取 Insights 儀表板或建立使用者定義的報告。"
 
-資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。 此資料提供有關用戶如何與內容和產品互動的有用資訊。
+資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。此資料提供有關使用者如何與內容和產品互動的有用資訊。
 
 ## 訪問報告 {#access-reports}
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ## 檢視 Insights {#view-live-statistics}
 
-Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。 您可以查看過去 30 天或過去 12 個月的即時事件度量。
+Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
 ![選取資產時可用的工具列選項](assets/assets-essentials-live-statistics.png)
 
@@ -89,7 +89,7 @@ Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 
      </tr>
      <tr>
       <td>下載者</td>
-      <td>下載資產的用戶的電子郵件ID。</td>
+      <td>下載資產的使用者的電子郵件ID。</td>
      </tr>
      <tr>
       <td>下載日期</td>
@@ -112,8 +112,8 @@ Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 
       <td>資產的到期狀態。</td>
      </tr>
      <tr>
-      <td>按用戶名下載</td>
-      <td>下載資產的用戶的名稱。</td>
+      <td>按使用者名稱下載</td>
+      <td>下載資產的使用者的名稱。</td>
      </tr>           
     </tbody>
    </table>
@@ -202,7 +202,7 @@ Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 
 
 1. 選擇報告並按一下 **[!UICONTROL 下載 CSV]**。
 
-所選報告以 CSV 格式下載。 CSV 報告中顯示的列取決於您在選擇[建立報告](#create-download-report)時選擇的資料行。
+所選報告以 CSV 格式下載。CSV 報告中顯示的列取決於您在選擇[建立報告](#create-download-report)時選擇的資料行。
 
 ## 刪除報告 {#delete-report}
 
