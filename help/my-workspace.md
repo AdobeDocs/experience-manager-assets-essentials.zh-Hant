@@ -1,10 +1,10 @@
 ---
 title: Assets 的「我的工作區」
 description: 我的工作區是一個頁面，提供可自訂的視覺化模組，以方便存取資產使用者介面的關鍵區域以及與使用者最相關的資訊。
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 96%
 
 ---
 
@@ -12,17 +12,21 @@ ht-degree: 100%
 
 Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
 
-您可以透過按一下左側導覽窗格中可用項目中的「**[!UICONTROL 我的工作區]**」來存取我的工作區。我的工作區包括各種 Widget，顯示即將推出的新功能、Insights、任務和內容 Widget。您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
+您可以透過按一下左側導覽窗格中可用項目中的「**[!UICONTROL 我的工作區]**」來存取我的工作區。我的工作區包含各種介面工具集，顯示前瞻分析、工作和內容介面工具集。 您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
 
 >[!NOTE]
 >
 >Insights Widget 僅會向管理員顯示。
 
-**新功能即將推出**
+<!--
 
-強調顯示 Assets 即將推出的功能。
+**New features coming soon**
 
-![Workspace 中即將推出的新功能](assets/new-features.png)
+Highlights upcoming features for Assets.
+
+![New features coming soon in Workspace](assets/new-features.png)
+
+-->
 
 **Insights**
 
