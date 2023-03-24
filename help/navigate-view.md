@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '616'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 95%
 
 * **資產**：在樹狀目錄檢視中您可以存取的所有資料夾清單。
 * **最近檢視的項目**：您最近預覽的資產清單。[!DNL Assets Essentials] 只會顯示您預覽的資產。在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
-* **垃圾桶**: 列出從根目錄中刪除的資產 **[!UICONTROL 資產]** 檔案夾。 您可以在垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除資產。
+* **垃圾桶**:列出從根&#x200B;**[!UICONTROL 資產]**&#x200B;資料夾刪除的資產。您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -59,8 +59,8 @@ ht-degree: 95%
 
 * ![清單檢視圖示](assets/do-not-localize/list-view.png) [!UICONTROL 清單檢視]
 * ![格點檢視圖示](assets/do-not-localize/grid-view.png) [!UICONTROL 格點檢視]
-* ![資產庫檢視圖示](assets/do-not-localize/gallery-view.png) [!UICONTROL 資產庫檢視]
-* ![瀑布圖檢視圖示](assets/do-not-localize/waterfall-view.png) [!UICONTROL 瀑布圖檢視]
+* ![圖庫檢視圖示](assets/do-not-localize/gallery-view.png) [!UICONTROL 圖庫檢視]
+* ![瀑布檢視圖示](assets/do-not-localize/waterfall-view.png) [!UICONTROL 瀑布檢視]
 
 若要找到資產，您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序資產。
 
