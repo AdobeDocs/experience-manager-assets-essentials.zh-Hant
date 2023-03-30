@@ -4,7 +4,7 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 472bf55c17d3915b657d3309e2e0a6e54bf49172
+source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 最近新增的功能清單包括：
 
-**大量資產中繼資料編輯**
+**大量更新資產中繼資料**
 
 大量中繼資料更新可讓您同時執行多個資產間的通用中繼資料更新。 您不需要個別更新記錄，而且可以快速將屬性套用至透過搜尋、資料夾和集合存取的資產。
 
