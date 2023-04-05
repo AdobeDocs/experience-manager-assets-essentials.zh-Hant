@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1734'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 最近新增功能清單包括：
 
-**大量更新資產中繼資料**
+**資產中繼資料的大量更新**
 
 大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，可以快速將屬性套用到資產 (透過搜尋存取)、資料夾和集合。
 
