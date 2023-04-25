@@ -2,16 +2,16 @@
 title: 管理通知
 description: 使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: ht
-source-wordcount: '614'
-ht-degree: 100%
+source-git-commit: c48ec7f5bfa1e449f461e73c5f3b725d52d9b1d1
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 管理通知 {#manage-notifications}
+# 監看資產、資料夾和集合 {#watch-assets-folders}
 
-Assets Essentials 通知可讓您監視對存放庫中可用資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。 您還可以配置通知發送給您的類別。
+Assets Essentials 通知可讓您監視對存放庫中可用資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。您還可以配置通知發送給您的類別。
 
 ## 訂閱通知類別 {#subscribe-to-notification-categories}
 
