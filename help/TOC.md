@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 55f24357266d2f063d1aaf92777fae32c7b127bd
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+source-git-commit: 7acef27127f5659ad2aa5da69f7032da1280e1eb
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 96%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 + [管理資產中繼資料](metadata.md)
 + [共用資產](share-links-for-assets.md)
 + [管理收藏集](manage-collections.md)
-+ [管理通知](manage-notifications.md)
++ [監看資產、資料夾和集合](manage-notifications.md)
 + [管理報告](manage-reports.md)
 + 和其他解決方案整合 {#integration-with-other-solutions}
    + [概觀](integration.md)
