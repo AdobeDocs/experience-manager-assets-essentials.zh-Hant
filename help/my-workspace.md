@@ -1,14 +1,20 @@
 ---
 title: Assets 我的工作區
 description: 「我的工作區」是一個頁面，提供可自訂的視覺化模組，以方便存取資產使用者介面的關鍵區域以及與使用者最相關的資訊。
-source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
-workflow-type: ht
-source-wordcount: '458'
+exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
+source-git-commit: 7234af017de7e5d5ebf31e8855a322d846c3a389
+workflow-type: tm+mt
+source-wordcount: '511'
 ht-degree: 100%
 
 ---
 
 # Assets 我的工作區 {#my-workspace}
+
+>[!CONTEXTUALHELP]
+>id="assets_my_workspace"
+>title="我的工作區"
+>abstract="Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。"
 
 Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
 
