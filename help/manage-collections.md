@@ -2,14 +2,19 @@
 title: 管理收藏集
 description: 收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
 workflow-type: tm+mt
-source-wordcount: '737'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 管理收藏集 {#manage-collections}
+
+>[!CONTEXTUALHELP]
+>id="assets_collections"
+>title="管理集合"
+>abstract="集合是Assets Essentials內的一組資產、資料夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。"
 
 收藏集指 Adob&#x200B;&#x200B;e Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。使用收藏集在使用者之間共用資產。
 

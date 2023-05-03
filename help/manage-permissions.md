@@ -2,17 +2,17 @@
 title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 5ebfa8080b59bee3b7cf4c25056a778c821003f1
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1691'
+ht-degree: 100%
 
 ---
 
 # 管理檔案夾的權限 {#manage-permissions}
 
 >[!CONTEXTUALHELP]
->id="assets_workspace"
+>id="assets_permissions_folders"
 >title="管理權限"
 >abstract="[!DNL Assets Essentials] 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。您還可以將權限管理權委派給檔案夾層級的使用者群組。"
 
