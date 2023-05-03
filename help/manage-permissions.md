@@ -4,8 +4,8 @@ description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存�
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 5ebfa8080b59bee3b7cf4c25056a778c821003f1
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
