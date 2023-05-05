@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3cc4d8ea48b0b2c8014572fce7609ee39f5868e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '902'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ ht-degree: 63%
 
 ![[!DNL Assets Essentials] 使用者介面](assets/essentials-interface.png)
 
-    *答：用於瀏覽儲存庫的左側邊欄，並提供對其他幾個選項的訪問*
-    *B:顯示或折疊左側邊欄以增加資產檢視區域*
-    *C:篩選搜尋結果*
-    *D:選擇所選資料夾的所有內容*
-    *E:排序資產的選項*
-    *F:搜尋方塊*
-    *G:上傳或拖放檔案，使用 `Add Assets` 按鈕*
-    *H:建立新資料夾*
-    *I:在不同檢視之間切換*
+*A：左側邊欄用於瀏覽存放庫並提供對其他一些選項的存取*
+*B：顯示或收合左側邊欄以增加資產檢視區域*
+*C：篩選搜尋結果*
+*D：選取所選資料夾的所有內容*
+*E：用於排序資產的選項*
+*F：搜尋方塊*
+*G：使用`Add Assets`按鈕上傳或拖放檔案*
+*H：新建資料夾*
+*I：切換不同視圖*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,15 +40,15 @@ ht-degree: 63%
 
 您可以從主要使用者介面或左側邊欄瀏覽資料夾。瀏覽時，您可以使用介面檢視資產縮圖，以瀏覽存放庫或檢視資產詳細資訊，快速找到您想要的資產。在左側邊欄中可用的選項包括：
 
-* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en):資產現在包含可自訂的工作區，提供方便存取Assets使用者介面關鍵區域的Widget，以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
-* [工作](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en):您可以在 **我的任務** 標籤。 而您所建立的任務則可在 **分配的任務** 標籤。 此外，您完成的任務位於 **已完成的任務** 標籤。
+* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en)：Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
+* [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
 * [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=en)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
 * **最近檢視的項目**：您最近預覽的資產清單。[!DNL Assets Essentials] 只會顯示您預覽的資產。在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
-* [集合](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant):集合是Adobe Experience Manager Assets Essentials內的一組資產、資料夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
+* [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
-* [前瞻分析](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics):在 [!DNL Assets Essentials]，您可以在控制面板上檢視即時分析。 Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
-* **垃圾**:列出從根目錄中刪除的資產 **[!UICONTROL 資產]** 檔案夾。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。
-* **設定**:您可以使用 **設定**，例如，中繼資料表單、報表和分類管理。
+* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
+* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。
+* **設定**：您可以使用&#x200B;**設定**&#x200B;來設定 Assets Essentials 的各種選項，例如中繼資料表單、報告和分類法管理。
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -82,23 +82,23 @@ ht-degree: 63%
 
 ![預覽資產](assets/preview-asset-2.png)
 
-*答：返回到儲存庫中的當前資料夾或當前搜索結果*
-*B:您正在預覽的檔案的名稱和格式*
-*C:指派任務*
-*D:下載資產*
-*E:預覽資產並查看中繼資料資訊*
-*D:進階中繼資料*
-*E:關鍵字與智慧標籤*
-*F:注釋和注釋*
-*G:檢視與所選資產相關的任務*
-*H:檢視及管理版本*
-*I:檢視影像的轉譯*
-*J:編輯影像*
-*K:基本中繼資料*
-*L:進階中繼資料*
-*M:關鍵字與智慧標籤*
-*N:更近預覽。 縮放、全螢幕和其他選項*
-*O:繼續目前資料夾中的上一個或下一個資產，而不返回資料夾*
+*A：返回目前資料夾或存放庫中的目前搜尋結果*
+*B：您正在預覽的檔案名稱和格式*
+*C：指派任務*
+*D：下載資產*
+*E：預覽資產並查看中繼資料資訊*
+*D：進階中繼資料*
+*E：關鍵字和智慧型標記*
+*F：註解和註釋*
+*G：檢視與所選資產相關的任務*
+*H：檢視和管理版本*
+*I：檢視影像轉譯*
+*J：編輯影像*
+*K：基本中繼資料*
+*L：進階中繼資料*
+*M：關鍵字和智慧型標記*
+*N：更仔細地預覽。 縮放、全螢幕和其他選項*
+*O：繼續至目前資料夾內的上一個或下一個資產，無須返回資料夾。*
 
 您也可以預覽影片。
 
