@@ -1,11 +1,11 @@
 ---
-title: Assets 我的工作區
+title: Assets「我的工作區」
 description: 「我的工作區」是一個頁面，提供可自訂的視覺化模組，以方便存取資產使用者介面的關鍵區域以及與使用者最相關的資訊。
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 7234af017de7e5d5ebf31e8855a322d846c3a389
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '511'
+ht-degree: 100%
 
 ---
 
