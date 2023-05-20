@@ -4,7 +4,7 @@ description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 100%
 

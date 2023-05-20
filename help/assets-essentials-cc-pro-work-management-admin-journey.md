@@ -3,7 +3,7 @@ title: 設定適用於 Creative Cloud Pro 的 Assets Essentials 搭配工作管�
 description: 本教學課程介紹啟用 Assets Essentials 應用程式以將 Creative Cloud 桌面應用程式與 Adobe Workfront 應用程式整合的管理員歷程。Creative Cloud 桌面應用程式包括 Adobe Photoshop、Adobe Illustrator、Adobe InDesign 和 Adobe XD。
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
 source-git-commit: 8920080944981fc1a990136af46c9258c5e8627c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 100%
 

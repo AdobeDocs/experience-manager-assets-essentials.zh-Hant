@@ -1,9 +1,10 @@
 ---
-title: 「Assets Essentials 安全性概觀」
+title: Assets Essentials 安全性概觀
 description: Assets Essentials 安全性概觀
 mini-toc-levels: 1
-source-git-commit: 895f178384f653729a5625db4782d3c134cf3309
-workflow-type: ht
+exl-id: 7efa50d5-2e9d-47bf-a810-ebc19e003af1
+source-git-commit: 32627a342e1297e7b8dc21ac668a735689dc79da
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 

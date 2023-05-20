@@ -3,7 +3,7 @@ title: 如何有效管理檔案夾權限？
 description: 有效權限管理的最佳實務
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 100%
 
@@ -70,4 +70,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

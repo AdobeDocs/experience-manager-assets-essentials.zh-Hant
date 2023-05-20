@@ -5,7 +5,7 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 100%
 
@@ -147,7 +147,7 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 
 
