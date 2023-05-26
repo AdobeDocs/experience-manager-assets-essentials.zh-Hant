@@ -2,10 +2,10 @@
 title: Assets「我的工作區」
 description: 「我的工作區」是一個頁面，提供可自訂的視覺化模組，以方便存取資產使用者介面的關鍵區域以及與使用者最相關的資訊。
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 7234af017de7e5d5ebf31e8855a322d846c3a389
+source-git-commit: e6c6a7ee20fca5e87f521708fb7ddec453131e40
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 100%
+source-wordcount: '568'
+ht-degree: 89%
 
 ---
 
@@ -53,6 +53,8 @@ Highlights upcoming features for Assets.
 **內容**
 
 顯示資產的分類檢視，包括您最近檢視的資產清單。您可以選取以清單檢視、格點檢視、圖庫檢視或瀑布檢視顯示 Widget 中的資產，並按名稱、大小和修改日期對資產進行排序。您還可以選取資產以檢視資產詳細資訊，或將其從最近檢視的資產清單中移除。
+
+此 **[!UICONTROL 熱門下載]** 索引標籤會顯示Assets Essentials環境中最常下載的十大資產。 您可以選取在「清單檢視」或「格點檢視」中顯示資產。 兩個檢視都會顯示每個資產的格式型別和下載次數。 您也可以選取資產並按一下 **[!UICONTROL 詳細資料]** 以檢視其屬性。
 
 ![Workspace 中的內容 Widget](assets/workspace-content.png)
 
