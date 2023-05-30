@@ -5,31 +5,31 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1783'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2023年5月24日發行。
+目前版本的 Assets Essentials 於 2023 年 5 月 24 日發行。
 
 最近新增功能清單包括：
 
 **熱門下載資產**
 
-「我的工作區」現在會在以下位置顯示您Assets Essentials環境下載次數最多的十大資產： [!UICONTROL 內容] 區段。 您也可以檢視每個所列資產的格式型別和下載次數。
+「我的工作區」現在會在「[!UICONTROL 內容]」區段顯示您 Assets Essentials 環境中前十個下載次數最多的資產。您也可以檢視每個所列資產的格式類型和下載次數。
 
 **資產中繼資料的大量更新**
 
-大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，並且可以快速將屬性套用至透過搜尋存取的資產或資料夾。
+大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，可以快速將屬性套用到資產或資料夾 (透過搜尋存取)。
 
 **我的工作區與可設定的 Widget**
 
 Assets 現在為您提供一個可自訂的工作區，這可用作一站式解決方案，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。更快存取這些選項可以提高您專案的內容速度和效率。
 
-「我的工作區」包含「見解」、「任務」和「內容」的Widget。 您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
+「我的工作區」包括用於 Insights、任務和內容的 Widget。您可以根據自己的偏好設定這些 Widget 在 Workspace 中的顯示方式。
 
 **專用任務管理 UI**
 
