@@ -4,8 +4,8 @@ description: 存取 Assets Essentials 報告部分的資料，評估產品和功
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 100%
 
 ---
 
