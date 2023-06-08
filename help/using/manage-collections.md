@@ -4,8 +4,8 @@ description: 收藏集是 Experience Manager Assets Essentials 中的一組資�
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '793'
+ht-degree: 100%
 
 ---
 
