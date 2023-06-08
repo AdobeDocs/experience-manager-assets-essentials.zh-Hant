@@ -3,7 +3,7 @@ title: 將 Assets Essentials 與 Adobe Workfront 整合
 description: 將 Assets Essentials 與 Adobe Workfront 應用程式整合，以便您可以存取 Workfront 應用程式中的 Assets Essentials 存放庫。
 exl-id: 9605fa3a-d454-48b5-9f84-b384eb1ad493
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
 ht-degree: 100%
 
