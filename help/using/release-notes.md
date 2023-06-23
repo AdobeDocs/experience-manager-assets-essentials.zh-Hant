@@ -4,16 +4,77 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1783'
-ht-degree: 100%
+source-git-commit: d6737d903b8010e2a3b7434584a7aae0d7bc68bd
+workflow-type: tm+mt
+source-wordcount: '2040'
+ht-degree: 87%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 於 2023 年 5 月 24 日發行。
+目前版本的Assets Essentials於2023年6月8日發行。
+
+功能清單包括：
+
+
+**資產的階層式標籤，提供更快速的搜尋體驗**
+
+控管辭彙的平面清單會隨著時間而變得無法管理。 Assets Essentials現在支援階層式標籤結構，這有助於套用相關中繼資料、分類資產、支援搜尋、重複使用標籤、改善可發現性等等。
+
+![標籤管理](assets/tags-hierarchy.png)
+
+**釘選檔案、資料夾和集合以快速存取**
+
+您現在可以釘選檔案、資料夾和集合，以便在以後需要時更快速地存取這些專案。 釘選專案會顯示在 **快速存取** 區段。 您可以使用「我的工作區」來存取這些物件，而不必導覽至儲存於存放庫中的儲存位置。
+
+![Workspace 中的任務](assets/quick-access.png)
+
+**篩選垃圾桶資料夾中的資產**
+
+Assets Essentials現在可讓您篩選垃圾桶資料夾中可用的資產。 您可以套用標準或自訂篩選器，在垃圾桶資料夾中搜尋適當的資產，以還原或永久刪除它們。
+
+**3D資產的縮圖預覽**
+
+Assets Essentials現在會產生常見3D檔案格式的縮圖預覽，包括gLB、USDz、FBX、3DS、OBJ和SBSAR。 將這些檔案上傳至Assets Essentials時，系統會依預設自動產生縮圖。
+
+![Workspace 中的任務](assets/3d-preview.png)
+
+**檢視熱門搜尋字詞**
+
+Assets Essentials現在支援使用檢視Assets Essentials部署中搜尋最多的辭彙 **深入分析** 區段。 您也可以導覽至詳細分析，檢視過去30天或12個月的熱門搜尋。
+
+![Workspace 中的任務](assets/insights-top-searches.png)
+
+**中繼資料表單增強功能**
+
+Assets Essentials現在可讓您將多值文字和下拉式清單屬性元件新增到中繼資料表單。
+
+
+**根據客戶回饋意見進行的改進功能**
+
+根據客戶意見回應進行的增強功能和錯誤修正。
+
+## 已知問題 {#known-issues}
+
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
+
+* 作為管理員，您無法將訪問集合的權限委派給其他使用者。
+
+如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
+
+## 舊版本 {#past-releases}
+
+### 2023年多個版本 {#multiple-releases-2023}
 
 最近新增功能清單包括：
 
@@ -47,25 +108,6 @@ Assets Essentials 現在會在您選擇使用 Assets Essentials 使用者介面�
 **根據客戶回饋意見進行的改進功能**
 
 根據客戶意見回應進行的增強功能和錯誤修正。
-
-## 已知問題 {#known-issues}
-
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
-
-* 作為管理員，您無法將訪問集合的權限委派給其他使用者。
-
-如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
-
-## 舊版本 {#past-releases}
 
 ### 2022.11.0 {#november-2022}
 
@@ -253,7 +295,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 [!DNL Assets Essentials] 2021.8.0 於 2021 年 8 月 30 日發行，包含下列更新：
 
-* 與 [!DNL Adobe Workfront] 整合，可讓 [!DNL Workfront] 使用者在管理工作時管理其數位資產。如需詳細資訊，請參閱[與 Adobe 解決方案的整合](/help/using/integration.md)。
+* 與 [!DNL Adobe Workfront] 整合，可讓 [!DNL Workfront] 使用者在管理工作時管理其數位資產。
 
 ### 2021.7.0 版 {#july2021}
 
@@ -269,4 +311,4 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 * 上傳和新增資產，包括巢狀資料夾。預覽資產和版本。
 * 用於快速資產探索的全文檢索搜尋、細微搜尋篩選器和已儲存搜尋。
 * 基本資產管理作業，例如更新、刪除、下載和管理中繼資料。
-* [!DNL Assets Essentials] 可供 [!DNL Adobe Journey Optimizer] 使用者在建立訊息時管理資產。如需詳細資訊，請參閱[與 Adobe 解決方案的整合](/help/using/integration.md)。
+* [!DNL Assets Essentials] 可供 [!DNL Adobe Journey Optimizer] 使用者在建立訊息時管理資產。
