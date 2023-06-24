@@ -1,14 +1,17 @@
 ---
 title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
-source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
+source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 6%
+source-wordcount: '305'
+ht-degree: 7%
 
 ---
 
+
 # 資產檢視簡介 {#assets-view}
+
+![部署 Assets Essentials](assets/banner-image.jpg)
 
 在當今快節奏的數位優先環境中，即時內容的建立和交付至關重要，專為下遊行銷速度設計的數位資產管理(DAM)體驗至關重要。 Adobe運用其行銷和創意專業人員的專業能力，推出改變遊戲規則的全新「資產檢視」使用者體驗。 此工作流程優先的方法革新了企業處理動態數位資產的方式，讓行銷人員能夠最大限度地提高尋找、合作、個人化和提供資產的效率。 這些簡化的工作流程可加快內容速度，並將您的行銷工作推進到新的高度。
 
