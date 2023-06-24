@@ -1,7 +1,7 @@
 ---
 title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
-source-git-commit: 9d14827d10d2bae34b19a318aac1cc0820e81f35
+source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 6%
@@ -39,7 +39,7 @@ ht-degree: 6%
 
 請向數位資產管理解決方案問好，瞭解不同組織角色的各種需求。 時尚的全新Assets View以易用性和速度為優先考量，滿足行銷人員對視覺吸引力和簡潔工作區的偏好。 透過可自訂的使用者專屬My Workspace儀表板，行銷人員可以快速找到、預覽、編輯、管理和提供資產，並享有絕佳的效率。 告別花費在搜尋特定資產上的無窮無盡的時間，歡迎提供精簡的體驗，讓所有需要的事情觸手可及。
 
-![部署 Assets Essentials](assets/workspace.gif)
+![部署 Assets Essentials](assets/experiment.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
