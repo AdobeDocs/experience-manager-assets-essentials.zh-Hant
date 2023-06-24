@@ -1,10 +1,10 @@
 ---
 title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
-source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
+source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 7%
+source-wordcount: '412'
+ht-degree: 6%
 
 ---
 
@@ -46,5 +46,10 @@ ht-degree: 7%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## 提升效率的搜尋優先方法
+
+透過尖端功能的搜尋功能，釋放貴組織數位資產庫的潛力。 您可以對手動篩選無數檔案和資料夾的麻煩道別。 任何使用者都可以立即找到您需要的完美影像、影片或檔案，以建立令人驚歎的行銷活動、吸引人的簡報和引人入勝的內容。 我們的搜尋優先引擎可讓您輕鬆瀏覽資產型別、中繼資料、智慧標籤，甚至內容本身，而不需要知道確切的關鍵字。 以我們的「搜尋優先」擁抱DAM的未來，並釋放您數位資產庫的完整潛能。
+
+![部署 Assets Essentials](assets/search-first.gif)
 
 
