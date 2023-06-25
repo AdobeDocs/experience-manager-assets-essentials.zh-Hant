@@ -3,17 +3,17 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: 1a7bb00371ae51159b8712156d852b5e107a3be6
+source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 9%
+source-wordcount: '566'
+ht-degree: 8%
 
 ---
 
 
 # 資產檢視簡介 {#assets-view}
 
-![部署 Assets Essentials](assets/banner-image1.png)
+![部署 Assets Essentials](assets/banner-image.jpg)
 
 在當今快節奏的數位優先環境中，即時內容的建立和交付至關重要，專為下遊行銷速度設計的數位資產管理(DAM)體驗至關重要。 Adobe運用其行銷和創意專業人員的專業能力，推出改變遊戲規則的全新「資產檢視」使用者體驗。 此工作流程優先的方法革新了企業處理動態數位資產的方式，讓行銷人員能夠最大限度地提高尋找、合作、個人化和提供資產的效率。 這些簡化的工作流程可加快內容速度，並將您的行銷工作推進到新的高度。
 
@@ -44,7 +44,7 @@ ht-degree: 9%
 
 請向數位資產管理解決方案問好，瞭解不同組織角色的各種需求。 時尚的全新Assets View以易用性和速度為優先考量，滿足行銷人員對視覺吸引力和簡潔工作區的偏好。 透過可自訂的使用者專屬My Workspace儀表板，行銷人員可以快速找到、預覽、編輯、管理和提供資產，並享有絕佳的效率。 告別花費在搜尋特定資產上的無窮無盡的時間，歡迎提供精簡的體驗，讓所有需要的事情觸手可及。
 
-![部署 Assets Essentials](assets/experiment.gif)
+![部署 Assets Essentials](assets/my-workspace-demo.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
@@ -61,5 +61,11 @@ ht-degree: 9%
 ![部署 Assets Essentials](assets/insights-overview.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
+
+## 加速共同作業 {#accelerate-collaboration}
+
+新體驗提供一組強大的共同作業功能，包括使用內建Adobe Photoshop功能、版本控制和註解工具進行即時編輯。 如此一來，設計、創意、品牌和行銷團隊之間便可緊密合作，克服瓶頸並加快行銷運作程式。 行銷人員現在擁有強大的工具，可以加速專案交付並提高整體生產力。
+
+
 
 
