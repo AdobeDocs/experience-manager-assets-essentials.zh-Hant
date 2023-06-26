@@ -3,10 +3,10 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
+source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 12%
+source-wordcount: '773'
+ht-degree: 14%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 12%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## 透過Adobe Photoshop Express整合加速共同作業 {#accelerate-collaboration}
+## Adobe Photoshop Express整合可加速共同作業 {#accelerate-collaboration}
 
 新體驗提供一組強大的共同作業功能，包括使用內建Adobe Photoshop功能、版本控制和註解工具進行即時編輯。 如此一來，設計、創意、品牌和行銷團隊之間便可緊密合作，克服瓶頸並加快行銷運作程式。 行銷人員現在擁有強大的工具，可以加速專案交付並提高整體生產力。
 
@@ -70,13 +70,21 @@ ht-degree: 12%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## 使用資料夾上傳的快速階層結構設定 {#folder-uploads}
+## 資料夾上傳以設定組織的階層結構 {#folder-uploads}
 
 上傳本機檔案系統上存在的資料夾，使用「資產」檢視快速設定組織的資料夾結構。 您不需要在根資料夾下建立資料夾，然後手動將資產上傳到這些資料夾以維護邏輯階層結構。 根資料夾下的所有資料夾和資產會自動上傳至Experience Manager Assets。
 
-![部署 Assets Essentials](assets/folder-uploads.gif)
+![上傳資料夾](assets/folder-uploads.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## 訂閱內容以接收通知
+
+Assets檢視可讓您監視對存放庫中可用的資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。您也可以設定事件型別，例如刪除訂閱內容、修改訂閱內容等。 之後，系統只會針對這些事件型別傳送通知給您。
+
+![接收通知](assets/notifications.gif)
+
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
