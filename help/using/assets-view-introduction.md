@@ -3,9 +3,9 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
+source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1037'
 ht-degree: 12%
 
 ---
@@ -65,6 +65,8 @@ ht-degree: 12%
 ## Adobe Photoshop Express整合可加速共同作業 {#accelerate-collaboration}
 
 新體驗提供一組強大的共同作業功能，包括使用內建Adobe Photoshop功能、版本控制和註解工具進行即時編輯。 如此一來，設計、創意、品牌和行銷團隊之間便可緊密合作，克服瓶頸並加快行銷運作程式。 行銷人員現在擁有強大的工具，可以加速專案交付並提高整體生產力。
+
+觀看此影片瞭解Assets檢視與Adobe Photoshop Express整合的強大功能：
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
