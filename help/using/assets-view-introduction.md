@@ -3,10 +3,10 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
+source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 15%
+source-wordcount: '1022'
+ht-degree: 12%
 
 ---
 
@@ -93,6 +93,16 @@ Assets檢視可讓您監視對存放庫中可用的資產、資料夾或集合�
 ![軟刪除](assets/soft-delete.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
+
+除了這些功能外，「資產」檢視也可讓您執行下列在「管理員」檢視中無法使用的功能：
+
+* 從您的本機檔案系統上傳具有不同名稱的資產新版本至資產存放庫。 上傳的資產可用為新版本，名稱與原始資產的名稱相同。
+
+* 重新命名存放庫中可用的資產和資料夾。
+
+## 結論 {#conclusion}
+
+數位優先的時代已經到來，是時候改造我們的行銷工具，以支援不斷變化的業務環境。 新的Adobe Experience Manager資產檢視經過量身打造，可簡化工作流程、促進共同作業並加速資產交付。 透過採用內容速度，行銷人員可以釋放其數位資產的全部潛力，並釋放出前所未有的創造力。 準備好利用Adobe新的資產檢視體驗的強大功能，並在您的行銷活動中推動卓越的成效。 是時候擁抱DAM的未來，並推動您的企業向前邁進了。
 
 
 
