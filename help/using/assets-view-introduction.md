@@ -3,10 +3,10 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
+source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 9%
+source-wordcount: '677'
+ht-degree: 12%
 
 ---
 
@@ -73,6 +73,10 @@ ht-degree: 9%
 ## 使用資料夾上傳的快速階層結構設定 {#folder-uploads}
 
 上傳本機檔案系統上存在的資料夾，使用「資產」檢視快速設定組織的資料夾結構。 您不需要在根資料夾下建立資料夾，然後手動將資產上傳到這些資料夾以維護邏輯階層結構。 根資料夾下的所有資料夾和資產會自動上傳至Experience Manager Assets。
+
+![部署 Assets Essentials](assets/folder-uploads.gif)
+
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
 
 
