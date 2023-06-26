@@ -3,10 +3,10 @@ title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
 hidefromtoc: true
 hide: true
-source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
+source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 14%
+source-wordcount: '861'
+ht-degree: 15%
 
 ---
 
@@ -78,13 +78,21 @@ ht-degree: 14%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## 訂閱內容以接收通知
+## 訂閱存放庫內容以實現有效的資產管理
 
 Assets檢視可讓您監視對存放庫中可用的資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。您也可以設定事件型別，例如刪除訂閱內容、修改訂閱內容等。 之後，系統只會針對這些事件型別傳送通知給您。
 
 ![接收通知](assets/notifications.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## 軟刪除資產，以便提供管理員更好的控制 {#soft-delete-assets}
+
+「資產」檢視中可用的「垃圾桶」資料夾會列出從根「資產」資料夾中刪除的資產。 您可以從垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除。 您也可以指定關鍵字或套用標準或自訂篩選器，以搜尋垃圾桶資料夾中的適當資產。
+
+![軟刪除](assets/soft-delete.gif)
+
+[![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
