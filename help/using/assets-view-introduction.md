@@ -1,12 +1,13 @@
 ---
 title: 「資產」檢視簡介
 description: 「資產」檢視的新增功能
+mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
+source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
 workflow-type: tm+mt
-source-wordcount: '1037'
-ht-degree: 12%
+source-wordcount: '1103'
+ht-degree: 11%
 
 ---
 
@@ -39,30 +40,35 @@ ht-degree: 12%
    * 按一下 **[!UICONTROL Experience Manager Assets]** 以存取「資產」檢視。
    * 按一下 **[!UICONTROL Experience Manager Assets]** 以存取「資產」檢視。
 
+## 為何要檢視「資產」？
 
-## 我的Workspace控制面板提供簡化的體驗
+「資產」檢視提供下列「管理員」檢視中未提供的關鍵優點：
+
+* [我的Workspace控制面板提供簡化的體驗](#my-workspace-for-streamlined-experience)
+* [提升效率的搜尋優先方法](#search-first)
+* [進行資料導向式決策的見解](#insights-data)
+* [Adobe Photoshop Express整合可加速共同作業](#accelerate-collaboration)
+* [資料夾上傳以設定組織的階層結構](#folder-uploads)
+* [訂閱存放庫內容以實現有效的資產管理](#subscribe-content)
+* [軟刪除資產，以便提供管理員更好的控制](#soft-delete-assets)
+
+### 我的Workspace控制面板提供簡化的體驗 {#my-workspace-for-streamlined-experience}
 
 請向數位資產管理解決方案問好，瞭解不同組織角色的各種需求。 時尚的全新Assets View以易用性和速度為優先考量，滿足行銷人員對視覺吸引力和簡潔工作區的偏好。 透過可自訂的使用者專屬My Workspace儀表板，行銷人員可以快速找到、預覽、編輯、管理和提供資產，並享有絕佳的效率。 告別花費在搜尋特定資產上的無窮無盡的時間，歡迎提供精簡的體驗，讓所有需要的事情觸手可及。
 
-![部署 Assets Essentials](assets/my-workspace-demo.gif)
+![我的工作區概觀](assets/my-workspace-demo.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
-## 提升效率的搜尋優先方法
-
-透過尖端功能的搜尋功能，釋放貴組織數位資產庫的潛力。 您可以對手動篩選無數檔案和資料夾的麻煩道別。 任何使用者都可以立即找到您需要的完美影像、影片或檔案，以建立令人驚歎的行銷活動、吸引人的簡報和引人入勝的內容。 我們的搜尋優先引擎可讓您輕鬆瀏覽資產型別、中繼資料、智慧標籤，甚至內容本身，而不需要知道確切的關鍵字。 以我們的「搜尋優先」擁抱DAM的未來，並釋放您數位資產庫的完整潛能。
-
-![部署 Assets Essentials](assets/search-first.gif)
-
-## 進行資料導向式決策的見解 {#insights-data}
+### 進行資料導向式決策的見解 {#insights-data}
 
 為了跟上內容速度，可操作見解至關重要。 全新的資產檢視體驗在「我的工作區」中提供進階深入分析，提供關於資產效能、對象使用情況和參與的寶貴資料。 行銷人員可以制定資料導向式決策、最佳化內容策略，並調整其下游交付方式以獲得最佳結果。 透過獲得有意義的見解，企業可以保持競爭優勢，並推動卓越的成果。
 
-![部署 Assets Essentials](assets/insights-overview.gif)
+![Insights概述](assets/insights-overview.gif)
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Adobe Photoshop Express整合可加速共同作業 {#accelerate-collaboration}
+### Adobe Photoshop Express整合可加速共同作業 {#accelerate-collaboration}
 
 新體驗提供一組強大的共同作業功能，包括使用內建Adobe Photoshop功能、版本控制和註解工具進行即時編輯。 如此一來，設計、創意、品牌和行銷團隊之間便可緊密合作，克服瓶頸並加快行銷運作程式。 行銷人員現在擁有強大的工具，可以加速專案交付並提高整體生產力。
 
@@ -72,7 +78,7 @@ ht-degree: 12%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## 資料夾上傳以設定組織的階層結構 {#folder-uploads}
+### 資料夾上傳以設定組織的階層結構 {#folder-uploads}
 
 上傳本機檔案系統上存在的資料夾，使用「資產」檢視快速設定組織的資料夾結構。 您不需要在根資料夾下建立資料夾，然後手動將資產上傳到這些資料夾以維護邏輯階層結構。 根資料夾下的所有資料夾和資產會自動上傳至Experience Manager Assets。
 
@@ -80,7 +86,13 @@ ht-degree: 12%
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## 訂閱存放庫內容以實現有效的資產管理
+### 提升效率的搜尋優先方法 {#search-first}
+
+透過尖端功能的搜尋功能，釋放貴組織數位資產庫的潛力。 您可以對手動篩選無數檔案和資料夾的麻煩道別。 任何使用者都可以立即找到您需要的完美影像、影片或檔案，以建立令人驚歎的行銷活動、吸引人的簡報和引人入勝的內容。 我們的搜尋優先引擎可讓您輕鬆瀏覽資產型別、中繼資料、智慧標籤，甚至內容本身，而不需要知道確切的關鍵字。 以我們的「搜尋優先」擁抱DAM的未來，並釋放您數位資產庫的完整潛能。
+
+![先搜尋](assets/search-first.gif)
+
+### 訂閱存放庫內容以實現有效的資產管理 {#subscribe-content}
 
 Assets檢視可讓您監視對存放庫中可用的資產、資料夾或集合執行的操作。 您需要選擇並訂閱將通知傳送給您的內容。您也可以設定事件型別，例如刪除訂閱內容、修改訂閱內容等。 之後，系統只會針對這些事件型別傳送通知給您。
 
@@ -88,7 +100,7 @@ Assets檢視可讓您監視對存放庫中可用的資產、資料夾或集合�
 
 [![請參閱指南](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
-## 軟刪除資產，以便提供管理員更好的控制 {#soft-delete-assets}
+### 軟刪除資產，以便提供管理員更好的控制 {#soft-delete-assets}
 
 「資產」檢視中可用的「垃圾桶」資料夾會列出從根「資產」資料夾中刪除的資產。 您可以從垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除。 您也可以指定關鍵字或套用標準或自訂篩選器，以搜尋垃圾桶資料夾中的適當資產。
 
