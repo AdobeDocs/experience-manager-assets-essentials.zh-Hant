@@ -5,50 +5,50 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2044'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2023年6月22日發行。
+現行版本的 Assets Essentials 於 2023 年 6 月 22 日發行。
 
-此版本中包含的功能清單包括：
+包含於該版本中的功能清單有：
 
 
-**資產的階層式標籤，提供更快速的搜尋體驗**
+**資產的階層式標記可提供更快速的搜尋體驗**
 
-控管辭彙的平面清單會隨著時間而變得無法管理。 Assets Essentials現在支援階層式標籤結構，這有助於套用相關中繼資料、分類資產、支援搜尋、重複使用標籤、改善可發現性等等。
+受控詞彙的平面清單會隨著時間推移而變得難以管理。Assets Essentials 現在支援標記階層結構，這有助於套用相關的中繼資料、將資產分類、支援搜尋、重複使用標記、提高易尋性等。
 
-![標籤管理](assets/tags-hierarchy.png)
+![標記管理](assets/tags-hierarchy.png)
 
-**釘選檔案、資料夾和集合以快速存取**
+**釘選檔案、資料夾和集合以便快速存取**
 
-您現在可以釘選檔案、資料夾和集合，以便在以後需要時更快速地存取這些專案。 釘選專案會顯示在 **快速存取** 區段。 您可以使用「我的工作區」來存取這些物件，而不必導覽至儲存於存放庫中的儲存位置。
+現在可以釘選檔案、資料夾和集合，以便在之後需要時可以更快速地存取這些項目。釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。您可以使用「我的工作區」進行存取，而不是瀏覽到存放庫中儲存的位置。
 
-![Workspace 中的任務](assets/quick-access.png)
+![工作區中的任務](assets/quick-access.png)
 
-**篩選垃圾桶資料夾中的資產**
+**篩選「垃圾桶」資料夾的資產**
 
-Assets Essentials現在可讓您篩選垃圾桶資料夾中可用的資產。 您可以套用標準或自訂篩選器，在垃圾桶資料夾中搜尋適當的資產，以還原或永久刪除它們。
+Assets Essentials 目前讓您可以篩選「垃圾桶」資料夾中的資產。您也可以套用標準或自訂篩選條件搜尋「垃圾桶」資料夾中的適當資產，以恢復或永久刪除。
 
-**3D資產的縮圖預覽**
+**3D 資產的縮圖預覽**
 
-Assets Essentials現在會產生常見3D檔案格式的縮圖預覽，包括gLB、USDz、FBX、3DS、OBJ和SBSAR。 將這些檔案上傳至Assets Essentials時，系統會依預設自動產生縮圖。
+Assets Essentials 現在可以生成常見 3D 檔案格式的縮圖預覽，包括 gLB、USDz、FBX、3DS、OBJ 和 SBSAR。當這些檔案上傳到 Assets Essentials 時，系統會依預設情況自動生成縮圖。
 
-![Workspace 中的任務](assets/3d-preview.png)
+![工作區中的任務](assets/3d-preview.png)
 
-**檢視熱門搜尋字詞**
+**檢視熱門搜尋詞彙**
 
-Assets Essentials現在支援使用檢視Assets Essentials部署中搜尋最多的辭彙 **深入分析** 區段。 您也可以導覽至詳細分析，檢視過去30天或12個月的熱門搜尋。
+Assets Essentials 現在支援使用「我的工作區」的 **Insights** 部分，檢視在 Assets Essentials 部署中的熱門搜尋詞彙。您也可以瀏覽到詳細的 Insights 以檢視過去 30 天或 12 個月內的熱門搜尋。
 
-![Workspace 中的任務](assets/insights-top-searches.png)
+![工作區中的任務](assets/insights-top-searches.png)
 
 **中繼資料表單增強功能**
 
-Assets Essentials現在可讓您將多值文字和下拉式清單屬性元件新增到中繼資料表單。
+Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和下拉式清單屬性元件。
 
 
 **根據客戶回饋意見進行的改進功能**
@@ -66,15 +66,15 @@ Assets Essentials現在可讓您將多值文字和下拉式清單屬性元件新
 -->
 
 
-* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
+* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將存取集合的權限委派給其他使用者。
 
-* 作為管理員，您無法將訪問集合的權限委派給其他使用者。
+* 作為管理員，您無法將存取集合的權限委派給其他使用者。
 
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
 ## 舊版本 {#past-releases}
 
-### 2023年多個版本 {#multiple-releases-2023}
+### 2023 年的多個版本 {#multiple-releases-2023}
 
 最近新增功能清單包括：
 
