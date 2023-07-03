@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 95720f448d45e1e3f36d10dacbe5c0903a83b3e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 96%
 + [管理收藏集](manage-collections.md)
 + [查看資產、資料夾和集合](manage-notifications.md)
 + [管理報告](manage-reports.md)
-+ [管理標籤](tagging-management.md)
++ [管理標記](tagging-management.md)
 + 和其他解決方案整合 {#integration-with-other-solutions}
    + [概觀](integration.md)
    + [與適用於企業的 Creative Cloud 整合](integrate-with-creative-cloud.md)
