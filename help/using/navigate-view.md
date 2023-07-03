@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '937'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 96%
 * [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
-* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。您也可以指定關鍵字或套用標準或自訂篩選器，以搜尋垃圾桶資料夾中的適當資產。 如需使用標準和自訂篩選器的詳細資訊，請參閱 [在Assets Essentials中搜尋資產](search.md).
+* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。您也可以指定關鍵字或套用標準或自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱[在 Assets Essentials 中搜尋資產](search.md)。
 * **設定**：您可以使用&#x200B;**設定**&#x200B;來設定 Assets Essentials 的各種選項，例如中繼資料表單、報告和分類法管理。
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
