@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '814'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -32,9 +32,9 @@ Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 
 
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
 
-* **上傳**：使用折線圖表示過去30天或12個月內上傳至Assets Essentials環境的資產數量。
+* **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
 
-* **熱門搜尋**：以表格格式檢視過去30天或12個月內Assets Essentials環境中搜尋次數最多的搜尋辭彙。
+* **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
 
 <!--
 
