@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 100%
+source-wordcount: '1033'
+ht-degree: 87%
 
 ---
 
@@ -141,6 +141,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## 使用搜尋結果 {#work-with-search-results}
+
+您可以選取搜尋結果中顯示的資產，並執行下列動作：
+
+* **詳細資料**：檢視和編輯資產屬性。
+
+* **新增至集合**：將選取的資產新增至集合。
+
+* **下載**：下載資產。
+
+* **刪除**：刪除資產。
+
+* **複製**：將資產複製到其他資料夾位置。
+
+* **移動**：將資產移至其他資料夾位置。
+
+* **重新命名**：重新命名資產。
+
+* **指派任務**：將任務指派給資產的使用者。
+
+* **共用連結**： [共用連結](share-links-for-assets.md) ，方便其他使用者存取及下載。
+
+* **觀看**： [監視作業](manage-notifications.md) 已在資產上執行。
+
+* **顯示檔案位置**：導覽至資產資料夾位置。
+
+* **釘選至快速存取**： [釘選資產](my-workspace.md) 以便在日後需要時更快存取。 所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
 
 ## 後續步驟 {#next-steps}
 
