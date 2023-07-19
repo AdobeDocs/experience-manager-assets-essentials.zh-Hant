@@ -4,9 +4,9 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1033'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 87%
 
 * 有效日期：根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的有效日期範圍以進一步篩選搜尋結果。
 
-* 自訂篩選器：[在](#custom-filters) Assets Essentials 使用者介面新增自訂篩選器。除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
+* 自訂篩選器：在 Assets Essentials 使用者介面[新增自訂篩選器](#custom-filters)。除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
 您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
 
@@ -144,11 +144,11 @@ When userA is searching and userB add an asset that matches search results, will
 
 ## 使用搜尋結果 {#work-with-search-results}
 
-您可以選取搜尋結果中顯示的資產，並執行下列動作：
+您可以選取搜尋結果中顯示的資產，然後執行以下動作：
 
 * **詳細資料**：檢視和編輯資產屬性。
 
-* **新增至集合**：將選取的資產新增至集合。
+* 按一下&#x200B;**新增到集合**：將所選資產新增到集合中。
 
 * **下載**：下載資產。
 
@@ -156,19 +156,19 @@ When userA is searching and userB add an asset that matches search results, will
 
 * **複製**：將資產複製到其他資料夾位置。
 
-* **移動**：將資產移至其他資料夾位置。
+* **移動**：將資產移動到其他資料夾位置。
 
 * **重新命名**：重新命名資產。
 
-* **指派任務**：將任務指派給資產的使用者。
+* **指派任務**：將資產的任務指派給使用者。
 
-* **共用連結**： [共用連結](share-links-for-assets.md) ，方便其他使用者存取及下載。
+* **共用連結**：與其他使用者 [共用資產連結](share-links-for-assets.md)，以便他們可以存取和下載該資產。
 
-* **觀看**： [監視作業](manage-notifications.md) 已在資產上執行。
+* **觀看**：[監視](manage-notifications.md) 對資產執行的作業。
 
-* **顯示檔案位置**：導覽至資產資料夾位置。
+* **顯示檔案位置**：瀏覽到資產資料夾位置。
 
-* **釘選至快速存取**： [釘選資產](my-workspace.md) 以便在日後需要時更快存取。 所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
+* **釘選到快速存取** :[釘選資產](my-workspace.md) 以便以後需要時能更快地存取。所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
 
 ## 後續步驟 {#next-steps}
 
