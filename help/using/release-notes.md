@@ -4,56 +4,47 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
-workflow-type: ht
-source-wordcount: '2044'
-ht-degree: 100%
+source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
+workflow-type: tm+mt
+source-wordcount: '2154'
+ht-degree: 96%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-現行版本的 Assets Essentials 於 2023 年 6 月 22 日發行。
+目前版本的Assets Essentials於2023年7月27日發行。
 
 包含於該版本中的功能清單有：
 
+<!--
 
-**資產的階層式標記可提供更快速的搜尋體驗**
+**Assign metadata form to a folder**
 
-受控詞彙的平面清單會隨著時間推移而變得難以管理。Assets Essentials 現在支援標記階層結構，這有助於套用相關的中繼資料、將資產分類、支援搜尋、重複使用標記、提高易尋性等。
+You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
 
-![標記管理](assets/tags-hierarchy.png)
+![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
 
-**釘選檔案、資料夾和集合以便快速存取**
+-->
 
-現在可以釘選檔案、資料夾和集合，以便在之後需要時可以更快速地存取這些項目。釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。您可以使用「我的工作區」進行存取，而不是瀏覽到存放庫中儲存的位置。
+**改善影像智慧標籤的人工智慧架構**
 
-![工作區中的任務](assets/quick-access.png)
+Experience Manager Assets 現在為影像智慧標記使用改良的人工智慧框架。 此內容智慧可提高智慧標記的相關性和準確性，在擷取時可用於所有影像資產。
 
-**篩選「垃圾桶」資料夾的資產**
+**設定「資產清單」檢視的欄顯示**
 
-Assets Essentials 目前讓您可以篩選「垃圾桶」資料夾中的資產。您也可以套用標準或自訂篩選條件搜尋「垃圾桶」資料夾中的適當資產，以恢復或永久刪除。
+Assets Essentials現在提供選取「資產清單」檢視中顯示的欄的功能，例如狀態、格式、Dimension、大小等。
 
-**3D 資產的縮圖預覽**
+![設定欄](/help/using/assets/configure-columns.png)
 
-Assets Essentials 現在可以生成常見 3D 檔案格式的縮圖預覽，包括 gLB、USDz、FBX、3DS、OBJ 和 SBSAR。當這些檔案上傳到 Assets Essentials 時，系統會依預設情況自動生成縮圖。
+**根據相關性排序搜尋結果**
 
-![工作區中的任務](assets/3d-preview.png)
-
-**檢視熱門搜尋詞彙**
-
-Assets Essentials 現在支援使用「我的工作區」的 **Insights** 部分，檢視在 Assets Essentials 部署中的熱門搜尋詞彙。您也可以瀏覽到詳細的 Insights 以檢視過去 30 天或 12 個月內的熱門搜尋。
-
-![工作區中的任務](assets/insights-top-searches.png)
-
-**中繼資料表單增強功能**
-
-Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和下拉式清單屬性元件。
-
+依預設，Assets Essentials現在會根據關聯性來排序搜尋結果。 您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
 
 **根據客戶回饋意見進行的改進功能**
 
 根據客戶意見回應進行的增強功能和錯誤修正。
+
 
 ## 已知問題 {#known-issues}
 
@@ -73,6 +64,40 @@ Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和�
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
 ## 舊版本 {#past-releases}
+
+### 6月發行 {#june2023-release}
+
+**資產的階層式標記可提供更快速的搜尋體驗**
+
+受控詞彙的平面清單會隨著時間推移而變得難以管理。Assets Essentials 現在支援標記階層結構，這有助於套用相關的中繼資料、將資產分類、支援搜尋、重複使用標記、提高易尋性等。
+
+![標記管理](assets/tags-hierarchy.png)
+
+**釘選檔案、資料夾和集合以便快速存取**
+
+現在可以釘選檔案、資料夾和集合，以便在之後需要時可以更快速地存取這些項目。釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。您可以使用「我的工作區」進行存取，而不是瀏覽到存放庫中儲存的位置。
+
+![Workspace 中的任務](assets/quick-access.png)
+
+**篩選「垃圾桶」資料夾的資產**
+
+Assets Essentials 目前讓您可以篩選「垃圾桶」資料夾中的資產。您也可以套用標準或自訂篩選條件搜尋「垃圾桶」資料夾中的適當資產，以恢復或永久刪除。
+
+**3D 資產的縮圖預覽**
+
+Assets Essentials 現在可以生成常見 3D 檔案格式的縮圖預覽，包括 gLB、USDz、FBX、3DS、OBJ 和 SBSAR。當這些檔案上傳到 Assets Essentials 時，系統會依預設情況自動生成縮圖。
+
+![工作區中的任務](assets/3d-preview.png)
+
+**檢視熱門搜尋詞彙**
+
+Assets Essentials 現在支援使用「我的工作區」的 **Insights** 部分，檢視在 Assets Essentials 部署中的熱門搜尋詞彙。您也可以瀏覽到詳細的 Insights 以檢視過去 30 天或 12 個月內的熱門搜尋。
+
+![Workspace 中的任務](assets/insights-top-searches.png)
+
+**中繼資料表單增強功能**
+
+Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和下拉式清單屬性元件。
 
 ### 2023 年的多個版本 {#multiple-releases-2023}
 

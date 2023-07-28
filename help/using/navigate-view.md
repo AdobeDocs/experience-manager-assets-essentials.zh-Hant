@@ -3,10 +3,10 @@ title: 「[!DNL Assets Essentials]使用者介面」
 description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
-workflow-type: ht
-source-wordcount: '937'
-ht-degree: 100%
+source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
+workflow-type: tm+mt
+source-wordcount: '1000'
+ht-degree: 93%
 
 ---
 
@@ -111,6 +111,16 @@ ht-degree: 100%
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
 -->
+
+## 設定「資產清單」檢視的欄顯示 {#configure-columns-list-view}
+
+您可以選取在「資產清單」檢視中顯示的欄，例如「狀態」、「格式」、「Dimension」、「大小」等：
+
+1. 選取 **[!UICONTROL 資產]** 從左側導覽窗格，切換至資產清單檢視，然後按一下 ![設定圖示](assets/settings-icon.svg).
+
+1. 選取您需要在「清單」檢視中顯示的欄，然後按一下 **[!UICONTROL 確認]**.
+
+   ![設定欄](/help/using/assets/configure-columns.png)
 
 ## 後續步驟 {#next-steps}
 

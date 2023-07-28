@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
-workflow-type: ht
-source-wordcount: '1033'
-ht-degree: 100%
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
+workflow-type: tm+mt
+source-wordcount: '1042'
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 * 自訂篩選器：在 Assets Essentials 使用者介面[新增自訂篩選器](#custom-filters)。除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
-您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
+您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。搜尋的資產會根據 `Relevance`，預設為。
 
 ## 管理自訂篩選器 {#custom-filters}
 
