@@ -4,8 +4,8 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 5b9e3297c37bca0e5badc2073f8c6467e012ccde
-workflow-type: tm+mt
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
+workflow-type: ht
 source-wordcount: '1558'
 ht-degree: 100%
 
@@ -114,7 +114,7 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
 若要重複使用現有表單來建立新表單，請選取中繼資料表單，從工具列按一下&#x200B;**[!UICONTROL 複製]**、命名，然後按一下&#x200B;**[!UICONTROL 確認]**。您可以編輯中繼資料表單，進行變更。變更表單時，會在變更後用於上傳的資料。不會變更現有資產。
 
-## 屬性元件 {#property-components}
+### 屬性元件 {#property-components}
 
 您可以使用以下任何屬性元件自訂中繼資料表單。只需將元件類型拖放到表單上想要的位置，並修改元件設定即可。以下是每種屬性類型及其儲存方式的概觀。
 
@@ -133,6 +133,24 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 標記 | 從分類法管理中儲存的值新增標記 (對應到 xcm:tags)。 |
 | 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
+
+<!--
+
+### Assign metadata form to a folder {#assign-metadata-form-folder}
+
+You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+
+To assign a metadata form to a folder:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+
+2. Click **[!UICONTROL Assign to Folder]**.
+
+3. Select the folder and click **[!UICONTROL Assign]**.
+
+   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
 
 ## 後續步驟 {#next-steps}
 
