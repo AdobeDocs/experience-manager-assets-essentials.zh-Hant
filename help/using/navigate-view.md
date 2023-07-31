@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1000'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -40,13 +40,13 @@ ht-degree: 93%
 
 您可以從主要使用者介面或左側邊欄瀏覽資料夾。瀏覽時，您可以使用介面檢視資產縮圖，以瀏覽存放庫或檢視資產詳細資訊，快速找到您想要的資產。在左側邊欄中可用的選項包括：
 
-* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en)：Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
-* [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
-* [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=en)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
+* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-Hant)：Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
+* [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-Hant)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
+* [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=zh-Hant)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
 * **最近檢視的項目**：您最近預覽的資產清單。[!DNL Assets Essentials] 只會顯示您預覽的資產。在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
 * [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
-* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
+* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-Hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 * **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原始位置或永久刪除。您也可以指定關鍵字或套用標準或自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱[在 Assets Essentials 中搜尋資產](search.md)。
 * **設定**：您可以使用&#x200B;**設定**&#x200B;來設定 Assets Essentials 的各種選項，例如中繼資料表單、報告和分類法管理。
 
@@ -88,7 +88,7 @@ ht-degree: 93%
 *D：下載資產*
 *E：預覽資產並查看中繼資料資訊*
 *D：進階中繼資料*
-*E：關鍵字和智慧型標記*
+*E：關鍵字和智慧標記*
 *F：註解和註釋*
 *G：檢視與所選資產相關的任務*
 *H：檢視和管理版本*
@@ -112,15 +112,15 @@ Explicitly previewed assets are displayed as recently viewed assets. Give screen
 Other use cases after previewing.
 -->
 
-## 設定「資產清單」檢視的欄顯示 {#configure-columns-list-view}
+## 設定「資產清單」視圖的資料欄顯示 {#configure-columns-list-view}
 
-您可以選取在「資產清單」檢視中顯示的欄，例如「狀態」、「格式」、「Dimension」、「大小」等：
+您可以選擇「資產清料」視圖中顯示的資料欄，例如「狀態」、「格式」、「維度」、「大小」等：
 
-1. 選取 **[!UICONTROL 資產]** 從左側導覽窗格，切換至資產清單檢視，然後按一下 ![設定圖示](assets/settings-icon.svg).
+1. 在左側導覽窗格中選取「**[!UICONTROL 資產]**」，切換至「資產清單」視圖，然後按一下![設定圖示](assets/settings-icon.svg)。
 
-1. 選取您需要在「清單」檢視中顯示的欄，然後按一下 **[!UICONTROL 確認]**.
+1. 選取需要在清單視圖中顯示的資料欄，然後按一下「**[!UICONTROL 確認]**」。
 
-   ![設定欄](/help/using/assets/configure-columns.png)
+   ![設定資料欄](/help/using/assets/configure-columns.png)
 
 ## 後續步驟 {#next-steps}
 
