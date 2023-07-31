@@ -5,15 +5,15 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2154'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2023年7月27日發行。
+現行版本的 Assets Essentials 於 2023 年 7 月 27 日發行。
 
 包含於該版本中的功能清單有：
 
@@ -27,19 +27,19 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
-**改善影像智慧標籤的人工智慧架構**
+ **影像智慧標記已改良的人工智慧框架**
 
 Experience Manager Assets 現在為影像智慧標記使用改良的人工智慧框架。 此內容智慧可提高智慧標記的相關性和準確性，在擷取時可用於所有影像資產。
 
-**設定「資產清單」檢視的欄顯示**
+**設定「資產清單」視圖的資料欄顯示**
 
-Assets Essentials現在提供選取「資產清單」檢視中顯示的欄的功能，例如狀態、格式、Dimension、大小等。
+Assets Essentials 現在提供可選取顯示在「資產清單」視圖中的資料欄功能，例如「狀態」、「格式」、「維度」、「大小」等。
 
-![設定欄](/help/using/assets/configure-columns.png)
+![設定資料欄](/help/using/assets/configure-columns.png)
 
-**根據相關性排序搜尋結果**
+**根據相關性對為搜尋結果進行排序**
 
-依預設，Assets Essentials現在會根據關聯性來排序搜尋結果。 您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
+Assets Essentials 現在會根據相關性 (依預設) 為搜尋結果進行排序。您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -65,7 +65,7 @@ Assets Essentials現在提供選取「資產清單」檢視中顯示的欄的功
 
 ## 舊版本 {#past-releases}
 
-### 6月發行 {#june2023-release}
+### 6 月發行版本 {#june2023-release}
 
 **資產的階層式標記可提供更快速的搜尋體驗**
 
