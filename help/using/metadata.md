@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 6a9bc34907f9eb8c7d18a8fbb139e27244538256
+source-git-commit: 50b9ba30eac2d99fe72a8cfacf4b0361b8955a87
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1558'
+ht-degree: 100%
 
 ---
 
@@ -58,11 +58,6 @@ ht-degree: 0%
 您也可以從[!UICONTROL 智慧標記]區段移除由 [!DNL Assets Essentials] 自動新增到所有上傳資產的標記。
 
 ## 分類法管理 {#taxonomy-management}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Adobe Express整合"
->abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
 
 標記還可以巢狀內嵌到階層中，以支援類別和子類別等關係。如果您需要插入階層式標記，管理員可以在 [!UICONTROL 分類式管理] (屬於 [!UICONTROL 設定]) 部分輕鬆予以管理。您可以建立一組控管的命名空間和標記，讓所有使用者都可以在描述內容時存取與使用。只有管理員可以在 [!UICONTROL Taxonomy Manager] 設定標記階層，確保這些值的一致的控制和使用。
 

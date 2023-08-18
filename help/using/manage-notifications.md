@@ -2,10 +2,10 @@
 title: 管理通知
 description: 使用Assets Essentials通知監視對儲存庫中可用的資產或資料夾執行的操作。
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '617'
-ht-degree: 100%
+source-git-commit: 07457e86a37b5d39a6c843c2c2cf8750a6acb354
+workflow-type: tm+mt
+source-wordcount: '665'
+ht-degree: 99%
 
 ---
 
@@ -95,6 +95,11 @@ Assets Essentials現在發送訂閱類別的通知。 您還可以選擇多個�
 同樣，要取消訂閱，請選擇您已訂閱的資產、資料夾或集合，然後按一下 **[!UICONTROL 取消監視]**。
 
 ## 查看通知 {#view-notifications}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Adobe Express整合"
+>abstract="[!DNL Experience Manager Assets] 預設會提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的詳細資訊頁面。特定企業中繼資料能夠改善其資產的控管和探索。"
 
 通知顯示在Assets Essentials用戶介面的選單欄的右端。
 
