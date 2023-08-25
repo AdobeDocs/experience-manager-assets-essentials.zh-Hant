@@ -4,16 +4,16 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: ht
-source-wordcount: '2154'
-ht-degree: 100%
+source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+workflow-type: tm+mt
+source-wordcount: '2298'
+ht-degree: 93%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-現行版本的 Assets Essentials 於 2023 年 7 月 27 日發行。
+Assets Essentials 的當前版本是在 2023 年 8 月 24 日發行。
 
 包含於該版本中的功能清單有：
 
@@ -27,19 +27,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
- **影像智慧標記已改良的人工智慧框架**
+**從資料來源大量匯入資產**
 
-Experience Manager Assets 現在為影像智慧標記使用改良的人工智慧框架。 此內容智慧可提高智慧標記的相關性和準確性，在擷取時可用於所有影像資產。
+管理員現在可以從資料來源將大量資產匯入AEM Assets。 管理員不再需要將個別資產或資料夾上傳到AEM Assets。 大量匯入支援的資料來源包括Azure、AWS、Google Cloud和Dropbox。
 
-**設定「資產清單」視圖的資料欄顯示**
+![從資料來源大量匯入資產](/help/using/assets/bulk-import.png)
 
-Assets Essentials 現在提供可選取顯示在「資產清單」視圖中的資料欄功能，例如「狀態」、「格式」、「維度」、「大小」等。
+**Adobe Express支援的影像編輯工具**
 
-![設定資料欄](/help/using/assets/configure-columns.png)
+由Adobe Express提供支援的簡單直覺式影像編輯工具，可直接在AEM Assets中取得，以提高內容重複使用率並加快內容速度。
 
-**根據相關性對為搜尋結果進行排序**
+![使用Adobe Express編輯影像](/help/using/assets/edit-adobe-express.png)
 
-Assets Essentials 現在會根據相關性 (依預設) 為搜尋結果進行排序。您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
+**為「我的工作區快速存取」釘選專案時的靈活性**
+
+能夠選取並釘選您、整個組織或群組清單的專案，好讓這些專案根據您的選取專案顯示在「我的工作區」的「快速存取」區段中。
+
+![釘選群組的專案](assets/pin-items-for-groups.png)
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -65,7 +69,23 @@ Assets Essentials 現在會根據相關性 (依預設) 為搜尋結果進行排�
 
 ## 舊版本 {#past-releases}
 
-### 6 月發行版本 {#june2023-release}
+### 2023年7月發行版本 {#july2023-release}
+
+ **影像智慧標記已改良的人工智慧框架**
+
+Experience Manager Assets 現在為影像智慧標記使用改良的人工智慧框架。 此內容智慧可提高智慧標記的相關性和準確性，在擷取時可用於所有影像資產。
+
+**設定「資產清單」視圖的資料欄顯示**
+
+Assets Essentials 現在提供可選取顯示在「資產清單」視圖中的資料欄功能，例如「狀態」、「格式」、「維度」、「大小」等。
+
+![設定資料欄](/help/using/assets/configure-columns.png)
+
+**根據相關性對為搜尋結果進行排序**
+
+Assets Essentials 現在會根據相關性 (依預設) 為搜尋結果進行排序。您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。
+
+### 2023年6月發行版本 {#june2023-release}
 
 **資產的階層式標記可提供更快速的搜尋體驗**
 
