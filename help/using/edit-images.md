@@ -3,10 +3,10 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 10709417b2656ab15a3bade94bea701f50ec5ae3
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 53%
+source-wordcount: '896'
+ht-degree: 52%
 
 ---
 
@@ -22,7 +22,12 @@ ht-degree: 53%
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## 編輯影像，使用 [!DNL Adobe Express] {#edit-using-express}
+## 使用Adobe Express編輯影像 {#edit-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Adobe Express 整合"
+>abstract="由Adobe Express提供支援的簡單直覺式影像編輯工具，可直接在AEM Assets中取得，以提高內容重複使用率並加快內容速度。"
 
 ### 調整影像大小 {#resize-image-using-express}
 
