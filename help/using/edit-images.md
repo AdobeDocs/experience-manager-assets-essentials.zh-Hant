@@ -3,10 +3,10 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
+source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 52%
+source-wordcount: '908'
+ht-degree: 53%
 
 ---
 
@@ -27,17 +27,17 @@ ht-degree: 52%
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express 整合"
->abstract="由Adobe Express提供支援的簡單直覺式影像編輯工具，可直接在AEM Assets中取得，以提高內容重複使用率並加快內容速度。"
+>abstract="由 Adobe Express 提供支援的簡單且直觀的影像編輯工具可直接在 AEM Assets 中使用，以增加內容的重複使用並加快內容的速度。"
 
 ### 調整影像大小 {#resize-image-using-express}
 
 熱門的使用案例是將影像調整成特定大小。[!DNL Assets Essentials] 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要使用調整影像大小 [!DNL Assets Essentials]，請遵循下列步驟：
 
 1. 選取影像並按一下 **編輯**.
-2. 按一下 **[!DNL Resize Image]** 從左側窗格中可用的快速動作。
+2. 按一下 **[!UICONTROL 調整影像大小]** 從左側窗格中可用的快速動作。
 3. 從中選擇適當的社群媒體平台 **[!UICONTROL 調整大小]** 下拉式清單，並從顯示的選項中選取影像大小。
 4. 如有必要，請使用 **[!UICONTROL 影像比例]** 欄位。
-5. 按一下 **[!DNL Apply]** 以套用您的變更。
+5. 按一下 **[!UICONTROL 套用]** 以套用您的變更。
    ![使用Adobe Express編輯影像](/help/using/assets/adobe-express-resize-image.png)
 
    您編輯的影像可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。
@@ -48,8 +48,8 @@ ht-degree: 52%
 您只需要幾個簡單的步驟，就可以移除影像的背景，如下所述：
 
 1. 選取影像並按一下 **編輯**.
-2. 按一下 **[!DNL Remove Background]** 從左側窗格中可用的快速動作。 Experience Manager Assets會顯示沒有背景的影像。
-3. 按一下 **[!DNL Apply]** 以套用您的變更。
+2. 按一下 **[!UICONTROL 移除背景]** 從左側窗格中可用的快速動作。 Experience Manager Assets會顯示沒有背景的影像。
+3. 按一下 **[!UICONTROL 套用]** 以套用您的變更。
    ![以Adobe Express儲存影像](/help/using/assets/adobe-express-remove-background.png)
 
    您編輯的影像可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。
@@ -59,9 +59,9 @@ ht-degree: 52%
 使用內嵌技術，輕鬆將影像轉換為完美大小 [!DNL Adobe Express] 快速動作。
 
 1. 選取影像並按一下 **編輯**.
-2. 按一下 **[!DNL Crop Image]** 從左側窗格中可用的快速動作。
+2. 按一下 **[!UICONTROL 裁切影像]** 從左側窗格中可用的快速動作。
 3. 拖曳影像邊角的操作框以建立您想要的裁切。
-4. 按一下 **[!DNL Apply]**.
+4. 按一下 **[!UICONTROL 套用]**.
    ![以Adobe Express儲存影像](/help/using/assets/adobe-express-crop-image.png)
 裁切的影像可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。
 
@@ -70,7 +70,7 @@ ht-degree: 52%
 您可以使用Adobe Express快速將JPEG影像轉換為PNG格式。 執行以下步驟：
 
 1. 選取影像並按一下 **編輯**.
-2. 按一下 **[!DNL JPEG to PNG]** 從左側窗格中可用的快速動作。
+2. 按一下 **[!UICONTROL JPEG至PNG]** 從左側窗格中可用的快速動作。
    ![轉換成PNG並加上Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. 按一下&#x200B;**[!UICONTROL 下載]**。
 
