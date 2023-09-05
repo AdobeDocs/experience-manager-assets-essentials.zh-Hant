@@ -1,6 +1,6 @@
 ---
 title: 使用 Assets 檢視大量匯入資產
-description: 了解如何使用新的 Assets UI (Assets 檢視) 大量匯入資產。它能讓管理員將大量資產從資料來源匯入到 AEM Assets。
+description: 了解如何使用新的 Assets UI (Assets 檢視) 大量匯入資產。此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
 source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
 source-wordcount: '1244'
@@ -52,8 +52,8 @@ AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源
 1. 選取「**[!UICONTROL 匯入模式]**」。選取「**[!UICONTROL 跳過]**」、「**[!UICONTROL 取代]**」或「**[!UICONTROL 建立版本]**」。跳過模式是預設值，在此模式下，擷取工具會跳過匯入資產 (如果已存在)。
    ![匯入來源詳細資訊](assets/bulk-import-source-details.png)
 
-1. (可選) 在中繼資料檔案欄位中指定要匯入的中繼資料檔案 (以 CSV 格式提供)，然後按一下「**[!UICONTROL 下一步]**」以瀏覽至「**[!UICONTROL 位置和篩選器]**」。
-1. 要使用「**[!UICONTROL 資產目標資料夾]**」欄位在 DAM 中定義要匯入資產的位置，請指定路徑。例如，`/content/dam/imported_assets`。
+1. (可選) 在中繼資料檔案欄位中指定要匯入的中繼資料檔案 (以 CSV 格式提供)，然後按一下「**[!UICONTROL 下一步]**」，瀏覽至「**[!UICONTROL 位置和篩選器]**」。
+1. 要使用「**[!UICONTROL 資產目標資料夾]**」欄位在所要匯入資產的 DAM 中定義位置，請指定路徑。 例如，`/content/dam/imported_assets`。
 1. (可選) 在「**[!UICONTROL 選擇篩選器]**」區段中，提供資產的檔案大小下限 (以 MB 為單位)，以便將它們包含在「**[!UICONTROL 按大小下限篩選]**」欄位中的擷取程序中。
 1. (可選) 提供資產的檔案大小上限 (以 MB 為單位)，以納入「**[!UICONTROL 按大小上限篩選]**」欄位的擷取程序。
 1. (可選) 使用「**[!UICONTROL 包含 MIME 類型]**」欄位選取要包含在擷取程序中的 MIME 類型。您可以在此欄位中選取多種 MIME 類型。如果您未定義值，則所有 MIME 類型都將包含在擷取程序中。
@@ -108,7 +108,7 @@ AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源
 
 要驗證與資料來源的連線，請按一下設定名稱相對應的 ...，然後按一下「**[!UICONTROL 檢查]**」。如果連線成功，Experience Manager Assets 會顯示以下訊息：
 
-![大量匯入健康情況檢查](assets/bulk-import-health-check.png)
+![大量匯入健全檢查](assets/bulk-import-health-check.png)
 
 ## 在執行匯入之前執行試執行 {#dry-run-bulk-import}
 
