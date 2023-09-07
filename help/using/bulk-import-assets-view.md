@@ -4,7 +4,7 @@ description: 了解如何使用新的 Assets UI (Assets 檢視) 大量匯入資�
 source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
 source-wordcount: '1244'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -13,13 +13,13 @@ ht-degree: 79%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="大量匯入資產"
->abstract="管理員現在可以使用資產檢視，將資料來源的大量資產匯入Experience Manager Assets。 管理員不再需要將個別資產或資料夾上傳到Experience Manager Assets。 支援大量匯入的雲端儲存空間提供者包括Azure、AWS、Google Cloud和Dropbox。"
+>abstract="管理員現在能夠使用 Assets 視圖將大量資產從資料來源匯入到 Experience Manager Assets。 管理員不再需要將個別資產或資料夾上傳到 Experience Manager Assets。 支援大量匯入的雲端儲存提供者包括 Azure、AWS、Google Cloud 和 Dropbox。"
 
 AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源匯入到 AEM Assets。管理員不再需要將單個資產或資料夾上傳到 AEM Assets。
 
 >[!NOTE]
 >
->資產檢視大量匯入工具使用與管理員檢視大量匯入工具相同的後端。 不過，它可提供更多可匯入的資料來源，以及更簡化的使用者體驗。
+>Assets 視圖大量匯入工具器使用的後端與管理員視圖大量匯入工具相同。 但是，它提供了更多可供匯入的資料來源和更簡化的使用者體驗。
 
 您可以從以下資料來源匯入資產：
 
@@ -68,13 +68,13 @@ AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源
 
 1. 按一下「**[!UICONTROL 儲存]**」執行所選選項。
 
-### 在大量匯入期間處理檔案名稱 {#filename-handling-bulkimport-assets-view}
+### 大量匯入期間處理檔名 {#filename-handling-bulkimport-assets-view}
 
-當您大量匯入資產或資料夾時， [!DNL Experience Manager Assets] 匯入存在於匯入來源中的完整結構。 [!DNL Experience Manager] 會遵循資產和檔案夾名稱中特殊字元的內建規則，因此這些檔案名稱需要清除。 對於資料夾名稱和資產名稱，使用者定義的標題會保持不變，並會儲存在 `jcr:title`.
+當您大量匯入資產或資料夾時，[!DNL Experience Manager Assets] 會匯入存在於匯入來源中的整個結構。 [!DNL Experience Manager] 會遵循資產和資料夾名稱中內建的特殊字元規則，因此這些檔名需要經過清理。 對於資料夾名稱和資產名稱，使用者定義的標題保持不變，並且儲存在 `jcr:title` 中。
 
-大量匯入期間， [!DNL Experience Manager] 尋找現有資料夾以避免重新匯入資產和資料夾，同時也驗證匯入發生所在的父資料夾中套用的清理規則。 如果在父資料夾中套用清理規則，則相同的規則會套用到匯入來源。 針對新的匯入，會套用以下清理規則來管理資產和資料夾的檔案名稱。
+在大量匯入期間，[!DNL Experience Manager] 會尋找現有資料夾以避免重複匯入資產和資料夾，並確認在發生匯入的父資料夾中已套用清理規則。 如果已在父資料夾中套用清理規則，則相同的規則也將套用於匯入來源。 對於新匯入，將套用以下清理規則來管理資產和資料夾的檔名。
 
-如需有關大量匯入期間不允許的名稱、處理資產名稱及處理資料夾名稱的詳細資訊，請參閱 [在管理員檢視中大量匯入時處理檔案名稱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
+如需大量匯入期間禁止的名稱、處理資產名稱和處理資料夾名稱的詳細資訊，請參閱[在管理員視圖中大量匯入期間處理檔名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport)。
 
 ## 檢視現有的大量匯入設定 {#view-import-configuration}
 
