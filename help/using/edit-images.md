@@ -4,9 +4,9 @@ description: 使用  [!DNL Adobe Photoshop Express]  支援的選項編輯影像
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '908'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -34,10 +34,10 @@ ht-degree: 93%
 熱門的使用案例是將影像調整成特定大小。[!DNL Assets Essentials] 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要使用 [!DNL Assets Essentials] 調整影像大小，請按照以下步驟操作：
 
 1. 選取影像並按一下「**編輯**」。
-2. 按一下 **[!UICONTROL 調整影像大小]** 從左側窗格中可用的快速動作。
+2. 從左窗格中可用的快速動作中，按一下「**[!UICONTROL 調整影像大小]**」。
 3. 從「**[!UICONTROL 調整大小的內容]**」下拉清單選取適當的社交媒體平台，然後從顯示的選項中選擇影像大小。
 4. 如果需要，使用「**[!UICONTROL 影像比例]**」欄位來縮放影像。
-5. 按一下 **[!UICONTROL 套用]** 以套用您的變更。
+5. 按一下「**[!UICONTROL 套用]**」以套用您的變更。
    ![使用 Adobe Express 進行影像編輯](/help/using/assets/adobe-express-resize-image.png)
 
    您已編輯的影像可供下載。您可以將編輯後的資產另存為同一資產的新版本，也可以將其另存為新資產。
@@ -48,8 +48,8 @@ ht-degree: 93%
 您可以透過幾個簡單的步驟從影像中移除背景，如下所述：
 
 1. 選取影像並按一下「**編輯**」。
-2. 按一下 **[!UICONTROL 移除背景]** 從左側窗格中可用的快速動作。 Experience Manager Assets 會顯示沒有背景的影像。
-3. 按一下 **[!UICONTROL 套用]** 以套用您的變更。
+2. 從左窗格中可用的快速動作中，按一下「**[!UICONTROL 移除背景]**」。 Experience Manager Assets 會顯示沒有背景的影像。
+3. 按一下「**[!UICONTROL 套用]**」以套用您的變更。
    ![使用 Adobe Express 儲存影像](/help/using/assets/adobe-express-remove-background.png)
 
    您編輯的影像可供下載。您可以將編輯後的資產另存為同一資產的新版本，也可以將其另存為新資產。
@@ -59,9 +59,9 @@ ht-degree: 93%
 使用嵌入式 [!DNL Adobe Express] 快速動作可輕鬆將影像轉換為完美大小。
 
 1. 選取影像並按一下「**編輯**」。
-2. 按一下 **[!UICONTROL 裁切影像]** 從左側窗格中可用的快速動作。
+2. 從左窗格中可用的快速動作中，按一下「**[!UICONTROL 裁切影像]**」。
 3. 拖曳影像角落上的控點，建立所要的裁切大小。
-4. 按一下 **[!UICONTROL 套用]**.
+4. 按一下「**[!UICONTROL 套用]**」。
    ![使用 Adobe Express 儲存影像](/help/using/assets/adobe-express-crop-image.png)
 裁切後的影像可供下載。您可以將編輯後的資產另存為同一資產的新版本，也可以將其另存為新資產。
 
@@ -70,7 +70,7 @@ ht-degree: 93%
 您可以使用 Adobe Express 將 JPEG 影像快速轉換為 PNG 格式。 執行以下步驟：
 
 1. 選取影像並按一下「**編輯**」。
-2. 按一下 **[!UICONTROL JPEG至PNG]** 從左側窗格中可用的快速動作。
+2. 從左窗格中可用的快速動作中，按一下「**[!UICONTROL 將 JPEG 轉換為 PNG]**」。
    ![使用 Adobe Express 轉換為 PNG](/help/using/assets/adobe-express-convert-image.png)
 3. 按一下「**[!UICONTROL 下載]**」。
 
