@@ -3,10 +3,10 @@ title: 與其他 Adobe 解決方案的整合
 description: 「[!DNL Assets Essentials] 整合其他 Adobe 解決方案，並從原生應用程式內提供內嵌式體驗。」
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
+workflow-type: tm+mt
+source-wordcount: '450'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,12 @@ ht-degree: 100%
 * **[!DNL Adobe Workfront]**：[[!DNL Adobe Workfront]](https://www.workfront.com/) 是工作管理應用程式，協助您在一個地方管理整個工作生命週期。[!DNL Adobe Workfront] 與 [!DNL Assets Essentials] 的原生整合可讓組織在本質上連接工作和資產管理，藉以改善內容速度和上市時間。就管理其工作而言，使用者可以存取在同一解決方案中的所需文件和影像。[!DNL Assets Essentials] 可作為附加元件提供，以供新的 [!DNL Workfront] 客戶另外購買。請參閱[設定及使用 [!DNL Workfront] 和 [!DNL Essentials] 整合](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm)。
 
   [觀看設定 Adobe Workfront 和 Assets Essentials 整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+
+## 與Edge Delivery Services的檔案式製作整合 {#integrate-doc-authoring-edge-and-assets}
+
+Edge Delivery可讓您建立快速、吸引人的網站，讓作者可以快速更新及發佈內容，並快速推出新網站。
+
+將AEM Assets與檔案型撰寫功能整合以供Edge Delivery Services使用，讓網站作者在Microsoft Word或Google檔案中撰寫檔案時，能夠使用AEM Assets存放庫中的可用影像。 如需詳細資訊，請參閱 [將AEM Assets與檔案式製作整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
 
 ## 後續步驟 {#next-steps}
 
