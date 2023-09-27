@@ -4,28 +4,24 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
-workflow-type: ht
-source-wordcount: '2298'
-ht-degree: 100%
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+workflow-type: tm+mt
+source-wordcount: '2342'
+ht-degree: 97%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 發行於 2023 年 8 月 24 日。
+目前版本的Assets Essentials於2023年9月21日發行。
 
-該版本所含功能清單為：
+最近新增功能清單包括：
 
-<!--
+**將中繼資料表單指派至資料夾**
 
-**Assign metadata form to a folder**
+您現在可以將中繼資料表單指派給Assets Essentials部署內的特定資料夾。 資料夾中的所有資產（包括子資料夾中的資產）接著會顯示指派的中繼資料表單中定義的屬性。
 
-You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
-
-![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
--->
+![將中繼資料表單指派至資料夾](/help/using/assets/assign-to-folder.png)
 
 **從資料來源大量匯入資產**
 

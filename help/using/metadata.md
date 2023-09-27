@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1897989934b12b0f88b56461c76833273ca04447
-workflow-type: ht
-source-wordcount: '1558'
-ht-degree: 100%
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+workflow-type: tm+mt
+source-wordcount: '1686'
+ht-degree: 92%
 
 ---
 
@@ -134,25 +134,21 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
 
-<!--
+### 將中繼資料表單指派至資料夾 {#assign-metadata-form-folder}
 
-### Assign metadata form to a folder {#assign-metadata-form-folder}
+您也可以將中繼資料表單指派給Assets Essentials部署內的資料夾。 手動將中繼資料表單套用至資料夾時，會覆寫根據MIME型別指派給資料夾的中繼資料表單。 資料夾中的所有資產（包括子資料夾中的資產）接著會顯示中繼資料表單中定義的屬性。
 
-You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+若要將中繼資料表單指派至資料夾：
 
-To assign a metadata form to a folder:
+1. 瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL 中繼資料Forms]** 並選取中繼資料表單。
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+2. 按一下 **[!UICONTROL 指派至資料夾]**.
 
-2. Click **[!UICONTROL Assign to Folder]**.
+3. 選取資料夾並按一下 **[!UICONTROL 指派]**.
 
-3. Select the folder and click **[!UICONTROL Assign]**.
+   ![將中繼資料表單指派至資料夾](/help/using/assets/assign-to-folder.png)
 
-   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
-   You can also navigate to the folder details page and select a metadata form from the folder properties available in the right pane to assign the metadata form to the folder.
-
--->
+   您也可以導覽至資料夾詳細資訊頁面，並從右側窗格中可用的資料夾屬性中選取中繼資料表單，以將中繼資料表單指派給資料夾。
 
 ## 後續步驟 {#next-steps}
 
