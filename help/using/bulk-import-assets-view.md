@@ -1,25 +1,25 @@
 ---
-title: 使用 Assets 檢視大量匯入資產
-description: 了解如何使用新的 Assets UI (Assets 檢視) 大量匯入資產。此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
-source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
+title: 使用Assets Essentials大量匯入資產
+description: 瞭解如何使用新的資產UI (Assets Essentials)大量匯入資產。 此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
-source-wordcount: '1244'
-ht-degree: 100%
+source-wordcount: '1245'
+ht-degree: 89%
 
 ---
 
-# 使用 Assets 檢視大量匯入資產  {#bulk-import-assets-view}
+# 使用Assets Essentials大量匯入資產  {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="大量匯入資產"
->abstract="管理員現在能夠使用 Assets 視圖將大量資產從資料來源匯入到 Experience Manager Assets。 管理員不再需要將個別資產或資料夾上傳到 Experience Manager Assets。 支援大量匯入的雲端儲存提供者包括 Azure、AWS、Google Cloud 和 Dropbox。"
+>abstract="管理員現在可以使用Assets Essentials將大量資產從資料來源匯入至Experience Manager Assets。 管理員不再需要將個別資產或資料夾上傳到 Experience Manager Assets。 支援大量匯入的雲端儲存提供者包括 Azure、AWS、Google Cloud 和 Dropbox。"
 
-AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源匯入到 AEM Assets。管理員不再需要將單個資產或資料夾上傳到 AEM Assets。
+AEM Assets Essentials中的大量匯入讓管理員能夠將大量資產從資料來源匯入至AEM Assets。 管理員不再需要將單個資產或資料夾上傳到 AEM Assets。
 
 >[!NOTE]
 >
->Assets 視圖大量匯入工具器使用的後端與管理員視圖大量匯入工具相同。 但是，它提供了更多可供匯入的資料來源和更簡化的使用者體驗。
+>Assets Essentials大量匯入工具使用與Assetsas a Cloud Service大量匯入工具相同的後端。 不過，Assets Essentials提供更多可匯入的資料來源，以及更簡化的使用者體驗。
 
 您可以從以下資料來源匯入資產：
 
@@ -74,7 +74,7 @@ AEM Assets 檢視中的大量匯入能讓管理員將大量資產從資料來源
 
 在大量匯入期間，[!DNL Experience Manager] 會尋找現有資料夾以避免重複匯入資產和資料夾，並確認在發生匯入的父資料夾中已套用清理規則。 如果已在父資料夾中套用清理規則，則相同的規則也將套用於匯入來源。 對於新匯入，將套用以下清理規則來管理資產和資料夾的檔名。
 
-如需大量匯入期間禁止的名稱、處理資產名稱和處理資料夾名稱的詳細資訊，請參閱[在管理員視圖中大量匯入期間處理檔名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport)。
+如需有關大量匯入期間不允許的名稱、處理資產名稱及處理資料夾名稱的詳細資訊，請參閱 [在大量匯入期間處理檔案名稱](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## 檢視現有的大量匯入設定 {#view-import-configuration}
 

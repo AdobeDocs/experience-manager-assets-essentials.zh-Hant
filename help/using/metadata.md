@@ -4,14 +4,14 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 92%
 
 ---
 
-# 資產檢視的中繼資料 {#metadata}
+# Assets Essentials中的中繼資料 {#metadata}
 
 中繼資料為資料或資料相關的說明。例如，作為資產的影像可以包含其所按一下的相機資訊或任何版權資訊。此資訊是影像的中繼資料。中繼資料是進行高效率資產管理的關鍵所在。中繼資料雖然是資產所有可用資料的集合，但並不一定包含在資產內。
 
