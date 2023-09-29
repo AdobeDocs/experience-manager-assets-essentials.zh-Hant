@@ -4,9 +4,9 @@ description: 「[!DNL Assets Essentials] 整合其他 Adobe 解決方案，並�
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '450'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 82%
 
 內嵌式 [!DNL Assets Essentials] 體驗可以整合以下解決方案：
 
-* **[!DNL Creative Cloud for Enterprise]**: [Adobe Asset Link 應用程式內面板](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) 可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。請參閱[使用  [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/using/manage-assets-using-adobe-asset-link.html) 管理資產。
+* **[!DNL Creative Cloud for Enterprise]**：[Adobe Asset Link 應用程式內面板](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。請參閱[使用  [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/using/manage-assets-using-adobe-asset-link.html) 管理資產。
 
   [觀看將 Assets Essentials 與 Adobe Creative Cloud Libraries 整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html)
 
@@ -26,11 +26,11 @@ ht-degree: 82%
 
   [觀看設定 Adobe Workfront 和 Assets Essentials 整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
 
-## 與Edge Delivery Services的檔案式製作整合 {#integrate-doc-authoring-edge-and-assets}
+## Edge Delivery Services 的文件型撰寫整合 {#integrate-doc-authoring-edge-and-assets}
 
-Edge Delivery可讓您建立快速、吸引人的網站，讓作者可以快速更新及發佈內容，並快速推出新網站。
+Edge Delivery 讓您能夠建立快速、引人入勝的網站，作者可以在其中快速更新和發佈內容，並且可以快速啟動新網站。
 
-將AEM Assets與檔案型撰寫功能整合以供Edge Delivery Services使用，讓網站作者在Microsoft Word或Google檔案中撰寫檔案時，能夠使用AEM Assets存放庫中的可用影像。 如需詳細資訊，請參閱 [將AEM Assets與檔案式製作整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+將 AEM Assets 與 Edge Delivery Services 文件型撰寫整合，讓網站作者能夠在 Microsoft Word 或 Google Docs 中撰寫文件時使用 AEM Assets 存放庫中提供的影像。如需詳細資訊，請參閱[將 AEM Assets 與文件型撰寫整合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge)。
 
 ## 後續步驟 {#next-steps}
 
