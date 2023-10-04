@@ -5,13 +5,13 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1686'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Assets Essentials中的中繼資料 {#metadata}
+# Assets Essentials 中的中繼資料 {#metadata}
 
 中繼資料為資料或資料相關的說明。例如，作為資產的影像可以包含其所按一下的相機資訊或任何版權資訊。此資訊是影像的中繼資料。中繼資料是進行高效率資產管理的關鍵所在。中繼資料雖然是資產所有可用資料的集合，但並不一定包含在資產內。
 
@@ -136,19 +136,19 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
 ### 將中繼資料表單指派至資料夾 {#assign-metadata-form-folder}
 
-您也可以將中繼資料表單指派給Assets Essentials部署內的資料夾。 手動將中繼資料表單套用至資料夾時，會覆寫根據MIME型別指派給資料夾的中繼資料表單。 資料夾中的所有資產（包括子資料夾中的資產）接著會顯示中繼資料表單中定義的屬性。
+您也可以將中繼資料表單指派到 Assets Essentials 部署中的資料夾。當您手動將中繼資料表單套用到資料夾時，根據 MIME 類型，指派至資料夾的中繼資料表單將會被覆寫。然後，資料夾中的所有資產 (包括子資料夾中的資產) 將顯示中繼資料表單中定義的屬性。
 
 若要將中繼資料表單指派至資料夾：
 
-1. 瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL 中繼資料Forms]** 並選取中繼資料表單。
+1. 瀏覽至「**[!UICONTROL 設定]** > **[!UICONTROL 中繼資料表單]**」並選取中繼資料表單。
 
-2. 按一下 **[!UICONTROL 指派至資料夾]**.
+2. 按一下「**[!UICONTROL 指派至資料夾]**」。
 
-3. 選取資料夾並按一下 **[!UICONTROL 指派]**.
+3. 選取資料夾並按一下「**[!UICONTROL 指派]**」。
 
    ![將中繼資料表單指派至資料夾](/help/using/assets/assign-to-folder.png)
 
-   您也可以導覽至資料夾詳細資訊頁面，並從右側窗格中可用的資料夾屬性中選取中繼資料表單，以將中繼資料表單指派給資料夾。
+   您也可以瀏覽至資料夾詳細資料頁面，然後在右側窗格從資料夾屬性中選取中繼資料表單，以將中繼資料表單指派至資料夾。
 
 ## 後續步驟 {#next-steps}
 
