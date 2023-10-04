@@ -1,14 +1,14 @@
 ---
-title: 如何管理Assets Essentials中的標籤？
-description: 瞭解如何管理Assets Essentials中的標籤。 標記可協助您將資產分類，以便更有效地瀏覽和搜尋。
+title: 了解如何在 Assets Essentials 中管理標記？
+description: 如何在 Assets Essentials 中管理標記。標記可協助您將資產分類，以便更有效地瀏覽和搜尋。
 source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1292'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 管理Assets Essentials中的標籤 {#view-assets-and-details}
+# 在 Assets Essentials 中管理標記 {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
@@ -32,7 +32,7 @@ ht-degree: 88%
 
 * 隨著組織詞彙的改變，標記可能會隨著時間的推移而演變。
 
-* 在Assets as a Cloud Service中管理的標籤會與Assets Essentials中管理的標籤保持同步，以確保中繼資料的治理和完整性。
+* 在 Assets as a Cloud Service 中所管理的標記與在 Assets Essentials 中所管理的標記保持同步，此確保中繼資料控管和完整性。
 
 為了能夠將標記套用於資產，首先必須建立一個命名空間，然後建立與新增標記。您也可以建立標記並將其新增到現有的命名空間。您在根級別建立的任何標記都會自動新增到標準標記命名空間。然後，您可以將「標記」欄位新增到中繼資料表單，以便顯示於「資產詳細資訊」頁面上。在配置這些設定之後，您可以開始將標記套用到資產。
 
@@ -42,7 +42,7 @@ ht-degree: 88%
 
 ![標記管理](assets/tagging-taxonomy-management.png)
 
-Assets as a Cloud Service提供本文所述以外的其他功能，包括合併、重新命名、本地化及發佈標籤。
+除了本文提到的之外，Assets as a Cloud Service 中還提供了包括合併、重新命名、本地化和發佈標記等其他功能。
 
 ## 建立命名空間 {#creating-a-namespace}
 
@@ -92,7 +92,7 @@ Assets as a Cloud Service提供本文所述以外的其他功能，包括合併�
 
 >[!NOTE]
 >
->如果您刪除 `Standard Tags` 使用「資產」的名稱空間as a Cloud Service，在根層級建立的標籤不會顯示在可用標籤清單中。
+>如果使用 Assets as a Cloud Service 刪除 `Standard Tags` 命名空間，在根級別建立的標記不會顯示在可用標記的清單中。
 
 ## 移動標記 {#moving-tags}
 
@@ -115,7 +115,7 @@ Assets as a Cloud Service提供本文所述以外的其他功能，包括合併�
 >[!NOTE]
 >
 >* 無法更新標記的 `Name`。標記的根路徑也根據標記的名稱。即使更新了 `Title` 欄位，該路徑也維持不變。
->* Assets as a Cloud Service中有提供其他作業，例如合併、當地語系化和發佈。
+>* Assets as a Cloud Service 中提供了其他操作，例如合併、本地化和發佈。
 
 ## 刪除標記 {#deleting-tags}
 
@@ -134,7 +134,7 @@ Assets as a Cloud Service提供本文所述以外的其他功能，包括合併�
 
 ## 將標記元件新增到中繼資料表單 {#adding-tags-to-metadata-form}
 
-標記元件自動被新增到`default`中繼資料表單。您可以透過使用範本或從零開始，設計一個 [中繼資料表單](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=en#metadata-forms)。如果您沒有使用現有的中繼資料表單範本，則可以修改中繼資料表單並新增標記元件。中繼資料屬性對應是自動填入的，此時無法修改。資產as a Cloud Service的使用者可使用自訂名稱空間更新對應以儲存標籤值，並使用根路徑僅公開階層的子集。
+標記元件自動被新增到`default`中繼資料表單。您可以透過使用範本或從零開始，設計一個 [中繼資料表單](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=en#metadata-forms)。如果您沒有使用現有的中繼資料表單範本，則可以修改中繼資料表單並新增標記元件。中繼資料屬性對應是自動填入的，此時無法修改。Assets as a Cloud Service 使用者可以更新對應，以使用自訂命名空間儲存標記值，並使用根路徑僅公開階層的子集。
 
 觀看此簡短影片，了解如何將標記元件新增到中繼資料表單中：
 
@@ -149,7 +149,7 @@ Assets as a Cloud Service提供本文所述以外的其他功能，包括合併�
    ![標記資產](assets/adding-tags-to-assets.png)
 
 1. 選取一個或多個標記。子標記與父系標記或命名空間一起自動選取。
-在Assets Essentials中修改的標籤也會套用至as a Cloud Service的資產。
+在 Assets Essentials 中修改的標記會套用在 Assets as a Cloud Service。
 
 <!--
 *   Overview
