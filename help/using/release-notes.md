@@ -5,21 +5,21 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2342'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2023年9月21日發行。
+目前版本的 Assets Essentials 於 2023 年 9 月 21 日發行。
 
 最近新增功能清單包括：
 
 **將中繼資料表單指派至資料夾**
 
-您現在可以將中繼資料表單指派給Assets Essentials部署內的特定資料夾。 資料夾中的所有資產（包括子資料夾中的資產）接著會顯示指派的中繼資料表單中定義的屬性。
+現在您可以將中繼資料表單指派到 Assets Essentials 部署中的特定資料夾。然後，資料夾中的所有資產 (包括子資料夾中的資產) 將顯示被指派中繼資料表單中定義的屬性。
 
 ![將中繼資料表單指派至資料夾](/help/using/assets/assign-to-folder.png)
 
