@@ -1,8 +1,9 @@
 ---
 title: 使用 Assets Essentials 大量匯入資產
 description: 了解如何使用新的 Assets UI (Assets Essentials) 大量匯入資產。此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
-workflow-type: ht
+exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
+source-git-commit: 77accbc70d973a9b4afddde1c8bcd60c37ff636d
+workflow-type: tm+mt
 source-wordcount: '1245'
 ht-degree: 100%
 
@@ -138,4 +139,3 @@ AEM Assets Essentials 中的大量匯入能讓管理員將大量資產從資料�
 ## 執行大量匯入後瀏覽至資產 {#view-assets-after-bulk-import}
 
 要檢視執行大量匯入作業後匯入資產的資產目標位置，請按一下設定名稱相對應的 ...，然後按一下「**[!UICONTROL 檢視資產]**」。
-
