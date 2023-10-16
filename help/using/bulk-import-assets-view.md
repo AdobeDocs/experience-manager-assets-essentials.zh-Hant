@@ -3,7 +3,7 @@ title: 使用 Assets Essentials 大量匯入資產
 description: 了解如何使用新的 Assets UI (Assets Essentials) 大量匯入資產。此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 source-git-commit: 73721e8ee5c130ccad2ef2bdccba2e8412e031f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1245'
 ht-degree: 100%
 
@@ -75,7 +75,7 @@ AEM Assets Essentials 中的大量匯入能讓管理員將大量資產從資料�
 
 在大量匯入期間，[!DNL Experience Manager] 會尋找現有資料夾以避免重複匯入資產和資料夾，並確認在發生匯入的父資料夾中已套用清理規則。 如果已在父資料夾中套用清理規則，則相同的規則也將套用於匯入來源。 對於新匯入，將套用以下清理規則來管理資產和資料夾的檔名。
 
-如需大量匯入期間禁止的名稱、處理資產名稱和處理資料夾名稱的詳細資訊，請參閱[大量匯入期間處理檔名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport)。
+如需大量匯入期間禁止的名稱、處理資產名稱和處理資料夾名稱的詳細資訊，請參閱[大量匯入期間處理檔名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=zh-Hant#filename-handling-bulkimport)。
 
 ## 檢視現有的大量匯入設定 {#view-import-configuration}
 
