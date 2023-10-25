@@ -1,7 +1,8 @@
 ---
 title: 了解如何在 Assets Essentials 中管理標記？
 description: 如何在 Assets Essentials 中管理標記。標記可協助您將資產分類，以便更有效地瀏覽和搜尋。
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
+source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
 workflow-type: ht
 source-wordcount: '1292'
 ht-degree: 100%
@@ -150,21 +151,3 @@ ht-degree: 100%
 
 1. 選取一個或多個標記。子標記與父系標記或命名空間一起自動選取。
 在 Assets Essentials 中修改的標記會套用在 Assets as a Cloud Service。
-
-<!--
-*   Overview
-*   Benefits
-*   Prerequisites and Permissions
-*   Configuration
-*   Managing Tags
-    *   Creating a Namespace
-    *   Adding Tags to a Namespace
-    *   Adding Tags to Standard Tags
-    *   Moving Tags
-    *   Editing Tags
-    *   Deleting Tags
-*   Applying Tags
-    *   Adding Tags to the Metadata form
-    *   Adding Tags to Assets
-*   Limitations
--->
