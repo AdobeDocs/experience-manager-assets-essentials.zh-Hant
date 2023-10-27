@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: d0f36804edd80b4f4caea2392542fb8fe21136d0
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 94%
 
 ---
 
@@ -47,4 +47,5 @@ ht-degree: 100%
    + [概觀](integration.md)
    + [與適用於企業的 Creative Cloud 整合](integrate-with-creative-cloud.md)
    + [與 Adobe Workfront 整合](integrate-with-workfront.md)
++ [Creative Cloud整合的跨組織權益](cross-org-entitlements-creative-cloud.md)
 + [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
