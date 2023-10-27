@@ -4,18 +4,54 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
-workflow-type: ht
-source-wordcount: '2342'
-ht-degree: 100%
+source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
+workflow-type: tm+mt
+source-wordcount: '2435'
+ht-degree: 95%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 於 2023 年 9 月 21 日發行。
+目前版本的Assets Essentials於2023年10月26日發行。
 
-最近新增功能清單包括：
+新功能包括：
+
+**從OneDrive資料來源大量匯入資產**
+
+管理員現在能夠 [將大量資產從OneDrive匯入至AEM Assets](/help/using/bulk-import-assets-view.md). 支援大量匯入的資料來源更新清單包括Azure、AWS、Google Cloud、Dropbox和OneDrive。
+
+![將中繼資料表單指派至資料夾](/help/using/assets/bulk-import-source-details.png)
+
+**程式庫的跨組織權益支援**
+
+Experience Manager Assets現在可讓您在其他IMS組織中設定Creative Cloud資料庫的存取權。 它可讓您更輕鬆地存取Creative Cloud和Experience Manager之間最新的跨產品工作流程，並減少創意內容的時間和精力。
+
+**根據客戶回饋意見進行的改進功能**
+
+根據客戶意見回應進行的增強功能和錯誤修正。
+
+
+## 已知問題 {#known-issues}
+
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將存取集合的權限委派給其他使用者。
+
+* 作為管理員，您無法將存取集合的權限委派給其他使用者。
+
+如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
+
+## 舊版本 {#past-releases}
+
+### 2023年9月發行版本 {#september2023-release}
 
 **將中繼資料表單指派至資料夾**
 
@@ -41,29 +77,6 @@ ht-degree: 100%
 
 ![為群組釘選項目](assets/pin-items-for-groups.png)
 
-**根據客戶回饋意見進行的改進功能**
-
-根據客戶意見回應進行的增強功能和錯誤修正。
-
-
-## 已知問題 {#known-issues}
-
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將存取集合的權限委派給其他使用者。
-
-* 作為管理員，您無法將存取集合的權限委派給其他使用者。
-
-如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
-
-## 舊版本 {#past-releases}
 
 ### 2023 年 7 月版 {#july2023-release}
 
