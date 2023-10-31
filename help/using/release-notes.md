@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2023年10月26日發行。
+目前版本的 Assets Essentials 於 2023 年 10 月 26 日發行。
 
 新功能包括：
 
-**從OneDrive資料來源大量匯入資產**
+**從 OneDrive 資料來源大量匯入資產**
 
-管理員現在能夠 [將大量資產從OneDrive匯入至AEM Assets](/help/using/bulk-import-assets-view.md). 支援大量匯入的資料來源更新清單包括Azure、AWS、Google Cloud、Dropbox和OneDrive。
+管理員現在能夠[從 OneDrive 將大量資產匯入到 AEM Assets](/help/using/bulk-import-assets-view.md)。支援大量匯入的資料來源清單已更新，其中包括 Azure、AWS、Google Cloud、Dropbox 和 OneDrive。
 
 ![將中繼資料表單指派至資料夾](/help/using/assets/bulk-import-source-details.png)
 
-**程式庫的跨組織權益支援**
+**針對資料庫的跨組織權益支援**
 
-Experience Manager Assets現在可讓您在其他IMS組織中設定Creative Cloud資料庫的存取權。 它可讓您更輕鬆地存取Creative Cloud和Experience Manager之間最新的跨產品工作流程，並減少創意內容的時間和精力。
+Experience Manager Assets 現在可讓您設定在不同 IMS 組織中存取 Creative Cloud libraries。它允許更輕鬆地在 Creative Cloud 和 Experience Manager 之間存取最新跨產品工作流程，減少創作者工作所需時間和精力。
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -51,7 +51,7 @@ Experience Manager Assets現在可讓您在其他IMS組織中設定Creative Clou
 
 ## 舊版本 {#past-releases}
 
-### 2023年9月發行版本 {#september2023-release}
+### 2023 年 9 月版本 {#september2023-release}
 
 **將中繼資料表單指派至資料夾**
 
