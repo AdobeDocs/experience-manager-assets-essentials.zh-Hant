@@ -5,7 +5,7 @@ exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
 workflow-type: tm+mt
 source-wordcount: '1809'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 98%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="大量匯入資產"
->abstract="管理員可以使用Assets Essentials，將大量資產從資料來源匯入至Experience Manager Assets。 管理員不再需要將個別資產或資料夾上傳到 Experience Manager Assets。 支援大量匯入的雲端儲存提供者包括 Azure、AWS、Google Cloud 和 Dropbox。"
+>abstract="管理員可以使用 Assets Essentials 將大量資產從資料來源匯入到 Experience Manager Assets。管理員不再需要將個別資產或資料夾上傳到 Experience Manager Assets。 支援大量匯入的雲端儲存提供者包括 Azure、AWS、Google Cloud 和 Dropbox。"
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/98bce651-721c-442e-98b8-c43e7708e44c_1698834577.854x480at800_h264.mp4" text="觀看影片"
 
 AEM Assets Essentials 中的大量匯入能讓管理員將大量資產從資料來源匯入到 AEM Assets。管理員不再需要將個別資產或資料夾上傳到 AEM Assets。
