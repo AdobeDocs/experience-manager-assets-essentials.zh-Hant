@@ -1,40 +1,40 @@
 ---
-title: AEM Assets中用於Creative Cloud整合的跨組織權益
-description: 瞭解如何在AEM Assets中設定跨組織許可權以進行Creative Cloud整合。 連線至布建至其他IMS組織的Creative Cloud權利，以便輕鬆使用AEM Assets中的最新Creative Cloud整合，包括Express和Creative Cloud庫。
-source-git-commit: b0e20aa3a29a6a37453da16f18d474baf67edb24
-workflow-type: tm+mt
+title: AEM Assets 中用於 Creative Cloud 整合的跨組織權利
+description: 了解如何在 AEM Assets 中設定跨組織權利以進行 Creative Cloud 整合。連接到佈建給不同 IMS 組織的 Creative Cloud 權利，以便輕鬆使用 AEM Assets 中最新的 Creative Cloud 整合，包括 Express 和 Creative Cloud Libraries。
+exl-id: 5a39b640-4195-4149-9757-2733ed70e616
+source-git-commit: ebc49d5c29118cd09cf1f97e8f71f63df76b3779
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creative Cloud整合的跨組織權益  {#cross-org-entitlements}
+# Creative Cloud 整合的跨組織權利  {#cross-org-entitlements}
 
-Experience Manager Assets可連線至已布建至其他IMS組織的Creative Cloud權益，以便輕鬆使用AEM Assets中的最新Creative Cloud整合，包括Express和Creative Cloud庫。
+Experience Manager Assets 能夠連接到佈建給不同 IMS 組織的 Creative Cloud 權利，以便輕鬆使用 AEM Assets 中最新的 Creative Cloud 整合，包括 Express 和 Creative Cloud Libraries。
 
-如果您的Creative Cloud產品和AEM Assets布建至不同的IMS組織，您可以連線至其他Creative Cloud組織，以便在這兩個解決方案之間執行整合式工作流程。
+如果您的 Creative Cloud 產品和 AEM Assets 佈建給單獨的 IMS 組織，您可以連接到不同的 Creative Cloud 組織，以便能夠在兩個解決方案之間執行整合工作流程。
 
 ## 先決條件 {#prerequisites}
 
-* Experience Manager Assets的管理員許可權
+* Experience Manager Assets 的管理員權限
 
-* 跨Creative Cloud和Experience Manager使用的相同使用者ID的有效許可權Creative Cloud。 具有相同電子郵件地址的個人與Federated ID許可權會視為不同的使用者ID。
+* 使用在 Creative Cloud 和 Experience Manager 中使用的同一個使用者識別碼取得 Creative Cloud 的有效權利。個人識別碼和聯合識別碼 (即便具有相同的電子郵件地址) 的權利視為不同的使用者識別碼。
 
-## 連線到新的Creative Cloud組織 {#connect-to-creative-cloud-org}
+## 連結到新的 Creative Cloud 組織 {#connect-to-creative-cloud-org}
 
-若要連線到新的Creative Cloud組織，請執行下列步驟：
+若要連接到新的 Creative Cloud 組織，請執行以下步驟：
 
-1. 瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL Creative Cloud]**.
+1. 瀏覽至「**[!UICONTROL 設定]**」>「**[!UICONTROL Creative Cloud]**」。
 
-1. 使用選取新的Creative Cloud組織 **[!UICONTROL 選取新Creative Cloud組織ID]** 下拉式清單。 清單會顯示您有權存取的所有組織。 選取具有有效Creative Cloud權益的組織。
+1. 使用「**[!UICONTROL 選取新的 Creative Cloud 組織識別碼]**」下拉式清單選取新的 Creative Cloud 組織。此清單會顯示您有權存取的所有組織。選取具有有效 Creative Cloud 權利的組織。
 
-1. 按一下 **[!UICONTROL 切換組織]** 以切換至新組織。
+1. 點選「**[!UICONTROL 切換組織]**」以切換到新的組織。
 
-   ![跨組織權益](assets/cross-org-entitlements.png)
+   ![跨組織權利](assets/cross-org-entitlements.png)
 
 ## 限制 {#limitations}
 
-* 您可以一次將AEM Assets連線至一個Creative Cloud組織。 不支援一次連線至多個Creative Cloud組織。
+* AEM Assets 一次只能連接到一個 Creative Cloud 組織。不支援一次連接到多個 Creative Cloud 組織。
 
-* 您在AEM Assets中連線的Creative Cloud組織適用於您組織內的所有使用者。
-
+* 您在 AEM Assets 中連接到的 Creative Cloud 組織適用於您組織內的所有使用者。
