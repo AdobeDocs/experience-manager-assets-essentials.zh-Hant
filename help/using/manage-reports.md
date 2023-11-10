@@ -2,19 +2,14 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
-source-wordcount: '839'
-ht-degree: 100%
+source-wordcount: '827'
+ht-degree: 95%
 
 ---
 
 # 管理報告 {#manage-reports}
-
->[!CONTEXTUALHELP]
->id="assets_reports"
->title="報告"
->abstract="資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。此資料提供有關使用者如何與內容和產品互動的有用資訊。所有使用者可以存取 Insights 儀表板，且獲指派至管理員產品設定檔的使用者可以建立使用者定義的報告。"
 
 資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。此資料提供有關使用者如何與內容和產品互動的有用資訊。所有使用者可以存取 Insights 儀表板，且獲指派至管理員產品設定檔的使用者可以建立使用者定義的報告。
 
@@ -23,6 +18,11 @@ ht-degree: 100%
 指派至 [Assets Essentials 管理員產品設定檔](deploy-administer.md)的所有使用者可以在 Assets Essentials 中存取 Insights 儀表板或建立使用者定義的報告。
 
 ## 檢視 Insights {#view-live-statistics}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="報告"
+>abstract="前瞻分析儀表板可讓您檢視過去30天或過去12個月中Experience Manager Assets環境的即時事件量度。 事件清單包括下載次數、上傳次數、熱門搜尋次數等。"
 
 Assets Essentials 使您能夠使用 Insights 儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
