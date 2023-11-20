@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
+source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 100%
+source-wordcount: '916'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,20 @@ ht-degree: 100%
 ## 存取報告 {#access-reports}
 
 指派至 [Assets Essentials 管理員產品設定檔](deploy-administer.md)的所有使用者可以在 Assets Essentials 中存取「深入分析」儀表板或建立使用者定義的報告。
+
+若要存取報表，請導覽至 **[!UICONTROL 報表]** 在 **[!UICONTROL 設定]**.
+
+![報告](assets/reports.png)
+<!--
+In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
+
+* **Title**: Title of the report
+* **Type**: Determines whether the report is uploaded or downloaded to the repository
+* **Description**: Provide details of the report that was given during uploading/downloading the report
+* **Status**: Determines whether the report is completed, under progress, or deleted.
+* **Author**: Provides email of the author who has uploaded/downloaded the report.
+* **Created**: Gives information of the date when the report was generated.
+-->
 
 ## 檢視深入分析 {#view-live-statistics}
 
@@ -34,13 +48,18 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 * **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
 
+* **按大小的資產計數**：資產計數的分割是根據資產從0 MB到100 GB的各種大小範圍。
+
+* **儲存空間使用量**：根據可用性，使用長條圖表示的Assets Essentials環境的儲存空間使用量（位元組）。
+
+  ![儲存空間](assets/storage.png)
+
+
+* **傳遞**：圖表會將資產計數描繪為傳送日期。
+
+* **按資產型別的資產計數**：代表可用資產的各種MIME型別計數。 例如，application/zip、image/png、video/mp4、application/postscripte。
+
 * **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
-
-<!--
-
-* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
-
--->
 
 ## 建立下載報告 {#create-download-report}
 
