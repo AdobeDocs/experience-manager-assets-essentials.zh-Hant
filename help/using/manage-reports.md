@@ -2,9 +2,9 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
+source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '910'
 ht-degree: 90%
 
 ---
@@ -40,7 +40,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
-![選取資產時可用的工具列選項](assets/assets-essentials-live-statistics.png)
+<!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 按一下左側導覽窗格中可用的「**[!UICONTROL 深入分析]**」以檢視以下自動產生的圖表：
 
@@ -52,7 +52,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 * **儲存空間使用量**：根據可用性，使用長條圖表示的Assets Essentials環境的儲存空間使用量（位元組）。
 
-  ![儲存空間](assets/storage.png)
+  <!--![Storage](assets/storage.png)-->
 
 
 * **傳遞**：圖表會將資產計數描繪為傳送日期。
@@ -60,6 +60,9 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 * **按資產型別的資產計數**：代表可用資產的各種MIME型別計數。 例如，application/zip、image/png、video/mp4、application/postscripte。
 
 * **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
+
+  ![Insights](assets/insights1.png)
+  ![Insights](assets/insights2.png)
 
 ## 建立下載報告 {#create-download-report}
 
