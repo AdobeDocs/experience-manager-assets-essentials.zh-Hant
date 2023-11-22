@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
+source-git-commit: b065a56bbd0ce86bc9dd6ac568364de30d77be4e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 90%
+source-wordcount: '850'
+ht-degree: 96%
 
 ---
 
@@ -48,21 +48,23 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 * **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
 
-* **按大小的資產計數**：資產計數的分割是根據資產從0 MB到100 GB的各種大小範圍。
+<!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **儲存空間使用量**：根據可用性，使用長條圖表示的Assets Essentials環境的儲存空間使用量（位元組）。
 
   <!--![Storage](assets/storage.png)-->
 
 
-* **傳遞**：圖表會將資產計數描繪為傳送日期。
+<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
-* **按資產型別的資產計數**：代表可用資產的各種MIME型別計數。 例如，application/zip、image/png、video/mp4、application/postscripte。
+<!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
 
-  ![Insights](assets/insights1.png)
-  ![Insights](assets/insights2.png)
+  <!--
+   ![Insights](assets/insights1.png)
+   ![Insights](assets/insights2.png)
+   -->
 
 ## 建立下載報告 {#create-download-report}
 
