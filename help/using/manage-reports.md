@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b065a56bbd0ce86bc9dd6ac568364de30d77be4e
 workflow-type: tm+mt
 source-wordcount: '850'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 
 指派至 [Assets Essentials 管理員產品設定檔](deploy-administer.md)的所有使用者可以在 Assets Essentials 中存取「深入分析」儀表板或建立使用者定義的報告。
 
-若要存取報表，請導覽至 **[!UICONTROL 報表]** 在 **[!UICONTROL 設定]**.
+若要存取報告，請導覽至「**[!UICONTROL 設定]**」下的「**[!UICONTROL 報告]**」。
 
 ![報告](assets/reports.png)
 <!--
@@ -50,7 +50,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **儲存空間使用量**：根據可用性，使用長條圖表示的Assets Essentials環境的儲存空間使用量（位元組）。
+* **儲存空間使用量**：使用長條圖表示的 Assets Essentials 環境儲存空間使用量 (以位元組為單位)，取決於可用性。
 
   <!--![Storage](assets/storage.png)-->
 
