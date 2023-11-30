@@ -4,28 +4,48 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 7a34bf9aa740c647530306c3edde6e493f80790a
+workflow-type: tm+mt
+source-wordcount: '2548'
+ht-degree: 95%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 於 2023 年 10 月 26 日發行。
+目前版本的 Assets Essentials 於 2023 年 11 月 30 日發行。
 
 新功能包括：
 
-**從 OneDrive 資料來源大量匯入資產**
+**AEM Assets中的內嵌Adobe Express編輯器**
 
-管理員現在能夠[從 OneDrive 將大量資產匯入到 AEM Assets](/help/using/bulk-import-assets-view.md)。支援大量匯入的資料來源清單已更新，其中包括 Azure、AWS、Google Cloud、Dropbox 和 OneDrive。
+擁有Express存取權的使用者現在可以直接在AEM Assets中使用，整合來自Adobe Express和Adobe Firefly的影像編輯和建立工具，以改進內容重複使用和加快內容速度。
 
-![將中繼資料表單指派至資料夾](/help/using/assets/bulk-import-source-details.png)
+![將中繼資料表單指派至資料夾](/help/using/assets/adobe-express-aem-assets.png)
 
-**針對資料庫的跨組織權益支援**
+<!--
 
-Experience Manager Assets 現在可讓您設定在不同 IMS 組織中存取 Creative Cloud libraries。它允許更輕鬆地在 Creative Cloud 和 Experience Manager 之間存取最新跨產品工作流程，減少創作者工作所需時間和精力。
+**Smart tags blocklist** 
+
+Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
+
+  ![storage usage insights](/help/using/assets/block-tags.png)
+
+-->
+
+**Insights中的儲存使用情況報表**：
+
+管理員現在能夠檢視儲存使用情況報表，這些報表是深入分析的一部分。
+
+![儲存使用情況深入分析](/help/using/assets/storage-usage-insights.png)
+
+**搜尋第一個首頁設定**
+
+Assets Essentials現在可讓您為組織設定首頁體驗。 如果您選取「搜尋優先」作為首頁，則可設定您組織的搜尋列對齊方式、背景影像和標誌。
+
+![搜尋第一個設定](/help/using/assets/search-first-configuration.png)
+
+
 
 **根據客戶回饋意見進行的改進功能**
 
@@ -50,6 +70,18 @@ Experience Manager Assets 現在可讓您設定在不同 IMS 組織中存取 Cre
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
 ## 舊版本 {#past-releases}
+
+### 2023 年 10 月版 {#october2023-release}
+
+**從 OneDrive 資料來源大量匯入資產**
+
+管理員現在能夠[從 OneDrive 將大量資產匯入到 AEM Assets](/help/using/bulk-import-assets-view.md)。支援大量匯入的資料來源清單已更新，其中包括 Azure、AWS、Google Cloud、Dropbox 和 OneDrive。
+
+![將中繼資料表單指派至資料夾](/help/using/assets/bulk-import-source-details.png)
+
+**針對資料庫的跨組織權益支援**
+
+Experience Manager Assets 現在可讓您設定在不同 IMS 組織中存取 Creative Cloud libraries。它允許更輕鬆地在 Creative Cloud 和 Experience Manager 之間存取最新跨產品工作流程，減少創作者工作所需時間和精力。
 
 ### 2023 年 9 月版本 {#september2023-release}
 
