@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
 workflow-type: tm+mt
-source-wordcount: '1041'
-ht-degree: 100%
+source-wordcount: '1303'
+ht-degree: 76%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 **需要的權限：**`Can Edit`、`Owner` 或管理員。
 
-Assets Essentials 還能讓您新增自訂篩選器到使用者介面。然後，除了[標準篩選器](#refine-search-results)之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
+Assets Essentials也可讓您將自訂篩選器新增到使用者介面。 然後，除了[標準篩選器](#refine-search-results)之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
 Assets Essentials 可提供下列自訂篩選器：
 
@@ -123,7 +123,7 @@ Assets Essentials 可提供下列自訂篩選器：
 
 ## 已儲存搜尋 {#saved-search}
 
-搜尋功能可以在 [!DNL Assets Essentials] 中輕鬆使用。您不僅可以從搜尋方塊中輸入關鍵字然後按下「Return」來查看結果，也可按一下快速再次搜尋最近搜尋的關鍵字。
+搜尋功能可以在 [!DNL Assets Essentials] 中輕鬆使用。您不僅可以從搜尋方塊中輸入關鍵字並按Return鍵來檢視結果，也可以按一下快速再次搜尋最近搜尋的關鍵字。
 
 您也可以根據資產的中繼資料和類型的特定條件，來篩選搜尋結果。對於常用的篩選條件，若要改善搜尋體驗，[!DNL Assets Essentials] 可讓您儲存搜尋參數。您稍後可以選取已儲存搜尋，按一下即可搜尋並套用篩選器。
 
@@ -169,6 +169,39 @@ When userA is searching and userB add an asset that matches search results, will
 * **顯示檔案位置**：瀏覽到資產資料夾位置。
 
 * **釘選到快速存取** :[釘選資產](my-workspace.md) 以便以後需要時能更快地存取。所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
+
+## 設定搜尋第一個首頁 {#configuring-search-first-homepage}
+
+搜尋第一個首頁可讓您立即瀏覽各種檔案和資料夾。 它可讓您輕鬆導覽資產型別、中繼資料、智慧標籤，甚至內容本身，而不需知道確切的關鍵字。 [!DNL Assets Essentials] 可讓您透過控制登入時應該顯示的內容，來設定首頁 [!DNL Assets Essentials].
+
+若要設定搜尋第一個首頁，請執行下列步驟：
+
+1. 瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL 一般設定]**.
+1. 選取 **[!UICONTROL 請先搜尋]**. 它會進一步開啟搜尋優先相關設定。 您可以設定 [對齊方式](#setting-alignment-search-bar) 或 [設定背景和標誌影像](#setting-background-image-and-logo) ，屬於您的首頁。
+
+### 設定搜尋列對齊 {#setting-alignment-search-bar}
+
+[!DNL Assets Essentials] 可讓您變更搜尋列的對齊方式。 您可以讓搜尋列顯示在中央或頂端。 選取適當的對齊方式，然後按一下 **[!UICONTROL 儲存]**.
+
+![搜尋第一個首頁對齊方式](assets/search-first-alignment.png)
+
+### 設定首頁的背景和標誌影像 {#setting-background-image-and-logo}
+
+您可以將品牌標誌和背景影像新增至您的搜尋第一個首頁。 執行以下步驟：
+
+1. 瀏覽至 **[!UICONTROL 背景和標誌影像]** 區段在 **[!UICONTROL 首頁]**.
+1. 按一下 **[!UICONTROL 取代]** 瀏覽現有資產存放庫的影像。
+1. 按一下「**[!UICONTROL 儲存]**」。[預覽](#preview-configured-homepage) 這些變更將會經過修改。
+
+### 預覽設定的首頁 {#preview-configured-homepage}
+
+您可以預覽以檢查搜尋第一個首頁的版面配置和格式。 使用 **[!UICONTROL 預覽]**，您可以修正版面配置或視需要進行修改。 若要預覽設定的首頁，請執行下列步驟：
+
+1. 按一下 **[!UICONTROL 一般設定]** 並選取 **[!UICONTROL 請先搜尋]**.
+1. 瀏覽至 **[!UICONTROL 自訂搜尋第一個首頁]** 並按一下 **[!UICONTROL 預覽]**. 切換到 **[!UICONTROL 深色主題]** 按鈕以用深色或淺色主題預覽首頁。
+1. 按一下 **[!UICONTROL 關閉]** 以關閉預覽畫面。
+
+   ![搜尋第一個首頁預覽](assets/search-first-preview.gif)
 
 ## 後續步驟 {#next-steps}
 
