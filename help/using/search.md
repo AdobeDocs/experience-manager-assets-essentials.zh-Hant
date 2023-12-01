@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
+source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 76%
+source-wordcount: '1295'
+ht-degree: 77%
 
 ---
 
@@ -172,7 +172,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 ## 設定搜尋第一個首頁 {#configuring-search-first-homepage}
 
-搜尋第一個首頁可讓您立即瀏覽各種檔案和資料夾。 它可讓您輕鬆導覽資產型別、中繼資料、智慧標籤，甚至內容本身，而不需知道確切的關鍵字。 [!DNL Assets Essentials] 可讓您透過控制登入時應該顯示的內容，來設定首頁 [!DNL Assets Essentials].
+Assets Essentials可讓您選取組織的預設登陸頁面。 使用「搜尋優先」做為首頁時，您也可以設定符合您品牌的背景和標誌影像，以自訂頁面的品牌。
 
 若要設定搜尋第一個首頁，請執行下列步驟：
 
@@ -191,7 +191,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 1. 瀏覽至 **[!UICONTROL 背景和標誌影像]** 區段在 **[!UICONTROL 首頁]**.
 1. 按一下 **[!UICONTROL 取代]** 瀏覽現有資產存放庫的影像。
-1. 按一下「**[!UICONTROL 儲存]**」。[預覽](#preview-configured-homepage) 這些變更將會經過修改。
+1. 按一下「**[!UICONTROL 儲存]**」。[預覽](#preview-configured-homepage) 變更以檢閱修改。
 
 ### 預覽設定的首頁 {#preview-configured-homepage}
 
