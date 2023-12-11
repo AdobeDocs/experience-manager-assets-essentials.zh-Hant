@@ -5,8 +5,8 @@ role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 74%
+source-wordcount: '1147'
+ht-degree: 77%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 74%
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express 整合"
->abstract="由Adobe Express提供支援的簡單直覺式影像編輯工具，可直接在AEM Assets中取得，以提高內容重複使用率並加快內容速度。"
+>abstract="簡單直觀的影像編輯工具是由 Adobe Express 提供支援，可直接在 AEM Assets 中使用；此工具可增加內容重複使用性並加快內容流通速度。"
 
 ### 調整影像大小 {#resize-image-using-express}
 
@@ -78,7 +78,7 @@ ht-degree: 74%
 
 * 支援的影像解析度：最小 - 50 像素，最大 - 每維度 6000 像素
 
-* 支援的檔案大小上限：17MB
+* 支援的檔案大小上限：17 MB
 
 ## 使用Adobe Express內嵌編輯器編輯影像 {#edit-using-embedded-editor}
 
