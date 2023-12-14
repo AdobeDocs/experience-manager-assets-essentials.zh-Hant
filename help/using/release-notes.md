@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 7a34bf9aa740c647530306c3edde6e493f80790a
-workflow-type: tm+mt
-source-wordcount: '2548'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '2562'
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 95%
 
 新功能包括：
 
-**AEM Assets中的內嵌Adobe Express編輯器**
+**AEM Assets 中的嵌入式 Adobe Express 編輯器**
 
-擁有Express存取權的使用者現在可以直接在AEM Assets中使用，整合來自Adobe Express和Adobe Firefly的影像編輯和建立工具，以改進內容重複使用和加快內容速度。
+可存取 Express 的使用者現在可以直接在 AEM Assets 中使用整合在內的 Adobe Express 和 Adobe Firefly 影像編輯和建立工具，以提升內容重複使用效能並加快內容速度。
 
 ![將中繼資料表單指派至資料夾](/help/using/assets/adobe-express-aem-assets.png)
 
@@ -33,17 +33,17 @@ Assets Essentials now enables you to define a list of blocked tags. These tags a
 
 -->
 
-**Insights中的儲存使用情況報表**：
+**Insights 中的儲存使用情況報告**：
 
-管理員現在能夠檢視儲存使用情況報表，這些報表是深入分析的一部分。
+管理員現在可以查看作為 Insights 一部分提供的儲存空間使用量報告。
 
-![儲存使用情況深入分析](/help/using/assets/storage-usage-insights.png)
+![儲存空間使用量深入解析](/help/using/assets/storage-usage-insights.png)
 
-**搜尋第一個首頁設定**
+**搜尋優先首頁設定**
 
-Assets Essentials現在可讓您為組織設定首頁體驗。 如果您選取「搜尋優先」作為首頁，則可設定您組織的搜尋列對齊方式、背景影像和標誌。
+Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取搜尋優先作為首頁，您可以為您的組織設定搜尋列對齊方式、背景影像和標誌。
 
-![搜尋第一個設定](/help/using/assets/search-first-configuration.png)
+![搜尋優先設定](/help/using/assets/search-first-configuration.png)
 
 
 
@@ -105,7 +105,7 @@ Experience Manager Assets 現在可讓您設定在不同 IMS 組織中存取 Cre
 
 **為「我的工作區快速存取」釘選項目時具備靈活性**
 
-能夠為您自己、整個組織或群組清單選取和釘選項目，讓這些項目能夠根據您的選擇顯示在「我的工作區」的「快速存取」區段中。
+能夠為您自己、整個組織或群組清單選取和釘選項目，讓這些項目能夠根據您的選取顯示在「我的工作區」的「快速存取」區段中。
 
 ![為群組釘選項目](assets/pin-items-for-groups.png)
 
@@ -186,7 +186,7 @@ Assets Essentials 現在能讓您使用左側導覽窗格中可用的全新「**
 
 **自動產生的連結以共用資產**
 
-Assets Essentials 現在會在您選擇使用 Assets Essentials 使用者介面共用資產時，立即自動產生一個連結。即使您變更到期日，產生的連結仍然有效。
+Assets Essentials 現在會在您選取使用 Assets Essentials 使用者介面共用資產時，立即自動產生一個連結。即使您變更到期日，產生的連結仍然有效。
 
 ![Workspace 中的任務](assets/share-asset.png)
 
@@ -248,7 +248,7 @@ Assets Essentials 使用者介面現在提供了新的儲存中繼資料選項�
 
 **集合通知**
 
-Assets Essentials 通知可讓您監視對存放庫中可用集合執行的操作。您需要選擇並訂閱向您傳送通知的集合。您還可以配置傳送通知的操作，例如在集合上執行的刪除、共用連結、移動、重新命名和更新操作。
+Assets Essentials 通知可讓您監視對存放庫中可用集合執行的動作。您需要選取並訂閱向您傳送通知的集合。您還可以配置傳送通知的動作，例如在集合上執行的刪除、共用連結、移動、重新命名和更新動作。
 
 **編輯智慧型集合**
 
@@ -274,11 +274,11 @@ Assets Essentials 現在也可讓您使用「即時統計」儀表板檢視 Asse
 
 **Smart Collection**
 
-將搜索結果另存為 Smart Collection 以動態更新集合內容。如果向 Assets Essentials 儲存庫添加的資產符合在[建立 Smart Collection](manage-collections.md#create-smart-collection)，Smart Collection 的內容會自動更新。
+將搜索結果另存為 Smart Collection 以動態更新集合內容。如果向 Assets Essentials 存放庫添加的資產符合在[建立 Smart Collection](manage-collections.md#create-smart-collection)，Smart Collection 的內容會自動更新。
 
 **通知**
 
-Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾執行的操作](manage-notifications.md)。您需要選擇並訂閱將通知傳送給您的內容。您還可以配置通知傳送給您的類別。
+Assets Essentials 通知使您[監視對存放庫中可用的資產或資料夾執行的動作](manage-notifications.md)。您需要選取並訂閱將通知傳送給您的內容。您還可以配置通知傳送給您的類別。
 
 **報告**
 
@@ -367,7 +367,7 @@ Assets Essentials 通知使您[監視對儲存庫中可用的資產或資料夾�
 
 [!DNL Assets Essentials] 於 2022 年 2 月 3 日發行，包含下列更新：
 
-* [!UICONTROL 建立檔案夾]操作的效能提高。<!-- CQ-4338818 -->
+* [!UICONTROL 建立檔案夾]動作的效能提高。<!-- CQ-4338818 -->
 
 ### 2021.11.0 版 {#november-2021}
 
