@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '857'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 按一下左側導覽窗格中可用的「**[!UICONTROL 深入分析]**」以檢視以下自動產生的圖表：
 
-![Insights](assets/insights.png)
+![深入分析](assets/insights.png)
 
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
 
@@ -52,7 +52,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **儲存空間使用量**：使用長條圖表示的Assets Essentials環境儲存空間使用量（位元組）。
+* **儲存空間使用量**：使用長條圖表示的 Assets Essentials 環境儲存空間使用量 (以位元組為單位)。
 
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
@@ -75,15 +75,15 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 1. 指定報告的標題和說明 (選用)。
 
-1. 使用 **[!UICONTROL 選擇資料夾路徑]** 的子選單。
+1. 使用 **[!UICONTROL 選取資料夾路徑]** 的子選單。
 
-1. 選擇報告的日期間隔。
+1. 選取報告的日期間隔。
 
    >[!NOTE]
    >
    > Assets Essentials 會將所有本地時區轉換為世界協調時間 (UTC)。
 
-1. 在 [!UICONTROL 列] 頁籤，選擇需要在報告中顯示的列名。
+1. 在 [!UICONTROL 列] 頁籤，選取需要在報告中顯示的列名。
 
 1. 按一下&#x200B;**[!UICONTROL 建立]**。
 
@@ -119,7 +119,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
      </tr>
      <tr>
       <td>下載日期</td>
-      <td>執行資產下載操作的日期。</td>
+      <td>執行資產下載動作的日期。</td>
      </tr>
      <tr>
       <td>作者</td>
@@ -154,11 +154,11 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 1. 指定報告的標題和說明 (選用)。
 
-1. 使用 **[!UICONTROL 選擇資料夾路徑]** 的子選單。
+1. 使用 **[!UICONTROL 選取資料夾路徑]** 的子選單。
 
-1. 選擇報告的日期間隔。
+1. 選取報告的日期間隔。
 
-1. 在 [!UICONTROL 列] 頁籤，選擇需要在報告中顯示的列名。
+1. 在 [!UICONTROL 列] 頁籤，選取需要在報告中顯示的列名。
 
 1. 按一下&#x200B;**[!UICONTROL 建立]**。
 
@@ -209,7 +209,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 ## 查看現有報告 {#view-report-list}
 
-[建立報告](#create-download-report)之後，您可以查看現有報告的清單並選擇以 CSV 格式下載或刪除它們。
+[建立報告](#create-download-report)之後，您可以查看現有報告的清單並選取以 CSV 格式下載或刪除它們。
 
 要查看報告清單，請瀏覽至 **[!UICONTROL 設定]** > **[!UICONTROL 報告]**。
 
@@ -226,9 +226,9 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 1. 瀏覽到 **[!UICONTROL 設定]** > **[!UICONTROL 報告]**。
 
-1. 選擇報告並按一下 **[!UICONTROL 下載 CSV]**。
+1. 選取報告並按一下 **[!UICONTROL 下載 CSV]**。
 
-所選報告以 CSV 格式下載。CSV 報告中顯示的列取決於您在選擇[建立報告](#create-download-report)時選擇的資料行。
+所選報告以 CSV 格式下載。CSV 報告中顯示的列取決於您在選取[建立報告](#create-download-report)時選取的資料行。
 
 ## 刪除報告 {#delete-report}
 
@@ -236,6 +236,6 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 1. 瀏覽到 **[!UICONTROL 設定]** > **[!UICONTROL 報告]**。
 
-1. 選擇報告並按一下 **[!UICONTROL 刪除]**。
+1. 選取報告並按一下 **[!UICONTROL 刪除]**。
 
 1. 再按一次「**[!UICONTROL 刪除]**」以進行確認。
