@@ -6,7 +6,7 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 77%
 
 ### 調整影像大小 {#resize-image-using-express}
 
-熱門的使用案例是將影像調整成特定大小。[!DNL Assets Essentials] 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要使用 [!DNL Assets Essentials] 調整影像大小，請按照以下步驟操作：
+熱門的使用案例是將影像調整成特定大小。[!DNL Assets Essentials] 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要使用 [!DNL Assets Essentials] 調整影像大小，請按照以下步驟動作：
 
 1. 選取影像並按一下「**編輯**」。
 2. 從左窗格中可用的快速動作中，按一下「**[!UICONTROL 調整影像大小]**」。
-3. 從「**[!UICONTROL 調整大小的內容]**」下拉清單選取適當的社交媒體平台，然後從顯示的選項中選擇影像大小。
+3. 從「**[!UICONTROL 調整大小的內容]**」下拉清單選取適當的社交媒體平台，然後從顯示的選項中選取影像大小。
 4. 如果需要，使用「**[!UICONTROL 影像比例]**」欄位來縮放影像。
 5. 按一下「**[!UICONTROL 套用]**」以套用您的變更。
    ![使用 Adobe Express 進行影像編輯](/help/using/assets/adobe-express-resize-image.png)
@@ -80,35 +80,35 @@ ht-degree: 77%
 
 * 支援的檔案大小上限：17 MB
 
-## 使用Adobe Express內嵌編輯器編輯影像 {#edit-using-embedded-editor}
+## 使用 Adobe Express 嵌入式編輯器編輯影像 {#edit-using-embedded-editor}
 
-擁有Express存取權的使用者現在已整合直接由Assets Essentials提供的Adobe Express和Adobe Firefly影像編輯和建立工具，以改進內容重複使用和加快內容速度。 您也可以使用預先定義的元素，讓您的資產看起來令人驚豔，或執行快速動作，只要按幾下即可編輯您的影像。
+可存取 Express 的使用者現在可以直接在 Assets Essentials 中使用整合在內的 Adobe Express 和 Adobe Firefly 影像編輯和建立工具，以提升內容重複使用效能並加快內容速度。您還可以使用預先定義的元素賦予資源令人驚嘆的效果，或者只需點擊幾下即可執行快速動作來編輯影像。
 
-若要使用編輯影像 [!DNL Adobe Express] 內嵌編輯器，請遵循下列步驟：
+若要使用 [!DNL Adobe Express] 嵌入式編輯器編輯影像，請依照下列步驟進行：
 
-1. 從中選擇影像 [!DNL Experience Manager] 資產存放庫。
-1. 按一下 **[!UICONTROL 以Adobe Express開啟]**.
+1. 從您的 [!DNL Experience Manager] 資產存放庫中選取一個影像。
+1. 按一下「**[!UICONTROL 在 Adobe Express 中開啟]**」。
 
-   ![Adobe Express內嵌編輯器](assets/embedded-editor.png)
+   ![Adobe Express 嵌入式編輯器](assets/embedded-editor.png)
 
-   您可以善用以下功能 [!DNL Adobe Express] 執行所有與影像編輯相關的動作，例如 [調整影像大小](https://helpx.adobe.com/in/express/using/resize-image.html)， [移除或變更背景顏色](https://helpx.adobe.com/in/express/using/remove-background.html)， [裁切影像](https://helpx.adobe.com/in/express/using/crop-image.html)，以及更多功能。
+   您可以利用 [!DNL Adobe Express] 的功能來執行所有與影像編輯相關的動作，例如「[調整影像大小](https://helpx.adobe.com/tw/express/using/resize-image.html)」、「[移除或變更背景顏色](https://helpx.adobe.com/tw/express/using/remove-background.html)」、「[裁切影像](https://helpx.adobe.com/tw/express/using/crop-image.html)」等。
 
-1. 完成影像編輯後，您可以將資產下載為新資產，或將資產另存為新版本。
+1. 完成影像編輯後，您可以將資產下載為新資產或將資產另存為新版本。
 
-## 使用Adobe Express建立新資產 {#create-new-embedded-editor}
+## 使用 Adobe Express 建立新資產 {#create-new-embedded-editor}
 
-[!DNL Assets Essentials] 可讓您使用從頭開始建立新範本 [!DNL Adobe Express] 內嵌編輯器。 若要使用建立新資產 [!DNL Adobe Express]，請執行以下步驟：
+[!DNL Assets Essentials] 可讓您使用 [!DNL Adobe Express] 嵌入式編輯器從頭開始建立新範本。若要使用 [!DNL Adobe Express] 建立新資產，請執行以下步驟：
 
-1. 瀏覽至 **[!UICONTROL 我的工作區]** 並按一下 **[!UICONTROL 建立]** 於上方顯示的Adobe Express橫幅內 [!UICONTROL 快速存取] 區段。 [!DNL Adobe Express] 空白畫布會顯示在 [!DNL Assets Essentials] 使用者介面。
-1. 建立您的內容，使用 [範本](https://helpx.adobe.com/in/express/using/work-with-templates.html). 否則，請導覽至 **[!UICONTROL 您的內容]** 以修改現有內容。
-1. 完成編輯後，請按一下 **[!UICONTROL 另存為新資產]**.
-1. 指定已建立資產的目的地路徑，然後按一下 **[!UICONTROL 儲存]**.
+1. 瀏覽到「**[!UICONTROL 我的工作區]**」，然後在 Adobe Express 橫幅中點擊「**[!UICONTROL 建立]**」，該橫幅會顯示在「[!UICONTROL 快速存取]」區段上方。[!DNL Adobe Express] 空白畫布會顯示在 [!DNL Assets Essentials] 使用者介面中。
+1. 使用「[範本](https://helpx.adobe.com/tw/express/using/work-with-templates.html)」建立您的內容。否則，請瀏覽至「**[!UICONTROL 您的資料]**」以修改現有內容。
+1. 完成編輯後，按一下「**[!UICONTROL 另存為新資產]**」。
+1. 指定已建立資產的目標路徑，然後按一下「**[!UICONTROL 儲存]**」。
 
 >[!NOTE]
 >
->* 您只能修改以下專案的影像： `JPEG` 和 `PNG` 格式型別。
->* 資產大小必須小於14 MB。
->* 您可以將影像儲存在 `PDF`， `JPEG`，或 `PNG` 格式。
+>* 您只能修改 `JPEG` 和 `PNG` 格式類型的影像。
+>* 資產大小必須小於 14 MB。
+>* 您可以將影像儲存為 `PDF`、`JPEG` 或 `PNG` 格式。
 
 ## 使用 [!DNL Adobe Photoshop Express] 編輯影像 {#edit-using-photoshop-express}
 
