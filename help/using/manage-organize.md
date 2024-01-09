@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e13e204482e480b3a66b48263e965787bd980842
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1026'
-ht-degree: 100%
+source-wordcount: '1152'
+ht-degree: 90%
 
 ---
 
@@ -17,19 +17,43 @@ ht-degree: 100%
 
 使用 [!DNL Assets Essentials] 完成下列資產管理任務。選取資產時，下列選項會在頂部的工具列中顯示。
 
-![選取資產時可用的工具列選項](assets/toolbar-image-selected.png)
+![選取資產時可用的工具列選項](assets/asset-options.png)
 
 *圖：在選取影像的工具列中可用的選項。*
 
+您可以選取搜尋結果中顯示的資產，然後執行以下動作：
+
 * ![取消選取圖示](assets/do-not-localize/close-icon.png) 取消選取。
+
+* ![尋找類似圖示](assets/do-not-localize/find-similar.svg) 根據中繼資料和智慧標籤，在Assets UI中尋找類似的影像資產。
+
 * ![詳細資料圖示](assets/do-not-localize/edit-in-icon.png) 按一下以預覽資產和檢視詳細的中繼資料。預覽時，您可以檢視版本和編輯影像。
+
 * ![下載圖示](assets/do-not-localize/download-icon.png) 將選取的資產下載到您的本機檔案系統。
+
+* ![新增集合圖示](assets/do-not-localize/add-collection.svg) 將選取的資產新增至集合。
+
+* ![釘選資產圖示](assets/do-not-localize/pin-quick-access.svg) 釘選資產，以便在日後需要時更快存取。 所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
+
+* ![在express中編輯圖示](assets/do-not-localize/edit-e.svg) 在Adobe Experience Manager Assets中以整合Adobe Express編輯影像。
+
+* ![編輯資產圖示](assets/do-not-localize/edit-e.svg) 使用Adobe Express編輯影像。
+
+* ![共用資產連結圖示](assets/do-not-localize/share-link.svg) ，以供其他使用者存取及下載。
+
 * ![刪除圖示](assets/do-not-localize/delete-icon.png) 刪除選取的資產或檔案夾。
-* ![簽出圖示](assets/do-not-localize/checkout-icon.png) 簽出選取的資產。
+
 * ![複製圖示](assets/do-not-localize/copy-icon.png) 複製選取的檔案或資料夾。
+
 * ![移動圖示](assets/do-not-localize/move-icon.png) 將選取的資產或資料夾移至存放庫階層中不同的位置。
+
 * ![重新命名圖示](assets/do-not-localize/rename-icon.png) 重新命名選取的資產或資料夾。請使用唯一名稱，否則重新命名動作會失敗並出現警告。您可以使用新的名稱再試。
+
+* ![複製資料庫圖示](assets/do-not-localize/copy-icon.png) 將資產新增至資料庫。
+
 * ![指派任務圖示](assets/do-not-localize/review-delegate-icon.png) 指派任務給其他使用者，以在資產上共同作業。
+
+* ![指派任務圖示](assets/do-not-localize/watch-asset.svg) 監視對資產執行的操作。
 
 您可以在資產縮圖上檢視相同選項。
 
@@ -148,9 +172,3 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
 * 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
-
-
-
-<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
-* ![Add to Collection]() Add the selected asset to a collection.
-* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->
