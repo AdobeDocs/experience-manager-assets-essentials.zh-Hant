@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
+source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
 workflow-type: tm+mt
-source-wordcount: '1442'
-ht-degree: 88%
+source-wordcount: '1451'
+ht-degree: 87%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 88%
 
 ## 使用Adobe Firefly搜尋資產
 
-如果您要尋找任何資產資料夾中都無法使用的資產，請使用 [!UICONTROL Adobe Firefly] 內的資產搜尋功能 [!UICONTROL Adobe Experience Manager Assets]. 此功能可讓您有效率地搜尋可能未儲存在指定資料夾中的資產。  <br> 例如，您可以使用關鍵字搜尋資產 `Bugatti Type 57`. 當搜尋 `Bugatti Type 57`，找不到結果。 <br>
+如果您要尋找任何資產資料夾中都無法使用的資產，請使用 [!UICONTROL Adobe Firefly] 內的資產搜尋功能 [!UICONTROL Adobe Experience Manager Assets]. 它可讓您有效率地搜尋可能未儲存在指定資料夾中的資產。 此功能目前僅供擁有快速存取許可權的使用者存取。  <br> 例如，您可以使用關鍵字搜尋資產 `Bugatti Type 57`. 當搜尋 `Bugatti Type 57`，找不到結果。 <br>
 在搜尋列中輸入資產名稱，然後按一下 **[!UICONTROL 產生]**.
 
 ![Firefly整合](firefly-integration.jpg)
