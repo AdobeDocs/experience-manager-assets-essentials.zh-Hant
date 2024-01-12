@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
+source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
-source-wordcount: '1451'
-ht-degree: 87%
+source-wordcount: '1524'
+ht-degree: 85%
 
 ---
 
@@ -29,19 +29,6 @@ ht-degree: 87%
    * 使用關鍵字進行搜尋，並選取變更資料夾。按下「Return」。
 
    * 開始直接搜尋最近檢視的資產，然後使用該資產。在搜尋方塊中按一下，然後從建議中選取最近檢視的資產。
-
-## 使用Adobe Firefly搜尋資產
-
-如果您要尋找任何資產資料夾中都無法使用的資產，請使用 [!UICONTROL Adobe Firefly] 內的資產搜尋功能 [!UICONTROL Adobe Experience Manager Assets]. 它可讓您有效率地搜尋可能未儲存在指定資料夾中的資產。 此功能目前僅供擁有快速存取許可權的使用者存取。  <br> 例如，您可以使用關鍵字搜尋資產 `Bugatti Type 57`. 當搜尋 `Bugatti Type 57`，找不到結果。 <br>
-在搜尋列中輸入資產名稱，然後按一下 **[!UICONTROL 產生]**.
-
-![Firefly整合](firefly-integration.jpg)
-*圖：在資產資料夾中找不到Bugatti Type 57的結果。*
-
-範例資產會顯示在畫面上。 您可以將這些資產上傳到您偏好的資料夾，以方便存取。
-
-![Firefly整合](assets/bugatti-type-57.jpg)
-*圖：使用Adobe Firefly資產搜尋功能搜尋的參考資產。*
 
 ## 篩選搜尋結果 {#refine-search-results}
 
@@ -133,6 +120,37 @@ Assets Essentials 可提供下列自訂篩選器：
 
 1. 按一下&#x200B;**[!UICONTROL 確認]**，即可將篩選器從使用者介面移除。
 
+## 搜尋資產，使用 [!DNL Adobe Firefly] {#search-firefly}
+
+您可以利用 [!DNL Adobe Firefly] 內的資產搜尋功能 [!DNL Experience Manager Assets]. 這可讓您有效率地即時產生未儲存在資產資料夾中的資產。
+
+### 開始之前
+
+您必須擁有使用中 [!DNL Adobe Express] 訂閱。
+
+### 產生資產
+
+若要使用產生新資產 [!DNL Adobe Firefly]：
+
+1. 導覽至 [!DNL AEM Assets] 工作區。
+1. 在頁面頂端的搜尋列中輸入資產名稱。<br>
+例如，您可以使用關鍵字搜尋資產 `Bugatti Type 57`. 搜尋資產時，由於資產不存在於任何資產資料夾中，因此找不到結果。
+1. 在頁面中間的搜尋列中鍵入資產名稱，然後按一下 **[!UICONTROL 產生]**.
+   ![Firefly 整合](firefly-integration.jpg)
+   *圖：在資產資料夾中找不到Bugatti Type 57的結果。*<br>
+新資產已成功產生。
+   ![Firefly 整合](assets/bugatti-type-57.jpg)
+   *圖：參考資產搜尋方式 [!DNL Adobe Firefly] 資產搜尋功能。* <br>
+您可以將這些資產上傳到您偏好的資料夾，以方便存取。
+
+### 上傳資產
+
+若要將產生的資產上傳至資產存放庫：
+
+1. 按一下 **[!UICONTROL 上傳]**.
+1. 選取上傳資產所需的資產資料夾，然後按一下 **[!UICONTROL 選取資料夾]**.
+   ![上傳資產](assets/upload-asset-firefly.jpg)
+   *圖：選取要上傳資產的檔案夾。*
 
 ## 已儲存搜尋 {#saved-search}
 
@@ -159,7 +177,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 您可以選取搜尋結果中顯示的資產，然後執行以下動作：
 
-* **尋找類似影像**：根據中繼資料和智慧標籤，在Assets UI中尋找類似的影像資產。
+* **尋找類似影像**：根據中繼資料和智慧標記在 Assets UI 中尋找類似影像資產。
 
 * **詳細資料**：檢視和編輯資產屬性。
 
@@ -169,9 +187,9 @@ When userA is searching and userB add an asset that matches search results, will
 
 * **釘選到快速存取** :[釘選資產](my-workspace.md) 以便以後需要時能更快地存取。所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
 
-* **以Adobe Express開啟**：從Adobe Experience Manager Assets畫面編輯整合Adobe Express中的影像。
+* **以Adobe Express開啟**：從Experience Manager Assets畫面編輯整合Adobe Express中的影像。
 
-* **編輯**：使用Adobe Express編輯影像。
+* **編輯**：使用 Adobe Express 編輯影像。
 
 * **共用連結**：與其他使用者 [共用資產連結](share-links-for-assets.md)，以便他們可以存取和下載該資產。
 
@@ -187,7 +205,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 * **指派任務**：將資產的任務指派給使用者。
 
-* **觀看**：[監視](manage-notifications.md) 對資產執行的作業。
+* **觀看**：[監視](manage-notifications.md)針對資產執行的作業。
 
 ## 設定搜尋優先首頁 {#configuring-search-first-homepage}
 
