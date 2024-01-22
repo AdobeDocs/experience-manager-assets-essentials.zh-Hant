@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1152'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ ht-degree: 90%
 
 * ![取消選取圖示](assets/do-not-localize/close-icon.png) 取消選取。
 
-* ![尋找類似圖示](assets/do-not-localize/find-similar.svg) 根據中繼資料和智慧標籤，在Assets UI中尋找類似的影像資產。
+* ![尋找類似圖示](assets/do-not-localize/find-similar.svg)：根據中繼資料和智慧標記在 Assets UI 中尋找類似影像資產。
 
 * ![詳細資料圖示](assets/do-not-localize/edit-in-icon.png) 按一下以預覽資產和檢視詳細的中繼資料。預覽時，您可以檢視版本和編輯影像。
 
 * ![下載圖示](assets/do-not-localize/download-icon.png) 將選取的資產下載到您的本機檔案系統。
 
-* ![新增集合圖示](assets/do-not-localize/add-collection.svg) 將選取的資產新增至集合。
+* ![新增集合圖示](assets/do-not-localize/add-collection.svg)：將所選資產新增到集合中。
 
-* ![釘選資產圖示](assets/do-not-localize/pin-quick-access.svg) 釘選資產，以便在日後需要時更快存取。 所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
+* ![釘選資產圖示](assets/do-not-localize/pin-quick-access.svg) 將資產釘選到快速存取，以便需要時能快速存取。所有釘選的項目都顯示在「我的工作區」的&#x200B;**快速存取**&#x200B;部分。
 
-* ![在express中編輯圖示](assets/do-not-localize/edit-e.svg) 在Adobe Experience Manager Assets中以整合Adobe Express編輯影像。
+* ![在 Express 圖示中編輯](assets/do-not-localize/edit-e.svg) 到 Adobe Experience Manager Assets 畫面的整合 Adobe Express 中編輯影像。
 
-* ![編輯資產圖示](assets/do-not-localize/edit-e.svg) 使用Adobe Express編輯影像。
+* ![編輯資產圖示](assets/do-not-localize/edit-e.svg) 使用 Adobe Express 編輯影像。
 
-* ![共用資產連結圖示](assets/do-not-localize/share-link.svg) ，以供其他使用者存取及下載。
+* ![共用資產連結圖示](assets/do-not-localize/share-link.svg)，與其他使用者共用資產，以便他們存取和下載。
 
 * ![刪除圖示](assets/do-not-localize/delete-icon.png) 刪除選取的資產或檔案夾。
 
@@ -53,7 +53,7 @@ ht-degree: 90%
 
 * ![指派任務圖示](assets/do-not-localize/review-delegate-icon.png) 指派任務給其他使用者，以在資產上共同作業。
 
-* ![指派任務圖示](assets/do-not-localize/watch-asset.svg) 監視對資產執行的操作。
+* ![指派任務圖示](assets/do-not-localize/watch-asset.svg) 監控對資產執行的操作。
 
 您可以在資產縮圖上檢視相同選項。
 
