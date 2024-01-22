@@ -5,21 +5,21 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2666'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2024年1月11日發行。
+目前版本的 Assets Essentials 於 2024 年 1 月 11 日發行。
 
 一些最近新增的功能包括：
 
-**智慧標籤封鎖清單**
+**智慧標記封鎖清單**
 
-Assets Essentials現在可讓您定義封鎖清單，其中包含不應在上傳至存放庫時作為智慧標籤新增至資產的字詞。 此功能可協助您維持品牌法規遵循，並減少稽核智慧標籤的工作量。
+Assets Essentials 現在允許您定義封鎖清單，其中包含上傳到存放庫時，不應當成智慧標記上傳到資產的單詞。此功能可協助您維持品牌合規性，並減少審核智慧標記的工作量。
 
 ![儲存空間使用量深入解析](/help/using/assets/block-tags.png)
 
