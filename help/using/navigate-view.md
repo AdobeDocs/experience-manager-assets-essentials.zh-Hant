@@ -3,7 +3,7 @@ title: 「[!DNL Assets Essentials]使用者介面」
 description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c56e4950e85efd671260c5235ebb54d95b13606c
+source-git-commit: 028c9fbe496e2f29f0b1d46cfcc3cdc20c3d5857
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 91%
@@ -48,7 +48,7 @@ ht-degree: 91%
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-Hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
-* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除。 您可以指定關鍵字或套用篩選器，例如資產狀態、檔案型別、MIME型別、影像大小、資產建立、修改和到期日，以及按目前使用者捨棄的資產進行篩選。 您也可以套用自訂篩選器，以搜尋垃圾桶資料夾中的適當資產。 如需使用標準和自訂篩選器的詳細資訊，請參閱如何 [在Assets Essentials中搜尋資產](search.md).
+* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除。 您可以指定關鍵字或套用篩選器，例如資產狀態、檔案型別、MIME型別、影像大小、資產建立、修改和到期日，以及依目前使用者捨棄的資產進行篩選。 您也可以套用自訂篩選器，以搜尋垃圾桶資料夾中的適當資產。 如需使用標準和自訂篩選器的詳細資訊，請參閱如何 [在Assets Essentials中搜尋資產](search.md).
 
 * **設定**：您可以使用&#x200B;**設定**&#x200B;來設定 Assets Essentials 的各種選項，例如中繼資料表單、報告和分類法管理。
 
