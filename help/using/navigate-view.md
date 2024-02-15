@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '982'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 77%
 
 ![[!DNL Assets Essentials] 使用者介面](assets/essentials-interface.png)
 
-**A**：左側邊欄用於瀏覽存放庫和存取一些其他選項 **B**：顯示或摺疊左側邊欄，以增加資產檢視區域 **C**：篩選搜尋結果 **D**：選取所選資料夾的所有內容 **E**：排序資產的選項 **F**：搜尋方塊 **G**：上傳或拖放檔案，使用 `Add Assets` 按鈕 **H**：建立新資料夾 **I**：在不同檢視之間切換
+**A**：左側邊欄用於瀏覽存放庫並可以存取一些其他選項 **B**：顯示或收合左側邊欄以增加資產檢視區域 **C**：篩選搜尋結果 **D**：選取所選資料夾的所有內容 **E**：用於排序資產的選項 **F**：搜尋方塊 **G**：使用 `Add Assets` 按鈕上傳或拖放檔案 **H**：建立新資料夾 **I**：切換不同視圖
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,7 +40,7 @@ ht-degree: 77%
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-Hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
-* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在垃圾桶資料夾中選取資產，將其還原至原始位置或永久刪除。 您可以指定關鍵字或套用篩選器，例如資產狀態、檔案型別、MIME型別、影像大小、資產建立、修改和到期日，以及依目前使用者捨棄的資產進行篩選。 您也可以套用自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱如何[在 Assets Essentials 中搜尋資產](search.md)。
+* **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原來的位置或永久刪除。您可以指定關鍵字或套用篩選條件，例如資產狀態、檔案類型、MIME 類型、影像大小、資產建立、修改和到期日期，以及按目前使用者捨棄的資產進行篩選。您也可以套用自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱如何[在 Assets Essentials 中搜尋資產](search.md)。
 
 * **設定**：您可以使用&#x200B;**設定**&#x200B;來設定 Assets Essentials 的各種選項，例如中繼資料表單、報告和分類法管理。
 
@@ -76,7 +76,7 @@ ht-degree: 77%
 
 ![預覽資產](assets/preview-asset-2.png)
 
-**A**：返回目前的資料夾或存放庫中目前的搜尋結果 **B**：您正在預覽的檔案名稱和格式 **C**：指派任務 **D**：進階中繼資料 **E**：關鍵字和智慧標籤 **F**：評論和註釋 **G**：檢視與所選資產相關的任務 **H**：檢視和管理版本 **I**：檢視影像的轉譯 **J**：編輯影像 **K**：基本中繼資料 **L**：進階中繼資料 **M**：關鍵字和智慧標籤 **N**：更密切地預覽。 縮放、全熒幕和其他選項 **O**：繼續目前資料夾內的上一個或下一個資產，無須返回資料夾
+**A**：返回目前資料夾或存放庫中的目前搜尋結果 **B**：您正在預覽的檔案名稱和格式 **C**：指派任務 **D**：進階中繼資料 **E**：關鍵字與智慧標記 **F**：註解和註釋 **G**：檢視與所選資產相關的任務 **H**：檢視和管理版本 **I**：檢視影像轉譯 **J**：編輯影像 **K**：基本中繼資料 **L**：進階中繼資料 **M**：關鍵字和智慧標記 **N**：更加仔細預覽。縮放、全螢幕和其他選項 **O**：繼續至目前資料夾內的上一個或下一個資產，不需要返回資料夾。
 
 您也可以預覽影片。
 
