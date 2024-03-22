@@ -3,8 +3,8 @@ title: 「[!DNL Assets Essentials]使用者介面」
 description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
-workflow-type: ht
+source-git-commit: 8620efd0430d230338ef8005847de498a5a95a7e
+workflow-type: tm+mt
 source-wordcount: '982'
 ht-degree: 100%
 
@@ -39,6 +39,7 @@ ht-degree: 100%
 * [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-Hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
+
 
 * **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原來的位置或永久刪除。您可以指定關鍵字或套用篩選條件，例如資產狀態、檔案類型、MIME 類型、影像大小、資產建立、修改和到期日期，以及按目前使用者捨棄的資產進行篩選。您也可以套用自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱如何[在 Assets Essentials 中搜尋資產](search.md)。
 
