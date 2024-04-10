@@ -2,8 +2,8 @@
 title: 使用 Assets Essentials 大量匯入資產
 description: 了解如何使用新的 Assets UI (Assets Essentials) 大量匯入資產。此功能可讓管理員將大量資產從資料來源匯入到 AEM Assets。
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 530880cdd7536a4370cc0315f0d485d258d40102
-workflow-type: ht
+source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
+workflow-type: tm+mt
 source-wordcount: '1812'
 ht-degree: 100%
 
@@ -25,11 +25,11 @@ AEM Assets Essentials 中的大量匯入能讓管理員將大量資產從資料�
 
 您可以從以下資料來源匯入資產：
 
-* Azure
 * AWS
 * Google 雲端
 * Dropbox
 * OneDrive
+* Azure
 
 ## 先決條件 {#prerequisites}
 
