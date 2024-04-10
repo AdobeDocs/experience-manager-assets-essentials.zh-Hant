@@ -2,9 +2,9 @@
 title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '1691'
+source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
+workflow-type: ht
+source-wordcount: '1657'
 ht-degree: 100%
 
 ---
@@ -210,8 +210,6 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 ## 後續步驟 {#next-steps}
 
 * [觀看在 Assets Essentials 中管理權限的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
-
-* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
