@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: ht
-source-wordcount: '1152'
-ht-degree: 100%
+source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
+workflow-type: tm+mt
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -47,7 +47,10 @@ ht-degree: 100%
 
 * ![移動圖示](assets/do-not-localize/move-icon.png) 將選取的資產或資料夾移至存放庫階層中不同的位置。
 
-* ![重新命名圖示](assets/do-not-localize/rename-icon.png) 重新命名選取的資產或資料夾。請使用唯一名稱，否則重新命名動作會失敗並出現警告。您可以使用新的名稱再試。
+* ![重新命名圖示](assets/do-not-localize/rename-icon.png) 重新命名選取的資產或資料夾。請使用唯一名稱，否則重新命名動作會失敗並出現警告。您可以使用新名稱再試一次。
+此外，您可以按一下資產或資料夾的標題來重新命名。 提及新文字於 **重新命名資產** 文字方塊並按一下 **儲存**. 此功能適用於「格點」、「相簿」、「瀑布」和「清單」檢視。
+
+* ![瀑布圖檢檢視示](assets/do-not-localize/waterfall-view.png) [!UICONTROL 瀑布檢視].
 
 * ![複製資料庫圖示](assets/do-not-localize/copy-icon.png) 將資產新增至資料庫。
 
