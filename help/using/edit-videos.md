@@ -2,7 +2,7 @@
 title: 編輯影片
 description: 編輯視訊，使用 [!DNL Adobe Express] 功能選項，並將更新的視訊另存新版。
 role: User
-source-git-commit: 4d279f2744abe563abc39639b6541bd67aad3c4d
+source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 16%
