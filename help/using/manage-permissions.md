@@ -2,7 +2,7 @@
 title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
 description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
+source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
 workflow-type: tm+mt
 source-wordcount: '1657'
 ht-degree: 100%
@@ -118,7 +118,7 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 
 1. 在&#x200B;**[!UICONTROL 管理權限]**&#x200B;對話中，在&#x200B;**[!UICONTROL 群組和使用者]**&#x200B;欄位中指定群組或使用者姓名。
 
-1. 選取[存取層級](#manage-permissions-folders) (從&#x200B;**[!UICONTROL 存取]**&#x200B;下拉式清單)。
+1. 選取[存取層級](#manage-permissions-on-folders) (從&#x200B;**[!UICONTROL 存取]**&#x200B;下拉式清單)。
 
 1. 按一下&#x200B;**[!UICONTROL 新增]**，即可立即變更使用者或使用者群組的權限。
 
@@ -144,7 +144,7 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 
 1. 請選取檔案夾並按一下&#x200B;**[!UICONTROL 管理權限]**。
 
-1. 在&#x200B;**[!UICONTROL 管理權限]**&#x200B;對話中，編輯[存取層級](#manage-permissions-folders) (從&#x200B;**[!UICONTROL 存取]**&#x200B;下拉式清單)。
+1. 在&#x200B;**[!UICONTROL 管理權限]**&#x200B;對話中，編輯[存取層級](#manage-permissions-on-folders) (從&#x200B;**[!UICONTROL 存取]**&#x200B;下拉式清單)。
 
 1. 如有必要，對現有權限規則[新增更多使用者群組或使用者](#add-permissions)。
 
