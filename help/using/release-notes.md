@@ -4,18 +4,77 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
-workflow-type: ht
-source-wordcount: '2666'
-ht-degree: 100%
+source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+workflow-type: tm+mt
+source-wordcount: '2865'
+ht-degree: 92%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的 Assets Essentials 於 2024 年 1 月 11 日發行。
+目前版本的Assets Essentials於2024年4月18日發行。
 
 一些最近新增的功能包括：
+
+**內容搜尋**
+
+您現在也可定義文字提示，以搜尋存放庫中的可用資產。 Experience Manager Assets會自動將這些文字提示轉換為搜尋篩選器，並顯示搜尋結果。 您可以使用「篩選窗格」來檢視及修改自動篩選，以進一步縮小搜尋結果的範圍。
+
+![儲存空間使用量深入解析](/help/using/assets/contextual-search-text-prompt1.png)
+
+<!--
+
+**Dynamic renditions**
+
+You can now view and download dynamic renditions (including smart crops) in Experience Manager Assets. Dynamic renditions are customized versions of image assets created in real-time to meet specific needs, such as resizing images based on device resolution or cropping to fit different aspect ratios. These renditions enable organizations to deliver personalized and optimized experiences to diverse audience needs.
+
+![storage usage insights](/help/using/assets/renditions-view-download.png)
+
+-->
+
+**就地重新命名資產和資料夾**
+
+Experience Manager Assets現在提供透過按一下重新命名資產或資料夾的功能，為您提供簡化的使用者體驗。
+
+**快速視訊快速動作**
+
+Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視訊編輯工具，可提高內容重複使用率並加快內容速度。 在AEM Assets中輕鬆編輯視訊，並不需要具備視訊編輯工具和概念的廣泛知識。 編輯選項包括裁剪、裁切、調整視訊大小，以及將MP4轉換為GIF檔案。
+
+![使用Adobe Express裁切視訊](/help/using/assets/adobe-express-crop-video.png)
+
+**將中繼資料表單指派或移除至多個資料夾**
+
+您現在可以將中繼資料表單指派或移除至多個資料夾。
+
+**管理私人集合的許可權**
+
+您可以允許管理員管理存放庫中私有集合的存取層級。 您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您也可以將許可權管理許可權委派給使用者群組。
+
+
+**根據客戶回饋意見進行的改進功能**
+
+根據客戶意見回應進行的增強功能和錯誤修正。
+
+
+## 已知問題 {#known-issues}
+
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
+
+如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
+
+## 舊版本 {#past-releases}
+
+### 2024 年 1 月版 {#january-2024-release}
 
 **智慧標記封鎖清單**
 
@@ -50,32 +109,6 @@ Assets Essentials 現在允許您定義封鎖清單，其中包含上傳到存�
 Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取搜尋優先作為首頁，您可以為您的組織設定搜尋列對齊方式、背景影像和標誌。
 
 ![搜尋優先設定](/help/using/assets/search-first-configuration.png)
-
-
-
-**根據客戶回饋意見進行的改進功能**
-
-根據客戶意見回應進行的增強功能和錯誤修正。
-
-
-## 已知問題 {#known-issues}
-
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將存取集合的權限委派給其他使用者。
-
-* 作為管理員，您無法將存取集合的權限委派給其他使用者。
-
-如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
-
-## 舊版本 {#past-releases}
 
 ### 2023 年 10 月版 {#october2023-release}
 
