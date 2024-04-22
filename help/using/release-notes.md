@@ -4,10 +4,10 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
 workflow-type: tm+mt
-source-wordcount: '2865'
-ht-degree: 92%
+source-wordcount: '2847'
+ht-degree: 93%
 
 ---
 
@@ -39,7 +39,7 @@ Experience Manager Assets現在提供透過按一下重新命名資產或資料�
 
 **快速視訊快速動作**
 
-Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視訊編輯工具，可提高內容重複使用率並加快內容速度。 在AEM Assets中輕鬆編輯視訊，並不需要具備視訊編輯工具和概念的廣泛知識。 編輯選項包括裁剪、裁切、調整視訊大小，以及將MP4轉換為GIF檔案。
+Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視訊編輯工具，可提高內容重複使用率並加快內容速度。 編輯選項包括裁剪、裁切、調整視訊大小，以及將MP4轉換為GIF檔案。
 
 ![使用Adobe Express裁切視訊](/help/using/assets/adobe-express-crop-video.png)
 
