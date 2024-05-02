@@ -4,7 +4,7 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1834'
 ht-degree: 100%
 
@@ -275,7 +275,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 
 * 修改日期
 
-* 到期日
+* 到期日期
 
 * 資產狀態：已核准、已拒絕或全部
 
@@ -323,7 +323,7 @@ Administrators also have the option to disable Contextual Search for users in yo
 
 ### 內容搜尋意見回饋 {#contextual-search-feedback}
 
-如果您需要提供有關內容搜尋功能的意見回饋，請按一下「![內容搜尋圖示](assets/do-not-localize/Smock_Help_18_N.svg)」，然後按一下「意見回饋」圖示。選取意見回饋類型，指定主題和描述，然後按一下「**[!UICONTROL 提交]**」。
+如果您需要提供有關內容搜尋功能的意見回饋，請按一下 ![內容搜尋圖示](assets/do-not-localize/Smock_Help_18_N.svg)，然後按一下「意見回饋」圖示。選取意見回饋類型，指定主題和描述，然後按一下「**[!UICONTROL 提交]**」。
 
 ![內容搜尋意見回饋](/help/using/assets/contextual-search-feedback.png)
 
