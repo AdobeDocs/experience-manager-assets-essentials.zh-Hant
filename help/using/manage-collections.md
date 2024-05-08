@@ -3,7 +3,7 @@ title: 管理集合
 description: 集合是 Experience Manager Assets Essentials 中的一組資產。使用集合在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 100%
 
