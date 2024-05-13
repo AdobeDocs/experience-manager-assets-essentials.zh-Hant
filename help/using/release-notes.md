@@ -4,22 +4,22 @@ description: ' [!DNL Assets Essentials] 的發行說明和已知問題'
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
+source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
 workflow-type: tm+mt
-source-wordcount: '2847'
-ht-degree: 93%
+source-wordcount: '2903'
+ht-degree: 94%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2024年4月18日發行。
+目前版本的 Assets Essentials 於 2023 年 4 月 18 日發行。
 
 一些最近新增的功能包括：
 
-**內容搜尋**
+**內容相關搜尋**
 
-您現在也可定義文字提示，以搜尋存放庫中的可用資產。 Experience Manager Assets會自動將這些文字提示轉換為搜尋篩選器，並顯示搜尋結果。 您可以使用「篩選窗格」來檢視及修改自動篩選，以進一步縮小搜尋結果的範圍。
+現在您也可以透過定義文字提示來搜尋存放庫中可用的資產。Experience Manager Assets 會自動轉換這些文字提示，以便搜尋篩選器並顯示搜尋結果。您可以使用篩選器窗格查看和修改自動篩選器，以進一步縮小搜尋結果範圍。
 
 ![儲存空間使用量深入解析](/help/using/assets/contextual-search-text-prompt1.png)
 
@@ -33,23 +33,26 @@ You can now view and download dynamic renditions (including smart crops) in Expe
 
 -->
 
-**就地重新命名資產和資料夾**
+**就地重命名資產和資料夾**
 
-Experience Manager Assets現在提供透過按一下重新命名資產或資料夾的功能，為您提供簡化的使用者體驗。
+Experience Manager Assets 現在有項功能讓您按一下即可重新命名資產或資料夾，為您簡化使用者體驗。
 
-**快速視訊快速動作**
+**表達影片快速動作**
 
-Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視訊編輯工具，可提高內容重複使用率並加快內容速度。 編輯選項包括裁剪、裁切、調整視訊大小，以及將MP4轉換為GIF檔案。
+Experience Manager Assets 現在包含簡單直觀的影片編輯工具 (由 Adobe Express 提供支援)，可增加內容重複使用性並加快內容流通速度。此編輯選項包括修剪、裁切、調整影片大小以及將 MP4 轉換為 GIF 檔案。
 
-![使用Adobe Express裁切視訊](/help/using/assets/adobe-express-crop-video.png)
+![使用 Adob&#x200B;&#x200B;e Express 裁切影片](/help/using/assets/adobe-express-crop-video.png)
 
-**將中繼資料表單指派或移除至多個資料夾**
+>[!NOTE]
+> 存取許可權 [!DNL Adobe Express] AEM Assets中需要且至少有一個環境。 環境可以是中的任何存放庫。 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials].
 
-您現在可以將中繼資料表單指派或移除至多個資料夾。
+**指派或刪除中繼資料表單至多個資料夾**
 
-**管理私人集合的許可權**
+現在可以將中繼資料表單指派給多個資料夾或從多個資料夾中移除。
 
-您可以允許管理員管理存放庫中私有集合的存取層級。 您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您也可以將許可權管理許可權委派給使用者群組。
+**管理私有集合的權限**
+
+您可以允許管理員或非管理員（其他使用者）管理存放庫中私有集合的存取層級。 您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您還可以將權限管理權委派給使用者群組。
 
 
 **根據客戶回饋意見進行的改進功能**
@@ -59,7 +62,7 @@ Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視
 
 ## 已知問題 {#known-issues}
 
-[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新：
+的已知問題清單 [!DNL Assets Essentials] 產品會持續進行修訂和更新。
 
 <!--
 
@@ -68,7 +71,7 @@ Experience Manager Assets現在包含由Adobe Express支援的簡單直覺式視
 -->
 
 
-* 專用集合可供建立者和具有管理員權限的使用者使用。作為管理員，您無法將訪問集合的權限委派給其他使用者。
+<!--* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.-->
 
 如果您遇到任何問題或甚至是增強功能請求，[請向團隊提供意見回饋](#provide-feedback)。
 
@@ -106,7 +109,7 @@ Assets Essentials 現在允許您定義封鎖清單，其中包含上傳到存�
 
 **搜尋優先首頁設定**
 
-Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取搜尋優先作為首頁，您可以為您的組織設定搜尋列對齊方式、背景影像和標誌。
+Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取「搜尋優先」作為首頁，則可設定您組織的搜尋列對齊方式、背景影像和標誌。 選擇 [!UICONTROL 一般設定] 覆寫預設登陸頁面。 例如，預設登陸為 [!UICONTROL 我的工作區] 適用於管理員和 [!UICONTROL 先搜尋] 對於非管理員，選擇「一般設定」下的任何選項都會套用至所有使用者
 
 ![搜尋優先設定](/help/using/assets/search-first-configuration.png)
 
@@ -209,7 +212,7 @@ Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和�
 
 **資產中繼資料的大量更新**
 
-大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，可以快速將屬性套用到資產或資料夾 (透過搜尋存取)。
+大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，並且可以快速將屬性套用至透過搜尋存取的資產或資料夾。 此外，大量中繼資料更新會覆寫任何現有值，這表示大量中繼資料更新會覆寫現有關鍵字。
 
 **我的工作區與可設定的 Widget**
 

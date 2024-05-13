@@ -2,10 +2,10 @@
 title: 如何共用資產的連結？
 description: 產生連結，然後和無法存取  [!DNL Assets Essentials]  應用程式的其他人共用資產。
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '407'
-ht-degree: 100%
+source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
+workflow-type: tm+mt
+source-wordcount: '413'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,11 @@ ht-degree: 100%
 
 1. 如果您要進行調整，可按一下「行事曆」圖示，以使用&#x200B;**[!UICONTROL 到期日]**&#x200B;欄位定義連結的到期日。您還可以直接以「`yyyy-mm-dd`」格式指定日期。預設的連結到期日設為共用日期起的 2 週。
 
+>[!NOTE]
+> 日期格式會根據選擇的地區設定而變更。
+> 例如， `de-DE` 使用 `dd-mm-yyyy`， `ja-JA` 使用 `yyyy-mm-dd`，而 `en-EN` 使用 `mm-dd-yyyy`.
+>
+
 1. 從「**[!UICONTROL 共用連結]**」欄位複製連結。
 
    ![裁切和拉直影像的選項](assets/share-asset-link.png)
@@ -29,7 +34,7 @@ ht-degree: 100%
 
 ## 存取已共用的資產 {#access-shared-assets}
 
-共用資產的公用連結後，收件人可按一下該連結，即可在網路瀏覽器中預覽或下載該共用資產，而無需登入 [!DNL Assets Essentials]。
+共用資產的公用連結後，收件人可按一下該連結，即可在網頁瀏覽器中預覽或下載該共用資產，而無需登入 [!DNL Assets Essentials].
 
 按一下連結、按一下檔案夾，即可瀏覽至該資產，然後按一下資產進行預覽。您可以選擇在「清單檢視」或「卡片檢視」中檢視共用的資產。
 
@@ -43,10 +48,10 @@ ht-degree: 100%
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在 Assets Essentials 中分享資產連結的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+* [觀看在Assets Essentials中共用資產連結的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html).
 
-* 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
+* 使用提供產品意見回饋 [!UICONTROL 意見反應] Assets Essentials使用者介面提供的選項。
 
-* 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
+* 提供檔案意見回饋，使用 [!UICONTROL 編輯此頁面] ![編輯頁面](assets/do-not-localize/edit-page.png) 或 [!UICONTROL 登入問題] ![建立GitHub問題](assets/do-not-localize/github-issue.png) 可在右側邊欄取得。
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡人 [客戶服務](https://experienceleague.adobe.com/?support-solution=General#support).
