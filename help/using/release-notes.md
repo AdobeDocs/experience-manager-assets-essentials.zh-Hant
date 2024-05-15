@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2903'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,15 +44,15 @@ Experience Manager Assets 現在包含簡單直觀的影片編輯工具 (由 Ado
 ![使用 Adob&#x200B;&#x200B;e Express 裁切影片](/help/using/assets/adobe-express-crop-video.png)
 
 >[!NOTE]
-> 存取許可權 [!DNL Adobe Express] AEM Assets中需要且至少有一個環境。 環境可以是中的任何存放庫。 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials].
+> 有權存取 [!DNL Adobe Express] 以及 AEM Assets 中至少一個環境。該環境可以是 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials] 中的任何存放庫。
 
-**指派或刪除中繼資料表單至多個資料夾**
+**指派或移除中繼資料表單至多個資料夾**
 
 現在可以將中繼資料表單指派給多個資料夾或從多個資料夾中移除。
 
 **管理私有集合的權限**
 
-您可以允許管理員或非管理員（其他使用者）管理存放庫中私有集合的存取層級。 您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您還可以將權限管理權委派給使用者群組。
+您可以允許管理員或非管理員 (其他使用者) 管理存放庫中可用私有集合的存取層級。您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您還可以將權限管理權委派給使用者群組。
 
 
 **根據客戶回饋意見進行的改進功能**
@@ -62,7 +62,7 @@ Experience Manager Assets 現在包含簡單直觀的影片編輯工具 (由 Ado
 
 ## 已知問題 {#known-issues}
 
-的已知問題清單 [!DNL Assets Essentials] 產品會持續進行修訂和更新。
+[!DNL Assets Essentials] 方案的已知問題清單將持續進行修訂和更新。
 
 <!--
 
@@ -109,9 +109,9 @@ Assets Essentials 現在允許您定義封鎖清單，其中包含上傳到存�
 
 **搜尋優先首頁設定**
 
-Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取「搜尋優先」作為首頁，則可設定您組織的搜尋列對齊方式、背景影像和標誌。 選擇 [!UICONTROL 一般設定] 覆寫預設登陸頁面。 例如，預設登陸為 [!UICONTROL 我的工作區] 適用於管理員和 [!UICONTROL 先搜尋] 對於非管理員，選擇「一般設定」下的任何選項都會套用至所有使用者
+Assets Essentials 現在可讓您設定組織的首頁體驗。如果您選取搜尋優先作為首頁，您可以為您的組織設定搜尋列對齊方式、背景影像和標誌。選擇「[!UICONTROL 一般設定]」會覆蓋預設登陸頁面。例如，對於管理員來說，預設登陸頁面是「[!UICONTROL 我的工作空間]」；對於非管理員來說，預設登陸頁面是「[!UICONTROL 優先搜尋]」，選擇任何一般設定下的選項適用於所有使用者
 
-![搜尋優先設定](/help/using/assets/search-first-configuration.png)
+![優先搜尋設定](/help/using/assets/search-first-configuration.png)
 
 ### 2023 年 10 月版 {#october2023-release}
 
@@ -212,7 +212,7 @@ Assets Essentials 現在讓您可以在中繼資料表單新增多值文字和�
 
 **資產中繼資料的大量更新**
 
-大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，並且可以快速將屬性套用至透過搜尋存取的資產或資料夾。 此外，大量中繼資料更新會覆寫任何現有值，這表示大量中繼資料更新會覆寫現有關鍵字。
+大量中繼資料更新可讓您同時對多個資產執行常見的中繼資料更新。您不需要個別更新記錄，可以快速將屬性套用到資產或資料夾 (透過搜尋存取)。此外，大量中繼資料更新會覆寫任何現有值，這表示現有關鍵字將被大量中繼資料更新覆蓋。
 
 **我的工作區與可設定的 Widget**
 
