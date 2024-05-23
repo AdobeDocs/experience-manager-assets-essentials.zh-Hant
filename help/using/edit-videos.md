@@ -2,10 +2,11 @@
 title: 編輯影片
 description: 編輯視訊，使用 [!DNL Adobe Express] 功能選項，並將更新的視訊另存新版。
 role: User
-source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
+exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
+source-git-commit: 2b27cf67be1cc0466a41b29f04a96adddedd1977
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -19,7 +20,7 @@ ht-degree: 16%
 
 ## 先決條件 {#prerequisites}
 
-存取許可權 [!DNL Adobe Express] AEM Assets中至少有一個環境。 環境可以是中的任何存放庫。 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials].
+存取許可權 [!DNL Adobe Express] AEM Assets中至少有一個環境。 該環境可以是 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials] 中的任何存放庫。
 
 ## 使用Adobe Express編輯視訊 {#edit-video-using-express}
 
@@ -34,7 +35,7 @@ ht-degree: 16%
 3. 拖曳視訊邊角的控點，以建立您想要的裁切效果；或視需要選擇現有的熒幕大小。
 4. 您可以選擇將視訊設為靜音或取消靜音。
 5. 按一下「**[!UICONTROL 套用]**」。
-   ![使用Adobe Express裁切視訊](/help/using/assets/adobe-express-crop-video.png)
+   ![使用 Adob&#x200B;&#x200B;e Express 裁切影片](/help/using/assets/adobe-express-crop-video.png)
 
    已裁切的視訊可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。 ![以Adobe Express儲存視訊](/help/using/assets/adobe-express-save-video.png)
 
@@ -84,7 +85,7 @@ DAM中的最終視訊內容通常需要調整大小，才能發佈到特定管�
 
 * 僅支援MP4格式的視訊進行編輯。
 
-* 支援的最大來源檔案大小為200 MB
+* 支援的最大來源檔案大小為1GB
 
 * 支援的視訊大小超過46畫素，任何一面小於3840畫素
 
