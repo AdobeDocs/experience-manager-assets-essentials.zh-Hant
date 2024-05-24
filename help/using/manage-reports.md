@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: ht
-source-wordcount: '857'
-ht-degree: 100%
+source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+workflow-type: tm+mt
+source-wordcount: '930'
+ht-degree: 92%
 
 ---
 
@@ -44,26 +44,32 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 按一下左側導覽窗格中可用的「**[!UICONTROL 深入分析]**」以檢視以下自動產生的圖表：
 
-![深入分析](assets/insights.png)
-
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
+  ![下載](/help/using/assets/insights-downloads2341.svg)
 
 * **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
+  ![上傳](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **儲存空間使用量**：使用長條圖表示的 Assets Essentials 環境儲存空間使用量 (以位元組為單位)。
-
-<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
+  ![儲存空間使用量](/help/using/assets/insights-storage-usage1.svg)
+  <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
+  ![儲存空間使用量](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
+
+* **資產計數（依大小）：** 對您Assets Essentials環境中的資產總數進行區段，根據資產的檔案型別突出顯示資產的計數和百分比，以環形圖表示。
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+* **依資產型別的資產計數：** 將您Assets Essentials環境中的資產總數細分為不同大小範圍，以各個大小範圍中的資產計數和百分比強調顯示，並使用環形圖表示。
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## 建立下載報告 {#create-download-report}
 
