@@ -3,9 +3,9 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
+source-git-commit: 34e710243a77647c50c2057c54f68dbe23d3997a
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1890'
 ht-degree: 100%
 
 ---
@@ -311,15 +311,13 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-<!--
-### Disable Contextual Search {#disable-contextual-search}
+### 停用內容搜尋 {#disable-contextual-search}
 
-Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
+管理員也可以選擇停用組織中使用者的內容搜尋。若要如此做，請執行以下步驟：
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. 瀏覽至「**[!UICONTROL 設定]**」>「**[!UICONTROL 一般設定]**」。
 
-1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
--->
+1. 在「[!UICONTROL 內容搜尋]」區段中，關閉「**[!UICONTROL 為您的組織啟用內容搜尋]**」切換開關，以停用您組織中所有使用者的內容搜尋功能。
 
 ### 內容搜尋意見回饋 {#contextual-search-feedback}
 
