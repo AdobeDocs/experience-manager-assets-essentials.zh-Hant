@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 71a0381f5f7c32d3da1923778b3cd7b678391cae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '862'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 1. 在 [!UICONTROL 列] 頁籤，選取需要在報告中顯示的列名。
 
-1. 按一下 **[!UICONTROL 建立]**
+1. 按一下「**[!UICONTROL 建立]**」。
 
    ![下載報告](assets/download-reports-config.png)
 
