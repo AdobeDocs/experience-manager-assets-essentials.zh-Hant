@@ -4,15 +4,15 @@ description: 使用  [!DNL Adobe Express]  支援的選項編輯影像，並將�
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1116'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # 在 [!DNL Assets Essentials] 中編輯影像 {#edit-images-in-assets-essentials}
 
-Assets Essentials UI可讓您編輯基本影像，包括調整大小、移除背景、裁切，以及在JPEG和PNG格式之間轉換。 此外，它可透過與 Adobe Express 的整合，進行進階編輯。編輯影像後，即可將新影像另存新版。版本設定功能有助於您稍後在必要時還原成原始資產。要編輯影像，[開啟其預覽](https://experienceleague.adobe.com/tw/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets)，然後按一下「**編輯影像**」。
+Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景移除、裁切，以及 JPEG 和 PNG 格式之間的轉換。此外，它可透過與 Adobe Express 的整合，進行進階編輯。編輯影像後，即可將新影像另存新版。版本設定功能有助於您稍後在必要時還原成原始資產。要編輯影像，[開啟其預覽](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets)，然後按一下「**編輯影像**」。
 
 >[!NOTE]
 >
@@ -22,8 +22,8 @@ Assets Essentials UI可讓您編輯基本影像，包括調整大小、移除背
 
 ## 編輯影像 {#edit-images}
 
-登陸Assets Essentials UI，使用連結 —  [ASSETS ESSENTIALS UI](https://experience.adobe.com/#/assets) 並選取正確的存放庫。 若要獲得存取權，請聯絡您組織的管理員。
-如需其他參考資訊，請參閱 —  [開始使用Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/tw/docs/experience-manager-assets-essentials/help/get-started)， [瞭解使用者介面](https://experienceleague.adobe.com/tw/docs/experience-manager-assets-essentials/help/navigate-view)， [Assets essentials使用案例](https://experienceleague.adobe.com/tw/docs/experience-manager-assets-essentials/help/get-started#use-cases) 和 [已知問題](https://experienceleague.adobe.com/tw/docs/experience-manager-assets-essentials/help/release-notes).
+使用連結 - [Assets Essentials UI](https://experience.adobe.com/#/assets) 登陸 Assets Essentials UI，並選取正確的存放庫。若要獲得存取權，請聯絡您組織的管理員。
+如需其他參考資訊，請參閱 - [開始使用 Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started)、[了解使用者介面](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view)、[Assets Essentials 使用案例](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started#use-cases)和[已知問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/release-notes)。
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -86,11 +86,11 @@ Assets Essentials UI可讓您編輯基本影像，包括調整大小、移除背
 ![Essentials UI 中的 Express](/help/using/assets/express-in-essentials-ui.jpg)
 若要使用 Adobe Express 嵌入式編輯器編輯影像，請依照下列步驟操作：
 
-1. 透過連結登入AEM Assets Essentials UI - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) 並選取正確的存放庫。
+1. 使用連結 - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) 登陸 AEM Assets Essentials UI，並選取正確的存放庫。
 1. 按一下&#x200B;**資產**，進入資料夾，然後選取影像。
 1. 按一下「**在 Adobe Express 中開啟**」。影像在 Express 畫布上開啟。
 1. 對影像進行所需的編輯。
-1. 如果您的專案需要您新增更多頁面，請按一下 **新增**，選取資產，輸入資料夾，選取要帶入畫布頁面的影像，然後對影像執行所需的編輯。
+1. 如果您的專案需要新增更多頁面，按一下&#x200B;**新增**，選取「資產」，進入資料夾，選取要放入畫布頁面的影像，然後對影像進行所需的編輯。
 1. 若要儲存影像，按一下「**儲存**」。儲存對話框隨即顯示。
 
    >[!NOTE]
