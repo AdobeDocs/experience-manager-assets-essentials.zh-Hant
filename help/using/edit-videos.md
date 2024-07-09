@@ -3,10 +3,10 @@ title: 編輯影片
 description: 編輯視訊，使用 [!DNL Adobe Express] 功能選項，並將更新的視訊另存新版。
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: 78187929a6baa0f1ab5d8675287408a24e1ada98
+source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 18%
+source-wordcount: '833'
+ht-degree: 22%
 
 ---
 
@@ -23,6 +23,11 @@ ht-degree: 18%
 存取許可權 [!DNL Adobe Express] AEM Assets中至少有一個環境。 該環境可以是 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials] 中的任何存放庫。
 
 ## 使用Adobe Express編輯視訊 {#edit-video-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration_videos"
+>title="視訊編輯的Adobe Express整合"
+>abstract="Experience Manager Assets 現在包含簡單直觀的影片編輯工具 (由 Adobe Express 提供支援)，可增加內容重複使用性並加快內容流通速度。此編輯選項包括修剪、裁切、調整影片大小以及將 MP4 轉換為 GIF 檔案。"
 
 使用內嵌技術，即可輕鬆將視訊轉換為完美的大小和方向 [!DNL Adobe Express] 快速動作。
 
