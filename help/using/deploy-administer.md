@@ -4,9 +4,9 @@ description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類�
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1342'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1304'
+ht-degree: 99%
 
 ---
 
@@ -131,7 +131,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 如需詳細資訊，請參閱[管理檔案夾的權限](manage-permissions.md)。
 
-### 設定中繼資料表單 (選用) {#metadata-forms}
+### 設定中繼資料Forms （選用） {#metadata-forms}
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。特定企業中繼資料能夠改善其資產的控管和探索。您可以從頭開始建立表單，或改變現有表單的用途。
 
@@ -147,9 +147,9 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。組織擁有�
 
 ### 建立公開收藏集 (選用) {#create-public-collections}
 
-收藏集是 Experience Manager Assets Essentials 中的一組資產。使用收藏集在使用者之間共用資產。
+集合是 Experience Manager Assets Essentials 中的一組資產。使用集合在使用者之間共用資產。
 
-和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個收藏集。每個收藏集都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。如需詳細資訊，請參閱 [管理收藏集](manage-collections.md)。
+和檔案夾不同，收藏集可包含來自不同位置的資產。您可以和使用者共用多個集合。每個集合都包含資產的參考資料。資產的參考完整性會跨越收藏集來維護。如需詳細資訊，請參閱 [管理收藏集](manage-collections.md)。
 
 ![收藏集](assets/collections.png)
 

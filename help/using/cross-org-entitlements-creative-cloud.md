@@ -3,7 +3,7 @@ title: AEM Assets 中用於 Creative Cloud 整合的跨組織權利
 description: 了解如何在 AEM Assets 中設定跨組織權利以進行 Creative Cloud 整合。連接到佈建給不同 IMS 組織的 Creative Cloud 權利，以便輕鬆使用 AEM Assets 中最新的 Creative Cloud 整合，包括 Express 和 Creative Cloud Libraries。
 exl-id: 5a39b640-4195-4149-9757-2733ed70e616
 source-git-commit: ebc49d5c29118cd09cf1f97e8f71f63df76b3779
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
 

@@ -3,8 +3,8 @@ title: 管理 Experience Manager Assets Essentials
 description: 使用 Admin Console 設定對 Assets Essentials 應用程式的存取，然後管理登入 Assets Essentials 應用程式後可以執行的工作。
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1399'
+workflow-type: tm+mt
+source-wordcount: '1382'
 ht-degree: 100%
 
 ---

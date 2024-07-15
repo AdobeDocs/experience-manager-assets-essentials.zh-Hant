@@ -1,6 +1,6 @@
 ---
 title: 編輯影片
-description: 編輯視訊，使用 [!DNL Adobe Express] 功能選項，並將更新的視訊另存新版。
+description: 使用 [!DNL Adobe Express] 支援的選項編輯視訊，並將更新的視訊另存新版。
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
@@ -10,17 +10,17 @@ ht-degree: 22%
 
 ---
 
-# 在中編輯視訊 [!DNL Assets Essentials] {#edit-videos}
+# 在[!DNL Assets Essentials]中編輯視訊 {#edit-videos}
 
-使用內嵌式功能的Assets使用者，可輕鬆建立視訊內容的變體 [!DNL Adobe Express] 視訊的快速動作。 中的快速動作 [!DNL Assets Essentials] 提供者 [!DNL Adobe Express] 提供方便使用的視訊編輯選項，包括裁切視訊、調整視訊大小、修剪視訊，以及將視訊轉換為GIF。
+使用內嵌的[!DNL Adobe Express]視訊快速動作，為Assets使用者輕鬆建立視訊內容的變體。 由[!DNL Adobe Express]支援的[!DNL Assets Essentials]中的快速動作提供使用者易用的視訊編輯選項，包括裁切視訊、調整視訊大小、修剪視訊，以及將視訊轉換為GIF。
 
-若要編輯視訊，請前往視訊的詳細資訊，然後按一下 [!UICONTROL 編輯視訊]. 或者，選取資產並按一下詳細資訊，然後按一下 ![剪刀](assets/do-not-localize/cut.svg) 圖示可在右側窗格中使用。 編輯視訊後，您可以將新視訊儲存為新版本或新資產。
+若要編輯視訊，請移至視訊的詳細資料，然後按一下[編輯視訊]。 或者，選取資產並按一下詳細資訊，然後按一下右窗格中可用的![剪刀](assets/do-not-localize/cut.svg)圖示。 編輯視訊後，您可以將新視訊儲存為新版本或新資產。
 
-進一步瞭解 [預覽介面](/help/using/navigate-view.md#preview-assets).
+進一步瞭解[預覽介面](/help/using/navigate-view.md#preview-assets)。
 
 ## 先決條件 {#prerequisites}
 
-存取許可權 [!DNL Adobe Express] AEM Assets中至少有一個環境。 該環境可以是 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials] 中的任何存放庫。
+存取AEM Assets中[!DNL Adobe Express]和至少一個環境的許可權。 該環境可以是 [!DNL Assets as a Cloud Service] 或 [!DNL Assets Essentials] 中的任何存放庫。
 
 ## 使用Adobe Express編輯視訊 {#edit-video-using-express}
 
@@ -29,29 +29,29 @@ ht-degree: 22%
 >title="視訊編輯的Adobe Express整合"
 >abstract="Experience Manager Assets 現在包含簡單直觀的影片編輯工具 (由 Adobe Express 提供支援)，可增加內容重複使用性並加快內容流通速度。此編輯選項包括修剪、裁切、調整影片大小以及將 MP4 轉換為 GIF 檔案。"
 
-使用內嵌技術，即可輕鬆將視訊轉換為完美的大小和方向 [!DNL Adobe Express] 快速動作。
+使用內嵌[!DNL Adobe Express]快速動作，將視訊轉換為完美的大小和方向非常容易。
 
 ### 裁切視訊 {#crop-video-using-express}
 
-您可以使用內嵌式功能將不需要的部分從視訊中移除 [!DNL Adobe Express] 快速動作。 要執行此操作，請執行以下步驟：
+您可以使用內嵌[!DNL Adobe Express]快速動作，將不需要的部分從視訊中移除。 要執行此操作，請執行以下步驟：
 
-1. 選取視訊並按一下 **[!UICONTROL 編輯]**.
-2. 按一下 **[!UICONTROL 裁切視訊]** 從左側窗格中可用的快速動作。
+1. 選取視訊並按一下&#x200B;**[!UICONTROL 編輯]**。
+2. 從左窗格中可用的快速動作，按一下&#x200B;**[!UICONTROL 裁切視訊]**。
 3. 拖曳視訊邊角的控點，以建立您想要的裁切效果；或視需要選擇現有的熒幕大小。
 4. 您可以選擇將視訊設為靜音或取消靜音。
 5. 按一下「**[!UICONTROL 套用]**」。
    ![使用 Adob&#x200B;&#x200B;e Express 裁切影片](/help/using/assets/adobe-express-crop-video.png)
 
-   已裁切的視訊可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。 ![以Adobe Express儲存視訊](/help/using/assets/adobe-express-save-video.png)
+   已裁切的視訊可供下載。 您可以將編輯後的資產儲存為相同資產的新版本，或儲存為新資產。 ![使用Adobe Express儲存視訊](/help/using/assets/adobe-express-save-video.png)
 
 ### 調整視訊大小 {#resize-video-using-express}
 
-DAM中的最終視訊內容通常需要調整大小，才能發佈到特定管道。 [!DNL Assets Essentials] 可讓您輕鬆調整視訊大小以符合常見社交頻道所需的維度，您也可以根據自訂解析度調整大小。 若要使用調整視訊大小 [!DNL Assets Essentials]，請執行以下步驟：
+DAM中的最終視訊內容通常需要調整大小，才能發佈到特定管道。 [!DNL Assets Essentials]可讓您輕鬆調整視訊大小以符合常見社交管道所需的維度，您也可以根據自訂解析度調整大小。 若要使用[!DNL Assets Essentials]調整視訊大小，請執行下列步驟：
 
-1. 選取視訊並按一下 **[!UICONTROL 編輯]**.
-2. 按一下 **[!UICONTROL 調整視訊大小]** 從左側窗格中可用的快速動作。
-3. 從下的社群媒體平台選取適當的維度 **[!UICONTROL 調整大小]** 下拉式清單。 或者，拖曳視訊邊角上的操作框來建立您想要的裁切。
-4. 如有需要，請使用 **[!UICONTROL 視訊比例]** 欄位。
+1. 選取視訊並按一下&#x200B;**[!UICONTROL 編輯]**。
+2. 從左窗格中可用的快速動作，按一下&#x200B;**[!UICONTROL 調整視訊大小]**。
+3. 從&#x200B;]**下拉式清單的**[!UICONTROL &#x200B;調整大小下方的社群媒體平台選取適當的維度。 或者，拖曳視訊邊角上的操作框來建立您想要的裁切。
+4. 視需要使用&#x200B;**[!UICONTROL 視訊比例]**&#x200B;欄位來縮放視訊。
 5. 您可以選擇將視訊設為靜音或取消靜音。
 6. 按一下「**[!UICONTROL 套用]**」以套用您的變更。
    ![使用Adobe Express調整視訊大小](/help/using/assets/adobe-express-resize-video.png)
@@ -62,10 +62,10 @@ DAM中的最終視訊內容通常需要調整大小，才能發佈到特定管�
 
 如果您需要使用較大視訊的剪輯，可以使用「裁剪視訊」功能來選取和裁剪視訊的區段。 執行以下步驟：
 
-1. 選取視訊並按一下 **[!UICONTROL 編輯]**.
-2. 按一下 **[!UICONTROL 修剪視訊]** 從左側窗格中可用的快速動作。
+1. 選取視訊並按一下&#x200B;**[!UICONTROL 編輯]**。
+2. 從左窗格中可用的快速動作按一下&#x200B;**[!UICONTROL 修剪視訊]**。
 3. 指定視訊的開始和結束時間，以裁剪視訊的特定部分。 或者，拖曳視訊邊角上的操作框來建立您想要的裁剪。
-4. 從中選擇適當的尺寸 **[!UICONTROL 大小]** 下拉式清單。
+4. 從&#x200B;**[!UICONTROL 大小]**&#x200B;下拉式清單中選取適當的維度。
 5. 您可以選擇將視訊設為靜音或取消靜音。
 6. 按一下「**[!UICONTROL 套用]**」以套用您的變更。
    ![使用Adobe Express調整視訊大小](/help/using/assets/adobe-express-trim-video.png)
@@ -76,13 +76,13 @@ DAM中的最終視訊內容通常需要調整大小，才能發佈到特定管�
 
 您可以使用Adobe Express快速將MP4視訊轉換為GIF格式。 執行以下步驟：
 
-1. 選取視訊並按一下 **[!UICONTROL 編輯]**.
-2. 按一下 **[!UICONTROL 轉換為GIF]** 從左側窗格中可用的快速動作。
+1. 選取視訊並按一下&#x200B;**[!UICONTROL 編輯]**。
+2. 從左窗格中可用的快速動作，按一下&#x200B;**[!UICONTROL 轉換為GIF]**。
 3. 根據所需的品質選取適當的檔案大小。 此外，選擇橫向、直向或正方形方向。
 4. 拖曳視訊邊角的控點，以建立您想要的裁切。
 5. 按一下「**[!UICONTROL 套用]**」。
 
-   ![使用Adobe Express將視訊轉換為GIF](/help/using/assets/adobe-express-convert-video-to-gif.png)
+   ![將視訊轉換成Adobe Express為](/help/using/assets/adobe-express-convert-video-to-gif.png)的GIF
 
 您的視訊可以使用GIF格式下載。 您可以將編輯後的資產另存為同一資產的新版本，也可以將其另存為新資產。
 
