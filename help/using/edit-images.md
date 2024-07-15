@@ -6,7 +6,7 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
 source-wordcount: '1138'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景�
 使用連結 - [Assets Essentials UI](https://experience.adobe.com/#/assets) 登陸 Assets Essentials UI，並選取正確的存放庫。若要獲得存取權，請聯絡您組織的管理員。
 如需其他參考資訊，請參閱 - [開始使用 Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started)、[了解使用者介面](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view)、[Assets Essentials 使用案例](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started#use-cases)和[已知問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/release-notes)。
 
-### 使用Adobe Express編輯影像 {#edit-images-using-adobe-express}
+### 使用 Adobe Express 編輯影像 {#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
