@@ -4,7 +4,7 @@ description: 使用  [!DNL Adobe Express]  支援的選項編輯影像，並將�
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
 ht-degree: 100%
 
