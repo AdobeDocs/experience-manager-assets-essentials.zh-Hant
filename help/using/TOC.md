@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 9c37194a04057600fe602b4de373c21e69389a16
+source-git-commit: bb7a86c737f862411e2f06997d8b4d720d55a3c5
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 100%
 + [查看資產、資料夾和集合](manage-notifications.md)
 + [管理報告](manage-reports.md)
 + [管理標記](tagging-management.md)
++ [內容憑證](/help/using/content-credentials.md)
 + 和其他解決方案整合 {#integration-with-other-solutions}
    + [概觀](integration.md)
    + [與 Adobe Asset Link 整合](integrate-with-creative-cloud.md)
@@ -51,3 +52,4 @@ ht-degree: 100%
 + 與 Creative Cloud {#integration-with-creative-cloud} 整合
    + [將 AEM Assets 連接到 Creative Cloud](connect-assets-with-creative-cloud.md)
 + [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
+
