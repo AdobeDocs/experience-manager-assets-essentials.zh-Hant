@@ -4,9 +4,9 @@ description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -30,16 +30,16 @@ ht-degree: 88%
 
 ## 瀏覽和檢視資產和資料夾 {#browse-repository}
 
-您可以從主要使用者介面或左側邊欄瀏覽資料夾。現在，Experience Manager Assets在瀏覽或搜尋內容時，會在資料夾縮圖上顯示資料夾內容的視覺預覽，改善AEM Assets存放庫中可用資產的可發現性。 此資料夾縮圖可讓您節省在AEM Assets存放庫的資料夾中搜尋特定資產所花費的時間。
-瀏覽資料夾中的資產時，您可以使用介面檢視資產縮圖，以瀏覽存放庫或檢視資產詳細資訊，快速找到您想要的資產。 在左側邊欄中可用的選項包括：
+您可以從主要使用者介面或左側邊欄瀏覽資料夾。現在，當瀏覽或搜尋內容時，Experience Manager Assets 會在資料夾縮圖上顯示資料夾內容的視覺化預覽，這提高了 AEM Assets 存放庫中可用資產的可發現性。此資料夾縮圖可以節省您在 AEM Assets 存放庫的資料夾內搜尋特定資產所花費的時間。
+在資料夾中瀏覽資產時，您可以使用該介面檢視資產縮圖以瀏覽存放庫或檢視資產詳細資料，以便快速找到您想要的資產。在左側邊欄中的可用選項有：
 
-* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-Hant)：Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
-* [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-Hant)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
-* [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=zh-Hant)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
+* [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-hant)：Assets 現在包含一個可自訂的工作區，提供 Widget 以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。更方便地存取這些選項可以提高您的效率和內容速度。
+* [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-hant)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
+* [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=zh-hant)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
 * **最近檢視的項目**：您最近預覽的資產清單。[!DNL Assets Essentials] 只會顯示您預覽的資產。在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
-* [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，集合可包含來自不同位置的資產。您可以和使用者共用多個集合。每個集合都包含資產的參考資料。資產的參考完整性會跨越集合來維護。
+* [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用收藏集在使用者之間共用資產。和檔案夾不同，集合可包含來自不同位置的資產。您可以和使用者共用多個集合。每個集合都包含資產的參考資料。資產的參考完整性會跨越集合來維護。
 
-* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-Hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
+* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。您可以查看過去 30 天或過去 12 個月的即時事件度量。
 
 
 * **垃圾桶**：列出從 **[!UICONTROL Assets]** 根資料夾刪除的資產。 您可以在「垃圾桶」資料夾中選取資產，將其還原到原來的位置或永久刪除。您可以指定關鍵字或套用篩選條件，例如資產狀態、檔案類型、MIME 類型、影像大小、資產建立、修改和到期日期，以及按目前使用者捨棄的資產進行篩選。您也可以套用自訂篩選條件，以搜尋「垃圾桶」資料夾中的適當資產。有關使用標準和自訂篩選條件的更多資訊，請參閱如何[在 Assets Essentials 中搜尋資產](search.md)。
@@ -53,9 +53,9 @@ ht-degree: 88%
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
 
-您可以開啟或摺疊左側邊欄，以增加可用的資產檢視區域。
+您可以開啟或收合左側邊欄，以增加可用的資產檢視區域。
 
-在[!DNL Assets Essentials]中，您可以在四種不同的版面型別中檢視資產、資料夾和搜尋結果：
+在 [!DNL Assets Essentials] 中，您可以在四種不同的版面類型中檢視資產、資料夾和搜尋結果：
 
 * ![清單檢視圖示](assets/do-not-localize/list-view.png) [!UICONTROL 清單檢視]
 * ![格點檢視圖示](assets/do-not-localize/grid-view.png) [!UICONTROL 格點檢視]
@@ -64,7 +64,7 @@ ht-degree: 88%
 
 若要找到資產，您可以依照 `Name`、`Relevancy`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序資產。
 
-若要在資料夾中導覽，請連按兩下資料夾的縮圖，或從左側邊欄選取資料夾。 若要檢視資料夾的詳細資訊，請選取該資料夾，或從頂部的工具列按一下「詳細資訊」。若要向上和向下瀏覽階層，請使用左側邊欄或頂部的階層連結。
+若要在資料夾中導覽，請按兩下資料夾的縮圖，或從左側邊欄選取該資料夾。若要檢視資料夾的詳細資訊，請選取該資料夾，或從頂部的工具列按一下「詳細資訊」。若要向上和向下瀏覽階層，請使用左側邊欄或頂部的階層連結。
 
 ![瀏覽資料夾](assets/browsing-folders.png)
 

@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2976'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # [!DNL Assets Essentials] 的發行說明 {#release-notes}
 
-目前版本的Assets Essentials於2024年7月25日發行。
+目前版本的 Assets Essentials 是在 2024 年 7 月 25 日發行。
 
 一些最近新增的功能包括：
 
-**Content credentials整合**
+**內容憑證整合**
 
-Experience Manager Assets現在支援支援影像格式的content credentials。 如此一來，資產歷程及其建立方式的相關資訊，包括是否使用GenAI進行修改。
+Experience Manager Assets 現在支援受支援影像格式的內容憑證。這提供了有關資產沿襲和其創作方式的資訊，包括該資產是否使用生成式 AI 進行了修改。
 
-![Content credentials](/help/using/assets/content-credentials.png)
+![內容憑證](/help/using/assets/content-credentials.png)
 
-**資料夾內容的視覺預覽**
+**資料夾內容的視覺化預覽**
 
-現在，Experience Manager Assets在瀏覽或搜尋內容時，會在資料夾縮圖上顯示資料夾內容的視覺預覽，改善AEM Assets存放庫中可用資產的可發現性。
+現在，當瀏覽或搜尋內容時，Experience Manager Assets 會在資料夾縮圖上顯示資料夾內容的視覺化預覽，這提高了 AEM Assets 存放庫中可用資產的可發現性。
 
 **內容相關搜尋**
 
