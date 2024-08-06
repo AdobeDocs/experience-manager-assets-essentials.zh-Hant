@@ -3,16 +3,18 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 65%
 
 ---
 
 # 在 [!DNL Assets Essentials] 中編輯影像 {#edit-images-in-assets-essentials}
 
-Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景移除、裁切，以及 JPEG 和 PNG 格式之間的轉換。此外，它可透過與 Adobe Express 的整合，進行進階編輯。編輯影像後，即可將新影像另存新版。版本設定功能有助於您稍後在必要時還原成原始資產。要編輯影像，[開啟其預覽](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets)，然後按一下「**編輯影像**」。
+Assets Essentials UI可啟用由Adobe Express提供支援的基本影像編輯功能，並整合至UI。 此編輯包括調整大小、移除背景、裁切以及JPEG和PNG格式之間的轉換。 此外，它允許透過Essentials UI內嵌的Adobe Express介面進行進階編輯。
+
+編輯影像後，即可將新影像另存新版。版本設定功能有助於您稍後在必要時還原成原始資產。要編輯影像，[開啟其預覽](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets)，然後按一下「**編輯影像**」。
 
 >[!NOTE]
 >
@@ -22,23 +24,23 @@ Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景�
 
 ## 編輯影像 {#edit-images}
 
-使用連結 - [Assets Essentials UI](https://experience.adobe.com/#/assets) 登陸 Assets Essentials UI，並選取正確的存放庫。若要獲得存取權，請聯絡您組織的管理員。
-如需其他參考資訊，請參閱 - [開始使用 Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started)、[了解使用者介面](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view)、[Assets Essentials 使用案例](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started#use-cases)和[已知問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/release-notes)。
+使用連結 — [Assets EssentialsUI](https://experience.adobe.com/#/assets)並選取正確的存放庫，移至Assets EssentialsUI。 若要獲得存取權，請聯絡您組織的管理員。
+如需其他參考資訊，請參閱 — [開始使用Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started)、[瞭解使用者介面](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/navigate-view)、[Assets Essentials使用案例](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/get-started#use-cases)和[已知問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-assets-essentials/help/release-notes)。
 
-### 使用 Adobe Express 編輯影像 {#edit-images-using-adobe-express}
+### 使用 Adobe Express 在 Essentials UI 上編輯影像{#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express 整合"
 >abstract="簡單直觀的影像編輯工具是由 Adobe Express 提供支援，可直接在 AEM Assets 中使用；此工具可增加內容重複使用性並加快內容流通速度。"
 
-登陸 Essentials UI 後，按一下&#x200B;**資產**，選取一個影像，然後按一下頂部邊欄中的&#x200B;**編輯**。新畫面顯示可用的編輯選項，包括調整大小、背景移除、裁切，以及 JPEG 和 PNG 格式之間的轉換。
+登陸 Essentials UI 後，按一下&#x200B;**資產**，選取一個影像，然後按一下頂部邊欄中的&#x200B;**編輯**。新畫面會顯示由Adobe Express支援的可用編輯選項，包括調整大小、移除背景、裁切以及JPEG和PNG格式之間的轉換。
 
 #### 調整影像大小 {#resize-image-using-express}
 
-熱門的使用案例是將影像調整成特定大小。Assets Essentials 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要使用 Assets Essentials 調整影像大小，請按照以下步驟操作：
+熱門的使用案例是將影像調整成特定大小。Assets Essentials 可讓您快速調整影像大小，為特定相片大小提供預先計算好的新解析度，以符合常見的相片大小。若要在Assets Essentials介面中調整影像大小，請遵循下列步驟：
 
-1. 按一下左窗格中的&#x200B;**調整影像大小**。
+1. 從左窗格按一下&#x200B;**調整影像大小**。 對話方塊會顯示由Adobe Express支援的調整影像大小功能。
 2. 從「調整大小」下拉清單選取適當的社交媒體平台，然後從顯示的選項中選擇影像大小。
 3. 如果需要，使用「**影像比例**」欄位來縮放影像。
 4. 按一下「**套用**」以套用您的變更。
@@ -67,7 +69,7 @@ Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景�
    ![使用 Adobe Express 儲存影像](/help/using/assets/adobe-express-crop-image.png)
 裁切後的影像可供下載。您可以將編輯後的資產另存為同一資產的新版本，也可以將其另存為新資產。
 
-#### 在影像檔案類型之間轉換 {#convert-image-types-using-express}
+#### 將 JPEG 轉換為 PNG {#Convert-JPEG-to-PNG}
 
 您可以使用 Adobe Express 在 JPEG 和 PNG 影像格式之間快速轉換。執行以下步驟：
 
@@ -82,34 +84,29 @@ Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景�
 
 ### 在 Adobe Express 嵌入式編輯器中編輯影像 {#edit-images-in-adobe-express-embedded-editor}
 
-擁有 Express 權益的使用者可以使用 Assets Essentials UI 中的嵌入式 Express 編輯器輕鬆編輯內容，並使用 Adobe Firefly 的 GenAI 建立新內容。這讓使用者更能重複使用內容，並加快建立內容的速度。您還可以使用預先定義的元素賦予資源令人驚嘆的效果，或者只需點擊幾下即可執行快速動作來編輯影像。
-![Essentials UI 中的 Express](/help/using/assets/express-in-essentials-ui.jpg)
-若要使用 Adobe Express 嵌入式編輯器編輯影像，請依照下列步驟操作：
+擁有Express許可權的使用者可以從Assets Essentials UI中使用內嵌的Express編輯器，輕鬆地從Adobe Firefly編輯內容並使用GenAI建立新內容。 此功能可改善內容重複使用和加快內容速度。 您還可以使用預先定義的元素賦予資源令人驚嘆的效果，或者只需點擊幾下即可執行快速動作來編輯影像。
+![在Essentials UI中快取](/help/using/assets/express-in-essentials-ui.jpg)
+若要在Adobe Express內嵌編輯器中編輯影像，請遵循下列步驟：
 
-1. 使用連結 - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) 登陸 AEM Assets Essentials UI，並選取正確的存放庫。
+1. 使用連結 — [AEM Assets Essentials UI](https://experience.adobe.com/#/assets)前往AEM Assets Essentials UI，並選取正確的存放庫。
 1. 按一下&#x200B;**資產**，進入資料夾，然後選取影像。
 1. 按一下「**在 Adobe Express 中開啟**」。影像在 Express 畫布上開啟。
 1. 對影像進行所需的編輯。
 1. 如果您的專案需要新增更多頁面，按一下&#x200B;**新增**，選取「資產」，進入資料夾，選取要放入畫布頁面的影像，然後對影像進行所需的編輯。
-1. 若要儲存影像，按一下「**儲存**」。儲存對話框隨即顯示。
+1. 若要儲存一或多個資產，請按一下[儲存]。**** 儲存對話方塊會顯示儲存選項。 若要在儲存選項之間選取，請遵循下列符合您需求的指示之一：
+   1. 若要儲存單一頁面，請按一下[另存為新版本] ****，將影像匯出為新版本（保留原始格式），然後將其儲存在相同的資料夾中。
 
-   >[!NOTE]
-   >
-   > **1. 對於單頁**
-   >
-   > **另存新版本：**此功能僅支援儲存單一資產。選取此選項可將影像匯出為新版本 (保留原始格式)，並將其儲存在同一資料夾中。
-   > **另存為新資產：**&#x200B;選取此選項能以非原始格式將資產匯出，並將其做為新資產儲存在任何資料夾中。
-   >  
-   > **2. 對於多頁**
-   >
-   > **另存新版本：**&#x200B;此功能僅支援儲存單一資產。如果您想要儲存多個頁面中的單一頁面，請選取此選項以其原始格式和位置儲存資產。\
-   > **另存為新資產：**&#x200B;使用此選項，您可以將多個資產或單一資產匯出到任何資料夾，並使用原始檔案格式或不同的檔案格式，將其另存為新資產。
+   1. 若要儲存單一頁面，請按一下&#x200B;**另存為新資產**，將資產匯出為不同格式，然後儲存至任何資料夾做為新資產。
+
+   1. 若要從多個頁面儲存單一頁面，請按一下&#x200B;**另存為版本**，以原始格式和位置儲存資產。
+
+   1. 若要儲存多個頁面或多個頁面中的單一頁面，請按一下&#x200B;**另存為新資產**。 此動作會將單一或多個資產匯出至任何檔案夾，並以原始或不同格式儲存為新資產。
 
 1. 在「儲存」對話框中：
    1. 在&#x200B;**另存新檔**&#x200B;欄位中輸入檔案名稱。
    1. 選取目的地資料夾。
    1. 選擇性：提供專案或行銷活動名稱、關鍵字、管道、時間範圍和區域等詳細資訊。
-1. 按一下&#x200B;**另存新版本**&#x200B;或&#x200B;**另存為新資產**&#x200B;以儲存資產。
+1. 按一下&#x200B;**另存為新版本**&#x200B;或&#x200B;**另存為新資產**，以儲存一或多個資產。
 
 #### 在 Express 編輯器中編輯影像的限制 {#limitations-of-editing-images-in-the-express-editor}
 
@@ -120,11 +117,11 @@ Assets Essentials UI 支援基本的影像編輯，包括調整大小、背景�
 
 ### 使用 Adobe Express 建立新資產 {#create-new-assets-using-embedded-editor}
 
-Assets Essentials 可讓您使用 Adobe Express 嵌入式編輯器從頭開始建立新範本。若要使用 Adobe Express 建立新資產，請執行以下步驟：
+Assets Essentials可讓您使用Adobe Express內嵌編輯器從頭開始建立新範本。 若要使用 Adobe Express 建立新資產，請執行以下步驟：
 
 1. 瀏覽到「**我的工作區**」，然後在 Adobe Express 橫幅中按一下「**建立**」，該橫幅顯示在 Adobe Express 上方。Adobe Express 空白畫布會顯示在 Assets Essentials 使用者介面中。
 1. 使用「[範本](https://helpx.adobe.com/tw/express/using/work-with-templates.html)」建立您的內容。否則，請瀏覽至「您的資料」以修改現有內容。
-1. 完成編輯後，按一下「**儲存**」。
+1. 完成編輯後，按一下&#x200B;**儲存**。
 1. 為建立的資產指定目的地路徑，然後按一下「**另存為新資產**」。
 
 #### 限制 {#limitations}
