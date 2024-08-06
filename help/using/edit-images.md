@@ -3,10 +3,10 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
+source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
 workflow-type: tm+mt
 source-wordcount: '1182'
-ht-degree: 65%
+ht-degree: 63%
 
 ---
 
@@ -34,7 +34,7 @@ Assets Essentials UI可啟用由Adobe Express提供支援的基本影像編輯�
 >title="Adobe Express 整合"
 >abstract="簡單直觀的影像編輯工具是由 Adobe Express 提供支援，可直接在 AEM Assets 中使用；此工具可增加內容重複使用性並加快內容流通速度。"
 
-登陸 Essentials UI 後，按一下&#x200B;**資產**，選取一個影像，然後按一下頂部邊欄中的&#x200B;**編輯**。新畫面會顯示由Adobe Express支援的可用編輯選項，包括調整大小、移除背景、裁切以及JPEG和PNG格式之間的轉換。
+瀏覽至Essentials UI後，按一下&#x200B;**Assets**、選取影像，然後從頂端欄按一下&#x200B;**編輯**。 新畫面會顯示由Adobe Express支援的可用編輯選項，包括調整大小、移除背景、裁切以及JPEG和PNG格式之間的轉換。
 
 #### 調整影像大小 {#resize-image-using-express}
 
