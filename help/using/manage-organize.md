@@ -4,10 +4,10 @@ description: 在  [!DNL Assets Essentials] 中移動、刪除、複製、重新�
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
+source-git-commit: ce92eb58ede5d1ebbe88a98bfa7629532396f3be
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 100%
+source-wordcount: '1222'
+ht-degree: 96%
 
 ---
 
@@ -131,7 +131,8 @@ Assets Essentials 可讓您在存放庫中設定可用資產的狀態。設定�
 
 1. 選取該資產，然後按一下工具列中的「**[!UICONTROL 詳細資料]**」。
 
-1. 在&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤中，從&#x200B;**[!UICONTROL 狀態]**&#x200B;下拉式清單中選取資產狀態。可能的值包括「已核准」、「已拒絕」以及「無狀態」(預設)。
+1. 在&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤中，從&#x200B;**[!UICONTROL 狀態]**下拉式清單中選取資產狀態。可能的值包括「已核准」、「已拒絕」和「無狀態」（預設）。
+如果您已為Dynamic Media布建適合您環境的OpenAPI功能，Experience Manager Assets會在您將資產標示為`Approved`後立即產生公用URL。
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
