@@ -3,7 +3,7 @@ title: 編輯影像
 description: 使用  [!DNL Adobe Express]  支援的選項編輯影像，並將更新的影像另存新版。
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
+source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 63%
@@ -85,6 +85,7 @@ Assets Essentials UI可啟用由Adobe Express提供支援的基本影像編輯�
 ### 在 Adobe Express 嵌入式編輯器中編輯影像 {#edit-images-in-adobe-express-embedded-editor}
 
 擁有Express許可權的使用者可以從Assets Essentials UI中使用內嵌的Express編輯器，輕鬆地從Adobe Firefly編輯內容並使用GenAI建立新內容。 此功能可改善內容重複使用和加快內容速度。 您還可以使用預先定義的元素賦予資源令人驚嘆的效果，或者只需點擊幾下即可執行快速動作來編輯影像。
+
 ![在Essentials UI中快取](/help/using/assets/express-in-essentials-ui.jpg)
 若要在Adobe Express內嵌編輯器中編輯影像，請遵循下列步驟：
 
