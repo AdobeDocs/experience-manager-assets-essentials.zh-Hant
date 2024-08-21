@@ -3,8 +3,8 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
-workflow-type: tm+mt
+source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
+workflow-type: ht
 source-wordcount: '1890'
 ht-degree: 100%
 
@@ -254,7 +254,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 
 1. 在「搜尋」文字方塊中定義文字提示，然後按一下「**[!UICONTROL 內容搜尋]**」。
 
-   ![內容搜尋文字提示](/help/using/assets/contextual-search-text-prompt.png)
+   ![內容搜尋文字提示](/help/using/assets/wknd-contextual-search.png)
 
    [!DNL Experience Manager Assets] 會顯示搜尋結果。
 
