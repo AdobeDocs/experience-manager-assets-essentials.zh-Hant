@@ -3,7 +3,7 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 6b6f898f2232a03c69a517c3d315d565253b37b7
+source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
 workflow-type: tm+mt
 source-wordcount: '1890'
 ht-degree: 100%
@@ -335,3 +335,4 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)。
 
 * 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+
