@@ -4,7 +4,7 @@ description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1890'
 ht-degree: 100%
 
