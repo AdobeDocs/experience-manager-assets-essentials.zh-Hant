@@ -3,10 +3,10 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: ebd019640ddb984e0600fb4fb99b0f2d0afdba7d
-workflow-type: ht
-source-wordcount: '1890'
-ht-degree: 100%
+source-git-commit: 332a4842f6ae017b802fbd0edd75e74d6f2e8c97
+workflow-type: tm+mt
+source-wordcount: '1967'
+ht-degree: 80%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_search"
 >title="搜尋資產"
->abstract="在「搜尋」列中指定關鍵字或根據資產的狀態、檔案類型、MIME 類型、大小、建立、修改和到期日期來篩選資產，可透過這些方式來搜尋資產。您除了標準篩選器之外，還可以套用自訂篩選器。您可以將篩選的結果另存為「已儲存搜尋」或「智慧型集合」。"
+>abstract="透過指定搜尋列中的關鍵字或根據資產的狀態、檔案類型、MIME 類型、大小、建立、修改和到期日期篩選資產，來搜尋資產。您除了標準篩選器之外，還可以套用自訂篩選器。您可以將篩選的結果另存為「已儲存搜尋」或「智慧型集合」。"
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant#manage-smart-collection" text="建立智慧型集合"
 
-[!DNL Assets Essentials] 的預設功能即提供有效的搜尋。由於是全文檢索搜尋，因此十分全面。強大的搜尋功能可讓您快速探索合適的資產，協助您改善內容速度。[!DNL Assets Essentials] 提供全文檢索搜尋，甚至還透過如智慧標記、標題、建立的日期和版本等中繼資料進行搜尋。
+[!DNL Assets Essentials]提供有效的搜尋，預設即適用。 此搜尋是全文字搜尋，因此十分全面。 強大的搜尋功能可讓您快速探索合適的資產，協助您改善內容速度。[!DNL Assets Essentials] 提供全文檢索搜尋，甚至還透過如智慧標記、標題、建立的日期和版本等中繼資料進行搜尋。
 
 若要搜尋資產，
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
   ![搜尋方塊](assets/search-box.png)
 
-   * 使用關鍵字進行搜尋，並選取變更資料夾。按下「Return」。
+   * 使用關鍵字搜尋，並選擇變更資料夾。 按下「Return」。
 
    * 開始直接搜尋最近檢視的資產，然後使用該資產。在搜尋方塊中按一下，然後從建議中選取最近檢視的資產。
 
@@ -35,8 +35,6 @@ ht-degree: 100%
 您可以根據以下參數來篩選搜尋結果。
 
 ![搜尋篩選器](assets/filters1.png)
-
-*圖：請根據各種參數篩選已搜尋的資產。*
 
 * 資產狀態：使用 `Approved`、`Rejected` 或 `No Status` 資產狀態來篩選搜尋結果。
 
@@ -48,7 +46,7 @@ ht-degree: 100%
 
 * 有效日期：根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的有效日期範圍以進一步篩選搜尋結果。
 
-* 自訂篩選器：在 Assets Essentials 使用者介面[新增自訂篩選器](#custom-filters)。除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
+* 自訂篩選器： [新增自訂篩選器](#custom-filters)至Assets Essentials使用者介面。 除了標準篩選器之外，您還可以套用這些自訂篩選器來縮小您的搜尋結果。
 
 您可以依照 `Name`、`Relevance`、`Size`、`Modified` 和 `Created` 的遞增或遞減順序排序搜尋的資產。已搜尋的資產會依`Relevance` (依預設) 進行排序。
 
@@ -124,37 +122,47 @@ Assets Essentials 可提供下列自訂篩選器：
 
 您可以利用 [!DNL Experience Manager Assets] 中的 [!DNL Adobe Firefly] 資產搜尋功能，搜尋任何資產資料夾中都找不到的資產。您就可以有效率且即時地產生未儲存在資產資料夾中的資產。
 
-### 開始之前
+### 開始之前 {#search-assets-firefly-prereqs}
 
 您必須擁有使用中的 [!DNL Adobe Express] 訂閱。
 
-### 產生資產
+### 產生資產 {#generate-assets-firefly}
 
 如要使用 [!DNL Adobe Firefly] 來產生新資產：
 
 1. 瀏覽至 [!DNL AEM Assets] 工作區。
-1. 在頁面頂部的搜尋欄中，輸入資產名稱。<br>
-例如，您可以使用關鍵字 `Bugatti Type 57` 來搜尋資產。搜尋資產時，若找不到任何結果，是因為該資產不存在於任何資產資料夾中。
-1. 在頁面中間的搜尋欄中，輸入資產名稱，然後按一下 **[!UICONTROL 產生]**。
-   ![Firefly 整合](firefly-integration.jpg)
-   *圖：未在資產資料夾中找到 Bugatti Type 57 的結果。*<br>
-已成功產生新資產。
-   ![Firefly 整合](assets/bugatti-type-57.jpg)
-   *圖：使用 [!DNL Adobe Firefly] 資產搜尋功能，搜尋參照資產。* <br>
-您可以將這些資產上傳到您偏好的資料夾，以便存取。
 
-### 上傳資產
+1. 在搜尋列中鍵入資產名稱。 例如，您可以使用關鍵字`Bugatti Type 57`來搜尋資產。 搜尋資產時，由於資產不存在於任何資產資料夾中，因此找不到結果。 若要使用AI產生資產，請按一下[使用Firefly產生]。**** [!DNL Adobe Firefly]畫面會出現。
+
+   ![Firefly 整合](assets/firefly-integration.png)
+
+   新資產已成功產生。 此外，您可以在描述方塊中輸入新的文字提示來變更影像描述。 [瞭解如何撰寫良好的AI提示，以產生非凡的相關內容。](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html)或者，您也可以[使用各種其他功能（例如變更樣式、影像尺寸等等）編輯影像。](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
+
+   ![Firefly 整合](assets/bugatti-type-57.png)
+
+1. 選取要儲存的影像。 按一下「儲存」****&#x200B;將資產儲存在您偏好的資料夾中，以方便存取。
+
+1. 儲存資產表單隨即顯示。 指定下列欄位：
+
+   * 在&#x200B;**另存新檔**&#x200B;欄位中輸入檔案名稱。
+   * 選取目的地資料夾。
+   * 提供專案或行銷活動名稱、關鍵字、頻道、時間範圍和區域等詳細資訊。
+
+   ![Firefly 整合](assets/save-generated-asset.png)
+
+1. 按一下&#x200B;**另存為新資產**&#x200B;以儲存資產。
+
+### 上傳資產 {#upload-assets-firefly}
 
 若要將產生的資產上傳到資產存放庫：
 
 1. 按一下 **[!UICONTROL 上傳]**。
 1. 選取需要上傳資產的資產資料夾，然後按一下 **[!UICONTROL 選取資料夾]**。
    ![上傳資產](assets/upload-asset-firefly.jpg)
-   *圖：選取要上傳資產的資料夾。*
 
 ## 已儲存搜尋 {#saved-search}
 
-搜尋功能可以在 [!DNL Assets Essentials] 中輕鬆使用。您不僅可以從搜尋方塊中輸入關鍵字然後按下「Return」來查看結果，也可按一下來快速再次搜尋最近搜尋的關鍵字。
+搜尋功能可以在 [!DNL Assets Essentials] 中輕鬆使用。在搜尋方塊中，您不可以只輸入關鍵字然後按下Return來檢視結果，也可以按一下快速再次搜尋最近搜尋的關鍵字。
 
 您也可以根據資產的中繼資料和類型的特定條件，來篩選搜尋結果。對於常用的篩選條件，若要改善搜尋體驗，[!DNL Assets Essentials] 可讓您儲存搜尋參數。您稍後可以選取已儲存搜尋，按一下即可搜尋並套用篩選器。
 
@@ -177,7 +185,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 您可以選取搜尋結果中顯示的資產，然後執行以下動作：
 
-* **尋找類似影像**：根據中繼資料和智慧標記在 Assets UI 中尋找類似影像資產。
+* **尋找類似的影像**：根據中繼資料和智慧標籤，在Assets UI中尋找類似的影像資產。
 
 * **詳細資料**：檢視和編輯資產屬性。
 
@@ -214,20 +222,20 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 若要設定搜尋優先首頁，請執行以下步驟：
 
 1. 瀏覽至「**[!UICONTROL 設定]**」>「**[!UICONTROL 一般設定]**」。
-1. 選取「**[!UICONTROL 搜尋優先]**」。接著會打開搜尋優先相關設定。您可以設定首頁的「[對齊方式](#setting-alignment-search-bar)」或「[設定背景和標誌影像」](#setting-background-image-and-logo)。
+1. 選取「**[!UICONTROL 搜尋優先]**」。它會進一步開啟搜尋第一個相關設定。 您可以設定首頁的[對齊方式](#setting-alignment-search-bar)或[設定背景與標誌影像](#setting-background-image-and-logo)。
 
 ### 設定搜尋列的對齊方式 {#setting-alignment-search-bar}
 
-[!DNL Assets Essentials] 可讓您變更搜尋列的對齊方式。您可以讓搜尋列顯示在中心或頂端。選取適當的對齊方式，然後按一下「**[!UICONTROL 儲存]**」。
+[!DNL Assets Essentials]可讓您變更搜尋列的對齊方式。 您可以讓搜尋列顯示在中央或頂端。 選取適當的對齊方式，然後按一下「**[!UICONTROL 儲存]**」。
 
 ![搜尋優先首頁對齊方式](assets/search-first-alignment.png)
 
 ### 設定首頁的背景和標誌影像 {#setting-background-image-and-logo}
 
-您可以將品牌標誌和背景影像新增至搜尋優先首頁。執行以下步驟：
+您可以將品牌標誌和背景影像新增至您的搜尋第一個首頁。 執行以下步驟：
 
-1. 瀏覽到「**[!UICONTROL 首頁]**」底下的「**[!UICONTROL 背景和標誌影像]**」。
-1. 按一下「**[!UICONTROL 取代]**」以瀏覽現有資產存放庫中的影像。
+1. 導覽至&#x200B;**[!UICONTROL 首頁]**&#x200B;下的&#x200B;**[!UICONTROL 背景和標誌影像]**&#x200B;區段。
+1. 按一下[取代]****&#x200B;瀏覽現有資產存放庫的影像。
 1. 按一下「**[!UICONTROL 儲存]**」。[預覽](#preview-configured-homepage)變更以查看修改部分。
 
 ### 預覽已設定首頁 {#preview-configured-homepage}
@@ -235,7 +243,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 您可以預覽以查看搜尋優先首頁的版面配置和格式。使用「**[!UICONTROL 預覽]**」，您可以根據需要更改版面配置或進行修改。若要預覽已設定首頁，請執行以下步驟：
 
 1. 按一下「**[!UICONTROL 一般設定]**」，然後選取「**[!UICONTROL 搜尋優先]**」。
-1. 瀏覽到「**[!UICONTROL 自訂搜尋優先首頁]**」，然後按一下「**[!UICONTROL 預覽]**」。切換「**[!UICONTROL 深色主題]**」按鈕以深色或淺色主題預覽首頁。
+1. 瀏覽到「**[!UICONTROL 自訂搜尋優先首頁]**」，然後按一下「**[!UICONTROL 預覽]**」。切換&#x200B;**[!UICONTROL 深色佈景主題]**&#x200B;按鈕，以深色或淺色佈景主題預覽首頁。
 1. 按一下「**[!UICONTROL 關閉]**」即可關閉預覽畫面。
 
    ![搜尋優先首頁預覽](assets/search-first-preview.gif)
@@ -301,7 +309,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 
 **範例 3**
 
-**文字提示**：我需要高度為 1500 和 2500 像素的藍天影像，而且是過去一個月內建立的未過期及已核准影像。
+**文字提示**：我需要1500和2500畫素高度的藍天影像，而且是在過去一個月內建立的，但是尚未到期且未核准。
 
 [!DNL Experience Manager Assets] 會自動套用以下篩選器並顯示搜尋結果：
 
