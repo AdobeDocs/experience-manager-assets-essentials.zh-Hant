@@ -3,7 +3,7 @@ title: 搜尋和探索  [!DNL Assets Essentials] 中的資產
 description: 搜尋和探索  [!DNL Assets Essentials] 中的資產。
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 332a4842f6ae017b802fbd0edd75e74d6f2e8c97
+source-git-commit: 84695c5a2b6423b0a5863b088ac8507f0de0e80d
 workflow-type: tm+mt
 source-wordcount: '1967'
 ht-degree: 80%
@@ -146,7 +146,7 @@ Assets Essentials 可提供下列自訂篩選器：
 
    * 在&#x200B;**另存新檔**&#x200B;欄位中輸入檔案名稱。
    * 選取目的地資料夾。
-   * 提供專案或行銷活動名稱、關鍵字、頻道、時間範圍和區域等詳細資訊。
+   * 輸入專案或行銷活動名稱、關鍵字、管道、時間範圍和區域等詳細資訊。
 
    ![Firefly 整合](assets/save-generated-asset.png)
 
