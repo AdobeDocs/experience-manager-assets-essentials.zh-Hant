@@ -1,12 +1,12 @@
 ---
 title: 與其他 Adobe 解決方案的整合
-description: 「[!DNL Assets Essentials] 整合其他 Adobe 解決方案，並從原生應用程式內提供內嵌式體驗。」
+description: '[!DNL Assets Essentials]與其他Adobe解決方案整合，並從原生應用程式內提供內嵌式體驗。'
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
