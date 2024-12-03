@@ -2,10 +2,10 @@
 title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 49b650b3efe5740eb1ce39b7dcf6f84e34e0e81a
-workflow-type: ht
-source-wordcount: '1226'
-ht-degree: 100%
+source-git-commit: cb3cd047d3fbfa8e6b2e5a398c11301f93692b2e
+workflow-type: tm+mt
+source-wordcount: '1591'
+ht-degree: 79%
 
 ---
 
@@ -42,7 +42,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 
    **在「設定」標籤中：**
 
-   1. **報告類型：**&#x200B;在上傳和下載類型之間進行選擇。
+   1. **報告型別：**&#x200B;從[!UICONTROL 上傳]、[!UICONTROL 下載]或[Dynamic Media傳遞報告](#dynamic-media-delivery-reports)型別中選取。
    1. **標題：**&#x200B;為報告新增標題。
    1. **說明：**&#x200B;為報告新增選擇性說明。
    1. **選取資料夾路徑：**&#x200B;選取資料夾路徑，以產生該特定資料夾中已上傳和下載資產的報告。例如，如果您需要上傳到某個資料夾的資產報告，請指定該資料夾的路徑。
@@ -70,7 +70,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
      <tr>
       <td>路徑</td>
       <td>資產在 Assets Essentials 可用的資料夾路徑。</td>
-      <td>下載和上傳</td>
+      <td>上傳、下載和Dynamic Media傳送</td>
      </tr>
      <tr>
       <td>MIME 類型</td>
@@ -116,13 +116,71 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
       <td>按使用者名稱下載</td>
       <td>下載資產的使用者的名稱。</td>
       <td>下載</td>
-     </tr>           
+     </tr>
+     <tr>
+      <td>反向連結</td>
+      <td>傳遞或包含資產的URL</td>
+      <td>Dynamic Media 傳遞</td>
+     </tr>  
+     <tr>
+      <td>點擊</td>
+      <td>資產傳遞次數（傳遞計數）</td>
+      <td>Dynamic Media 傳遞</td>
+     </tr>             
     </tbody>
    </table>
 
+## Dynamic Media傳遞報告 {#dynamic-media-delivery-reports}
+
+取得透過 Dynamic Media 傳遞之資產的傳遞深入分析，以及資產層級傳遞計數、反向連結資訊、AEM Assets 中的資產路徑和唯一資產 ID。您可以針對AEM Assets存放庫透過Dynamic Media傳送的所有資產，或針對AEM Assets中的特定資料夾階層產生報表。 此外，Dynamic Media傳遞報表深入分析可協助評估已傳遞資產的ROI、評估管道績效，以及協助執行資產的明智資產管理任務。
+
+>[!NOTE]
+> 
+>若要搶先存取您Dynamic Media帳戶的Dynamic Media傳遞報告，請[建立並提交Adobe客戶支援案例](https://helpx.adobe.com/tw/enterprise/using/support-for-experience-cloud.html)。
+
+### 先決條件 {#prereqs-dynamic-media-delivery-reports}
+
+您應該要有Dynamic Media授權才能建立及使用此報表。
+
+>[!IMPORTANT]
+> 
+>* 報告是為透過 Dynamic Media 所傳遞的資產所提供。
+>* 報告是針對前 100 萬列產生。若要擷取此限制內的所有檔案，請考慮包含較小資料夾的反向連結欄。
+>* 只能產生過去 3 個月的報告。
+
+### 建立Dynamic Media傳遞報告{#create-dynamic-media-delivery-report}
+
+1. 使用[建立報告](#create-report)中所述的步驟，建立Dynamic Media傳遞報告。
+
+1. 從&#x200B;**[!UICONTROL 報表型別]**&#x200B;下拉式清單中選取&#x200B;**[!UICONTROL Dynamic Media傳遞]**。
+
+   ![Dynamic Media傳遞報告下拉式清單](/help/using/assets/dynamic-media-delivery-report-option.png)
+
+
+1. 在&#x200B;**[!UICONTROL 欄]**&#x200B;索引標籤中，您可以選取&#x200B;**[!UICONTROL 反向連結]**&#x200B;欄以將其包含在您的報表中。
+
+   ![反向連結](/help/using/assets/referrer.png)
+
+   下載的報表的所有欄都是唯讀的，除了&#x200B;**Referrer**&#x200B;欄，您可以修改該欄以納入報表或從報表中排除。<!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
+
+### 在Dynamic Media傳遞報告上執行的動作 {#actions-performed-dynamic-media-delivery-reports}
+
+建立報告後，您可以執行下列動作：
+
+* **[!UICONTROL 刪除]**：您可以刪除選取的報告。
+* **[!UICONTROL 下載CSV]**：您可以下載CSV格式的所選報表。 下載的報表包含名稱、路徑、DynamicMediaID、反向連結、點選數欄。
+   * **Referrer**&#x200B;欄列出傳遞或包含資產的URL。
+
+   * **點選**&#x200B;欄會列出資產傳遞的次數（傳遞計數）。
+
+若要刪除或下載CSV格式的Dynamic Media傳遞報告，請參閱[檢視和下載現有報告](#View-and-download-existing-report)。
+
+![在Dynamic Media傳遞報告上下載的CSV](/help/using/assets/csv-dynamic-media-delivery-report.png)
+
+
 ## 檢視及下載現有報告 {#View-and-download-existing-report}
 
-現有報告會顯示在「**已執行的報告**」標籤下方。按一下「**報告**」，並選取「**已執行的報告**」，即可檢視狀態為「**已完成**」(表示已可供下載) 的所有已建立的報告。若要下載 CSV 格式的報告或刪除報告，請選取該報告列。然後，選取「**下載 CSV**」或「**刪除**」。
+現有報告會顯示在「**已執行的報告**」標籤下方。按一下「**報告**」，並選取「**已執行的報告**」，即可檢視狀態為「**已完成**」(表示已可供下載) 的所有已建立的報告。若要下載CSV格式的報表或刪除報表，請選取報表列並選取「**下載CSV**」或「**刪除**」。
 ![檢視及下載現有報告](/help/using/assets/view-download-existing-report.png)
 
 ## 安排報告 {#schedule-report}
