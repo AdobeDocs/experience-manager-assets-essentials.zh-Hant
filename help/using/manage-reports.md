@@ -3,9 +3,9 @@ title: 在 Assets Essentials 管理報告
 description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1226'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 
    **在「設定」標籤中：**
 
-   1. **報表型別：**&#x200B;從[!UICONTROL 上傳]或[!UICONTROL 下載]報表型別中選取。
+   1. **報告類型：**&#x200B;選取「[!UICONTROL 上傳]」或「[!UICONTROL 下載]」報告類型。
    1. **標題：**&#x200B;為報告新增標題。
    1. **說明：**&#x200B;為報告新增選擇性說明。
    1. **選取資料夾路徑：**&#x200B;選取資料夾路徑，以產生該特定資料夾中已上傳和下載資產的報告。例如，如果您需要上傳到某個資料夾的資產報告，請指定該資料夾的路徑。
@@ -124,8 +124,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 
 ## 檢視及下載現有報告 {#View-and-download-existing-report}
 
-現有報告會顯示在「**已執行的報告**」標籤下方。按一下「**報告**」，並選取「**已執行的報告**」，即可檢視狀態為「**已完成**」(表示已可供下載) 的所有已建立的報告。若要下載CSV格式的報表或刪除報表，請選取報表列並選取「**下載CSV**」或「**刪除**」。
-![檢視及下載現有報告](/help/using/assets/view-download-existing-report.png)
+現有報告會顯示在「**已執行的報告**」標籤下方。按一下「**報告**」，並選取「**已執行的報告**」，即可檢視狀態為「**已完成**」(表示已可供下載) 的所有已建立的報告。若要下載 CSV 格式的報告或刪除報告，請選取報告列並選取&#x200B;**下載 CSV** 或 **刪除**。![檢視及下載現有報告](/help/using/assets/view-download-existing-report.png)
 
 ## 安排報告 {#schedule-report}
 
