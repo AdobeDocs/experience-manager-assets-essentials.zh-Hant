@@ -2,7 +2,8 @@
 title: 在 [!DNL Assets Essentials]中重新命名並大量重新命名資產
 description: 瞭解如何使用新的Assets UI (Assets Essentials)大量重新命名資產。 它提供一次重新命名多個資產的能力。
 role: User
-source-git-commit: 9232f1ccb1d71057c909330d7e4861d048310b7b
+exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
+source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -67,3 +68,4 @@ ht-degree: 17%
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
 * 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+
