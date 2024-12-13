@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+source-git-commit: 09040ef6dc777aa631b00bb37108f86b83bdf583
 workflow-type: tm+mt
-source-wordcount: '1773'
-ht-degree: 100%
+source-wordcount: '1884'
+ht-degree: 94%
 
 ---
 
@@ -129,9 +129,11 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 下拉式清單 | 新增下拉式清單。 |
 | 狀態 | 新增存放庫狀態屬性 (對應到 repo:state) |
 | 資產狀態 | 新增預設的資產狀態屬性 (對應到 dam:assetStatus) |
+| 核准用途 | |
 | 標記 | 從分類法管理中儲存的值新增標記 (對應到 xcm:tags)。 |
 | 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
+| 連結 | 新增以啟用外部URL。 |
 
 ### 將中繼資料表單指派至資料夾 {#assign-metadata-form-folder}
 
@@ -164,6 +166,19 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 1. 選取資料夾並按一下「**[!UICONTROL 移除]**」。您也可以從清單中選取多個資料夾。
 
 您也可以導覽至資料夾詳細資料頁面，然後從「**[!UICONTROL 中繼資料表單]**」欄位中選取「**[!UICONTROL 系統對應中繼資料表單]**」，即可從資料夾中刪除已指派的中繼資料表單。
+
+### 在中繼資料表單中使用連結元件 {#link-component-metadata-form}
+
+連結元件可用來啟用外部URL，包括儲存連結、版權資訊、連絡人表單等。 若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。
+
+請依照下列步驟，在中繼資料表單上使用連結元件：
+
+1. 前往資產詳細資訊頁面，並導覽至&#x200B;**[!UICONTROL 連結URL]**。
+1. 新增您想要用來針對所選資產重新導向的URL。
+1. 按一下&#x200B;**[!UICONTROL 新增連結]**。 執行下列其中一個動作：
+   * 按一下![復製圖示](assets/do-not-localize/copy.svg)以複製URL。
+   * 按一下![編輯圖示](assets/do-not-localize/edit.svg)以編輯URL。
+1. 按一下[儲存]儲存變更。****
 
 ## 後續步驟 {#next-steps}
 
