@@ -4,10 +4,10 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
 workflow-type: tm+mt
-source-wordcount: '1884'
-ht-degree: 94%
+source-wordcount: '1964'
+ht-degree: 90%
 
 ---
 
@@ -129,11 +129,10 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 下拉式清單 | 新增下拉式清單。 |
 | 狀態 | 新增存放庫狀態屬性 (對應到 repo:state) |
 | 資產狀態 | 新增預設的資產狀態屬性 (對應到 dam:assetStatus) |
-| 核准用途 | |
 | 標記 | 從分類法管理中儲存的值新增標記 (對應到 xcm:tags)。 |
 | 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
-| 連結 | 新增以啟用外部URL。 |
+| 連結 | 新增以啟用外部URL。 在中繼資料表單上設定後，URL元件可以對應至中繼資料編輯器頁面中的特定中繼資料屬性。 此[中繼資料表單可指派給資料夾](#assign-metadata-form-folder)。 |
 
 ### 將中繼資料表單指派至資料夾 {#assign-metadata-form-folder}
 
@@ -169,9 +168,9 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
 ### 在中繼資料表單中使用連結元件 {#link-component-metadata-form}
 
-連結元件可用來啟用外部URL，包括儲存連結、版權資訊、連絡人表單等。 若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。
+連結元件可用來啟用外部URL，包括儲存連結、版權資訊、連絡人表單等。 若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。 URL元件可對應至「中繼資料編輯器」頁面中的特定中繼資料屬性，其運作方式與其他中繼資料元件相同。 此中繼資料表單可指派給資料夾。 因此，在指派的資料夾資產的詳細資訊頁面中，您可能會看到資產連結中繼資料值。
 
-請依照下列步驟，在中繼資料表單上使用連結元件：
+請依照下列步驟，使用資產詳細資訊頁面上的連結元件：
 
 1. 前往資產詳細資訊頁面，並導覽至&#x200B;**[!UICONTROL 連結URL]**。
 1. 新增您想要用來針對所選資產重新導向的URL。
