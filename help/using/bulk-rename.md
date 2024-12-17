@@ -3,7 +3,7 @@ title: 在 [!DNL Assets Essentials]中重新命名並大量重新命名資產
 description: 瞭解如何使用新的Assets UI (Assets Essentials)大量重新命名資產。 它提供一次重新命名多個資產的能力。
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -51,7 +51,7 @@ ht-degree: 17%
 * 移除前置詞和後置詞，只保留名稱的中間部分。
 * 在檔案前面加上001、002等 並翻譯成英文。
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3440975)
+>[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
