@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1964'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -132,7 +132,7 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 標記 | 從分類法管理中儲存的值新增標記 (對應到 xcm:tags)。 |
 | 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
-| 連結 | 新增以啟用外部URL。 在中繼資料表單上設定後，URL元件可以對應至中繼資料編輯器頁面中的特定中繼資料屬性。 此[中繼資料表單可指派給資料夾](#assign-metadata-form-folder)。 |
+| 連結 | 新增以啟用外部 URL。在中繼資料表單上設定後，URL 元件可以對應至「中繼資料編輯器」頁面中的特定中繼資料屬性。此[中繼資料表單可以指派至資料夾](#assign-metadata-form-folder)。 |
 
 ### 將中繼資料表單指派至資料夾 {#assign-metadata-form-folder}
 
@@ -166,18 +166,18 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
 您也可以導覽至資料夾詳細資料頁面，然後從「**[!UICONTROL 中繼資料表單]**」欄位中選取「**[!UICONTROL 系統對應中繼資料表單]**」，即可從資料夾中刪除已指派的中繼資料表單。
 
-### 在中繼資料表單中使用連結元件 {#link-component-metadata-form}
+### 使用中繼資料表單的「連結」元件 {#link-component-metadata-form}
 
-連結元件可用來啟用外部URL，包括儲存連結、版權資訊、連絡人表單等。 若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。 URL元件可對應至「中繼資料編輯器」頁面中的特定中繼資料屬性，其運作方式與其他中繼資料元件相同。 此中繼資料表單可指派給資料夾。 因此，在指派的資料夾資產的詳細資訊頁面中，您可能會看到資產連結中繼資料值。
+此連結元件是用來啟用外部 URL，包括儲存連結、版權資訊、聯絡表單等。若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。此 URL 元件可以對應至「中繼資料編輯器」頁面中的特定中繼資料屬性，其運作方式和其他中繼資料元件相同。此中繼資料表單可以指派至資料夾。因此，在指派之資料夾資產的詳細資料頁面中，您可能會看到資產連結中繼資料值。
 
-請依照下列步驟，使用資產詳細資訊頁面上的連結元件：
+請依照以下步驟，在資產詳細資料頁面使用連結元件：
 
-1. 前往資產詳細資訊頁面，並導覽至&#x200B;**[!UICONTROL 連結URL]**。
-1. 新增您想要用來針對所選資產重新導向的URL。
-1. 按一下&#x200B;**[!UICONTROL 新增連結]**。 執行下列其中一個動作：
-   * 按一下![復製圖示](assets/do-not-localize/copy.svg)以複製URL。
-   * 按一下![編輯圖示](assets/do-not-localize/edit.svg)以編輯URL。
-1. 按一下[儲存]儲存變更。****
+1. 前往資產詳細資料頁面，並導覽至「**[!UICONTROL 連結 URL]**」。
+1. 新增要用來重新導向所選資產的 URL。
+1. 按一下「**[!UICONTROL 新增連結]**」。執行下列其中一個動作：
+   * 按一下 ![複製圖示](assets/do-not-localize/copy.svg) 以複製 URL。
+   * 按一下 ![編輯圖示](assets/do-not-localize/edit.svg) 以編輯 URL。
+1. 按一下「**[!UICONTROL 儲存]**」以儲存變更。
 
 ## 後續步驟 {#next-steps}
 
