@@ -4,9 +4,9 @@ description: 瞭解如何使用Dynamic Media範本編輯器建立WYSIWYG範本�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: a06bdadcd2194e1ffce23c672e605cfb95f14bcf
+source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
 workflow-type: tm+mt
-source-wordcount: '2800'
+source-wordcount: '2758'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,6 @@ Dynamic Media範本的一些主要優點包括：
 **左窗格上的功能表選項：**&#x200B;請將這些選項用於一般編輯器動作，如下所述。
 
 * ![DM範本](/help/using/assets/layer-selector.svg)：選取圖層。
-* ![支援自訂的範本](/help/using/assets/bring-forward.svg)：按一下以將選取的圖層往前移，或按&#x200B;**Ctrl** + **]** (Windows)或&#x200B;**Cmd** + **]** (Mac)。
-* ![如何建立可輕鬆自訂的範本](/help/using/assets/send-backward.svg)：按一下以向後傳送選取的圖層，或按下&#x200B;**Ctrl** + **[** (Windows)或&#x200B;**Cmd** + **[** (Mac)。
 * ![建立可立即自訂的範本](/help/using/assets/undo.svg)：按一下以復原上一個動作，或按&#x200B;**Ctrl** + **Z** (Windows)或&#x200B;**Cmd** + **Z** (Mac)。
 * ![快速建立橫幅的範本](/help/using/assets/redo.svg)：按一下以重做上一個動作，或按下&#x200B;**Ctrl** + **Y** (Windows)或&#x200B;**Cmd** + **Y** (Mac)。
 * ![快速建立傳單的範本](/help/using/assets/zoomin.svg)：按一下以放大畫布或按&#x200B;**Ctrl** + **+** (Windows)或Cmd + **+** (Mac)。
