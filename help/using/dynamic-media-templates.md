@@ -4,16 +4,16 @@ description: 瞭解如何使用Dynamic Media範本編輯器建立WYSIWYG範本�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
+source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
 workflow-type: tm+mt
-source-wordcount: '2758'
+source-wordcount: '2766'
 ht-degree: 0%
 
 ---
 
 # Dynamic Media範本{#dynamic-media-templates}
 
-| [搜尋最佳實務](/help/assets/search-best-practices.md) | [中繼資料最佳實務](/help/assets/metadata-best-practices.md) | [Content Hub](/help/assets/product-overview.md) | [AEM Assets 開發人員文件](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [搜尋最佳實務](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [中繼資料最佳實務](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [AEM Assets 開發人員文件](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 使用Dynamic Media範本編輯器建立WYSIWYG範本，並包含多個影像和文字圖層，以快速建立橫幅和傳單，並將其用於下游應用程式。 您也可以將引數新增至範本中包含的影像和文字圖層，並使用[Dynamic Media URL](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media)即時更新這些圖層的值。
@@ -44,10 +44,10 @@ Dynamic Media範本的一些主要優點包括：
 若要建立Dynamic Media範本，您必須擁有：
 
 1. 存取Dynamic Media。
-1. [已將AEM Assets執行個體中可用的影像與Dynamic Media同步，以便用於建立範本](/help/assets/dynamic-media/config-dm.md)。
+1. [已將AEM Assets執行個體中可用的影像與Dynamic Media同步，以便用於建立範本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
 1. 已在觸控式UI中驗證下列專案：
-   * 在&#x200B;**[!UICONTROL 編輯Dynamic Media設定頁面]**&#x200B;上，預設為&#x200B;**[!UICONTROL 已停用的]** Dynamic Media同步模式&#x200B;]**未套用至所有AEM資料夾（**[!UICONTROL &#x200B;同步所有內容&#x200B;]**已取消核取）。**[!UICONTROL &#x200B;如需詳細資訊，請參閱[設定Dynamic MediaCloud Service](/help/assets/dynamic-media/config-dm.md)。
-   * 目的地資料夾或子資料夾的&#x200B;**[!UICONTROL Dynamic Media同步模式]**&#x200B;設為&#x200B;**[!UICONTROL 啟用子資料夾]**，您會在建立後儲存範本。 如需詳細資訊，請參閱[設定Dynamic MediaCloud Service](/help/assets/dynamic-media/config-dm.md)。
+   * 在&#x200B;**[!UICONTROL 編輯Dynamic Media設定頁面]**&#x200B;上，預設為&#x200B;**[!UICONTROL 已停用的]** Dynamic Media同步模式&#x200B;]**未套用至所有AEM資料夾（**[!UICONTROL &#x200B;同步所有內容&#x200B;]**已取消核取）。**[!UICONTROL &#x200B;如需詳細資訊，請參閱[設定Dynamic MediaCloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
+   * 目的地資料夾或子資料夾的&#x200B;**[!UICONTROL Dynamic Media同步模式]**&#x200B;設為&#x200B;**[!UICONTROL 啟用子資料夾]**，您會在建立後儲存範本。 如需詳細資訊，請參閱[設定Dynamic MediaCloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
 
 ## 建立Dynamic Media WYSIWYG範本{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -69,7 +69,7 @@ Dynamic Media範本的一些主要優點包括：
 
 1. 按一下&#x200B;**[!UICONTROL 「建立範本]**」，將範本儲存在Dynamic Media Assets下，或導覽至資料夾，然後按一下&#x200B;**[!UICONTROL 「建立範本]**」，將範本儲存在該資料夾中。 **[!UICONTROL 新範本]**對話方塊隨即顯示。
    ![如何建立可即時自訂的動態範本](/help/using/assets/new-template.png)
-若要[在&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下建立資料夾](/help/assets/add-delete-assets-view.md)，請在&#x200B;**[!UICONTROL Assets]**&#x200B;下建立資料夾。 **[!UICONTROL Assets]**&#x200B;下的資料夾樹狀結構會復寫至&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下。
+若要[在&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下建立資料夾](/help/using/add-delete.md)，請在&#x200B;**[!UICONTROL Assets]**&#x200B;下建立資料夾。 **[!UICONTROL Assets]**&#x200B;下的資料夾樹狀結構會復寫至&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下。
 1. 指定範本名稱、定義畫布寬度和高度，然後按一下[建立]。**** 空白畫布顯示，兩側都有選單選項以用於建立範本。 將游標停留在選單選項上可檢視其工具提示。
    ![即時可自訂的範本](/help/using/assets/blank-canvas-page.png)
 
@@ -89,7 +89,7 @@ Dynamic Media範本的一些主要優點包括：
 * ![建立可立即自訂的範本](/help/using/assets/undo.svg)：按一下以復原上一個動作，或按&#x200B;**Ctrl** + **Z** (Windows)或&#x200B;**Cmd** + **Z** (Mac)。
 * ![快速建立橫幅的範本](/help/using/assets/redo.svg)：按一下以重做上一個動作，或按下&#x200B;**Ctrl** + **Y** (Windows)或&#x200B;**Cmd** + **Y** (Mac)。
 * ![快速建立傳單的範本](/help/using/assets/zoomin.svg)：按一下以放大畫布或按&#x200B;**Ctrl** + **+** (Windows)或Cmd + **+** (Mac)。
-* ![快速建立橫幅的範本](/help/using/assets/zoomout.svg)：按一下以縮小畫布或按&#x200B;**Ctrl** + **-** (Windows)或&#x200B;**Cmd** + **-** (Mac)。
+* ![快速建立橫幅的範本](/help/using/assets/ZoomOut-1.svg)：按一下以縮小畫布或按&#x200B;**Ctrl** + **-** (Windows)或&#x200B;**Cmd** + **-** (Mac)。
 * 如果沒有編輯文字或屬性，請按&#x200B;**退格鍵**&#x200B;或&#x200B;**刪除**&#x200B;刪除選取的圖層。
 
 按一下![範本以快速建立傳單](/help/using/assets/show-layers-list.svg) **>畫布圖層上還有**&#x200B;個選項(![](/help/using/assets/three-dots.svg))可在建立範本時隨時編輯畫布維度。
@@ -121,7 +121,7 @@ Dynamic Media範本的一些主要優點包括：
 
 >[!NOTE]
 >
-> 若要使用預設AdobeSans F2字型系列以外的字型，您必須上傳字型檔案並發佈至AEM Assets和Dynamic Media。 如果您的執行個體中有一些舊字型，請確定[重新處理](/help/assets/reprocessing-assets-view.md)以在範本編輯器中檢視這些字型。
+> 若要使用預設AdobeSans F2字型系列以外的字型，您必須上傳字型檔案並發佈至AEM Assets和Dynamic Media。 如果您的執行個體中有一些舊字型，請確定[重新處理](/help/using/reprocessing.md)以在範本編輯器中檢視這些字型。
 
 ### 編輯或刪除圖層 {#edit-or-delete-a-layer}
 
@@ -281,5 +281,5 @@ Dynamic Media範本的一些主要優點包括：
 
 ## 另請參閱
 
-1. 探索[Dynamic Media及其功能](/help/assets/dynamic-media/dynamic-media.md)
-1. 探索[具有OpenAPI功能的Dynamic Media](/help/assets/dynamic-media-open-apis-overview.md)
+1. 探索[Dynamic Media及其功能](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. 探索[具有OpenAPI功能的Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
