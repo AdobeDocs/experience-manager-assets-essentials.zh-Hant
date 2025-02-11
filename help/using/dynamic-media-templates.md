@@ -4,17 +4,23 @@ description: 瞭解如何使用Dynamic Media範本編輯器建立WYSIWYG範本�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 64123ef9b8f669da24b296a5c1ea6bd514778c32
+source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
 workflow-type: tm+mt
-source-wordcount: '2766'
-ht-degree: 0%
+source-wordcount: '2810'
+ht-degree: 1%
 
 ---
 
-# Dynamic Media範本{#dynamic-media-templates}
+# Dynamic Media 範本{#dynamic-media-templates}
 
 | [搜尋最佳實務](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [中繼資料最佳實務](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [AEM Assets 開發人員文件](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
+
+>[!CONTEXTUALHELP]
+>id="assets_dm_templates"
+>title="管理Dynamic Media範本"
+>abstract="使用簡單易用的WYSIWYG介面，快速建立及個人化影像和文字橫幅，並將Dynamic Media URL內嵌於任何第一方或第三方應用程式中，以實現極具吸引力的體驗。 試試看！"
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="觀看影片"
 
 使用Dynamic Media範本編輯器建立WYSIWYG範本，並包含多個影像和文字圖層，以快速建立橫幅和傳單，並將其用於下游應用程式。 您也可以將引數新增至範本中包含的影像和文字圖層，並使用[Dynamic Media URL](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media)即時更新這些圖層的值。
 
@@ -65,7 +71,7 @@ Dynamic Media範本的一些主要優點包括：
 
 1. 導覽至Assets Essentials，然後按一下左側面板中可用的&#x200B;**[!UICONTROL Dynamic Media Assets]**。
 
-   ![Dynamic Media範本](/help/using/assets/DM-Assets1.png)
+   ![Dynamic Media 範本](/help/using/assets/DM-Assets1.png)
 
 1. 按一下&#x200B;**[!UICONTROL 「建立範本]**」，將範本儲存在Dynamic Media Assets下，或導覽至資料夾，然後按一下&#x200B;**[!UICONTROL 「建立範本]**」，將範本儲存在該資料夾中。 **[!UICONTROL 新範本]**對話方塊隨即顯示。
    ![如何建立可即時自訂的動態範本](/help/using/assets/new-template.png)
