@@ -15,7 +15,7 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_search"
 >title="搜尋資產"
->abstract="透過指定搜尋列中的關鍵字或根據資產的狀態、檔案類型、MIME 類型、大小、建立、修改和到期日期篩選資產，來搜尋資產。您除了標準篩選器之外，還可以套用自訂篩選器。您可以將篩選的結果另存為「已儲存搜尋」或「智慧型集合」。"
+>abstract="透過指定搜尋列中的關鍵字或根據資產的狀態、檔案類型、MIME 類型、大小、建立、修改和過期日期篩選資產，來搜尋資產。您除了標準篩選器之外，還可以套用自訂篩選器。您可以將篩選的結果另存為「已儲存搜尋」或「智慧型集合」。"
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-Hant#manage-smart-collection" text="建立智慧型集合"
 
 [!DNL Assets Essentials] 的預設功能即提供有效的搜尋。由於是全文檢索搜尋，因此十分全面。強大的搜尋功能可讓您快速探索合適的資產，協助您改善內容速度。[!DNL Assets Essentials] 提供全文檢索搜尋，甚至還透過如智慧標記、標題、建立的日期和版本等中繼資料進行搜尋。
@@ -44,7 +44,7 @@ ht-degree: 100%
 * 建立日期：資產的建立日期如中繼資料中所提供。使用的標準日期格式為 `yyyy-mm-dd`。
 * 修改日期：上次修改資產的日期。使用的標準日期格式為 `yyyy-mm-dd`。
 
-* 有效日期：根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的有效日期範圍以進一步篩選搜尋結果。
+* 過期日期：根據`Expired`資產狀態來篩選搜尋結果。此外，您可以指定資產的過期日期範圍以進一步篩選搜尋結果。
 
 * 自訂篩選器：在 Assets Essentials 使用者介面[新增自訂篩選器](#custom-filters)。除了標準篩選器之外，您還可以套用自訂篩選器來縮小您的搜尋結果。
 
@@ -283,7 +283,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。使用「搜尋�
 
 * 修改日期
 
-* 到期日期
+* 過期日期
 
 * 資產狀態：已核准、已拒絕或全部
 
