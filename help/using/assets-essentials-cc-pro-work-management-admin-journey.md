@@ -5,7 +5,7 @@ exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
 source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
 workflow-type: tm+mt
 source-wordcount: '867'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 98%
 
 如果部署到兩個 Admin Console，則需要額外的設定步驟：
 
-* Creative Cloud 服務和應用程式 (適用於企業的 Creative Cloud Pro 和選用模組) 在[適用於 Creative Cloud 部署的 Adobe Admin Console](https://helpix.adobe.com/content/help/en/enterprise/admin-guide.html) 中進行管理。
+* Creative Cloud 服務和應用程式 (適用於企業的 Creative Cloud Pro 和選用模組) 在[適用於 Creative Cloud 部署的 Adobe Admin Console](https://helpx.adobe.com/content/help/tw/enterprise/admin-guide.html) 中進行管理。
 
 * Adobe Workfront 和 Adobe Experience Manager Assets Essentials 在[適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html) 中進行管理。
 
@@ -51,7 +51,7 @@ ht-degree: 98%
 
 * [存取適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
 
-* [存取適用於企業的 Creative Cloud 部署的 Adobe Admin Console](https://helpx.adobe.com/enterprise/admin-guide.html)
+* [存取適用於企業的 Creative Cloud 部署的 Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/admin-guide.html)
 
 ## 管理 Experience Manager Assets Essentials {#administer-assets-essentials}
 
@@ -77,7 +77,7 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 設定中繼資料表單
 
-[![檢視指南](assets/see-the-guide-sm.png)](deploy-administer.md)
+[![請參閱指南](assets/see-the-guide-sm.png)](deploy-administer.md)
 
 現在您已完成 Assets Essentials 應用程式的設定和管理，接著請[將 Creative Cloud 應用程式與 Experience Manager Assets Essentials 應用程式整合](integrate-with-creative-cloud.md)。
 
@@ -99,7 +99,7 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 使用 Adobe Asset Link
 
-[![檢視指南](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+[![請參閱指南](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
 現在您已將 Creative Cloud 應用程式與 Assets Essentials 整合，接著請[將 Adobe Workfront 與 Experience Manager Assets Essentials 整合](integrate-with-workfront.md)。
 
@@ -119,4 +119,4 @@ Adobe Experience Manager Assets Essentials 由 Adobe 為其客戶佈建。在佈
 
 * 設定 Experience Manager Assets Essentials 整合
 
-[![檢視指南](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
+[![請參閱指南](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
