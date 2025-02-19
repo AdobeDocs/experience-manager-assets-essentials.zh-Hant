@@ -2,8 +2,8 @@
 title: 管理集合
 description: 集合是 Experience Manager Assets Essentials 中的一組資產。使用集合在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
-workflow-type: tm+mt
+source-git-commit: 441136b23281185b82a5767aefc2c382512501a7
+workflow-type: ht
 source-wordcount: '907'
 ht-degree: 100%
 
@@ -48,7 +48,7 @@ You can share collections with various users that are assigned different levels 
 
 * [刪除集合](#delete-collection)
 
-* [管理私有集合的權限](#manage-permissions-to-a-private-collection)
+* [管理私有集合的權限](#manage-permissions-private-collection)
 
 ## 建立集合 {#create-collection}
 
@@ -160,7 +160,7 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 ## 共用集合的連結 {#share-collection-links}
 
-[!DNL Assets Essentials] 可讓您產生連結，並和無法存取 [!DNL Assets Essentials] 應用程式的外部利益關係人共用集合和集合中的資產。您可以定義連結的到期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
+[!DNL Assets Essentials] 可讓您產生連結，並和無法存取 [!DNL Assets Essentials] 應用程式的外部利益關係人共用集合和集合中的資產。您可以定義連結的過期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
 
 ![共用資產連結](assets/share-link-collections.png)
 
