@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2159'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -166,35 +166,35 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
 您也可以導覽至資料夾詳細資料頁面，然後從「**[!UICONTROL 中繼資料表單]**」欄位中選取「**[!UICONTROL 系統對應中繼資料表單]**」，即可從資料夾中刪除已指派的中繼資料表單。
 
-### 使用中繼資料表單的「連結」元件 {#link-component-metadata-form}
+### 使用中繼資料表單中的連結元件 {#link-component-metadata-form}
 
-此連結元件是用來啟用外部 URL，包括儲存連結、版權資訊、聯絡表單等。若要在中繼資料表單上使用連結元件，您需要[設定中繼資料表單](#metadata-forms)。此 URL 元件可以對應至「中繼資料編輯器」頁面中的特定中繼資料屬性，其運作方式和其他中繼資料元件相同。此中繼資料表單可以指派至資料夾。因此，在指派的資料夾資產的詳細資訊頁面中，您可能會看到資產連結中繼資料值。
+此連結元件是用來啟用外部 URL，包括儲存連結、版權資訊、聯絡表單等。若要使用中繼資料表單上的連結元件，您需要[設定中繼資料表單](#metadata-forms)。此 URL 元件可以對應至「中繼資料編輯器」頁面中的特定中繼資料屬性，其運作方式和其他中繼資料元件相同。此中繼資料表單可以指派至資料夾。因此，在指派之資料夾資產的詳細資料頁面中，您可能會看到資產連結中繼資料值。
 
-請依照下列步驟，使用資產詳細資訊頁面上的連結元件：
+請依照下列步驟，使用資產詳細資料頁面上的連結元件：
 
-1. 前往資產詳細資訊頁面，並導覽至&#x200B;**[!UICONTROL 連結URL]**。
+1. 前往資產詳細資料頁面，並導覽至「**[!UICONTROL 連結 URL]**」。
 1. 新增要用來重新導向所選資產的 URL。
 1. 按一下「**[!UICONTROL 新增連結]**」。執行下列其中一個動作：
    * 按一下 ![複製圖示](assets/do-not-localize/copy.svg) 以複製 URL。
    * 按一下 ![編輯圖示](assets/do-not-localize/edit.svg) 以編輯 URL。
 1. 按一下「**[!UICONTROL 儲存]**」以儲存變更。
 
-### 使用中繼資料表單中的標籤元件 {#tag-component-metadata-form}
+### 使用中繼資料表單中的標記元件 {#tag-component-metadata-form}
 
-根元素代表標籤的樹狀結構，您可以與資產建立關聯，協助您根據指派給資產的標籤識別資產。 此外，在中繼資料編輯器中設定中繼資料表單時，您可以限制特定分類法的存取權。
+根元素代表可與資產建立關聯之標記的樹狀結構，有助於根據指派給資產的標記來識別該資產。此外，當在中繼資料編輯器中設定中繼資料表單時，您還可以限制特定分類法的存取。
 
-#### 標籤元件設定 {#tags-component-configuration}
+#### 標記元件設定 {#tags-component-configuration}
 
-執行下列步驟來設定標籤元件：
+請執行下列步驟來設定標記元件：
 
-1. 前往中繼資料編輯器，導覽至&#x200B;**[!UICONTROL 標籤]**&#x200B;並將其置於畫布上。
-1. 重新命名畫布上的元件。 若要這麼做，請移至[設定]面板中[!UICONTROL 中繼資料屬性]下的&#x200B;**[!UICONTROL 標籤]**，並新增其識別文字。
-1. 在設定面板的[!UICONTROL 中繼資料屬性]下，搜尋您要指派給元件的中繼資料屬性。
-1. 按一下&#x200B;**[!UICONTROL 限製為特定分類]**&#x200B;以限制分類的根路徑。 要執行此操作，請瀏覽標籤並選擇特定路徑的分類法。
+1. 前往中繼資料編輯器，然後導覽至「**[!UICONTROL 標記]**」，並將其放置在畫布上。
+1. 重新命名畫布上的元件。若要這麼做，請前往「設定」面板中「[!UICONTROL 中繼資料屬性]」下方的「**[!UICONTROL 標籤]**」，並新增用於識別的文字。
+1. 在「設定」面板中的「[!UICONTROL 中繼資料屬性]」下方，搜尋您想要指派給元件的中繼資料屬性。
+1. 按一下「**[!UICONTROL 限制在特定的分類法]**」以限制分類法的根路徑。若要這麼做，請瀏覽標記並選擇特定路徑的分類法。
 1. 按一下「**[!UICONTROL 儲存]**」以儲存變更。
 
-   ![根標籤設定](assets/root-tag-config.png)
-1. [將中繼資料表單指派給資料夾](#assign-metadata-form-folder)。
+   ![根標記設定](assets/root-tag-config.png)
+1. [將中繼資料表單指派至資料夾](#assign-metadata-form-folder)。
 
 <!--
 #### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
@@ -208,7 +208,7 @@ See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the 
 1. Click **[!UICONTROL Assign]**.
 -->
 
-若要檢視已設定的根標籤，請前往資產的詳細資訊頁面，其中執行中繼資料表單與根標籤之間的對應。
+若要檢視已設定的根標記，請前往資產的詳細資料頁面，該頁面上會執行中繼資料表單和根標記之間的對應。
 
 ## 後續步驟 {#next-steps}
 
