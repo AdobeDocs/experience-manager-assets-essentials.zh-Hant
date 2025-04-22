@@ -10,7 +10,7 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: bbc08d7762f1f8f87e5874977b65136522ba8a4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
@@ -22,10 +22,10 @@ ht-degree: 100%
 + [解決方案概覽](introduction.md)
 + [發行說明](release-notes.md)
 + [安全性](security-overview.md)
-+ [我的工作區](my-workspace.md)
-+ 開始使用適用於管理員的 Assets Essentials {#get-started-admins}
-   + [管理員和新增使用者](deploy-administer.md)
-   + 管理檔案夾存取權{#folder-access}
++ [我的 Workspace](my-workspace.md)
++ 開始使用適用於管理員的 Assets Essentials  {#get-started-admins}
+   + [管理和新增使用者](deploy-administer.md)
+   + 管理資料夾存取權{#folder-access}
       + [管理檔案夾權限](manage-permissions.md)
       + [權限管理的最佳實務](permission-management-best-practices.md)
    + [具備工作管理解決方案的 Creative Cloud Pro 的 Assets Essentials 管理員歷程](assets-essentials-cc-pro-work-management-admin-journey.md)
@@ -50,11 +50,11 @@ ht-degree: 100%
 + [重新處理](reprocessing.md)
 + [管理標記](tagging-management.md)
 + [Content Credentials](/help/using/content-credentials.md)
-+ 和其他解決方案整合 {#integration-with-other-solutions}
++ 與其他解決方案整合 {#integration-with-other-solutions}
    + [概觀](integration.md)
    + [與 Adobe Asset Link 整合](integrate-with-creative-cloud.md)
    + [與 Adobe Workfront 整合](integrate-with-workfront.md)
-+ 與 Creative Cloud {#integration-with-creative-cloud} 整合
++ 與 Creative Cloud 整合 {#integration-with-creative-cloud}
    + [將 AEM Assets 連接到 Creative Cloud](connect-assets-with-creative-cloud.md)
 + [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
 + [Dynamic Media 範本](dynamic-media-templates.md)
