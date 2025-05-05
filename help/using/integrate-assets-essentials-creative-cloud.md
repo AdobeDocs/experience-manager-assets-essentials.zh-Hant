@@ -79,7 +79,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->使用 Apple Silicon/M1 硬體時，Adobe Photoshop 需要使用 Rosetta 相容性模式啟動，以確保創意使用者可以存取 Adobe Asset Link 面板，因為它是使用 CEP 擴充功能技術建置的。如需詳細資訊，請參閱[適用於 Apple Silicon 的 Photoshop](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html)。
+>使用 Apple Silicon/M1 硬體時，Adobe Photoshop 需要使用 Rosetta 相容性模式啟動，以確保創意使用者可以存取 Adobe Asset Link 面板，因為它是使用 CEP 擴充功能技術建置的。如需詳細資訊，請參閱[適用於 Apple Silicon 的 Photoshop](https://helpx.adobe.com/tw/photoshop/kb/photoshop-for-apple-silicon.html)。
 
 
 使用 Adobe Asset Link 來處理和修改儲存在Assets Essentials 存放庫內的資產。您可以執行各種工作，例如：

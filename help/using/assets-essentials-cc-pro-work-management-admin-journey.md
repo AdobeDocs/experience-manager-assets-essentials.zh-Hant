@@ -33,7 +33,7 @@ ht-degree: 100%
 
 * Creative Cloud 服務和應用程式 (適用於企業的 Creative Cloud Pro 和選用模組) 在[適用於 Creative Cloud 部署的 Adobe Admin Console](https://helpx.adobe.com/content/help/tw/enterprise/admin-guide.html) 中進行管理。
 
-* Adobe Workfront 和 Adobe Experience Manager Assets Essentials 在[適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html) 中進行管理。
+* Adobe Workfront 和 Adobe Experience Manager Assets Essentials 在[適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=zh-Hant) 中進行管理。
 
 若要整合 Creative Cloud 與 Assets Essentials 應用程式，適用於 Creative Cloud 的 Admin Console 中可用的使用者也必須在適用於 Experience Cloud 的 Admin Console 中設為可用。若要讓使用者可用於 Experience Cloud Admin Console，請建立一個目錄以在兩個 Admin Console 之間建立[目錄託管](https://helpx.adobe.com/tw/enterprise/using/set-up-identity.html#directory-trusting)。
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 ## 必備條件
 
-* [存取適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
+* [存取適用於 Experience Cloud 解決方案的 Adobe Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=zh-Hant)
 
 * [存取適用於企業的 Creative Cloud 部署的 Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/admin-guide.html)
 

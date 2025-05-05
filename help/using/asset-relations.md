@@ -48,7 +48,7 @@ ht-degree: 9%
 
 使用相關資產功能在資產之間建立來源/衍生關係，在翻譯工作流程中也很有幫助。 當您在衍生資產上執行翻譯工作流程時，[!DNL Experience Manager Assets]會自動擷取來源檔案參考的任何資產，並將其納入以進行翻譯。 如此一來，來源資產所參考的資產會與來源和衍生資產一併轉譯。 如果來源檔案與另一個資產相關，[!DNL Experience Manager Assets]會擷取參照的資產並包含它以進行翻譯。
 
-請參閱[在AEM中翻譯資產](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)。
+請參閱[在AEM中翻譯資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)。
 
 ## 後續步驟 {#next-steps}
 
@@ -56,10 +56,10 @@ ht-degree: 9%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
 >* [檢視資產的版本](manage-organize.md#view-versions)
->* [在AEM中翻譯資產](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [在AEM中翻譯資產](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* 在Assets檢視中[支援的檔案格式](supported-file-formats.md)。

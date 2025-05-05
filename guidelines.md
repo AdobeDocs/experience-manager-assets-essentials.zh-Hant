@@ -37,7 +37,7 @@ ht-degree: 100%
 
 若對於改善 [!DNL Experience Manager] 說明文件有任何想法，歡迎以協助撰寫的方式提出。但是，評論、問題和提取請求僅為&#x200B;*協助撰寫*。而非為了用於解答您有關如何使用 [!DNL Experience Manager]、實作您的 [!DNL Experience Manager] 專案或解決技術問題的目的。
 
-有關使用 [!DNL Experience Manager] 或技術錯誤的任何問題，應透過 [[!DNL Experience Manager]  支援入口網站](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support)的正常支援流程回報，或在 [Experience Manager 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論。
+有關使用 [!DNL Experience Manager] 或技術錯誤的任何問題，應透過 [[!DNL Experience Manager]  支援入口網站](https://experienceleague.adobe.com/zh-hant?support-solution=Experience+Manager#support)的正常支援流程回報，或在 [Experience Manager 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中討論。
 
 ***[!DNL Experience Manager]說明文件協助撰寫並非 Adobe 客戶支援的替代品***，且這類協助撰寫若試圖尋求和支援相關問題的解答，一律會遭到拒絕。
 

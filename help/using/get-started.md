@@ -26,7 +26,7 @@ ht-degree: 100%
 
 ## 獲得 [!DNL Assets Essentials] 的存取權 {#get-access}
 
-Adobe 提供解決方案並將您組織的指定人員新增為管理員。管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html) 提供存取權給組織的各種使用者。若是存取權的相關請求，請聯絡您組織的管理員。
+Adobe 提供解決方案並將您組織的指定人員新增為管理員。管理員可以使用 [[!DNL Admin Console]](https://helpx.adobe.com/tw/enterprise/using/admin-console.html) 提供存取權給組織的各種使用者。若是存取權的相關請求，請聯絡您組織的管理員。
 
 登入時，在提供認證後，[!DNL Assets Essentials] 會提示您選取一個帳戶。在此情況下，請選取「`Company or School Account`」以繼續進行。
 
@@ -57,13 +57,13 @@ Adobe 提供解決方案並將您組織的指定人員新增為管理員。管�
 
 ## 後續步驟 {#next-steps}
 
-* [觀看開始使用 Assets Essentials 的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [觀看開始使用 Assets Essentials 的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=zh-Hant)
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
 
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
