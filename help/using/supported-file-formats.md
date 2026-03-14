@@ -1,12 +1,12 @@
 ---
 title: 支援的檔案格式
 description: ' [!DNL Assets Essentials] 各種使用案例支援的檔案格式'
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: ht
-source-wordcount: '527'
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '372'
 ht-degree: 100%
 
 ---
@@ -25,17 +25,18 @@ ht-degree: 100%
 
 [!DNL Assets Essentials] 也支援各式各樣領先相機製造商的 Camera RAW 檔案 (採用 Adobe Camera Raw 技術)，包括 Canon (CR2/CR3)、Nikon (NEF)、Sony (SRW/SRF)、Fujifilm (RAF)、Olympus (ORF) 和其他廠商。
 
-各種檔案類型對於使用案例和功能有不同程度的支援，如下所述。請參閱圖例以了解支援程度。
+各種檔案類型對於使用案例和功能有不同程度的支援，如下所述。 請參閱圖例以了解支援程度。
 
 | 支援程度 | 說明 |
 |-------------------|-------------------------|
 | ✓ | 支援 |
-| ✓ ‡ | 有條件支援 |
+| ✓? | 有條件支援 |
 | − | 不適用 |
 
 ## 新增、上傳和檢視資產 {#support-to-upload-view}
 
-<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+<!-- 
+TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
 | 資產類型 | [瀏覽](/help/using/navigate-view.md) | 複製 | [上傳](/help/using/add-delete.md) | 建立 | [刪除](/help/using/add-delete.md#delete-assets) | 詳細資料 | 影像縮放 | [最近檢視的項目](/help/using/navigate-view.md) |
@@ -43,12 +44,13 @@ ht-degree: 100%
 | 點陣圖 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | RAW 檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | 資料夾 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
-| MP4 影片 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| MP4 影片 | ✓ | ✓ | ✓ | − | ✓ | ✓? | − | ✓ |
 | PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
-| PSD、AI、PSB 和 INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PSD、AI、PSB 和 INDD | ✓ | ✓ | ✓ | − | ✓ | ✓? | − | ✓ |
 | 其他二進位檔案 | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
-<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+<!-- 
+Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
 -->
 
@@ -57,7 +59,7 @@ ht-degree: 100%
 | 資產類型 | [下載](/help/using/manage-organize.md#download) | 拖放 | [影像編輯器](/help/using/edit-images.md) | [搜尋](/help/using/search.md) | [智慧標記](/help/using/metadata.md#tags) | [重新命名](/help/using/manage-organize.md) | [版本](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | 點陣圖 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW 檔案 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| RAW 檔案 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | 資料夾 | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | 影片 | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | CC Libraries | − | − | − | − | − | ✓ | ✓ |
@@ -104,7 +106,8 @@ ht-degree: 100%
 
 [!DNL Adobe Asset Link] 的使用者可以從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式上傳和簽入 (上傳新版本) 檔案到 [!DNL Assets Essentials] 存放庫。
 
-<!-- TBD: Saving the template table separately for later use.
+<!-- 
+TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
@@ -127,4 +130,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
