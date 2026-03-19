@@ -1,10 +1,10 @@
 ---
 title: 管理集合
-description: 集合是 Experience Manager Assets Essentials 中的一組資產。使用集合在使用者之間共用資產。
+description: 集合是 Experience Manager Assets Essentials 中的一組資產。 使用集合在使用者之間共用資產。
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 441136b23281185b82a5767aefc2c382512501a7
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '915'
 ht-degree: 100%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_collections"
 >title="管理集合"
->abstract="集合指 Assets Essentials 中一連串的資產、檔案夾或其他集合。使用集合在使用者之間共用資產。和檔案夾不同，集合可包含來自不同位置的資產。您可以和使用者共用多個集合。每個集合都包含資產的參考資料。資產的參考完整性會跨越集合來維護。"
+>abstract="集合指 Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用集合在使用者之間共用資產。 和檔案夾不同，集合可包含來自不同位置的資產。 您可以和使用者共用多個集合。 每個集合都包含資產的參考資料。 資產的參考完整性會跨越集合來維護。"
 
-集合指 Adob&#x200B;&#x200B;e Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。使用集合在使用者之間共用資產。
+集合指 Adob&#x200B;&#x200B;e Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用集合在使用者之間共用資產。
 
 和檔案夾不同，集合可包含來自不同位置的資產。
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
 -->
 
-您可以和使用者共用多個集合。每個集合都包含資產的參考資料。資產的參考完整性會跨越集合來維護。
+您可以和使用者共用多個集合。 每個集合都包含資產的參考資料。 資產的參考完整性會跨越集合來維護。
 
 ![集合](assets/collections.png)
 
@@ -154,13 +154,13 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 1. 請按一下左側邊欄中的&#x200B;**[!UICONTROL 集合]**，選一個集合，然後按一下&#x200B;**[!UICONTROL 詳細資訊]**。
 1. 使用&#x200B;**[!UICONTROL 基本]**&#x200B;索引標籤來檢視集合中繼資料。
-1. 修改中繼資料欄位 (如有必要)。您可以修改[!UICONTROL 標題]和[!UICONTROL 說明]欄位。
+1. 修改中繼資料欄位 (如有必要)。 您可以修改[!UICONTROL 標題]和[!UICONTROL 說明]欄位。
 
    ![集合中繼資料](assets/collection-metadata.png)
 
 ## 共用集合的連結 {#share-collection-links}
 
-[!DNL Assets Essentials] 可讓您產生連結，並和無法存取 [!DNL Assets Essentials] 應用程式的外部利益關係人共用集合和集合中的資產。您可以定義連結的過期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。連結的收件者可預覽和下載資產。
+[!DNL Assets Essentials] 可讓您產生連結，並和無法存取 [!DNL Assets Essentials] 應用程式的外部利益關係人共用集合和集合中的資產。 您可以定義連結的過期日，然後使用您喜歡的通訊方式 (如電子郵件或簡訊服務) 與他人共用。 連結的收件者可預覽和下載資產。
 
 ![共用資產連結](assets/share-link-collections.png)
 
@@ -190,7 +190,7 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 ## 管理私有集合的權限{#manage-permissions-private-collection}
 
-您可以允許管理員管理存放庫中可用私有集合的[存取層級](/help/using/manage-permissions.md#manage-permissions-on-folders)。您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。您還可以將權限管理權委派給使用者群組。建立私有集合的使用者即為集合的擁有者。他們可以使用「[!UICONTROL 管理權限]」動作向其他使用者授予存取權。此外，管理員還可以檢視及管理 [!DNL Experience Manager] 存放庫中私有集合的權限。
+您可以允許管理員管理存放庫中可用私有集合的[存取層級](/help/using/manage-permissions.md#manage-permissions-on-folders)。 您可以將權限指派給使用者群組或使用者，例如 `Can View` 和 `Can Edit`。 您還可以將權限管理權委派給使用者群組。 建立私有集合的使用者即為集合的擁有者。 他們可以使用「[!UICONTROL 管理權限]」動作向其他使用者授予存取權。 此外，管理員還可以檢視及管理 [!DNL Experience Manager] 存放庫中私有集合的權限。
 <!--
 >[!NOTE]
 >
@@ -206,4 +206,4 @@ Click **[!UICONTROL Collections]** in the left rail and use the Search box to sp
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
