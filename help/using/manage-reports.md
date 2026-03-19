@@ -205,9 +205,9 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
    ![Insights](assets/insights2.png)
    -->
 
-* **依大小劃分的資產計數：**將 Assets Essentials 環境中的總資產計數劃分為不同的大小範圍，醒目標示每個大小範圍內的資產數量和百分比，以環狀圖表示。
+* **依大小劃分的資產計數：**&#x200B;將 Assets Essentials 環境中的總資產計數劃分為不同的大小範圍，醒目標示每個大小範圍內的資產數量和百分比，以環狀圖表示。
   ![依大小劃分的資產計數深入解析](/help/using/assets/insights-assets-count-by-size.svg)
 
-* **依資產類型劃分的資產計數：**將 Assets Essentials 環境中的總資產計數進行區段劃分，根據檔案類型醒目標示資產數量和百分比，以環狀圖表示。
+* **依資產類型劃分的資產計數：**&#x200B;將 Assets Essentials 環境中的總資產計數進行區段劃分，根據檔案類型醒目標示資產數量和百分比，以環狀圖表示。
   ![依大小劃分的資產計數深入分析](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
