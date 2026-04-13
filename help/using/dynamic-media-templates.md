@@ -4,7 +4,7 @@ description: 瞭解如何使用WYSIWYG範本編輯器建立動態媒體範本，
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
+source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -22,7 +22,7 @@ ht-degree: 6%
 >abstract="透過容易使用的所見即所得介面即時建立影像和文字橫幅並進行個人化設定，再將 Dynamic Media URL 嵌入任何第一方或第三方應用程式中，打造極具吸引力的體驗。 馬上試用！"
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="觀看影片"
 
-使用WYSIWYG範本編輯器建立Dynamic Media範本，並包含多個影像和文字圖層，以快速建立橫幅和傳單，並將其用於下游應用程式。 您也可以將引數新增至範本中包含的影像和文字圖層，並使用[動態媒體URL](https://experienceleague.adobe.com/zh-hant/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media)來即時更新這些圖層的值。
+使用WYSIWYG範本編輯器建立Dynamic Media範本，並包含多個影像和文字圖層，以快速建立橫幅和傳單，並將其用於下游應用程式。 您也可以將引數新增至範本中包含的影像和文字圖層，並使用[動態媒體URL](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media)來即時更新這些圖層的值。
 
 部分主要功能包括：
 
@@ -52,7 +52,7 @@ Dynamic Media範本的一些主要優點包括：
 1. 存取Dynamic Media。
 1. [已將AEM Assets執行個體中可用的影像與Dynamic Media同步，以便使用這些影像來建立範本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
 1. 已在觸控式UI中驗證下列專案：
-   * 在&#x200B;**[!UICONTROL 編輯Dynamic Media設定頁面]**&#x200B;上，**[!UICONTROL 預設為**&#x200B;[!UICONTROL &#x200B;已停用的Dynamic Media同步模式&#x200B;]&#x200B;**未套用至所有AEM資料夾（**&#x200B;[!UICONTROL &#x200B;取消勾選同步處理所有內容&#x200B;]&#x200B;**）。]**&#x200B;如需詳細資訊，請參閱[設定Dynamic Media Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
+   * 在&#x200B;**[!UICONTROL 編輯Dynamic Media設定頁面]**&#x200B;上，**[!UICONTROL 預設為**[!UICONTROL &#x200B;已停用的Dynamic Media同步模式&#x200B;]**未套用至所有AEM資料夾（**[!UICONTROL &#x200B;取消勾選同步處理所有內容&#x200B;]**）。]**&#x200B;如需詳細資訊，請參閱[設定Dynamic Media Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
    * 目的地資料夾或子資料夾的&#x200B;**[!UICONTROL Dynamic Media同步模式]**&#x200B;已設定為&#x200B;**[!UICONTROL 啟用子資料夾]**，您會在建立後儲存範本。 如需詳細資訊，請參閱[設定Dynamic Media Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。
 
 ## 建立Dynamic Media WYSIWYG範本{#how-to-create-dynamic-media-wysiwyg-template}
@@ -73,10 +73,10 @@ Dynamic Media範本的一些主要優點包括：
 
    ![Dynamic Media 範本](/help/using/assets/DM-Assets1.png)
 
-1. 按一下&#x200B;**[!UICONTROL 建立範本]**&#x200B;將範本儲存在Dynamic Media Assets下，或導覽至資料夾並按一下&#x200B;**[!UICONTROL 建立範本]**&#x200B;將範本儲存在該資料夾中。 **[!UICONTROL 新範本]**&#x200B;對話方塊隨即顯示。
+1. 按一下&#x200B;**[!UICONTROL 建立範本]**&#x200B;將範本儲存在Dynamic Media Assets下，或導覽至資料夾並按一下&#x200B;**[!UICONTROL 建立範本]**&#x200B;將範本儲存在該資料夾中。 **[!UICONTROL 新範本]**對話方塊隨即顯示。
    ![如何建立可即時自訂的動態範本](/help/using/assets/new-template.png)
 若要[在&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下建立資料夾](/help/using/add-delete.md)，請在&#x200B;**[!UICONTROL Assets]**&#x200B;下建立資料夾。 **[!UICONTROL Assets]**&#x200B;下的資料夾樹狀結構會在&#x200B;**[!UICONTROL Dynamic Media Assets]**&#x200B;下復寫。
-1. 指定範本名稱、定義畫布寬度和高度，然後按一下[建立]。**&#x200B;** 空白畫布顯示，兩側都有選單選項以用於建立範本。 將游標停留在選單選項上可檢視其工具提示。
+1. 指定範本名稱、定義畫布寬度和高度，然後按一下[建立]。**** 空白畫布顯示，兩側都有選單選項以用於建立範本。 將游標停留在選單選項上可檢視其工具提示。
    ![即時可自訂的範本](/help/using/assets/blank-canvas-page.png)
 
 >[!NOTE]
@@ -109,7 +109,7 @@ Dynamic Media範本的一些主要優點包括：
 
 執行以下步驟，將影像新增至畫布：
 
-1. 按一下![立即建立橫幅](/help/using/assets/add-image.svg)以顯示[Asset Selector](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector)面板。 面板會顯示AEM Assets執行個體中同步至Dynamic Media的影像。
+1. 按一下![立即建立橫幅](/help/using/assets/add-image.svg)以顯示[Asset Selector](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector)面板。 面板會顯示AEM Assets執行個體中同步至Dynamic Media的影像。
 1. 瀏覽面板或使用搜尋列中的關鍵字來尋找特定影像。
 1. 將影像拖放到畫布上以使用。 請參閱[**[!UICONTROL 屬性面板]**](#reposition-resize-delete-a-layer)，以調整畫布上的圖層大小或重新定點陣圖層。
    ![在秒內建立橫幅](/help/using/assets/add-image-to-canvas.png)
@@ -166,8 +166,8 @@ Dynamic Media範本的一些主要優點包括：
 
 在面板的&#x200B;**[!UICONTROL 文字]**&#x200B;區段下的個別欄位中變更文字的值，將文字格式設定為您所需的字型、大小、顏色、樣式、對齊方式（在圖層中）。
 
-**[!UICONTROL 智慧型文字調整大小]**&#x200B;請確定包含&#x200B;**[!UICONTROL 智慧型文字調整大小]** ([Copyfitting](https://experienceleague.adobe.com/zh-hant/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting))以最佳方式調整字型大小和長度，讓任何文字元合指定區域。 此功能可防止文字溢位，或將文字底部的額外空格縮到最少。
-![內容建立時間](/help/using/assets/smart-text-resize.png)
+**[!UICONTROL 智慧型文字調整大小]**&#x200B;請確定包含&#x200B;**[!UICONTROL 智慧型文字調整大小]** ([Copyfitting](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting))以最佳方式調整字型大小和長度，讓任何文字元合指定區域。 此功能可防止文字溢位，或將文字底部的額外空格縮到最少。
+![立即建立內容](/help/using/assets/smart-text-resize.png)
 
 ### 引數化圖層 {#parameterise-a-layer}
 
@@ -180,7 +180,7 @@ Dynamic Media範本的一些主要優點包括：
 1. **選擇性：**&#x200B;重新命名引數名稱。 引數名稱具有圖層名稱及尾碼。 對於選取的圖層，其所有引數化屬性會共用相同的圖層名稱，後面跟著不同的尾碼。 依照語意命名慣例重新命名圖層名稱，這樣當您在URL中包含引數時，引數名稱就會自行說明圖層的內容或其用途。
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
    ![即時內容建立](/help/using/assets/parameterise-a-layer.png)
-若要在影像和文字圖層的「引數」面板之間切換，請選取畫布上的圖層，然後按一下&#x200B;**[!UICONTROL 引數]**。
+若要在影像和文字圖層的「引數」面板之間切換，請選取畫布上的圖層，然後按一下**[!UICONTROL 引數]**。
 
 #### 引數面板選項 {#parameterisation-options-or-allowed-parameters}
 
@@ -188,21 +188,21 @@ Dynamic Media範本的一些主要優點包括：
 
 **影像引數：**
 
-**X：**&#x200B;包含以變更URL中的引數值，沿著圖層的中心線水準移動圖層，平行於範本平面的X軸。
+**X：**包含以變更URL中的引數值，沿著圖層的中心線水準移動圖層，平行於範本平面的X軸。
 **Y：** Include可透過變更URL中的引數值，沿著圖層的中心線垂直移動圖層，平行於範本平面的Y軸。
-**寬度：**&#x200B;包含以變更URL中的引數值來調整圖層的寬度。
-**高度：**&#x200B;包含以變更URL中的引數值來調整圖層高度。
-**隱藏：**&#x200B;使用0 （顯示）和1 （隱藏）來隱藏或顯示範本中的圖層。
+**寬度：**包含以變更URL中的引數值來調整圖層的寬度。
+**高度：**包含以變更URL中的引數值來調整圖層高度。
+**隱藏：**使用0 （顯示）和1 （隱藏）來隱藏或顯示範本中的圖層。
 **Source：**&#x200B;包含以變更URL中引數值的影像路徑，用新影像取代圖層的影像。
 
 **文字格式設定引數：**
 
 納入以下引數，藉由更新URL中的引數值，從URL編輯文字、其字型、顏色和大小。
 
-**文字：**&#x200B;包含以從URL更新文字。
-**字型系列：** Include，可從URL更新文字的字型。
-**字型大小：**&#x200B;包含以從URL更新文字的字型大小。
-**文字色彩：**&#x200B;包含，可從URL更新文字的字型色彩。
+**文字：**包含以從URL更新文字。
+**字型系列：**包含以從URL更新文字的字型。
+**字型大小：**包含以從URL更新文字的字型大小。
+**文字色彩：**&#x200B;包含以從URL更新文字的字型色彩。
 
 ### 群組圖層以同時控制其可見性{#group-layers}
 
@@ -233,7 +233,7 @@ Dynamic Media範本的一些主要優點包括：
 1. **選擇性：**&#x200B;將&#x200B;**[!UICONTROL 隱藏]**&#x200B;引數值變更為0到1，然後按一下&#x200B;**[!UICONTROL 重新整理]**&#x200B;檢視變更。 具有相同隱藏引數的圖層會一起隱藏或顯示。 同樣地，您可以從URL控制圖層的可見度。
 
    ![即時建立內容](/help/using/assets/dm-templates-publish-status.png)
-您也可以切換&#x200B;**[!UICONTROL 包含所有引數]**&#x200B;以編輯所有顯示的引數值，並在範本預覽中檢視更新。
+您也可以切換**[!UICONTROL 包含所有引數]**以編輯所有顯示的引數值，並在範本預覽中檢視更新。
    <br>
 1. 若要在預覽頁面上發佈範本，請按一下&#x200B;**[!UICONTROL 發佈]**&#x200B;並確認發佈。 發佈完成訊息隨即顯示，且發佈狀態會更新為「已發佈」。
 
@@ -287,5 +287,5 @@ Dynamic Media範本的一些主要優點包括：
 
 ## 另請參閱
 
-1. 探索[動態媒體及其功能](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. 探索[動態媒體及其功能](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
 1. 探索[具有OpenAPI功能的Dynamic Media](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
