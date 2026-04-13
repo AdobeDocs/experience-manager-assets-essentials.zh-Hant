@@ -4,7 +4,7 @@ description: 瞭解如何使用WYSIWYG範本編輯器建立動態媒體範本，
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
+source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -167,7 +167,7 @@ Dynamic Media範本的一些主要優點包括：
 在面板的&#x200B;**[!UICONTROL 文字]**&#x200B;區段下的個別欄位中變更文字的值，將文字格式設定為您所需的字型、大小、顏色、樣式、對齊方式（在圖層中）。
 
 **[!UICONTROL 智慧型文字調整大小]**&#x200B;請確定包含&#x200B;**[!UICONTROL 智慧型文字調整大小]** ([Copyfitting](https://experienceleague.adobe.com/zh-hant/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting))以最佳方式調整字型大小和長度，讓任何文字元合指定區域。 此功能可防止文字溢位，或將文字底部的額外空格縮到最少。
-![內容建立時間](/help/using/assets/smart-text-resize.png)
+![立即建立內容](/help/using/assets/smart-text-resize.png)
 
 ### 引數化圖層 {#parameterise-a-layer}
 
@@ -200,9 +200,9 @@ Dynamic Media範本的一些主要優點包括：
 納入以下引數，藉由更新URL中的引數值，從URL編輯文字、其字型、顏色和大小。
 
 **文字：**&#x200B;包含以從URL更新文字。
-**字型系列：** Include，可從URL更新文字的字型。
+**字型系列：**&#x200B;包含以從URL更新文字的字型。
 **字型大小：**&#x200B;包含以從URL更新文字的字型大小。
-**文字色彩：**&#x200B;包含，可從URL更新文字的字型色彩。
+**文字色彩：**&#x200B;包含以從URL更新文字的字型色彩。
 
 ### 群組圖層以同時控制其可見性{#group-layers}
 
