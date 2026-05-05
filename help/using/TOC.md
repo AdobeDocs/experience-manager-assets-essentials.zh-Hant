@@ -56,5 +56,5 @@ ht-degree: 100%
    + [與 Adobe Workfront 整合](integrate-with-workfront.md)
 + 與 Creative Cloud 整合 {#integration-with-creative-cloud}
    + [將 AEM Assets 連接到 Creative Cloud](connect-assets-with-creative-cloud.md)
-+ [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
 
