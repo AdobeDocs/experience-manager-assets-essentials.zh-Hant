@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: bbc08d7762f1f8f87e5874977b65136522ba8a4a
+source-git-commit: daef55564f4e5c05df2ac167de804261ca714f90
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 + [發行說明](release-notes.md)
 + [安全性](security-overview.md)
 + [我的 Workspace](my-workspace.md)
-+ 開始使用適用於管理員的 Assets Essentials  {#get-started-admins}
++ 開始使用適用於管理員的 Assets Essentials {#get-started-admins}
    + [管理和新增使用者](deploy-administer.md)
    + 管理資料夾存取權{#folder-access}
       + [管理檔案夾權限](manage-permissions.md)
@@ -57,5 +57,4 @@ ht-degree: 0%
 + 與 Creative Cloud 整合 {#integration-with-creative-cloud}
    + [將 AEM Assets 連接到 Creative Cloud](connect-assets-with-creative-cloud.md)
 + [影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=zh-Hant)
-+ [Dynamic Media 範本](dynamic-media-templates.md)
 
