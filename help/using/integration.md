@@ -1,12 +1,21 @@
 ---
 title: 與其他 Adobe 解決方案的整合
-description: '[!DNL Assets Essentials]與其他Adobe解決方案整合，並從原生應用程式內提供內嵌式體驗。'
+description: '[!DNL Assets Essentials] 整合其他 Adobe 解決方案，並在原生應用程式中提供嵌入式體驗。'
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/TFjf7jmmlN5iuoWzFg32WqfNuLMIdf29d-SkrO6Ar58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 85%
+source-wordcount: 491
+ht-degree: 100%
 
 ---
 
@@ -18,13 +27,13 @@ ht-degree: 85%
 
 * **[!DNL Creative Cloud for Enterprise]**：[Adobe Asset Link 應用程式內面板](https://www.adobe.com/tw/creativecloud/business/enterprise/adobe-asset-link.html)可讓專業創意人員從支援的 [!DNL Adobe Creative Cloud] 桌面應用程式內連線到 [!DNL Assets Essentials] 存放庫。 面板可供 [!DNL Adobe Photoshop]、[!DNL Adobe Illustrator]、[!DNL Adobe InDesign] 和 [!DNL Adobe XD] 使用。 它會簡化資產的存取，進而提高內容速度。 請參閱[使用  [!DNL Adobe Asset Link]](https://helpx.adobe.com/tw/enterprise/using/manage-assets-using-adobe-asset-link.html) 管理資產。
 
-  [觀看將Assets Essentials與Adobe Creative Cloud Libraries整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=zh-Hant)
+  [觀看將 Assets Essentials 與 Adobe Creative Cloud Libraries 整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=zh-Hant)
 
 * **[!DNL Adobe Journey Optimizer]**：[[!DNL Adobe Journey Optimizer]](https://business.adobe.com/tw/products/journey-optimizer/adobe-journey-optimizer.html) 可為客戶簡化歷程管理，以為全通道行銷活動提供智慧型決策和見解。 使用 [!DNL Journey Optimizer] 設計訊息時，您可以直接從 [!DNL Journey Optimizer] 介面內存取 [!DNL Assets Essentials] 存放庫。 使用者使用 [!DNL Assets Essentials] 的嵌入使用者介面存取資產。 請參閱[使用 [!DNL Assets Essentials] 說明文章](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)或[影片教學課程，來建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=zh-Hant)。
 
-* **[!DNL Adobe Workfront]**：[[!DNL Adobe Workfront]](https://www.workfront.com/) 是工作管理應用程式，協助您在一個地方管理整個工作生命週期。 [!DNL Adobe Workfront] 與 [!DNL Assets Essentials] 的原生整合可讓組織在本質上連接工作和資產管理，藉以改善內容速度和上市時間。 在管理其工作的情況下，使用者可以存取相同解決方案中的所需檔案和影像。[!DNL Assets Essentials] 可作為附加元件提供，以供新的[!DNL Workfront]客戶另外購買。 請參閱[設定及使用 [!DNL Workfront] 和 [!DNL Essentials] 整合](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm)。
+* **[!DNL Adobe Workfront]**：[[!DNL Adobe Workfront]](https://www.workfront.com/) 是工作管理應用程式，協助您在一個地方管理整個工作生命週期。 [!DNL Adobe Workfront] 與 [!DNL Assets Essentials] 的原生整合可讓組織在本質上連接工作和資產管理，藉以改善內容速度和上市時間。 就管理其工作而言，使用者可以存取在同一解決方案中的所需文件和影像。 [!DNL Assets Essentials] 可作為附加元件提供，以供新的 [!DNL Workfront] 客戶另外購買。 請參閱[設定及使用 [!DNL Workfront] 和 [!DNL Essentials] 整合](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm)。
 
-  [觀看設定Adobe Workfront和Assets Essentials整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
+  [觀看設定 Adobe Workfront 和 Assets Essentials 整合的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
 
 ## Edge Delivery Services 的文件型撰寫整合 {#integrate-doc-authoring-edge-and-assets}
 

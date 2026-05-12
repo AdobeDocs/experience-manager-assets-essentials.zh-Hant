@@ -2,10 +2,20 @@
 title: 了解如何在 Assets Essentials 中管理標記？
 description: 如何在 Assets Essentials 中管理標記。 標記可協助您將資產分類，以便更有效地瀏覽和搜尋。
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
-source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
+TQID: https://experienceleague.adobe.com/JD076an4fdBxdo-6mqqmX-k2FVcAGSARn1CIX-emVLc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1770'
-ht-degree: 97%
+source-wordcount: 1770
+ht-degree: 100%
 
 ---
 
@@ -129,7 +139,7 @@ ht-degree: 97%
 
 ## 將標記元件新增到中繼資料表單 {#add-tags-to-metadata-form}
 
-標記元件自動被新增到`default`中繼資料表單。 您可以透過使用範本或從零開始，設計一個 [中繼資料表單](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=zh-Hant#metadata-forms)。 如果您沒有使用現有的中繼資料表單範本，則可以修改中繼資料表單並新增標記元件。 中繼資料屬性對應會自動填入，目前無法修改。[!DNL Assets as a Cloud Service] 使用者可以使用自訂名稱空間更新對應以儲存標籤值，並使用根路徑只公開階層的子集。
+標記元件自動被新增到`default`中繼資料表單。 您可以透過使用範本或從零開始，設計一個 [中繼資料表單](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=zh-Hant#metadata-forms)。 如果您沒有使用現有的中繼資料表單範本，則可以修改中繼資料表單並新增標記元件。 中繼資料屬性對應是自動填入的，此時無法修改。 [!DNL Assets as a Cloud Service]使用者可以更新對應，以使用自訂命名空間儲存標記值，並使用根路徑僅公開階層的子集。
 
 觀看此簡短影片，了解如何將標記元件新增到中繼資料表單中：
 
