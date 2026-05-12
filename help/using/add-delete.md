@@ -3,10 +3,14 @@ title: 將資產上傳到存放庫
 description: 上傳資產到  [!DNL Assets Essentials]、檢視上傳狀態和解決上傳問題。
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+TQID: https://experienceleague.adobe.com/aEqz-LzeQEOrAurYW3Y-6xdONbA6WoRxA-0hHX5A99o
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 98%
+source-wordcount: 846
+ht-degree: 100%
 
 ---
 
@@ -100,10 +104,10 @@ TBD: Update this GIF
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在Assets Essentials中上傳資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=zh-Hant)
+* [觀看影片以了解如何在 Assets Essentials 中上傳資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

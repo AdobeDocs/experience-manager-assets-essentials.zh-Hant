@@ -4,10 +4,14 @@ description: 管理  [!DNL Assets Essentials] 中資產的中繼資料
 role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/cW9-sni2SVQ0vjs4FXwXHxjMQOM8FvQIgJD2-8KDrlc
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '2195'
-ht-degree: 96%
+source-wordcount: 2195
+ht-degree: 100%
 
 ---
 
@@ -31,7 +35,7 @@ ht-degree: 96%
 
 ![檢視資產的中繼資料](assets/metadata-view1.png)
 
-*圖：若要檢視資產及其中繼資料，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**&#x200B;或按兩下資產。*
+*圖：若要檢視資產及其中繼資料，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下資產。*
 
 標題、說明和上傳日期之類的基本中繼資料可在[!UICONTROL 基本]標籤中取得。 [!UICONTROL 進階]標籤包含更進階的中繼資料，例如相機型號、鏡頭詳細資訊和地理標籤。 [!UICONTROL 標記]標籤會根據影像內容包含自動套用的標記。
 
@@ -47,13 +51,13 @@ ht-degree: 96%
 
 ![檢視資產的智慧型標記](assets/metadata-view-tags.png)
 
-*圖：若要檢視智慧標記，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**&#x200B;或按兩下資產。*
+*圖：若要檢視智慧標記，請從工具列按一下&#x200B;**[!UICONTROL 詳細資訊]**或按兩下資產。*
 
 智慧型標記也包含信賴分數 (以百分比呈現)。 這表示與套用標記相關的信賴度。 您可以審核自動套用的智慧型標記。
 
 ## 新增或更新關鍵字 {#manually-tag}
 
-除了使用 [!DNL Adobe Sensei] 智慧型服務自動新增的智慧型標記之外，您還可新增更多標記到您的資產。 開啟要預覽的資產，按一下[!UICONTROL 標記]，然後在[!UICONTROL 關鍵字]欄位中輸入所需的關鍵字。 若要新增標籤，請按Return。[!DNL Assets Essentials] 會近乎即時地編制關鍵字的索引，因此您的團隊很快就能使用新的關鍵字搜尋更新的資產。
+除了使用 [!DNL Adobe Sensei] 智慧型服務自動新增的智慧型標記之外，您還可新增更多標記到您的資產。 開啟要預覽的資產，按一下[!UICONTROL 標記]，然後在[!UICONTROL 關鍵字]欄位中輸入所需的關鍵字。 若要新增標記，請按一下「Return」。 [!DNL Assets Essentials] 會近乎即時地編製關鍵字的索引，因此您的團隊很快就能使用新的關鍵字搜尋更新的資產。
 
 您也可以從[!UICONTROL 智慧標記]區段移除由 [!DNL Assets Essentials] 自動新增到所有上傳資產的標記。
 
@@ -128,10 +132,10 @@ MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 | 核取方塊 | 新增布林值。 在儲存值後，將其儲存為 TRUE 或 FALSE。 |
 | 日期 | 新增日期元件。 |
 | 下拉式清單 | 新增下拉式清單。 |
-| 狀態 | 新增存放庫狀態屬性（對應至存放庫:state） |
-| 資產狀態 | 新增預設資產狀態屬性（對應至dam:assetStatus） |
-| 標記 | 從儲存在Taxonomy Management中的值（對應至xcm:tags）新增標籤。 |
-| 關鍵字 | 新增任意格式關鍵字（對應至dc:subject）。 |
+| 狀態 | 新增存放庫狀態屬性 (對應到 repo:state) |
+| 資產狀態 | 新增預設的資產狀態屬性 (對應到 dam:assetStatus) |
+| 標記 | 從分類法管理中儲存的值新增標記 (對應到 xcm:tags)。 |
+| 關鍵字 | 新增自由格式關鍵字 (對應到 dc:subject)。 |
 | 智慧標記 | 透過自動新增中繼資料標記增強搜尋功能。 |
 | 連結 | 新增以啟用外部 URL。 在中繼資料表單上設定後，URL 元件可以對應至「中繼資料編輯器」頁面中的特定中繼資料屬性。 此[中繼資料表單可以指派至資料夾](#assign-metadata-form-folder)。 |
 
@@ -213,13 +217,13 @@ See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the 
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在Assets Essentials中管理中繼資料表單的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=zh-Hant)
+* [觀看影片以了解如何在 Assets Essentials 中管理後設資料表單](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 <!-- 
 TBD: Cannot create a form using the second option. Documenting only the first option for now.

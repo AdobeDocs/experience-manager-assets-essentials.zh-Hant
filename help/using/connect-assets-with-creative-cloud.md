@@ -1,10 +1,14 @@
 ---
 title: 將 AEM Assets 連接到 Creative Cloud
-description: 了解如何設定 AEM Assets 並將其連接到 Creative Cloud。連接到佈建給不同 IMS 組織的 Creative Cloud 權利，以便輕鬆使用 AEM Assets 中最新的 Creative Cloud 整合，包括 Express 和 Creative Cloud Libraries。
+description: 了解如何設定 AEM Assets 並將其連接到 Creative Cloud。 連接到佈建給不同 IMS 組織的 Creative Cloud 權利，以便輕鬆使用 AEM Assets 中最新的 Creative Cloud 整合，包括 Express 和 Creative Cloud Libraries。
 exl-id: 3d8d7429-ddf6-44cd-a6e7-ba2afcbaf52b
-source-git-commit: 36f13972e7dc7b1546cdba0713a60f95f2bbc415
+TQID: https://experienceleague.adobe.com/jNPNmqvjsK-A6LD-Mk02ffYM15aO2zudSfhJrST-gVA
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 287
 ht-degree: 100%
 
 ---
@@ -19,7 +23,7 @@ Experience Manager Assets 能夠連接到佈建給不同 IMS 組織的 Creative 
 
 * Experience Manager Assets 的管理員權限
 
-* 使用在 Creative Cloud 和 Experience Manager 中使用的同一個使用者識別碼取得 Creative Cloud 的有效權利。個人識別碼和聯合識別碼 (即便具有相同的電子郵件地址) 的權利視為不同的使用者識別碼。
+* 使用在 Creative Cloud 和 Experience Manager 中使用的同一個使用者識別碼取得 Creative Cloud 的有效權利。 個人識別碼和聯合識別碼 (即便具有相同的電子郵件地址) 的權利視為不同的使用者識別碼。
 
 ## 連結到新的 Creative Cloud 組織 {#connect-to-creative-cloud-org}
 
@@ -27,7 +31,7 @@ Experience Manager Assets 能夠連接到佈建給不同 IMS 組織的 Creative 
 
 1. 瀏覽至「**[!UICONTROL 設定]**」>「**[!UICONTROL Creative Cloud]**」。
 
-1. 使用「**[!UICONTROL 選取新的 Creative Cloud 組織識別碼]**」下拉式清單選取新的 Creative Cloud 組織。此清單會顯示您有權存取的所有組織。選取具有有效 Creative Cloud 權利的組織。
+1. 使用「**[!UICONTROL 選取新的 Creative Cloud 組織識別碼]**」下拉式清單選取新的 Creative Cloud 組織。 此清單會顯示您有權存取的所有組織。 選取具有有效 Creative Cloud 權利的組織。
 
 1. 點選「**[!UICONTROL 切換組織]**」以切換到新的組織。
 
@@ -35,6 +39,6 @@ Experience Manager Assets 能夠連接到佈建給不同 IMS 組織的 Creative 
 
 ## 限制 {#limitations}
 
-* AEM Assets 一次只能連接到一個 Creative Cloud 組織。不支援一次連接到多個 Creative Cloud 組織。
+* AEM Assets 一次只能連接到一個 Creative Cloud 組織。 不支援一次連接到多個 Creative Cloud 組織。
 
 * 您在 AEM Assets 中連接到的 Creative Cloud 組織適用於您組織內的所有使用者。

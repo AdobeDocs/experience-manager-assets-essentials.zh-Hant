@@ -2,9 +2,13 @@
 title: 如何有效管理檔案夾權限？
 description: 有效權限管理的最佳實務
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+TQID: https://experienceleague.adobe.com/xPthezvxSRBlxky3VJWXaHHmC7YYSWj6RDJI7druTyc
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: 446
 ht-degree: 100%
 
 ---
@@ -23,7 +27,7 @@ ht-degree: 100%
 
 ## Admin Console {#admin-console-best-practices}
 
-根據組織中的使用者群組識別存取需求。為組織規劃和建立使用者群組，並將使用者新增至這些組織。根據使用者群組而非個別使用者來管理檔案夾權限較為容易。
+根據組織中的使用者群組識別存取需求。 為組織規劃和建立使用者群組，並將使用者新增至這些組織。 根據使用者群組而非個別使用者來管理檔案夾權限較為容易。
 
 ## Assets Essentials 存放庫中的檔案夾結構 {#folder-structure-assets-essentials}
 
@@ -33,11 +37,11 @@ ht-degree: 100%
 
 * 可擴充性：檔案夾結構應符合您組織的未來需求，並且應易於擴充。
 
-* 大小：一個檔案夾不能包含太多資產。這可能會導致可用性問題並可能變得難以管理。
+* 大小：一個檔案夾不能包含太多資產。 這可能會導致可用性問題並可能變得難以管理。
 
-* 直覺性：檔案夾結構應易於瀏覽，並且一般使用者能以直覺的方式操作。使用者應該能夠輕鬆識別在檔案夾結構中上傳新資產的位置。
+* 直覺性：檔案夾結構應易於瀏覽，並且一般使用者能以直覺的方式操作。 使用者應該能夠輕鬆識別在檔案夾結構中上傳新資產的位置。
 
-您可以為您的組織使用多種可能的檔案夾結構類型。以下是一些典型的檔案夾結構範例：
+您可以為您的組織使用多種可能的檔案夾結構類型。 以下是一些典型的檔案夾結構範例：
 
 * 以功能和分類為基礎
 
@@ -54,9 +58,9 @@ ht-degree: 100%
 
 ## 檔案夾權限 {#folder-permissions}
 
-在為您的組織建立使用者群組、將使用者新增到這些使用者群組並在 Assets Essentials 存放庫中選取並建立適合您組織需求的檔案夾結構後，您就能開始為您的組織管理檔案夾權限。當您開始管理檔案夾權限時，請考慮以下幾點:
+在為您的組織建立使用者群組、將使用者新增到這些使用者群組並在 Assets Essentials 存放庫中選取並建立適合您組織需求的檔案夾結構後，您就能開始為您的組織管理檔案夾權限。 當您開始管理檔案夾權限時，請考慮以下幾點:
 
-* 請為使用者群組而非個別使用者套用權限。這可產生較簡單、有效率的權限結構。
+* 請為使用者群組而非個別使用者套用權限。 這可產生較簡單、有效率的權限結構。
 
 * 保持權限結構盡可能簡單以提高營運效率。
 
@@ -70,4 +74,4 @@ ht-degree: 100%
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)

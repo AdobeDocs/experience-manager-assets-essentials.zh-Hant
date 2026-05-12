@@ -1,12 +1,16 @@
 ---
-title: '[!DNL Assets Essentials]使用者介面'
+title: '[!DNL Assets Essentials] UI'
 description: 了解  [!DNL Assets Essentials] 中的使用者介面和導覽
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/W1zIfwgI5yZzAqjES-EZZOe7qKnB15huoHvfi--Xi2o
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 98%
+source-wordcount: 1107
+ht-degree: 100%
 
 ---
 
@@ -36,7 +40,7 @@ ht-degree: 98%
 * [我的工作區](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-hant)：Assets 現在包含一個可自訂的工作區，提供小工具以方便存取資產使用者介面的關鍵區域以及與您最相關的資訊。 此頁面可用作一站式解決方案，提供工作項目的概觀並讓您快速存取關鍵工作流程。 更方便地存取這些選項可以提高您的效率和內容速度。
 * [任務](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=zh-hant)：您可以在&#x200B;**我的任務**&#x200B;標籤下檢視指派給您的任務。 而您建立的任務則顯示在&#x200B;**指派的任務**&#x200B;標籤下。 此外，您完成的任務位於&#x200B;**已完成的任務**&#x200B;標籤下。
 * [資產](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=zh-hant)：在樹狀目錄檢視中您可以存取的所有資料夾清單。
-* **最近檢視的專案**：您最近預覽的資產清單。[!DNL Assets Essentials] 只會顯示您預覽的資產。 在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
+* **最近檢視的項目**：您最近預覽的資產清單。 [!DNL Assets Essentials] 只會顯示您預覽的資產。 在瀏覽存放庫檔案或資料夾時，不會顯示捲動過去的資產。
 * [收藏集](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=zh-hant)：收藏集是 Adobe Experience Manager Assets Essentials 中一連串的資產、檔案夾或其他集合。 使用集合在使用者之間共用資產。 和檔案夾不同，集合可包含來自不同位置的資產。 您可以和使用者共用多個集合。 每個集合都包含資產的參考資料。 資產的參考完整性會跨越集合來維護。
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=zh-hant#view-live-statistics)：在[!DNL Assets Essentials]，您可以在儀表板上檢視即時深入分析。 Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Essentials 環境的即時資料。 您可以查看過去 30 天或過去 12 個月的即時事件度量。
@@ -109,7 +113,7 @@ Other use cases after previewing.
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
