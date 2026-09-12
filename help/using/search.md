@@ -262,7 +262,7 @@ Assets Essentials 可讓您選取組織的預設登陸頁面。 使用「搜尋�
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在 Assets Essentials 中搜尋資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
+* [觀看在 Assets Essentials 中搜尋資產的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=zh-Hant)
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
