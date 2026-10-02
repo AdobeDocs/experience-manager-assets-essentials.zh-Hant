@@ -1,23 +1,26 @@
 ---
 title: 在 Assets Essentials 管理報告
-description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功指標的見解。
+description: 存取 Assets Essentials 報告部分的資料，評估產品和功能使用情況，並得出關鍵成功量度的見解。
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Insights
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: 1243
+source-wordcount: '1261'
 ht-degree: 100%
-
 ---
-
 # 管理報告 {#manage-reports}
 
 資產報告使管理員能夠查看 Adobe Experience Manager Assets Essentials 環境的活動。 此資料提供有關使用者如何與內容和產品互動的有用資訊。 所有使用者可以存取「深入分析」儀表板，且獲指派至管理員產品設定檔的使用者可以建立使用者定義的報告。
@@ -140,7 +143,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 
 在 AEM Essentials UI 中，「**安排報告**」會設定在指定的未來時間間隔 (例如每日、每週、每月或每年) 自動產生報告。 此功能可協助簡化定期報告的需求並確保及時更新資料， 而「**建立報告**」則是產生過去日期的報告。 已完成的報告會列在「**已執行的報告**」下方，即將執行的報告則可在「**排程報告**」下方找到。
 
-若要安排報告，請依照下列步驟操作：
+若要排程報告，請依照下列步驟操作：
 
 1. 按一下左側窗格中的「報告」，然後按一下「建立報告」(從右上角)。
 1. 「報告」對話框會顯示以下資訊：
@@ -159,7 +162,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 
 ## 檢視排程報告 {#view-scheduled-reports}
 
-排程報告會以系統化組織的方式顯示在「**排程報告**」標籤下方。 每個排程報告的所有已完成報告都會儲存在單一報告資料夾中。 按一下 ![展開收合項目](/help/using/assets/expand-icon1.svg) 以檢視已完成的報告。 例如，如果您安排了一個每日報告，則所有已完成的報告都會群組到一個資料夾中。 這種組織方式簡化了報告的導覽和易尋性。 若要檢視排程報告，請按一下「**報告**」，然後按一下「**排程報告**」。 所有排程報告便會顯示，並包含如「進行中」或「已完成」狀態。 已完成的報告已可供進行下載。
+排程報告會以系統化組織的方式顯示在「**排程報告**」標籤下方。 每個排程報告的所有已完成報告都會儲存在單一報告資料夾中。 按一下 ![展開收合項目](/help/using/assets/expand-icon1.svg) 以檢視已完成的報告。 例如，如果您安排了一個每日報告，則所有已完成的報告都會群組到一個資料夾中。 這種組織方式簡化了報告的導覽和易尋性。 若要檢視排程報告，請按一下「**報告**」，然後按一下「**排程報告**」。 所有排程報告都會顯示，其狀態為「進行中」或「已完成」。 已完成的報告已可供進行下載。
 ![排程報告](/help/using/assets/scheduled-reports-tab.png)
 
 ## 編輯及取消排程報告 {#edit-cancel-scheduled-reports}
@@ -206,7 +209,7 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **熱門搜尋**：用表格格式呈現過去 30 天或 12 個月內，Assets Essentials 環境中的熱門搜尋詞語以及這些詞語的搜尋次數。
+* **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
   ![儲存空間使用量](/help/using/assets/insights-top-search.svg)
 
   <!--

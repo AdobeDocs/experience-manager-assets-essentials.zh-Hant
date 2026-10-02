@@ -1,24 +1,27 @@
 ---
 title: 管理員和管理使用者
-description: 在  [!DNL Assets Essentials] 中部署和 User Management 之類的管理使用案例。
+description: 管理使用案例，例如[!DNL Assets Essentials]中的部署和使用者管理。
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 TQID: https://experienceleague.adobe.com/q-Eq1tZANfkgtIpwSifDVfLakJvRhia0pO2lXEMCYYg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Administration
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: 1364
-ht-degree: 100%
-
+source-wordcount: '1365'
+ht-degree: 99%
 ---
-
 # 管理員[!DNL Assets Essentials]和新增使用者 {#administer}
 
 [!DNL Adobe Experience Manager Assets Essentials] 由 Adobe 為其客戶佈建。 佈建作業的一部分為在 [!DNL Adobe Admin Console] 中將 [!DNL Assets Essentials] 新增到客戶的組織。 管理員使用 [!DNL Admin Console] 管理 [!DNL Assets Essentials] 解決方案的使用者權益，並指派應用程式管理員，以便在 [!DNL Assets Essentials] 中設定權限和中繼資料表單。
@@ -46,7 +49,7 @@ ht-degree: 100%
 
 ### 建立 Assets Essentials 應用程式管理員 {#create-assets-essentials-administrator}
 
-Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新增到使用者而不是使用者群組。 Assets Essentials 應用程式管理員就可以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定中繼資料表單和建立公開收藏集。 有關如何將 Assets Essentials 應用程式管理員設定檔指派到使用者的資訊，請參閱[將產品設定檔使新增到使用者群組](#add-product-profiles-to-user-groups)。
+Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新增到使用者而不是使用者群組。 Assets Essentials 應用程式管理員就可以管理工作，例如建立資料夾結構、上傳資產、設定權限、設定後設資料表單和建立公開收藏集。 有關如何將 Assets Essentials 應用程式管理員設定檔指派到使用者的資訊，請參閱[將產品設定檔使新增到使用者群組](#add-product-profiles-to-user-groups)。
 
 ### 新增使用者群組 {#add-user-groups}
 
@@ -79,8 +82,8 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
    * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。 這些使用者可以上傳、組織、標記和尋找數位資產。
 
-   * **[!DNL Assets Essentials]消費者使用者**可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
-如需詳細資訊，請參閱[與其他解決方案的整合](integration.md)。
+   * **[!DNL Assets Essentials]消費者使用者**&#x200B;可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
+     如需詳細資訊，請參閱[與其他解決方案的整合](integration.md)。
 
    ![Admin Console 管理員設定檔](assets/admin-console-admin-profile.png)
 
@@ -134,7 +137,7 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
 ### 管理檔案夾的權限 {#manage-permissions-for-folders}
 
-Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給檔案夾層級的使用者群組。
+Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給資料夾層級的使用者群組。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341104)
 
@@ -144,7 +147,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。 組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。 企業特定的後設資料能夠改善其資產的治理和探索。 您可以從頭開始建立表單，或改變現有表單的用途。
 
-您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。 使用與檔案的 MIME 類型相同的表單名稱。 Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的中繼資料。
+您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。 使用與檔案的 MIME 類型相同的表單名稱。 Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的後設資料。
 
 例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。
 
@@ -170,7 +173,7 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。 組織擁有�
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
 
 
 

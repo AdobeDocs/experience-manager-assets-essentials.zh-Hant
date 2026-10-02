@@ -5,13 +5,11 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: '3000'
+source-wordcount: '3017'
 ht-degree: 99%
-
 ---
-
 # Dynamic Media 範本{#dynamic-media-templates}
 
 | [搜尋最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [中繼資料最佳實務](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [AEM Assets 開發人員文件](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
@@ -35,7 +33,7 @@ ht-degree: 99%
 
 Dynamic Media 範本的一些主要優勢包括：
 
-* **最佳化 1:1 個人化：**&#x200B;根據即時客戶訊號量身打造內容。
+* **最佳化1:1 Personalization：**&#x200B;根據即時客戶訊號量身打造內容。
 * **減少手動工作：**&#x200B;將內容創作和管理自動化並加速執行。
 * **確保一致的全通道體驗：**&#x200B;保持管道間的品牌一致性。
 * **有效地重複使用內容：**&#x200B;避免內容僅使用一次，並透過動態的參數化範本進行擴展。
@@ -76,7 +74,7 @@ Dynamic Media 範本的一些主要優勢包括：
 
 1. 按一下「**[!UICONTROL 建立範本]**」，將範本儲存在 Dynamic Media Assets 之下，或導覽至資料夾並按一下「**[!UICONTROL 建立範本]**」，將範本儲存在該資料夾中。 接著出現&#x200B;**[!UICONTROL 新範本]**&#x200B;對話框。
    ![如何建立可即時自訂的動態範本](/help/using/assets/new-template.png)
-若要在 **[!UICONTROL Dynamic Media Assets]** 之下[建立資料夾](/help/using/add-delete.md)，請於&#x200B;**[!UICONTROL 資產]**&#x200B;下建立資料夾。 **[!UICONTROL Assets]** 之下的資料夾樹狀結構會複製到 **[!UICONTROL Dynamic Media Assets]** 之下。
+   若要在 **[!UICONTROL Dynamic Media Assets]** 之下[建立資料夾](/help/using/add-delete.md)，請於&#x200B;**[!UICONTROL 資產]**&#x200B;下建立資料夾。 **[!UICONTROL Assets]** 之下的資料夾樹狀結構會複製到 **[!UICONTROL Dynamic Media Assets]** 之下。
 1. 指定範本名稱、定義畫布寬度和高度，然後按一下「**[!UICONTROL 建立]**」。 接著顯示空白畫布，其兩側都提供建立範本時可使用的選單選項。 停留在選單選項上即可檢視其工具提示。
    ![可即時自訂的範本](/help/using/assets/blank-canvas-page.png)
 
@@ -120,7 +118,7 @@ Dynamic Media 範本的一些主要優勢包括：
 執行以下步驟，將文字圖層新增至畫布：
 
 1. 按一下「![快速建立新橫幅](/help/using/assets/add-text.svg)」，將文字圖層新增至畫布，並開啟屬性面板。
-1. 選取圖層並按一下文字進行更新。
+1. 選取圖層並按一下文字以更新文字。
 1. 啟用屬性面板中的&#x200B;**[!UICONTROL 智慧調整文字大小]**，自動調整文字長度和字型大小，以完美符合指定區域的大小。
    ![最佳自訂橫幅](/help/using/assets/add-text-layer.png)
 
@@ -172,16 +170,16 @@ Dynamic Media 範本的一些主要優勢包括：
 
 ### 將圖層參數化 {#parameterise-a-layer}
 
-建立包含多個影像和文字圖層的範本後，將所選取的圖層參數化。 將圖層或其屬性參數化後，便會取得索引鍵值組 (也稱為參數)。 您可以在範本 URL 中包含這個參數，以便即時更新圖層的位置、大小或內容，達到即時自訂範本的效果。
+建立包含多個影像和文字圖層的範本後，將所選取的圖層參數化。 將圖層或其屬性參數化後，便會取得索引鍵值組 (也稱為參數)。 您可以在範本 URL 中包含這個參數，以便即時更新圖層的位置、大小或內容，快速完成範本自訂。
 
 若要將圖層參數化：
 
 1. 按一下![立即創作內容](/help/using/assets/show-layers-list.svg)，選取圖層並一下「**[!UICONTROL 參數]**」。 接著顯示「**[!UICONTROL 參數]**」面板。
 1. 切換「**[!UICONTROL 包含引數]**」功能，將屬性參數化。 查看[此處](#parameterisation-options-or-allowed-parameters)，了解參數化後的屬性行為。
-1. **選用：**&#x200B;將參數重新命名。 參數名稱是在圖層名稱之後加上後綴。 所選圖層的所有參數化屬性會使用相同的圖層名稱並在後面加上不同的後綴。 依照語意命名慣例將圖層重新命名，以便在 URL 中加入此參數時，參數名稱本身就能說明圖層的內容或其用途。
+1. **選用：**&#x200B;將參數重新命名。 參數名稱由圖層名稱加上後綴組成。 所選圖層的所有參數化屬性會使用相同的圖層名稱並在後面加上不同的後綴。 依照語意命名慣例將圖層重新命名，以便在 URL 中加入此參數時，參數名稱本身就能說明圖層的內容或其用途。
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
    ![立即創作內容](/help/using/assets/parameterise-a-layer.png)
-若要在影像和文字圖層的參數面板之間切換，請選取畫布上的圖層，然後按一下「**[!UICONTROL 參數]**」。
+   若要在影像和文字圖層的參數面板之間切換，請選取畫布上的圖層，然後按一下「**[!UICONTROL 參數]**」。
 
 #### 參數面板選項 {#parameterisation-options-or-allowed-parameters}
 
@@ -207,7 +205,7 @@ Dynamic Media 範本的一些主要優勢包括：
 
 ### 將圖層分組，以便同時控制其可見度{#group-layers}
 
-另一種保持範本靈活性的方式是使用單一參數名稱來控制多個圖層。 此策略對於可見度 (收合或展開圖層) 參數有效，可更新單一範本的設計或圖形。
+另一種保持範本靈活性的方式是使用單一參數名稱來控制多個圖層。 此策略對於可見度 (隱藏或顯示圖層) 參數有效，可更新單一範本的設計或圖形。
 
 依照下列步驟，將多個圖層的收合參數 (![快速創作內容](/help/using/assets/Visibility-icon.svg)) 指定相同的名稱，讓您同時收合或展開這些圖層。
 
@@ -229,9 +227,9 @@ Dynamic Media 範本的一些主要優勢包括：
    1. 選取文字圖層並編輯其文字，或
    1. 選取影像圖層，按一下![快速創作內容](/help/using/assets/add-image.svg)，從資產選擇器選取影像，然後按一下「**[!UICONTROL 重新整理]**」。
 
-   範本會立即更新，顯示編輯過的文字，並將先前的影像替換為新影像。 此外，影像參數值會反映新的影像路徑。 同樣地，您可以調整圖層的值來進行縮放，而相關變更會即時套用至範本。
+   範本會立即更新，顯示編輯過的文字，並將先前的影像替換為新影像。 此外，影像參數值會反映新的影像路徑。 同樣地，您可以調整圖層的值來變更圖層大小，而相關變更會即時套用至範本。
 1. 從清單中選取[分群圖層](#group-layers)的收合參數，以便在範本中同時展開或收合這些圖層。
-1. **選用：**&#x200B;變更「**[!UICONTROL 收合]**」參數值為 0 或 1，然後按一下「**[!UICONTROL 重新整理]**」以檢視變更。 具有相同收合參數的圖層會同時收合或展開。 同樣地，您可以於 URL 控制圖層的可見度。
+1. **選用：**&#x200B;變更「**[!UICONTROL 收合]**」參數值為 0 或 1，然後按一下「**[!UICONTROL 重新整理]**」以檢視變更。 具有相同隱藏參數的圖層會同時隱藏或顯示。 同樣地，您可以於 URL 控制圖層的可見度。
 
    ![快速創作內容](/help/using/assets/dm-templates-publish-status.png)
 您也可以切換「**[!UICONTROL 包含所有參數]**」，以編輯顯示的所有參數值，並在範本預覽中檢視更新。
@@ -282,9 +280,9 @@ Dynamic Media 範本的一些主要優勢包括：
 * 建立包含參數化影像圖層以供動態更新的範本後，請確保未來將進行更新的圖片與參數化影像具有相同的維度。 這樣能確保影像完美地嵌入圖層中，既不會溢出，也不會留下空白處。 目前，範本不支援自動調整維度讓影像符合圖層規格。
 * 文字圖層不支援子字串。 使用者無法在文字圖層的子字串上套用不同的字型屬性。
 * Dynamic Media 範本目前不支援多家 Dynamic Media 公司。
-* 若是複製或移動，目的地選擇器會顯示所有資料夾 (包括未與 Dynamic Media 同步的資料夾)。 此外，目前也不會顯示 Dynamic Media 範本資產 (兩者都是目的地選擇器的限制)。
+* 若是複製或移動，目的地選擇器會顯示所有資料夾 (包括未與 Dynamic Media 同步的資料夾)。 此外，目前也不會顯示 Dynamic Media 範本資產 (兩者都是目標選擇器的限制)。
 * 「資產」區段中對資料夾所做的任何更新 (例如「發佈」或「刪除」) 都會影響該資料夾中可用的 Dynamic Media 範本。
-* 垃圾桶不適用於 Dynamic Media 範本。 如果資產移至垃圾桶後又還原，資產會在 AEM 中而非 Dynamic Media 上還原。 Dynamic Media 範本也是同樣情形。
+* 垃圾桶不適用於 Dynamic Media 範本。 如果資產移至垃圾桶後又還原，資產會在 AEM 中還原，但不會在 Dynamic Media 上還原。 Dynamic Media 範本也是同樣情形。
 
 ## 另請參閱
 
