@@ -1,14 +1,17 @@
 ---
 title: 將 Assets Essentials 與 Creative Cloud 應用程式整合
-description: 將 Assets Essentials 與 Creative Cloud 應用程式整合，以便您可以使用 Adobe Asset Link 應用程式內面板，從受支援的  [!DNL Adobe Creative Cloud]  桌面應用程式中連接到  [!DNL Assets Essentials]  存放庫。
+description: 將Assets Essentials與Creative Cloud應用程式整合，以便您可以使用Adobe Asset Link應用程式內面板，從支援的[!DNL Adobe Creative Cloud]案頭應用程式中連線到[!DNL Assets Essentials]存放庫。
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '879'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
+source-wordcount: '881'
+ht-degree: 96%
 ---
-
 # 將 Assets Essentials 與 Creative Cloud 應用程式整合 {#integrate-assets-essentials-creative-cloud-applications}
 
 ![切換深色和淺色主題的偏好設定](assets/cce-creative-cloud.png)
@@ -31,7 +34,7 @@ ht-degree: 100%
 
 執行以下工作，將 Assets Essentials 與 Creative Cloud 應用程式整合：
 
-* [在 Creative Cloud 和 Experience Cloud Admin Console 之間建立目錄託管](#directory-trusting-cc-assets-essentials-consoles)
+* [在 Creative Cloud 和 Experience Cloud Admin Console 之間建立目錄信任關係](#directory-trusting-cc-assets-essentials-consoles)
 
 * [將 Creative Cloud 使用者新增到 Assets Essentials 產品設定檔](#add-cc-users-assets-essentials-product-profiles)
 

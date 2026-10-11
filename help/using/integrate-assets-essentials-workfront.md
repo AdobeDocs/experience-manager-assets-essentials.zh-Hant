@@ -2,18 +2,21 @@
 title: 將 Assets Essentials 與 Adobe Workfront 整合
 description: 將 Assets Essentials 與 Adobe Workfront 應用程式整合，以便您可以存取 Workfront 應用程式中的 Assets Essentials 存放庫。
 exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 100%
-
 ---
-
 # 將 Assets Essentials 與 Adobe Workfront 整合 {#integrate-assets-essentials-workfront}
 
 ![切換深色和淺色主題的偏好設定](assets/cce-workfront.png)
 
-## 到此為止的故事
+## 目前進展
 
 在[設定 Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) 並[將 Creative Cloud 應用程式與 Assets Essentials 整合](integrate-assets-essentials-creative-cloud.md)後，您可以在此基礎上將 Adobe Workfront 應用程式與 Assets Essentials 整合。
 

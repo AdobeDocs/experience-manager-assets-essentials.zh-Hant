@@ -2,13 +2,16 @@
 title: 管理 Experience Manager Assets Essentials
 description: 使用 Admin Console 設定對 Assets Essentials 應用程式的存取，然後管理登入 Assets Essentials 應用程式後可以執行的工作。
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
-
 ---
-
 # 管理 Experience Manager Assets Essentials {#administer-assets-essentials}
 
 ![切換深色和淺色主題的偏好設定](assets/cce-assets.png)
@@ -137,7 +140,7 @@ ht-degree: 100%
 
 ### 管理檔案夾的權限 {#manage-permissions-for-folders}
 
-Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給檔案夾層級的使用者群組。
+Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給資料夾層級的使用者群組。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341104)
 
@@ -147,15 +150,15 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 Assets Essentials 預設為提供許多標準中繼資料欄位。 組織擁有其他中繼資料需求，並需要更多中繼資料欄位以新增特定企業中繼資料。 中繼資料表單可讓企業將自訂中繼資料欄位新增到資產的[!UICONTROL 詳細資訊]頁面。 企業特定的後設資料能夠改善其資產的治理和探索。 您可以從頭開始建立表單，或改變現有表單的用途。
 
-您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。 使用與檔案的 MIME 類型相同的表單名稱。 Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的中繼資料。
+您可以為不同的資產類型 (不同的 MIME 類型) 設定中繼資料表單。 使用與檔案的 MIME 類型相同的表單名稱。 Essentials 會自動比對上傳的資產 MIME 類型與表單的名稱，並根據表單欄位更新已上傳資產的後設資料。
 
 例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。
 
-Assets Essentials 使用以下順序搜尋現有中繼資料表單名稱，以將中繼資料欄位套用至特定類型的已上傳資產：
+Assets Essentials 使用以下序列搜尋現有後設資料表單名稱，以將後設資料欄位套用至特定類型的已上傳資產：
 
 MIME 子類型 > MIME 類型 > `default` 表單 > 現成可用的表單
 
-例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，上傳的 PDF 文件則包含如表單中定義的中繼資料欄位。 如果不存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則 Assets Essentials 會比對是否存在名稱為 `application` 的中繼資料表單。 如果存在名稱為 `application` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。 如果 Assets Essentials 仍找不到符合的中繼資料表單，則會搜尋 `default` 中繼資料表單以將表單中定義的中繼資料欄位套用至上傳的 PDF 文件。 如果上述任何步驟都無法運作，則 Assets Essentials 會將現成可用表單中定義的中繼資料欄位套用至所有上傳的 PDF 文件。
+例如，如果存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，上傳的 PDF 文件則包含如表單中定義的中繼資料欄位。 如果不存在名稱為 `PDF` 或 `pdf` 的中繼資料表單，則 Assets Essentials 會比對是否存在名稱為 `application` 的中繼資料表單。 如果存在名稱為 `application` 的中繼資料表單，則上傳的 PDF 文件會包含如表單中定義的中繼資料欄位。 如果 Assets Essentials 仍找不到符合的中繼資料表單，則會搜尋 `default` 中繼資料表單以將表單中定義的中繼資料欄位套用至上傳的 PDF 文件。 如果上述任何步驟都無法運作，則 Assets Essentials 會將現成可用表單中定義的後設資料欄位套用至所有上傳的 PDF 文件。
 
 >[!IMPORTANT]
 >
