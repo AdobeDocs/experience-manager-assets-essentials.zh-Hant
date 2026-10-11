@@ -3,22 +3,26 @@ title: Content Credentials 整合
 description: Content Credentials 已整合至 AEM Assets 並呈現在 AEM Assets Essentials UI 中，可提供關於資產歷史的背景資訊，包括資產的製作方式以及誰參與建立。 如同數位內容的營養成分標籤一樣，Content Credentials 可以協助提高透明度並建立客群的信任感。
 role: User
 exl-id: 703f74a6-24d4-4181-8174-9ff4a90ee7aa
-TQID: https://experienceleague.adobe.com/witCqgAh8EKfD-hdn8efjZ-M4sypX44KB2ELs3ECInI
+TQID: 'https://experienceleague.adobe.com/witCqgAh8EKfD-hdn8efjZ-M4sypX44KB2ELs3ECInI'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
 feature_v2:
   - id: ec4263d9-bf7c-44c7-b3f1-3e664861c8f2
+    internal-label: Generative AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Metadata
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
 workflow-type: tm+mt
-source-wordcount: 474
+source-wordcount: '474'
 ht-degree: 100%
-
 ---
-
 # Content Credentials {#content-credentials}
 
 各大品牌均比從前更加關注內容透明度、AI 揭露，以及防止資產被篡改等情況。 Adobe 的 Content Authenticity Initiative (CAI) 可建置符合[內容來源與真實性聯盟](https://c2pa.org/specifications/specifications/1.1/specs/C2PA_Specification.html#_trust_model) (C2PA) 技術標準的工具。 Content Credentials 是一種加密式、防篡改的新型後設資料，可協助檢視者了解內容的譜系，並確保品牌資產的完整性。 其中可能包含廣泛的溯源資料，提供關於數位資產歷史記錄的洞察。
@@ -35,7 +39,7 @@ ht-degree: 100%
 
 若要檢視完整的資料，「[驗證](https://contentcredentials.org/verify)」可以提供更完整的資產歷史洞察。
 
-Adobe Experience Manager Assets 現在支援 Content Credentials，使用者可以直接於 AEM 的 Assets Essentials UI 中檢視 Content Credentials。 檢視資產詳細資料時，任何包含 Content Credentials 的影像 (例如使用生成式 AI 服務建立的影像) 都會在專用面板中顯示資訊清單的詳細資料。 如果有人下載、發佈或共用資產，資產的認證內容維持不變。
+Adobe Experience Manager Assets 現在支援 Content Credentials，使用者可以直接於 AEM 的 Assets Essentials UI 中檢視 Content Credentials。 檢視資產詳細資料時，任何包含 Content Credentials 的影像 (例如使用生成式 AI 服務建立的影像) 都會在專用面板中顯示資訊清單的詳細資料。 如果資產已下載、發佈或共用，憑證會隨資產一併保留。
 
 ![資產](/help/using/assets/content-credentials.png)
 

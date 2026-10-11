@@ -2,23 +2,28 @@
 title: Assets Essentials 中的大量後設資料編輯
 description: 了解如何針對 Assets Essentials 上多個資產的一組預先定義標準後設資料欄位同時進行更新。
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
-TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
+TQID: 'https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
 feature_v2:
   - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+    internal-label: APIs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Metadata
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
 workflow-type: tm+mt
-source-wordcount: 649
+source-wordcount: '679'
 ht-degree: 100%
-
 ---
-
 <table>
     <tr>
         <td>
@@ -35,7 +40,7 @@ ht-degree: 100%
         </td>
         <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="新">
-            <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>UI 擴充性</b></a>
+            <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>使用者介面可擴充性</b></a>
         </td>
           <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="新">
@@ -77,7 +82,7 @@ ht-degree: 100%
    * **狀態：**&#x200B;選取所選資產的狀態。
    * **到期日：**&#x200B;設定資產不再有效或不再是系統所需的日期。
    * **作者：**&#x200B;指定作者名稱。
-   * **關鍵字：**&#x200B;新增提供資產概括性資訊的特定詞語或文字字串，提升資產的可搜尋性。 新增關鍵字，然後按下 Enter 鍵或返回鍵，將其他關鍵字新增至清單中。
+   * **關鍵字：**&#x200B;新增提供資產概括性資訊的特定詞語或文字字串，提升資產的可搜尋性。 新增關鍵字，然後按下 Enter 鍵或返回鍵，將另一個關鍵字新增至清單中。
    * **標記：**&#x200B;按一下![「標記」圖示](/help/using/assets/tags-icon.svg)，從可用的選項中選取標記。 標記可提供關於資產的更具體資訊，並增強其可搜尋性。 「**屬性**」面板中會顯示已套用至所選資產的標記。 如果未找到相關標記，請建立這些標記，並將其指派給所選資產。 如需關於建立標記及將其指派至資產的詳細資訊，請參閱[管理 Assets Essentials 中的標記](/help/using/tagging-management.md)。
    * 按一下「**儲存**」，將上述後設資料更新套用至所選資產。 儲存後，資產會增補「關鍵字」和「標記」的項目，而所更新的「狀態」、「到期日」和「作者」詳細資料會覆寫其現有資料。
      ![儲存大量後設資料編輯屬性](/help/using/assets/save-bulk-metadata-edit-properties2.png)
