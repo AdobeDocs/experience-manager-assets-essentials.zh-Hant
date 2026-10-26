@@ -82,7 +82,7 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
    * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。 這些使用者可以上傳、組織、標記和尋找數位資產。
 
-   * **[!DNL Assets Essentials]消費者使用者**可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
+   * **[!DNL Assets Essentials]消費者使用者**&#x200B;可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
      如需詳細資訊，請參閱[與其他解決方案的整合](integration.md)。
 
    ![Admin Console 管理員設定檔](assets/admin-console-admin-profile.png)
