@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ ht-degree: 99%
 
 以下資料流程圖說明管理員為了設定和管理 Assets Essentials 所必須執行的一系列工作：
 
-![部署 Assets Essentials](assets/deploy-assets-essentials.svg)
+![部署 Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## 存取 Admin Console {#access-admin-console}
 
@@ -82,7 +82,7 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
    * **[!DNL Assets Essentials]使用者**&#x200B;擁有完整使用者介面的存取權。 這些使用者可以上傳、組織、標記和尋找數位資產。
 
-   * **[!DNL Assets Essentials]消費者使用者**&#x200B;可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
+   * **[!DNL Assets Essentials]消費者使用者**可以在 Assets Essentials 中執行尋找、預覽和下載操作。 他們還可以在 Adobe Journey Optimizer 中尋找和選取資產，並尋找和選取要在 Workfront 中使用的資產。
      如需詳細資訊，請參閱[與其他解決方案的整合](integration.md)。
 
    ![Admin Console 管理員設定檔](assets/admin-console-admin-profile.png)
@@ -123,7 +123,7 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
 您可以為您的組織使用多種可能的檔案夾結構類型。 以下是一些典型的檔案夾結構範例：
 
-![典型的檔案夾結構](assets/folder-structure.svg)
+![典型的檔案夾結構](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
@@ -167,13 +167,13 @@ Assets Essentials 預設為提供許多標準中繼資料欄位。 組織擁有�
 
 ## 後續步驟 {#next-steps}
 
-<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=zh-Hant) -->
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * 使用 Assets Essentials 使用者介面中所提供的[!UICONTROL 意見回饋]選項提供產品意見回饋
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 連絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 連絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
 
 
 

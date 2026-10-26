@@ -7,7 +7,7 @@ product_v2:
     internal-label: Experience Manager
   - id: d09181b5-a36a-43de-ba01-36641440bc43
     internal-label: Experience Manager Assets
-source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+source-git-commit: f15fe91faf6a1f1341e4f4cda45bbe10bcd19544
 workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 以下資料流程圖說明管理員為了設定和管理 Assets Essentials 所必須執行的一系列工作：
 
-![Assets Essentials 管理員流程](assets/permissions-management-cce-next.svg)
+![Assets Essentials 管理員流程](assets/permission-management-cce-next.png)
 
 ## 存取 Admin Console {#access-admin-console}
 
@@ -84,7 +84,7 @@ ht-degree: 100%
 
 您可以將使用者新增到使用者群組 (1) 以及[將使用者新增到 Assets Essentials 產品設定檔 (2)](#add-admin-users)。 但您無法將使用者群組直接新增到 Assets Essentials 產品設定檔 (3)。
 
-![將使用者新增至群組和產品設定檔](assets/user-groups-product-profiles.svg)
+![將使用者新增至群組和產品設定檔](assets/user-group-product-profiles.png)
 
 如需有關如何管理使用者群組的資訊，請參閱 `Create user groups` 和 `Edit user groups` (可在[管理使用者群組](https://helpx.adobe.com/tw/enterprise/using/user-groups.html)中取得)。
 
@@ -136,7 +136,7 @@ ht-degree: 100%
 
 您可以為您的組織使用多種可能的檔案夾結構類型。 以下是一些典型的檔案夾結構範例：
 
-![典型的檔案夾結構](assets/folder-structure.svg)
+![典型的檔案夾結構](assets/folder-structure-new.png)
 
 ### 管理檔案夾的權限 {#manage-permissions-for-folders}
 

@@ -1,20 +1,21 @@
 ---
-title: 如何管理 AEM Assets Essentials 中檔案夾的權限？
-description: Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。 身為管理員，您還可以將權限管理權委派給檔案夾層級的使用者群組。
+title: 如何管理 AEM Assets Essentials 中資料夾的權限？
+description: Assets Essentials 可讓管理員管理存放庫中資料夾的存取層級。 建立使用者群組並指派權限給這些群組，以管理存取層級。 身為管理員，您還可以將權限管理權委派給資料夾層級的使用者群組。
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Leader
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 100%
-
 ---
-
 # 管理檔案夾的權限 {#manage-permissions}
 
 >[!CONTEXTUALHELP]
@@ -22,7 +23,7 @@ ht-degree: 100%
 >title="管理權限"
 >abstract="[!DNL Assets Essentials] 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給檔案夾層級的使用者群組。"
 
-Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給檔案夾層級的使用者群組。
+Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 身為管理員，您可建立使用者群組並指派權限給這些群組，以管理存取層級。 您還可以將權限管理權委派給資料夾層級的使用者群組。
 
 以下資料流程圖說明了您為設定和管理 Assets Essentials 存放庫中可用檔案夾的權限所執行的工作順序：
 
@@ -34,7 +35,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 ### 新增管理員 {#add-admin-users}
 
-為 Assets Essentials 應用程式新增管理員，以便他們可以管理其他使用者群組的檔案夾權限。
+為 Assets Essentials 應用程式新增管理員，以便他們可以管理其他使用者群組的資料夾權限。
 
 若要新增管理員：
 
@@ -54,7 +55,7 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 建立使用者群組並指派權限給這些群組，以管理 Assets Essentials 存放庫中的檔案夾存取層級。 您接著可將使用者指派給使用者群組。
 
-![將使用者新增至群組和產品設定檔](assets/user-groups-product-profiles.svg)
+![將使用者新增至群組和產品設定檔](assets/user-group-product-profiles.png)
 
 您可以將使用者新增到使用者群組 (1) 以及[將使用者新增到 Assets Essentials 產品設定檔 (2)](#add-admin-users)。 但您無法將使用者群組直接新增到 Assets Essentials 產品設定檔 (3)。
 
@@ -87,9 +88,9 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 | 權限名稱 | 說明 |
 |-----|------|
-| 可檢視 | <ul><li>檢視和瀏覽檔案夾的讀取權限 </li><li>預覽資產</li><li>下載資產</li><li>複製資產</li><li>共用資產的連結</li><ul> |
-| 可以編輯 | <ul><li>所有權限都適用於「可以檢視」 </li><li>建立檔案夾</li><li>移除檔案夾</li><li>重新命名檔案夾</li><li>建立資產</li><li>更新資產</li><li>移除資產</li><li>移動資產</li><li>為資產重新命名</li><ul> |
-| 擁有者 | <ul><li>所有權限都適用於「可以編輯」</li><li>管理檔案夾及其子檔案夾的權限</li>此權限可讓管理員將檔案夾及其子檔案夾的管理員權限委派給其他人。<ul> |
+| 可檢視 | <ul><li>檢視和瀏覽檔案夾的讀取權限 </li><li>預覽資產</li><li>下載資產</li><li>複製資產</li><ul> |
+| 可以編輯 | <ul><li>所有權限都適用於「可以檢視」 </li><li>建立檔案夾</li><li>移除檔案夾</li><li>重新命名檔案夾</li><li>建立資產</li><li>更新資產</li><li>移除資產</li><li>移動資產</li><li>為資產重新命名</li><li>共用資產的連結</li><ul> |
+| 擁有者 | <ul><li>所有權限都適用於「可以編輯」</li><li>管理檔案夾及其子檔案夾的權限</li>此權限可讓管理員將資料夾及其子資料夾的管理員權限委派給其他人。<ul> |
 | 拒絕存取 | 移除檔案夾及其子檔案夾的「可以檢視」、「可以編輯」以及「擁有者」權限。 |
 
 **預設權限**
@@ -104,13 +105,13 @@ Assets Essentials 可讓管理員管理存放庫中檔案夾的存取層級。 �
 
 如果您需要提供組織行銷部門僅限「`Marketing`」檔案夾的編輯權限，並提供其他人檢視權限，指派「`Can View`」權限給超級群組「`All Authenticated Users`」以及「`Can Edit`」權限給其子群組「`Marketing`」。
 
-![指派權限](assets/permissions-management-groups.svg)
+![指派權限](assets/permissions-management-group.png)
 
 **權限繼承**
 
-Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承為父檔案夾設定的權限。 例如，如果父檔案夾擁有適用於「`All Authenticated Users`」群組的「`Can View`」權限，而子檔案夾擁有適用於「`Marketing`」使用者群組的「`Can Edit`」權限，這可讓所有已驗證身分的使用者擁有子檔案夾的檢視權限以及「`Marketing`」使用者群組擁有子檔案夾的編輯權限。 該「`Marketing`」使用者群組擁有在子檔案夾：行銷 (Marketing) 下更上層檔案夾的編輯權限。
+Assets Essentials 使用權限繼承，這使您可以在下層資料夾中繼承為上層資料夾設定的權限。 例如，如果父檔案夾擁有適用於「`All Authenticated Users`」群組的「`Can View`」權限，而子檔案夾擁有適用於「`Marketing`」使用者群組的「`Can Edit`」權限，這可讓所有已驗證身分的使用者擁有子檔案夾的檢視權限以及「`Marketing`」使用者群組擁有子檔案夾的編輯權限。 該「`Marketing`」使用者群組擁有在子檔案夾：行銷 (Marketing) 下更上層檔案夾的編輯權限。
 
-![指派權限](assets/permissions-inheritance.svg)
+![指派權限](assets/permission-inheritance.png)
 
 >[!NOTE]
 >
@@ -204,20 +205,20 @@ Assets Essentials 使用權限繼承，這使您可以在子檔案夾中繼承�
 
 * /品牌：所有使用者都可以根據權限繼承檢視檔案夾及其子檔案夾，但品牌核准人團隊使用者群組則擁有對檔案夾的編輯權限。
 
-* /專案：所有使用者都可以根據權限繼承檢視檔案夾及其子檔案夾。 專案經理人團隊使用者群組擁有：
+* /專案：所有使用者都可以根據權限繼承檢視資料夾及其子資料夾。 專案經理人團隊使用者群組擁有：
 
-   * 編輯權限
+  * 編輯權限
 
-   * 擁有者權限：管理檔案夾及其子檔案夾的權限。
+  * 擁有者權限：管理資料夾及其子資料夾的權限。
 
-* /專案/project-x：所有使用者都可以檢視檔案夾及其子檔案夾。 專案經理人團隊使用者群組擁有編輯權限，並可管理檔案夾及其子檔案夾的權限 (擁有者權限)。 專案 X 團隊使用者群組擁有編輯權限。
+* /專案/project-x：所有使用者都可以檢視資料夾及其子資料夾。 專案經理人團隊使用者群組擁有編輯權限，並可管理資料夾及其子資料夾的權限 (擁有者權限)。 專案 X 團隊使用者群組擁有編輯權限。
 
 * /法務：沒有任何一位使用者可根據適用於「`All Authenticated Users`」群組的「`Deny Access`」權限來存取該檔案夾。 法務團隊使用者群組擁有編輯權限。
 
 ## 後續步驟 {#next-steps}
 
-* [觀看在 Assets Essentials 中管理權限的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=zh-Hant)
+* [觀看在 Assets Essentials 中管理權限的相關影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
 
 * 若要提供文件意見回饋，請使用右側邊欄提供的[!UICONTROL 編輯此頁面]![來編輯頁面](assets/do-not-localize/edit-page.png)或[!UICONTROL 記錄問題]![來建立 GitHub 問題](assets/do-not-localize/github-issue.png)
 
-* 聯絡[客戶服務](https://experienceleague.adobe.com/zh-hant?support-solution=General#support)
+* 聯絡[客戶服務](https://experienceleague.adobe.com/?support-solution=General#support)
