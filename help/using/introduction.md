@@ -1,27 +1,32 @@
 ---
-title: ' [!DNL Assets Essentials] 簡介'
+title: '[!DNL Assets Essentials] 簡介'
 description: 透過 Experience Manager Assets Essentials 管理您的資產；這是一種輕量版的數位資產管理工具，可在 Experience Cloud 應用程式中運作。
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 TQID: https://experienceleague.adobe.com/GpMzdyeYFVMhrLhiS-AbTH08VKXkEfiel-0mJ6lNqf8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 feature_v2:
   - id: ae478996-b206-4712-9b0c-dc78a2644453
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: da3860b0-d637-47df-bef0-273751180266
+    internal-label: Digital asset management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Administration
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
-source-wordcount: 660
+source-wordcount: '660'
 ht-degree: 100%
-
 ---
-
 # [!DNL Adobe Experience Manager Assets Essentials] 概觀 {#assets-essentials}
 
 <!-- 
@@ -41,15 +46,15 @@ Assets Essentials 可讓您：
 
 * 跨團隊進行內容開發的共同作業。
 
-* 存取、搜尋和找出已核准的資產。
+* 存取、搜尋和找出最終核准的資產。
 
-* 共用和下載資產以供下游發佈。
+* 共用和下載資產以供下游傳遞。
 
 ## 如何存取 Assets Essentials？ {#access-options}
 
-Assets Essentials 可提供適用於一般使用者和管理員的獨立網頁使用者介面，讓他們可存取所有解決方案的功能。 其他 Adobe&#x200B; 解決方案的使用者還可以透過嵌入式體驗存取和使用 Assets Essential 的資產，可在適用於企業的 Creative Cloud、Adobe Journey Optimizer 和 Adobe Workfront 應用程式中取得該體驗。
+Assets Essentials 可提供適用於一般使用者和管理員的獨立網頁使用者介面，讓他們可存取所有解決方案的功能。 其他 Adobe&#x200B; 解決方案的使用者還可以透過嵌入式體驗存取和使用 Assets Essentials 的資產，可在適用於企業的 Creative Cloud、Adobe Journey Optimizer 和 Adobe Workfront 應用程式中取得該體驗。
 
-![和其他解決方案的整合](assets/assets-essentials-integration.svg)
+![和其他解決方案的整合](assets/assets-essentials-integration.png)
 
 ## 為何選擇 Assets Essentials？ {#assets-essentials-features}
 
@@ -73,13 +78,13 @@ Assets Essentials 可提供主要優勢，讓您能夠：
 
 **簡化的資產管理**
 
-Assets Essentials 已簡化使用者介面，使您可輕鬆管理、探索和分發數位資產。 來自不同職能部門 (包括創意、行銷和業務線團隊) 的廣泛使用者可以進行資產共同作業，並視需要隨時地存取正確的已核准資產。
+Assets Essentials 的簡化使用者介面讓您可輕鬆管理、探索和分發數位資產。 來自不同職能部門 (包括創意、行銷和業務線團隊) 的廣泛使用者可以進行資產共同作業，並視需要隨時地存取正確的已核准資產。
 
 如需詳細資訊，請參閱[使用 Asset Essentials 開始處理您的資產管理需求](get-started.md)。
 
 **和其他 Adobe 應用程式的整合**
 
-Assets Essentials 會和受支援的 Adobe 解決方案整合，並從這些應用程式內的介面提供嵌入式體驗。 這讓使用者在他們的應用程式中就能輕鬆存取資產。 所有使用者都可以在他們熟悉的工具和應用程式中使用相同的集中受管資產。
+Assets Essentials 會和受支援的 Adobe 解決方案整合，並從這些應用程式內的介面提供嵌入式體驗。 這讓使用者在他們的應用程式中就能輕鬆存取資產。 所有使用者都可以在他們熟悉的工具和應用程式中使用相同的集中管理資產。
 
 適用於企業的 Creative Cloud、Adobe Journey Optimizer 和 Adobe Workfront 應用程式可提供嵌入式 Assets Essentials 體驗。
 

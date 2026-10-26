@@ -16,7 +16,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1261'
 ht-degree: 100%
@@ -50,7 +50,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
 **若要建立報告：**
 
 1. 導覽至「**報告**」，並按一下「**建立報告**」(從右上角)。 「**建立報告**」對話框會顯示以下欄位：
-   ![建立報告](/help/using/assets/executed-reports1.svg)
+   ![建立報告](/help/using/assets/executed-reports1.png)
 
    **在「設定」標籤中：**
 
@@ -152,7 +152,7 @@ AEM Assets Essentials 環境會透過「報告」儀表板來提供全面的報�
    1. **說明：**&#x200B;為報告新增選擇性說明。
    1. **選取資料夾路徑：**&#x200B;選取資料夾路徑，為將來要上傳到該特定資料夾或從其中下載的資產產生報告。
    1. 切換「**安排報告**」開關：切換此開關以安排稍後或重複發生的報告。
-      ![安排報告](/help/using/assets/schedule-reports1.svg)
+      ![安排報告](/help/using/assets/schedule-reports1.png)
 
    1. **選擇頻率：**&#x200B;指定產生報告的時間間隔 (例如，每日、每週、每月、每年或一次)，並設定執行報告的日期和時間以及重複的結束日期。 對於一次性報告，請選取 AEM 環境中選定活動類型的報告的日期範圍。 例如，如果您需要特定月份的 10 至 29 日 (未來日期) 的已下載資產的報告，請在「**選取日期間隔**」欄位中選取這些日期。
 
@@ -196,21 +196,21 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
 按一下左側導覽窗格中可用的「**[!UICONTROL 深入分析]**」以檢視以下自動產生的圖表：
 
 * **下載**：使用折線圖表示過去 30 天或 12 個月內從 Assets Essentials 環境下載的資產數量。
-  ![下載](/help/using/assets/insights-downloads2341.svg)
+  ![下載](/help/using/assets/insights-downloads2341.png)
 
 * **上傳**：使用折線圖表示過去 30 天或 12 個月內上傳到 Assets Essentials 環境的資產數量。
-  ![上傳](/help/using/assets/insights-uplods2.svg)
+  ![上傳](/help/using/assets/insights-uplods2.png)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **儲存空間使用量**：使用長條圖表示的 Assets Essentials 環境儲存空間使用量 (以位元組為單位)。
-  ![儲存空間使用量](/help/using/assets/insights-storage-usage1.svg)
+  ![儲存空間使用量](/help/using/assets/insights-storage-usage1.png)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **熱門搜尋**：以表格格式檢視過去 30 天或 12 個月內，在 Assets Essentials 環境中熱門搜尋詞彙以及這些詞彙的搜尋次數。
-  ![儲存空間使用量](/help/using/assets/insights-top-search.svg)
+  ![儲存空間使用量](/help/using/assets/insights-top-search.png)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -218,8 +218,8 @@ Assets Essentials 使您能夠使用「深入分析」儀表板查看 Assets Ess
    -->
 
 * **依大小劃分的資產計數：**將 Assets Essentials 環境中的總資產計數劃分為不同的大小範圍，醒目標示每個大小範圍內的資產數量和百分比，以環狀圖表示。
-  ![依大小劃分的資產計數深入分析](/help/using/assets/insights-assets-count-by-size.svg)
+  ![依大小劃分的資產計數深入分析](/help/using/assets/insights-assets-count-by-size.png)
 
 * **依資產類型劃分的資產計數：**將 Assets Essentials 環境中的總資產計數進行區段劃分，根據檔案類型醒目標示資產數量和百分比，以環狀圖表示。
-  ![依大小劃分的資產計數深入分析](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+  ![依大小劃分的資產計數深入分析](/help/using/assets/insights-assest-count-by-asset-type1.png)
 

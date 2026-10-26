@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ ht-degree: 99%
 
 以下資料流程圖說明管理員為了設定和管理 Assets Essentials 所必須執行的一系列工作：
 
-![部署 Assets Essentials](assets/deploy-assets-essentials.svg)
+![部署 Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## 存取 Admin Console {#access-admin-console}
 
@@ -123,7 +123,7 @@ Admin Console 管理員必須將 Assets Essentials 管理員產品設定檔新�
 
 您可以為您的組織使用多種可能的檔案夾結構類型。 以下是一些典型的檔案夾結構範例：
 
-![典型的檔案夾結構](assets/folder-structure.svg)
+![典型的檔案夾結構](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
